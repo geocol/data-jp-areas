@@ -1,5 +1,6 @@
 use strict;
 use warnings;
+use utf8;
 use Path::Class;
 use lib glob file (__FILE__)->dir->subdir ('modules', '*', 'lib');
 use Encode;
@@ -48,6 +49,39 @@ for (keys %$Data) {
         $data->{has_choume} = 1 if $_->[11];
         normalize_width \$_, combine_voiced_sound_marks \$_
             for $data->{town_kana}, $data->{pref}, $data->{city}, $data->{town};
+
+        if ($data->{town} eq '以下に掲載がない場合') {
+            $data->{town_fallback} = 1;
+            delete $data->{town};
+            delete $data->{town_kana};
+        }
+
+        if (defined $data->{town} and
+            $data->{town} =~ s/\s*\((?:その他)\)\s*$//) {
+            $data->{koaza_fallback} = 1;
+            $data->{town_kana} =~ s/\s*\((?:ソノタ)\)\s*$//;
+        }
+
+        if (defined $data->{town} and
+            $data->{town} =~ s/\s*\((?:次のビルを除く)\)\s*$//) {
+            $data->{has_building_codes_in_town} = 1;
+            $data->{town_kana} =~ s/\s*\((?:ツギノビルヲノゾク)\)\s*$//;
+        }
+
+        if (defined $data->{town} and
+            $data->{town} =~ s/\s*\((\d+)(?:[\x{301C}\x{FF5E}](\d+)|)丁目\)\s*$//) {
+            $data->{choumes} = [$1..($2 || $1)];
+            $data->{town_kana} =~ s/\s*\([\d-]+チョウメ\)\s*$//;
+        }
+
+        if (defined $data->{town} and
+            $data->{town} =~ s/\s*\(([^()]+)\)\s*$//) {
+            $data->{koaza} = $1;
+            if ($data->{town_kana} =~ s/\s*\(([^()]+)\)\s*$//) {
+                $data->{koaza_kana} = $1;
+            }
+        }
+
         push @$new, $data;
     }
     $Data->{$_} = $new;
