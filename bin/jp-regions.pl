@@ -111,6 +111,16 @@ for my $code (keys %{$Areas->{cities}}) {
                 新得町 => '上川郡 (十勝国)',
                 清水町 => '上川郡 (十勝国)',
             }->{$data->{name}} || $data->{district};
+        } elsif ($data->{district} eq '中川郡') {
+            $data->{district} = {
+                美深町 => '中川郡 (天塩国)',
+                中川町 => '中川郡 (天塩国)',
+                音威子府村 => '中川郡 (天塩国)',
+                幕別町 => '中川郡 (十勝国)',
+                池田町 => '中川郡 (十勝国)',
+                豊頃町 => '中川郡 (十勝国)',
+                本別町 => '中川郡 (十勝国)',
+            }->{$data->{name}} || $data->{district};
         }
 
         $Data->{$pref}->{areas}->{$data->{district}}->{type} = 'district';

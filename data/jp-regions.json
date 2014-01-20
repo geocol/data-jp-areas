@@ -1168,14 +1168,8 @@
             "latin" : "Kamiiso-gun",
             "type" : "district"
          },
-         "中川郡" : {
+         "中川郡 (十勝国)" : {
             "areas" : {
-               "中川町" : {
-                  "code" : "01471",
-                  "kana" : "ナカガワチョウ",
-                  "latin" : "Nakagawa-cho",
-                  "type" : "town"
-               },
                "幕別町" : {
                   "code" : "01643",
                   "kana" : "マクベツチョウ",
@@ -1194,16 +1188,29 @@
                   "latin" : "Ikeda-cho",
                   "type" : "town"
                },
-               "美深町" : {
-                  "code" : "01469",
-                  "kana" : "ビフカチョウ",
-                  "latin" : "Bifuka-cho",
-                  "type" : "town"
-               },
                "豊頃町" : {
                   "code" : "01645",
                   "kana" : "トヨコロチョウ",
                   "latin" : "Toyokoro-cho",
+                  "type" : "town"
+               }
+            },
+            "kana" : "ナカガワグン",
+            "latin" : "Nakagawa-gun",
+            "type" : "district"
+         },
+         "中川郡 (天塩国)" : {
+            "areas" : {
+               "中川町" : {
+                  "code" : "01471",
+                  "kana" : "ナカガワチョウ",
+                  "latin" : "Nakagawa-cho",
+                  "type" : "town"
+               },
+               "美深町" : {
+                  "code" : "01469",
+                  "kana" : "ビフカチョウ",
+                  "latin" : "Bifuka-cho",
                   "type" : "town"
                },
                "音威子府村" : {
