@@ -4,6 +4,11 @@ all: deps all-jpregions all-jpzip
 
 clean: clean-jpregions clean-jpzip
 
+GIT = git
+
+dataautoupdate: clean deps all
+	$(GIT) add data/*.json
+
 ## ------ Setup ------
 
 WGET = wget

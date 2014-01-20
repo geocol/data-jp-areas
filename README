@@ -1,0 +1,27 @@
+areadata
+~~~~~~~~
+
+* Data
+
+  data/    - JSON data
+  doc/     - Documentation
+
+There are following data files:
+
+  data/jp-regions.txt  - Prefectures, cities, towns, and villages in Japan
+  data/jp-zip.txt      - ZIP codes assigned to areas in Japan
+
+* Distribution
+
+Latest version of these data files are available from
+<https://github.com/organizations/geocol>.
+
+* Maintainer
+
+Wakaba <wakaba@suikawiki.org>.
+
+* License
+
+You are granted a license to use, reproduce and create derivative
+works of these files.  See also documents under the "doc/" directory,
+which might contain additional information.

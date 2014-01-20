@@ -1,0 +1,149 @@
+jp-zip.json
+~~~~~~~~~~~
+
+This file contains Japanese ZIP code data.
+
+* Structure
+
+The file contains a JSON object, where names are ZIP codes and values
+are their descriptions.
+
+This file contains area-based ZIP code only.  It does not contain ZIP
+codes assigned with specific organizations or offices.
+
+Values are JSON arrays, containing area objects with which ZIP codes
+are assigned.
+
+Area objects are JSON objects with following name/value pairs:
+
+  area [string]
+
+    The 5-digits 全国地方公共団体コード of the city, town, or village
+    to which the area belongs.  See also |jp-regions.json|.
+
+  banchi [string?]
+
+    The 番地 or the range of 番地, optionally followed by 号.
+
+  building_level [(number or string)?]
+
+    If specified, the floor in the building to which the ZIP code is
+    assigned.  The value |1| represents the first (ground) floor.  The
+    value |fallback| represents that the ZIP code should be used for
+    underground floors and when floor is unknown.
+
+  choume [string?]
+
+    The 丁目 or the range of 丁目.
+
+  has_building_codes_in_town [boolean]
+
+    If true, there are building-specific ZIP codes assigned to
+    buildings in the area.
+
+  has_choume [boolean]
+
+    Whether there are 丁目 in the area, according to Japan Post's ZIP
+    code data.
+
+  koaza [string?]
+
+    The subarea name in the |town|'s area.  Typically it is a 小字,
+    but might include other addressing or complex annotations in the
+    Japan Post's ZIP code data.
+
+  koaza_addressed_town [boolean]
+
+    小字毎に番地が起番されている町域 field in the Japan Post's ZIP
+    code data.
+
+  koaza_fallback [boolean]
+
+    If true, it represents the subarea that are not covered by any
+    other subarea in |town|'s area.
+
+  koaza_kana [string?]
+
+    Katakana representation of |koaza|.
+
+  multiple_codes_per_town [boolean]
+
+    一町域が二以上の郵便番号で表される場合 field in the Japan Post's
+    ZIP code data.
+
+  no_choume [boolean]
+
+    If true, the area does not contain area where 丁目 is assigned,
+    but contains 番地 addressed area.
+
+  street_addr [string?]
+
+    Street-based address component used in Kyoto city area.
+
+  street_addr_kana [string?]
+
+    Katakana representation of |street_addr|.
+
+  town [string?]
+
+    The area name in the city, town, or village.  Typically it is a 大
+    字 or equivalent.
+
+  town_kana [string?]
+
+    Katakana representation of |town|.
+
+  town_fallback [boolean]
+
+    If true, it represents the subarea that are not covered by any
+    other subarea in |area|'s area.
+
+  zip_old [string]
+
+    The obsolete 3-digits ZIP code for the area.
+
+* Constructing an address
+
+An address string can be constructed from an area object by
+concatenating following substrings in order:
+
+  1. A prefecture name followed by a city, town, or village name,
+     optionally followed by a ward name, obtained from |area|.
+
+  2. |town|, if any.
+
+  3. |street_addr|, if any.
+
+  4. |koaza|, if any.  (If it is an annotation, replace it by actual
+     area name.)
+
+  5. |choume|, if any.  (If it is a range, replace it by actual value.)
+
+  6. |banchi|, if any.  (If it is a range, replace it by actual value.)
+
+  7. |building_level| followed by |階|, if any and its value is not
+     |fallback|.
+
+If you want to contruct an address string of areas in the data that
+can be distinguished each other (e.g. to create a ZIP code search
+form), you should also add some annotation based on |town_fallback|,
+|koaza_fallback|, |has_choume|, |no_choume|, |building_level|'s value
+|fallback|, and ranges or annotations in |koaza|, |choume|, and
+|banchi|.
+
+* Source
+
+郵便番号データ <http://www.post.japanpost.jp/zipcode/download.html>,
+<http://www.post.japanpost.jp/zipcode/dl/readme_ro.html>,
+<http://www.post.japanpost.jp/zipcode/dl/readme.html>.
+
+* License
+
+According to <http://www.post.japanpost.jp/zipcode/dl/readme.html>:
+
+  使用・再配布・移植・改良について
+
+  郵便番号データに限っては日本郵便株式会社は著作権を主張しません。自由
+  に配布していただいて結構です。
+
+(ZIP code data are not copyrighted.)

@@ -1,0 +1,73 @@
+jp-regions.json
+~~~~~~~~~~~~~~~
+
+This file contains the list of administrative divisions in Japan.
+
+* Structure
+
+The file contains an "area list" JSON object containing 47 prefectures
+in Japan.
+
+The |areas| fields of the "area list" objects of prefectures contain
+"area list" objects of cities (including wards in Tokyo), districts,
+and towns and villages not belonging to any district in the
+prefecture.
+
+The |areas| fields of the "area list" objects of designated cities
+contain "area list" objects of wards in the city.
+
+The |areas| fields of the "area list" object of districts contain
+"area list" objects of towns and villages in the city.
+
+* The "area list" JSON object structure
+
+The "area list" object is a JSON object, where names are Japanese
+names of the areas and values are their data.
+
+As exceptions, there are five districts entries in 北海道 prefecture
+which contain district names followed by country names in parentheses
+to avoid name confliction:
+
+  上川郡 (十勝国)
+  上川郡 (天塩国)
+  上川郡 (石狩国)
+  中川郡 (天塩国)
+  中川郡 (十勝国)
+
+Values contain following name/value pairs:
+
+  areas [object?]
+
+    Subareas, if any, represented as nested "area list" object.
+
+  code [string?]
+
+    全国地方公共団体コード (JIS X 0401, JIS X 0402).
+
+  kana [string]
+
+    Katakana representation of area name.
+
+  latin [string]
+
+    Latin (roman) representation of area name.
+
+  type [string]
+
+    The type of the area.  One of following values:
+
+      pref     都道府県
+      city     市 (政令指定都市を含む)
+      ward     特別区・政令指定都市の区
+      district 郡
+      town     町
+      village  村
+
+* Sources
+
+Wikipedia - 全国地方公共団体コード
+<http://ja.wikipedia.org/wiki/%E5%85%A8%E5%9B%BD%E5%9C%B0%E6%96%B9%E5%85%AC%E5%85%B1%E5%9B%A3%E4%BD%93%E3%82%B3%E3%83%BC%E3%83%89>.
+
+郵便番号データ <http://www.post.japanpost.jp/zipcode/download.html>,
+<http://www.post.japanpost.jp/zipcode/dl/readme_ro.html>,
+<http://www.post.japanpost.jp/zipcode/dl/readme.html>.
