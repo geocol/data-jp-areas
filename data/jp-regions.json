@@ -1437,6 +1437,25 @@
             "latin" : "Nayoro-shi",
             "type" : "city"
          },
+         "国後郡" : {
+            "areas" : {
+               "泊村" : {
+                  "code" : "01696",
+                  "kana" : "とまりむら",
+                  "latin" : "Tomari-mura",
+                  "type" : "village"
+               },
+               "留夜別村" : {
+                  "code" : "01697",
+                  "kana" : "るよべつむら",
+                  "latin" : "Ruyobetsu-mura",
+                  "type" : "village"
+               }
+            },
+            "kana" : "くなしりぐん",
+            "latin" : "Kunashiri-gun",
+            "type" : "district"
+         },
          "増毛郡" : {
             "areas" : {
                "増毛町" : {
@@ -1719,6 +1738,19 @@
             "kana" : "エニワシ",
             "latin" : "Eniwa-shi",
             "type" : "city"
+         },
+         "択捉郡" : {
+            "areas" : {
+               "留別村" : {
+                  "code" : "01698",
+                  "kana" : "るべつむら",
+                  "latin" : "Rubetsu-mura",
+                  "type" : "village"
+               }
+            },
+            "kana" : "えとろふぐん",
+            "latin" : "Etorofu-gun",
+            "type" : "district"
          },
          "斜里郡" : {
             "areas" : {
@@ -2361,6 +2393,19 @@
             "latin" : "Mombetsu-gun",
             "type" : "district"
          },
+         "紗那郡" : {
+            "areas" : {
+               "紗那村" : {
+                  "code" : "01699",
+                  "kana" : "しゃなむら",
+                  "latin" : "Shana-mura",
+                  "type" : "village"
+               }
+            },
+            "kana" : "しゃなぐん",
+            "latin" : "Shana-gun",
+            "type" : "district"
+         },
          "網走市" : {
             "code" : "01211",
             "kana" : "アバシリシ",
@@ -2397,6 +2442,19 @@
             "kana" : "ビバイシ",
             "latin" : "Bibai-shi",
             "type" : "city"
+         },
+         "色丹郡" : {
+            "areas" : {
+               "色丹村" : {
+                  "code" : "01695",
+                  "kana" : "しこたんむら",
+                  "latin" : "Shikotan-mura",
+                  "type" : "village"
+               }
+            },
+            "kana" : "しこたんぐん",
+            "latin" : "Shikotan-gun",
+            "type" : "district"
          },
          "芦別市" : {
             "code" : "01216",
@@ -2452,6 +2510,19 @@
             },
             "kana" : "カヤベグン",
             "latin" : "Kayabe-gun",
+            "type" : "district"
+         },
+         "蘂取郡" : {
+            "areas" : {
+               "蘂取村" : {
+                  "code" : "01700",
+                  "kana" : "しべとろむら",
+                  "latin" : "Shibetoro-mura",
+                  "type" : "village"
+               }
+            },
+            "kana" : "しべとろぐん",
+            "latin" : "Shibetoro-gun",
             "type" : "district"
          },
          "虻田郡" : {
@@ -8399,7 +8470,7 @@
             "code" : "13381",
             "kana" : "ミヤケムラ",
             "latin" : "Miyake-mura",
-            "type" : "ward"
+            "type" : "village"
          },
          "三鷹市" : {
             "code" : "13204",
@@ -8429,7 +8500,7 @@
             "code" : "13401",
             "kana" : "ハチジョウマチ",
             "latin" : "Hachijo-machi",
-            "type" : "ward"
+            "type" : "town"
          },
          "八王子市" : {
             "code" : "13201",
@@ -8441,7 +8512,7 @@
             "code" : "13362",
             "kana" : "トシマムラ",
             "latin" : "Toshima-mura",
-            "type" : "ward"
+            "type" : "village"
          },
          "北区" : {
             "code" : "13117",
@@ -8495,7 +8566,7 @@
             "code" : "13361",
             "kana" : "オオシママチ",
             "latin" : "Oshima-machi",
-            "type" : "ward"
+            "type" : "town"
          },
          "大田区" : {
             "code" : "13111",
@@ -8513,7 +8584,7 @@
             "code" : "13421",
             "kana" : "オガサワラムラ",
             "latin" : "Ogasawara-mura",
-            "type" : "ward"
+            "type" : "village"
          },
          "小金井市" : {
             "code" : "13210",
@@ -8531,7 +8602,7 @@
             "code" : "13382",
             "kana" : "ミクラジマムラ",
             "latin" : "Mikurajima-mura",
-            "type" : "ward"
+            "type" : "village"
          },
          "文京区" : {
             "code" : "13105",
@@ -8549,7 +8620,7 @@
             "code" : "13363",
             "kana" : "ニイジマムラ",
             "latin" : "Niijima-mura",
-            "type" : "ward"
+            "type" : "village"
          },
          "日野市" : {
             "code" : "13212",
@@ -8657,7 +8728,7 @@
             "code" : "13364",
             "kana" : "コウヅシマムラ",
             "latin" : "Kozushima-mura",
-            "type" : "ward"
+            "type" : "village"
          },
          "福生市" : {
             "code" : "13218",
@@ -8760,7 +8831,7 @@
             "code" : "13402",
             "kana" : "アオガシマムラ",
             "latin" : "Aogashima-mura",
-            "type" : "ward"
+            "type" : "village"
          },
          "青梅市" : {
             "code" : "13205",

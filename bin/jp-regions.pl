@@ -123,11 +123,48 @@ for my $code (keys %{$Areas->{cities}}) {
         $Data->{$pref}->{areas}->{$data->{district}}->{areas}->{$town}->{latin} = $data->{latin};
         $Data->{$pref}->{areas}->{$data->{district}}->{areas}->{$town}->{code} = $code;
     } else {
-        $Data->{$pref}->{areas}->{$data->{name}} = {type => $data->{name} =~ /市$/ ? 'city' : 'ward',
+        my $type = $data->{name} =~ /市$/ ? 'city' :
+                   $data->{name} =~ /町$/ ? 'town' :
+                   $data->{name} =~ /村$/ ? 'village' : 'ward';
+        $Data->{$pref}->{areas}->{$data->{name}} = {type => $type,
                                                     kana => $data->{kana},
                                                     latin => $data->{latin},
                                                     code => $code};
     }
 }
+
+$Data->{北海道}->{areas}->{色丹郡}
+    = {type => 'district',
+       kana => 'しこたんぐん', latin => 'Shikotan-gun'};
+$Data->{北海道}->{areas}->{色丹郡}->{areas}->{色丹村}
+    = {type => 'village', code => '01695',
+       kana => 'しこたんむら', latin => 'Shikotan-mura'};
+$Data->{北海道}->{areas}->{国後郡}
+    = {type => 'district',
+       kana => 'くなしりぐん', latin => 'Kunashiri-gun'};
+$Data->{北海道}->{areas}->{国後郡}->{areas}->{泊村}
+    = {type => 'village', code => '01696',
+       kana => 'とまりむら', latin => 'Tomari-mura'};
+$Data->{北海道}->{areas}->{国後郡}->{areas}->{留夜別村}
+    = {type => 'village', code => '01697',
+       kana => 'るよべつむら', latin => 'Ruyobetsu-mura'};
+$Data->{北海道}->{areas}->{択捉郡}
+    = {type => 'district',
+       kana => 'えとろふぐん', latin => 'Etorofu-gun'};
+$Data->{北海道}->{areas}->{択捉郡}->{areas}->{留別村}
+    = {type => 'village', code => '01698',
+       kana => 'るべつむら', latin => 'Rubetsu-mura'};
+$Data->{北海道}->{areas}->{紗那郡}
+    = {type => 'district',
+       kana => 'しゃなぐん', latin => 'Shana-gun'};
+$Data->{北海道}->{areas}->{紗那郡}->{areas}->{紗那村}
+    = {type => 'village', code => '01699',
+       kana => 'しゃなむら', latin => 'Shana-mura'};
+$Data->{北海道}->{areas}->{蘂取郡}
+    = {type => 'district',
+       kana => 'しべとろぐん', latin => 'Shibetoro-gun'};
+$Data->{北海道}->{areas}->{蘂取郡}->{areas}->{蘂取村}
+    = {type => 'village', code => '01700',
+       kana => 'しべとろむら', latin => 'Shibetoro-mura'};
 
 print perl2json_bytes_for_record $Data;
