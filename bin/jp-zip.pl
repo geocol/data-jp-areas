@@ -37,18 +37,19 @@ for (keys %$Data) {
     my $new = [];
     for (@{$Data->{$_}}) {
         my $data = {};
+        $data->{area} = $_->[0];
         $data->{zip_old} = $_->[1];
         $data->{zip_old} =~ s/\s+$//;
         #$data->{zip} = $_->[2];
         $data->{town_kana} = $_->[5];
-        $data->{pref} = $_->[6];
-        $data->{city} = $_->[7];
+        #$data->{pref} = $_->[6];
+        #$data->{city} = $_->[7];
         $data->{town} = $_->[8];
         $data->{multiple_codes_per_town} = 1 if $_->[9];
         $data->{koaza_addressed_town} = 1 if $_->[10];
         $data->{has_choume} = 1 if $_->[11];
         normalize_width \$_, combine_voiced_sound_marks \$_, tr/\x{FF5E}\x{2212}/\x{301C}-/
-            for $data->{town_kana}, $data->{pref}, $data->{city}, $data->{town};
+            for $data->{town_kana}, $data->{town};
 
         if ($data->{town} eq '以下に掲載がない場合') {
             $data->{town_fallback} = 1;
