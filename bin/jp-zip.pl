@@ -47,7 +47,7 @@ for (keys %$Data) {
         $data->{multiple_codes_per_town} = 1 if $_->[9];
         $data->{koaza_addressed_town} = 1 if $_->[10];
         $data->{has_choume} = 1 if $_->[11];
-        normalize_width \$_, combine_voiced_sound_marks \$_
+        normalize_width \$_, combine_voiced_sound_marks \$_, tr/\x{FF5E}\x{2212}/\x{301C}-/
             for $data->{town_kana}, $data->{pref}, $data->{city}, $data->{town};
 
         if ($data->{town} eq '以下に掲載がない場合') {
@@ -56,34 +56,76 @@ for (keys %$Data) {
             delete $data->{town_kana};
         }
 
-        if (defined $data->{town} and
-            $data->{town} =~ s/\s*\((?:その他)\)\s*$//) {
-            $data->{koaza_fallback} = 1;
-            $data->{town_kana} =~ s/\s*\((?:ソノタ)\)\s*$//;
-        }
-
-        if (defined $data->{town} and
-            $data->{town} =~ s/\s*\((?:次のビルを除く)\)\s*$//) {
-            $data->{has_building_codes_in_town} = 1;
-            $data->{town_kana} =~ s/\s*\((?:ツギノビルヲノゾク)\)\s*$//;
-        }
-
-        if (defined $data->{town} and
-            $data->{town} =~ s/\s*\((\d+)(?:[\x{301C}\x{FF5E}](\d+)|)丁目\)\s*$//) {
-            $data->{choumes} = [$1..($2 || $1)];
-            $data->{town_kana} =~ s/\s*\([\d-]+チョウメ\)\s*$//;
-        }
-
+        my @koaza;
         if (defined $data->{town} and
             $data->{town} =~ s/\s*\(([^()]+)\)\s*$//) {
             $data->{koaza} = $1;
             if ($data->{town_kana} =~ s/\s*\(([^()]+)\)\s*$//) {
                 $data->{koaza_kana} = $1;
             }
+
+            if ($data->{koaza} eq 'その他') {
+                $data->{koaza_fallback} = 1;
+                delete $data->{koaza};
+                delete $data->{koaza_kana};
+            } elsif ($data->{koaza} eq '次のビルを除く') {
+                $data->{has_building_codes_in_town} = 1;
+                delete $data->{koaza};
+                delete $data->{koaza_kana};
+            } elsif ($data->{koaza} =~ /^([0-9]+階)$/) {
+                $data->{building_level} = $1;
+                delete $data->{koaza};
+                delete $data->{koaza_kana};
+            } elsif ($data->{koaza} eq '地階・階層不明') {
+                $data->{building_level} = 'fallback';
+                delete $data->{koaza};
+                delete $data->{koaza_kana};
+            } elsif ($data->{koaza} =~ /^[\w\x{301C}]+(?:、[\w\x{301C}]+)+$/) {
+                my @k = split /、/, $data->{koaza};
+                my @y = split /、/, $data->{koaza_kana} // '';
+                push @koaza, map { [$k[$_], $y[$_]] } 0..$#k;
+            }
         }
 
-        push @$new, $data;
+        if (@koaza) {
+            push @$new, {%$data, koaza => $_->[0], koaza_kana => $_->[1]}
+                for @koaza;
+        } else {
+            push @$new, $data;
+        }
     }
+
+    for my $data (@$new) {
+        if (defined $data->{koaza}) {
+            if ($data->{koaza} =~ /^[0-9、\x{301C}-]+丁目$/) {
+                $data->{choume} = $data->{koaza};
+                delete $data->{koaza};
+                delete $data->{koaza_kana};
+            } elsif ($data->{koaza} =~ /^[0-9、\x{301C}の-]+(?:番地?)?$/) {
+                $data->{banchi} = $data->{koaza};
+                delete $data->{koaza};
+                delete $data->{koaza_kana};
+            } elsif ($data->{koaza} =~ /(?:(?:上る|下る|西入|東入)([1-4][丁筋]目)?西?|三条大橋東入?4丁目|三条通白川橋東4丁目)$/) {
+                $data->{street_addr} = $data->{koaza};
+                $data->{street_addr_kana} = $data->{koaza_kana}
+                    if defined $data->{koaza_kana};
+                delete $data->{koaza};
+                delete $data->{koaza_kana};
+            } elsif ($data->{multiple_codes_per_town} and
+                     $data->{has_choume} and
+                     $data->{koaza} eq '丁目') {
+                delete $data->{koaza};
+                delete $data->{koaza_kana};
+            } elsif ($data->{multiple_codes_per_town} and
+                     not $data->{has_choume} and
+                     $data->{koaza} eq '番地') {
+                $data->{no_choume} = 1;
+                delete $data->{koaza};
+                delete $data->{koaza_kana};
+            }
+        }
+    }
+
     $Data->{$_} = $new;
 }
 
