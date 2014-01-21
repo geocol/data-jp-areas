@@ -52,6 +52,21 @@ Values contain following name/value pairs:
 
     Latin (roman) representation of area name.
 
+  office [object?]
+
+    The location of the local government office of the area, if exists
+    and known.  This is a JSON object with following name/value pairs:
+
+      address [string?]
+
+        The string representation of the address of the office, within
+        the area (i.e. the area name prefix is omitted).
+
+      position
+
+        The WGS84 geographical location of the office, represented as
+        a JSON array of latitude and longitude number values.
+
   type [string]
 
     The type of the area.  One of following values:
@@ -71,3 +86,22 @@ Wikipedia - 全国地方公共団体コード
 郵便番号データ <http://www.post.japanpost.jp/zipcode/download.html>,
 <http://www.post.japanpost.jp/zipcode/dl/readme_ro.html>,
 <http://www.post.japanpost.jp/zipcode/dl/readme.html>.
+
+国土数値情報 市町村役場等及び公的集会施設データ 平成22年度 国土交通省
+<http://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P05.html>.
+
+* License
+
+The JSON data partially derived from 郵便番号データ, whose license
+terms <http://www.post.japanpost.jp/zipcode/dl/readme.html> are:
+
+  使用・再配布・移植・改良について
+
+  郵便番号データに限っては日本郵便株式会社は著作権を主張しません。自由
+  に配布していただいて結構です。
+
+(I.e. It is not copyrighted.)
+
+The JSON data partially derived from 国土数値情報, whose license terms
+are available at <http://nlftp.mlit.go.jp/ksj/other/yakkan.html> (平成
+24年4月27日改正).  (I.e. It can be used freely.)

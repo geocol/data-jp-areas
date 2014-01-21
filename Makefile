@@ -68,6 +68,9 @@ local/lhasa-0.2.0.tar.gz:
 	mkdir -p local
 	$(WGET) -O $@ https://soulsphere.org/projects/lhasa/lhasa-0.2.0.tar.gz
 
+intermediate/lg-offices.json: bin/extract-offices.pl
+	$(PERL) bin/extract-offices.pl > $@
+
 ## ------ Tests ------
 
 PROVE = ./prove

@@ -139,11 +139,12 @@ form), you should also add some annotation based on |town_fallback|,
 
 * License
 
-According to <http://www.post.japanpost.jp/zipcode/dl/readme.html>:
+The JSON data partially derived from 郵便番号データ, whose license
+terms <http://www.post.japanpost.jp/zipcode/dl/readme.html> are:
 
   使用・再配布・移植・改良について
 
   郵便番号データに限っては日本郵便株式会社は著作権を主張しません。自由
   に配布していただいて結構です。
 
-(ZIP code data are not copyrighted.)
+(I.e. It is not copyrighted.)

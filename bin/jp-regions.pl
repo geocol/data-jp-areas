@@ -4,7 +4,7 @@ use utf8;
 use Path::Class;
 use lib glob file (__FILE__)->dir->subdir ('modules', '*', 'lib');
 use Encode;
-use JSON::Functions::XS qw(perl2json_bytes_for_record);
+use JSON::Functions::XS qw(perl2json_bytes_for_record file2perl);
 use Char::Normalize::FullwidthHalfwidth qw(normalize_width combine_voiced_sound_marks);
 
 our $Data = {};
@@ -176,5 +176,30 @@ $Data->{北海道}->{areas}->{蘂取郡}
 $Data->{北海道}->{areas}->{蘂取郡}->{areas}->{蘂取村}
     = {type => 'village', code => '01700',
        kana => 'しべとろむら', latin => 'Shibetoro-mura'};
+
+{
+    my $f = file (__FILE__)->dir->parent->file ('intermediate', 'lg-offices.json');
+    my $json = file2perl $f;
+    for my $pref (keys %$Data) {
+        my $pref_code = $Data->{$pref}->{code};
+        for my $area_name (keys %{$Data->{$pref}->{areas}}) {
+            my $data = $json->{$pref_code}->{$area_name . '役所'} ||
+                $json->{$pref_code}->{$area_name . '役場'};
+            if (defined $data) {
+                $Data->{$pref}->{areas}->{$area_name}->{office} = $data;
+            }
+
+            for my $subarea_name (keys %{$Data->{$pref}->{areas}->{$area_name}->{areas} or {}}) {
+                my $data = $json->{$pref_code}->{$subarea_name . '役所'} ||
+                    $json->{$pref_code}->{$subarea_name . '役場'} ||
+                    $json->{$pref_code}->{$area_name . $subarea_name . '役所'} ||
+                    $json->{$pref_code}->{$area_name . $subarea_name . '役場'};
+                if (defined $data) {
+                    $Data->{$pref}->{areas}->{$area_name}->{areas}->{$subarea_name}->{office} = $data;
+                }
+            }
+        }
+    }
+}
 
 print perl2json_bytes_for_record $Data;
