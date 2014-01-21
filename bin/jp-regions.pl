@@ -185,6 +185,17 @@ $Data->{北海道}->{areas}->{蘂取郡}->{areas}->{蘂取村}
         for my $area_name (keys %{$Data->{$pref}->{areas}}) {
             my $data = $json->{$pref_code}->{$area_name . '役所'} ||
                 $json->{$pref_code}->{$area_name . '役場'};
+            # $ cat data/jp-regions.json | ./jq '[recurse(.[].areas) | to_entries | .[] | select(.value.type != "pref" and .value.type != "district" and (.value.office | not))]'
+            $data ||= $json->{$pref_code}->{{
+                京丹後市 => '京丹後市役所峰山庁舎',
+                文京区 => '文京区役所、文京シビックセンター',
+                港区 => '港区役所、芝地区総合支所',
+                千曲市 => '千曲市役所更埴庁舎',
+                南砺市 => '南砺市役所福野庁舎、福野行政センター',
+                射水市 => '射水市役所小杉庁舎',
+                米原市 => '米原市役所米原庁舎',
+                魚沼市 => '魚沼市役所小出庁舎',
+            }->{$area_name} || ''};
             if (defined $data) {
                 $Data->{$pref}->{areas}->{$area_name}->{office} = $data;
             }
@@ -194,6 +205,12 @@ $Data->{北海道}->{areas}->{蘂取郡}->{areas}->{蘂取村}
                     $json->{$pref_code}->{$subarea_name . '役場'} ||
                     $json->{$pref_code}->{$area_name . $subarea_name . '役所'} ||
                     $json->{$pref_code}->{$area_name . $subarea_name . '役場'};
+                $data ||= $json->{$pref_code}->{{
+                    南伊勢町 => '南伊勢町役場南勢庁舎',
+                    佐久穂町 => '佐久穂町役場佐久庁舎',
+                    南部町 => '南部町役場法勝寺庁舎',
+                    南阿蘇村 => '南阿蘇村役場、久木野庁舎',
+                }->{$subarea_name} || ''};
                 if (defined $data) {
                     $Data->{$pref}->{areas}->{$area_name}->{areas}->{$subarea_name}->{office} = $data;
                 }
