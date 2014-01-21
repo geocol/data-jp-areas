@@ -100,7 +100,7 @@ Area objects are JSON objects with following name/value pairs:
 
   zip_old [string]
 
-    The obsolete 3-digits ZIP code for the area.
+    The obsolete 3- or 5-digits ZIP code for the area.
 
 * Constructing an address
 
