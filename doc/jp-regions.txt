@@ -90,6 +90,9 @@ Wikipedia - 全国地方公共団体コード
 国土数値情報 市町村役場等及び公的集会施設データ 平成22年度 国土交通省
 <http://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P05.html>.
 
+日本の都道府県 (2010年4月)
+<https://geonlp.ex.nii.ac.jp/dictionary/geonlp/japan_pref>.
+
 * License
 
 The JSON data partially derived from 郵便番号データ, whose license
@@ -105,3 +108,6 @@ terms <http://www.post.japanpost.jp/zipcode/dl/readme.html> are:
 The JSON data partially derived from 国土数値情報, whose license terms
 are available at <http://nlftp.mlit.go.jp/ksj/other/yakkan.html> (平成
 24年4月27日改正).  (I.e. It can be used freely.)
+
+The JSON data partially derived from 日本の都道府県, which is licensed
+under CC0.

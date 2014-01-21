@@ -71,6 +71,18 @@ local/lhasa-0.2.0.tar.gz:
 intermediate/lg-offices.json: bin/extract-offices.pl
 	$(PERL) bin/extract-offices.pl > $@
 
+local/geonlp-pref.zip:
+	# <https://geonlp.ex.nii.ac.jp/dictionary/geonlp/japan_pref>
+	$(WGET) -O $@ https://geonlp.ex.nii.ac.jp/dictionary/geonlp/japan_pref/geonlp_japan_pref_20140115_u.zip
+
+local/geonlp_japan_pref/geonlp_japan_pref_20140115_u.csv: local/geonlp-pref.zip
+	cd local && unzip -o geonlp-pref.zip
+
+intermediate/geonlp-pref.json: \
+    local/geonlp_japan_pref/geonlp_japan_pref_20140115_u.csv \
+    bin/geonlp-pref.pl
+	$(PERL) bin/geonlp-pref.pl > $@
+
 ## ------ Tests ------
 
 PROVE = ./prove

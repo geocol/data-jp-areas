@@ -219,4 +219,15 @@ $Data->{北海道}->{areas}->{蘂取郡}->{areas}->{蘂取村}
     }
 }
 
+{
+    my $f = file (__FILE__)->dir->parent->file ('intermediate', 'geonlp-pref.json');
+    my $json = file2perl $f;
+    for my $data (@$json) {
+        $Data->{$data->{fullname}}->{office} ||= {
+            address => $data->{address},
+            position => [$data->{latitude}, $data->{longitude}],
+        };
+    }
+}
+
 print perl2json_bytes_for_record $Data;
