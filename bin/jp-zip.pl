@@ -55,6 +55,13 @@ for (keys %$Data) {
             $data->{town_fallback} = 1;
             delete $data->{town};
             delete $data->{town_kana};
+        } elsif ($data->{town} =~ /の次に番地がくる場合$/) {
+            $data->{no_choume} = 1;
+            delete $data->{town};
+            delete $data->{town_kana};
+        } elsif ($data->{town} =~ /[町村]一円$/) {
+            delete $data->{town};
+            delete $data->{town_kana};
         }
 
         my @koaza;
