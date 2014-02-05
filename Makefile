@@ -7,7 +7,7 @@ clean: clean-jpregions clean-jpzip
 GIT = git
 
 dataautoupdate: clean deps all
-	$(GIT) add data/*.json
+	$(GIT) add data/*
 
 ## ------ Setup ------
 
@@ -39,12 +39,15 @@ data/jp-regions.json: local/ken_all.csv local/ken_all_rome.csv \
     bin/jp-regions.pl
 	$(PERL) bin/jp-regions.pl > $@
 
-all-jpzip: data/jp-zip.json
+all-jpzip: data/jp-zip.json data/jp-zip.json.gz
 clean-jpzip:
 	rm -fr local/ken_all.lzh local/ken_all_rome.lzh
 
 data/jp-zip.json: local/ken_all.csv bin/jp-zip.pl
 	$(PERL) bin/jp-zip.pl > $@
+
+data/jp-zip.json.gz: data/jp-zip.json
+	cat $< | gzip > $@
 
 local/ken_all.csv: local/ken_all.lzh local/bin/lhasa
 	cd local && bin/lhasa xf ken_all.lzh
