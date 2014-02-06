@@ -61,7 +61,7 @@ intermediate/wikipedia-prefs.json: local/jp-regions.json \
 
 ## ------ Data ------
 
-all-jpregions: data/jp-regions.json
+all-jpregions: data/jp-regions.json data/jp-regions-full.json
 clean-jpregions: clean-jpzip
 
 local/jp-regions.json: local/ken_all.csv local/ken_all_rome.csv \
@@ -70,6 +70,10 @@ local/jp-regions.json: local/ken_all.csv local/ken_all_rome.csv \
 
 data/jp-regions.json: local/jp-regions.json
 	cp $< $@
+
+data/jp-regions-full.json: data/jp-regions.json bin/jp-regions-full.pl \
+    intermediate/wikipedia-prefs.json
+	$(PERL) bin/jp-regions-full.pl > $@
 
 all-jpzip: data/jp-zip.json data/jp-zip.json.gz
 clean-jpzip:

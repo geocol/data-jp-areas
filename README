@@ -9,6 +9,7 @@ areadata
 There are following data files:
 
   data/jp-regions.txt  - Prefectures, cities, towns, and villages in Japan
+  data/jp-regions-full.txt - Ditto, with additional data
   data/jp-zip.txt      - ZIP codes assigned to areas in Japan
 
 * Distribution

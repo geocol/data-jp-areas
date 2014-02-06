@@ -59,6 +59,8 @@ sub _tc ($) {
         if (defined $ip[2]) {
           $text .= _tc $ip[2];
         }
+      } elsif ($ln eq 'noinclude') {
+        #
       } elsif ($ln eq 'span') {
         my $v = _tc $_;
         $text .= $text unless $text eq "\x{25A0}";
@@ -116,6 +118,8 @@ for my $pref (@$prefs) {
       my @ip = grep { $_->local_name eq 'iparam' } @{$el->children};
       my $symbols_label;
       my $symbols_value;
+      my $cv1 = AE::cv;
+      $cv1->begin;
       for my $ip (@ip) {
         my $name = $ip->get_attribute ('name') || '';
         my $def = $Defs->{$name};
@@ -123,12 +127,27 @@ for my $pref (@$prefs) {
           my $value;
           if ($def->{type} eq 'file') {
             my $fc = $ip->first_element_child;
-            if ($fc and $fc->has_attribute ('embed')) {
+            if ($fc and $fc->local_name eq 'l' and
+                $fc->has_attribute ('embed')) {
               $value = $fc->get_attribute ('wref') || _tc $fc;
+            } elsif ($fc and $fc->local_name eq 'include' and
+                     (lc $fc->get_attribute ('wref')) eq 'flagicon') {
+              $cv1->begin;
+              $mw->get_source_text_by_name_as_cv ("Template:Country flag alias $pref")->cb (sub {
+                my $data = $_[0]->recv;
+                if (defined $data) {
+                  my $doc = new Web::DOM::Document;
+                  my $parser = Text::MediaWiki::Parser->new;
+                  $parser->parse_char_string ($data => $doc);
+                  my $n = _tc $doc->body;
+                  $n =~ s/\A\s+//;
+                  $n =~ s/\s+\z//;
+                  $Data->{$pref}->{$def->{name}} = "ファイル:$n" if length $n;
+                }
+                $cv1->end;
+              });
             } else {
-              $value = _tc $ip;
-              $value =~ s/\A\s+//;
-              $value =~ s/\s+\z//;
+              $value = _n _tc $ip;
             }
           } else {
             $value = _n _tc $ip;
@@ -151,6 +170,20 @@ for my $pref (@$prefs) {
                           鳥 => 'bird'}->{$name}, name => _n $_};
           }
         }
+      }
+      $cv1->end;
+      $cv1->cb (sub {
+      if (defined $Data->{$pref}->{symbol_wref}) {
+        my $d = {type => 'mark', wref => delete $Data->{$pref}->{symbol_wref}};
+        $d->{name} = delete $Data->{$pref}->{symbol_label}
+            if defined $Data->{$pref}->{symbol_label};
+        unshift @{$Data->{$pref}->{symbols} ||= []}, $d;
+      }
+      if (defined $Data->{$pref}->{flag_wref}) {
+        my $d = {type => 'flag', wref => delete $Data->{$pref}->{flag_wref}};
+        $d->{name} = delete $Data->{$pref}->{flag_label}
+            if defined $Data->{$pref}->{flag_label};
+        unshift @{$Data->{$pref}->{symbols} ||= []}, $d;
       }
       if (defined $symbols_value) {
         for my $i (0..$#$symbols_value) {
@@ -195,12 +228,9 @@ for my $pref (@$prefs) {
           $_->{song_by} = $1;
         }
       }
-
-      if ($Data->{$pref}->{flag_label} =~ s/\s*\((\d+)年(\d+)月(\d+)日制定\)\s*$//) {
-        $Data->{$pref}->{flag_date} = sprintf '%04d-%02d-%02d', $1, $2, $3;
-      }
       print STDERR ".";
       $cv->end;
+      });
     }
   });
 }

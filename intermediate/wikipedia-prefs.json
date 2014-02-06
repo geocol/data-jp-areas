@@ -1,7 +1,11 @@
 {
    "三重県" : {
-      "flag_label" : "三重県旗",
       "symbols" : [
+         {
+            "name" : "三重県旗",
+            "type" : "flag",
+            "wref" : "ファイル:Flag of Mie Prefecture.svg"
+         },
          {
             "name" : "神宮杉",
             "type" : "tree"
@@ -39,11 +43,17 @@
       "wikipedia_image_wref" : "ファイル:宇治橋02.jpg"
    },
    "京都府" : {
-      "flag_label" : "京都府旗",
-      "flag_wref" : "ファイル:Flag of Kyoto Prefecture.svg",
-      "symbol_label" : "京都府章",
-      "symbol_wref" : "ファイル:Symbol of Kyoto Prefecture.svg",
       "symbols" : [
+         {
+            "name" : "京都府旗",
+            "type" : "flag",
+            "wref" : "ファイル:Flag of Kyoto Prefecture.svg"
+         },
+         {
+            "name" : "京都府章",
+            "type" : "mark",
+            "wref" : "ファイル:Symbol of Kyoto Prefecture.svg"
+         },
          {
             "name" : "北山杉",
             "type" : "tree"
@@ -75,10 +85,15 @@
       "wikipedia_image_wref" : "ファイル:Amanohashidate view from Mt Moju02s3s4592.jpg"
    },
    "佐賀県" : {
-      "flag_label" : null,
-      "flag_wref" : "ファイル:Flag of Saga Prefecture.svg",
-      "symbol_wref" : "ファイル:Emblem of Saga prefecture.svg",
       "symbols" : [
+         {
+            "type" : "flag",
+            "wref" : "ファイル:Flag of Saga Prefecture.svg"
+         },
+         {
+            "type" : "mark",
+            "wref" : "ファイル:Emblem of Saga prefecture.svg"
+         },
          {
             "name" : "クスの木",
             "type" : "tree"
@@ -109,11 +124,17 @@
       "wikipedia_image_wref" : "ファイル:Yoshinogari Ancient Ruins 2008.jpg"
    },
    "兵庫県" : {
-      "flag_label" : "兵庫県旗",
-      "flag_wref" : "ファイル:Flag of Hyogo Prefecture.svg",
-      "symbol_label" : "兵庫県徽章",
-      "symbol_wref" : "ファイル:Emblem of Hyogo Prefecture.svg",
       "symbols" : [
+         {
+            "name" : "兵庫県旗",
+            "type" : "flag",
+            "wref" : "ファイル:Flag of Hyogo Prefecture.svg"
+         },
+         {
+            "name" : "兵庫県徽章",
+            "type" : "mark",
+            "wref" : "ファイル:Emblem of Hyogo Prefecture.svg"
+         },
          {
             "name" : "クスノキ",
             "type" : "tree"
@@ -132,9 +153,12 @@
       "wikipedia_image_wref" : "ファイル:Kobe-meriken-park.jpg"
    },
    "北海道" : {
-      "flag_label" : "北海道旗",
-      "flag_wref" : "ファイル:Flag of Hokkaido Prefecture.svg",
       "symbols" : [
+         {
+            "name" : "北海道旗",
+            "type" : "flag",
+            "wref" : "ファイル:Flag of Hokkaido Prefecture.svg"
+         },
          {
             "name" : "エゾマツ",
             "type" : "tree"
@@ -173,10 +197,17 @@
       "wikipedia_image_wref" : "ファイル:Tokachi plain 01.jpg"
    },
    "千葉県" : {
-      "flag_label" : "千葉県旗",
-      "symbol_label" : "千葉県徽章",
-      "symbol_wref" : "ファイル:Emblem of Chiba prefecture.svg",
       "symbols" : [
+         {
+            "name" : "千葉県旗",
+            "type" : "flag",
+            "wref" : "ファイル:Flag of Chiba Prefecture.svg"
+         },
+         {
+            "name" : "千葉県徽章",
+            "type" : "mark",
+            "wref" : "ファイル:Emblem of Chiba prefecture.svg"
+         },
          {
             "date" : "1966-09-29",
             "name" : "マキ",
@@ -220,11 +251,17 @@
       "wikipedia_image_wref" : "ファイル:Naritasan-Shinshoji-Temple-2008.jpg"
    },
    "和歌山県" : {
-      "flag_label" : "和歌山県旗",
-      "flag_wref" : "ファイル:Flag of Wakayama Prefecture.svg",
-      "symbol_label" : "和歌山県章",
-      "symbol_wref" : "ファイル:Symbol of Wakayama Prefecture.svg",
       "symbols" : [
+         {
+            "name" : "和歌山県旗",
+            "type" : "flag",
+            "wref" : "ファイル:Flag of Wakayama Prefecture.svg"
+         },
+         {
+            "name" : "和歌山県章",
+            "type" : "mark",
+            "wref" : "ファイル:Symbol of Wakayama Prefecture.svg"
+         },
          {
             "name" : "ウバメガシ",
             "type" : "tree"
@@ -253,9 +290,12 @@
       "wikipedia_image_wref" : "ファイル:Danjogaran Koyasan12n3200.jpg"
    },
    "埼玉県" : {
-      "flag_label" : "埼玉県旗",
-      "flag_wref" : "ファイル:Flag of Saitama Prefecture.svg",
       "symbols" : [
+         {
+            "name" : "埼玉県旗",
+            "type" : "flag",
+            "wref" : "ファイル:Flag of Saitama Prefecture.svg"
+         },
          {
             "name" : "ケヤキ",
             "type" : "tree"
@@ -296,11 +336,17 @@
       "wikipedia_image_wref" : "ファイル:Sakitama-bridge.jpg"
    },
    "大分県" : {
-      "flag_label" : "大分県旗",
-      "flag_wref" : "ファイル:Flag of Oita Prefecture.svg",
-      "symbol_label" : "大分県徽章",
-      "symbol_wref" : "ファイル:Symbol of Oita prefecture.png",
       "symbols" : [
+         {
+            "name" : "大分県旗",
+            "type" : "flag",
+            "wref" : "ファイル:Flag of Oita Prefecture.svg"
+         },
+         {
+            "name" : "大分県徽章",
+            "type" : "mark",
+            "wref" : "ファイル:Symbol of Oita prefecture.png"
+         },
          {
             "name" : "ブンゴウメ",
             "type" : "tree"
@@ -324,9 +370,12 @@
       "wikipedia_image_wref" : "ファイル:Beppu Umi-jigoku04n4272.jpg"
    },
    "大阪府" : {
-      "flag_label" : "大阪府旗",
-      "flag_wref" : "ファイル:Flag of Osaka Prefecture.svg",
       "symbols" : [
+         {
+            "name" : "大阪府旗",
+            "type" : "flag",
+            "wref" : "ファイル:Flag of Osaka Prefecture.svg"
+         },
          {
             "name" : "イチョウ",
             "type" : "tree"
@@ -349,11 +398,17 @@
       "wikipedia_image_wref" : "ファイル:Osaka Castle Park 20071230.jpg"
    },
    "奈良県" : {
-      "flag_label" : "奈良県旗",
-      "flag_wref" : "ファイル:Flag of Nara Prefecture.svg",
-      "symbol_label" : "奈良県章",
-      "symbol_wref" : "ファイル:Symbol of Nara Prefecture.svg",
       "symbols" : [
+         {
+            "name" : "奈良県旗",
+            "type" : "flag",
+            "wref" : "ファイル:Flag of Nara Prefecture.svg"
+         },
+         {
+            "name" : "奈良県章",
+            "type" : "mark",
+            "wref" : "ファイル:Symbol of Nara Prefecture.svg"
+         },
          {
             "name" : "スギ",
             "type" : "tree"
@@ -388,9 +443,12 @@
       "wikipedia_image_wref" : "ファイル:Cherry blossoms at Yoshinoyama 10.jpg"
    },
    "宮城県" : {
-      "flag_label" : "宮城県旗",
-      "flag_wref" : "ファイル:Flag of Miyagi Prefecture.svg",
       "symbols" : [
+         {
+            "name" : "宮城県旗",
+            "type" : "flag",
+            "wref" : "ファイル:Flag of Miyagi Prefecture.svg"
+         },
          {
             "name" : "ケヤキ",
             "type" : "tree"
@@ -419,11 +477,17 @@
       "wikipedia_image_wref" : "ファイル:Ootakamori evening.JPG"
    },
    "宮崎県" : {
-      "flag_label" : "宮崎県旗",
-      "flag_wref" : "ファイル:Flag of Miyazaki Prefecture.svg",
-      "symbol_label" : "宮崎県徽章",
-      "symbol_wref" : "ファイル:Symbol of Miyazaki prefecture.png",
       "symbols" : [
+         {
+            "name" : "宮崎県旗",
+            "type" : "flag",
+            "wref" : "ファイル:Flag of Miyazaki Prefecture.svg"
+         },
+         {
+            "name" : "宮崎県徽章",
+            "type" : "mark",
+            "wref" : "ファイル:Symbol of Miyazaki prefecture.png"
+         },
          {
             "date" : "1966-09-03",
             "name" : "フェニックス",
@@ -460,10 +524,13 @@
       "wikipedia_image_wref" : "ファイル:Takachihokyou55.jpg"
    },
    "富山県" : {
-      "flag_date" : "1988-12-27",
-      "flag_label" : "富山県旗",
-      "flag_wref" : "ファイル:Flag of Toyama.svg",
       "symbols" : [
+         {
+            "date" : "1988-12-27",
+            "name" : "富山県旗",
+            "type" : "flag",
+            "wref" : "ファイル:Flag of Toyama.svg"
+         },
          {
             "name" : "タテヤマスギ",
             "type" : "tree"
@@ -506,9 +573,12 @@
       "wikipedia_image_wref" : "ファイル:Tsurugi-toyama 16-9.jpg"
    },
    "山口県" : {
-      "flag_label" : "山口県旗",
-      "flag_wref" : "ファイル:Flag of Yamaguchi Prefecture.svg",
       "symbols" : [
+         {
+            "name" : "山口県旗",
+            "type" : "flag",
+            "wref" : "ファイル:Flag of Yamaguchi Prefecture.svg"
+         },
          {
             "name" : "アカマツ",
             "type" : "tree"
@@ -541,11 +611,17 @@
       "wikipedia_image_wref" : "ファイル:Tunoshima sea side.JPG"
    },
    "山形県" : {
-      "flag_label" : "山形県旗",
-      "flag_wref" : "ファイル:Flag of Yamagata Prefecture.svg",
-      "symbol_label" : "山形県章",
-      "symbol_wref" : "ファイル:Symbol of Yamagata Prefecture.svg",
       "symbols" : [
+         {
+            "name" : "山形県旗",
+            "type" : "flag",
+            "wref" : "ファイル:Flag of Yamagata Prefecture.svg"
+         },
+         {
+            "name" : "山形県章",
+            "type" : "mark",
+            "wref" : "ファイル:Symbol of Yamagata Prefecture.svg"
+         },
          {
             "name" : "サクランボ",
             "type" : "tree"
@@ -579,11 +655,17 @@
       "wikipedia_image_wref" : "ファイル:Precincts of Gassan jinja.JPG"
    },
    "山梨県" : {
-      "flag_label" : "山梨県旗",
-      "flag_wref" : "ファイル:Flag of Yamanashi Prefecture.svg",
-      "symbol_label" : "山梨県章",
-      "symbol_wref" : "ファイル:Emblem of Yamanashi prefecture.svg",
       "symbols" : [
+         {
+            "name" : "山梨県旗",
+            "type" : "flag",
+            "wref" : "ファイル:Flag of Yamanashi Prefecture.svg"
+         },
+         {
+            "name" : "山梨県章",
+            "type" : "mark",
+            "wref" : "ファイル:Emblem of Yamanashi prefecture.svg"
+         },
          {
             "name" : "カエデ",
             "type" : "tree"
@@ -616,11 +698,17 @@
       "wikipedia_image_wref" : "ファイル:Lake Kawaguchiko Sakura Mount Fuji 3.JPG"
    },
    "岐阜県" : {
-      "flag_label" : "岐阜県旗",
-      "flag_wref" : "ファイル:Flag of Gifu Prefecture.svg",
-      "symbol_label" : "岐阜県徽章",
-      "symbol_wref" : "ファイル:Emblem of Gifu Prefecture.svg",
       "symbols" : [
+         {
+            "name" : "岐阜県旗",
+            "type" : "flag",
+            "wref" : "ファイル:Flag of Gifu Prefecture.svg"
+         },
+         {
+            "name" : "岐阜県徽章",
+            "type" : "mark",
+            "wref" : "ファイル:Emblem of Gifu Prefecture.svg"
+         },
          {
             "name" : "イチイ",
             "type" : "tree"
@@ -648,9 +736,12 @@
       "wikipedia_image_wref" : "ファイル:Ogi Shirakawa02bs3200.jpg"
    },
    "岡山県" : {
-      "flag_label" : "岡山県旗",
-      "flag_wref" : "ファイル:Flag of Okayama Prefecture.svg",
       "symbols" : [
+         {
+            "name" : "岡山県旗",
+            "type" : "flag",
+            "wref" : "ファイル:Flag of Okayama Prefecture.svg"
+         },
          {
             "name" : "アカマツ",
             "type" : "tree"
@@ -690,9 +781,12 @@
       "wikipedia_image_wref" : "ファイル:Okayama Korakuen Garden01.jpg"
    },
    "岩手県" : {
-      "flag_label" : "岩手県旗",
-      "flag_wref" : "ファイル:Flag of Iwate Prefecture.svg",
       "symbols" : [
+         {
+            "name" : "岩手県旗",
+            "type" : "flag",
+            "wref" : "ファイル:Flag of Iwate Prefecture.svg"
+         },
          {
             "name" : "ナンブアカマツ",
             "type" : "tree"
@@ -720,9 +814,12 @@
       "wikipedia_image_wref" : "ファイル:Mt. Iwate and Morioka.jpg"
    },
    "島根県" : {
-      "flag_label" : "島根県旗",
-      "flag_wref" : "ファイル:Flag of Shimane Prefecture.svg",
       "symbols" : [
+         {
+            "name" : "島根県旗",
+            "type" : "flag",
+            "wref" : "ファイル:Flag of Shimane Prefecture.svg"
+         },
          {
             "name" : "クロマツ",
             "type" : "tree"
@@ -752,9 +849,12 @@
       "wikipedia_image_wref" : "ファイル:Izumo-taisha16nt3200.jpg"
    },
    "広島県" : {
-      "flag_label" : "広島県旗",
-      "flag_wref" : "ファイル:Flag of Hiroshima Prefecture.svg",
       "symbols" : [
+         {
+            "name" : "広島県旗",
+            "type" : "flag",
+            "wref" : "ファイル:Flag of Hiroshima Prefecture.svg"
+         },
          {
             "name" : "モミジ",
             "type" : "tree"
@@ -778,8 +878,12 @@
       "wikipedia_image_wref" : "ファイル:Itsukushima torii distance.jpg"
    },
    "徳島県" : {
-      "flag_label" : "徳島県旗",
       "symbols" : [
+         {
+            "name" : "徳島県旗",
+            "type" : "flag",
+            "wref" : "ファイル:Flag of Tokushima Prefecture.svg"
+         },
          {
             "name" : "ヤマモモ",
             "type" : "tree"
@@ -802,11 +906,17 @@
       "wikipedia_image_wref" : "ファイル:Onaruto-bridge and Naruto Channel,Naruto-city,Japan.JPG"
    },
    "愛媛県" : {
-      "flag_label" : "愛媛県旗",
-      "flag_wref" : "ファイル:Flag of Ehime Prefecture.svg",
-      "symbol_label" : "愛媛県章",
-      "symbol_wref" : "ファイル:Emblem of Ehime prefecture.svg",
       "symbols" : [
+         {
+            "name" : "愛媛県旗",
+            "type" : "flag",
+            "wref" : "ファイル:Flag of Ehime Prefecture.svg"
+         },
+         {
+            "name" : "愛媛県章",
+            "type" : "mark",
+            "wref" : "ファイル:Emblem of Ehime prefecture.svg"
+         },
          {
             "name" : "マツ",
             "type" : "tree"
@@ -821,26 +931,26 @@
          },
          {
             "label" : "県の魚",
-            "name" : " マダイ",
+            "name" : "マダイ",
             "type" : "fish"
          },
          {
             "label" : "県の獣",
-            "name" : " ニッポンカワウソ",
+            "name" : "ニッポンカワウソ",
             "type" : "animal"
          },
          {
-            "name" : " 愛媛の歌",
+            "name" : "愛媛の歌",
             "type" : "song"
          },
          {
             "label" : "県民の日",
-            "name" : " 2月20日(県政発足記念日)",
+            "name" : "2月20日(県政発足記念日)",
             "type" : "day"
          },
          {
             "label" : "マスコットキャラクター",
-            "name" : " みきゃん"
+            "name" : "みきゃん"
          }
       ],
       "url" : "http://www.pref.ehime.jp/",
@@ -848,11 +958,17 @@
       "wikipedia_image_wref" : "ファイル:Kurushimakaikyo Ohashi bridge from Mt.Kirosan.jpg"
    },
    "愛知県" : {
-      "flag_label" : "愛知県旗",
-      "flag_wref" : "ファイル:Flag of Aichi Prefecture.svg",
-      "symbol_label" : "愛知県章",
-      "symbol_wref" : "ファイル:Symbol of Aichi Prefecture.svg",
       "symbols" : [
+         {
+            "name" : "愛知県旗",
+            "type" : "flag",
+            "wref" : "ファイル:Flag of Aichi Prefecture.svg"
+         },
+         {
+            "name" : "愛知県章",
+            "type" : "mark",
+            "wref" : "ファイル:Symbol of Aichi Prefecture.svg"
+         },
          {
             "name" : "ハナノキ",
             "type" : "tree"
@@ -881,11 +997,17 @@
       "wikipedia_image_wref" : "ファイル:Nagoya Castle(Larger).jpg"
    },
    "新潟県" : {
-      "flag_label" : "新潟県旗",
-      "flag_wref" : "ファイル:Flag of Niigata Prefecture.svg",
-      "symbol_label" : "シンボルマーク",
-      "symbol_wref" : "ファイル:Symbol mark of Niigata Prefecture.svg",
       "symbols" : [
+         {
+            "name" : "新潟県旗",
+            "type" : "flag",
+            "wref" : "ファイル:Flag of Niigata Prefecture.svg"
+         },
+         {
+            "name" : "シンボルマーク",
+            "type" : "mark",
+            "wref" : "ファイル:Symbol mark of Niigata Prefecture.svg"
+         },
          {
             "name" : "ユキツバキ",
             "type" : "tree"
@@ -901,11 +1023,11 @@
          {
             "date" : "2008-03-01",
             "label" : "県の草花",
-            "name" : " 雪割草"
+            "name" : "雪割草"
          },
          {
             "date" : "1948-03-28",
-            "name" : " 新潟県民歌",
+            "name" : "新潟県民歌",
             "type" : "song"
          }
       ],
@@ -914,11 +1036,17 @@
       "wikipedia_image_wref" : "ファイル:Niigata003.png"
    },
    "東京都" : {
-      "flag_label" : "東京都旗",
-      "flag_wref" : "ファイル:Flag of Tokyo.svg",
-      "symbol_label" : "東京都シンボル旗",
-      "symbol_wref" : "ファイル:Symbol flag of Tokyo.svg",
       "symbols" : [
+         {
+            "name" : "東京都旗",
+            "type" : "flag",
+            "wref" : "ファイル:Flag of Tokyo.svg"
+         },
+         {
+            "name" : "東京都シンボル旗",
+            "type" : "mark",
+            "wref" : "ファイル:Symbol flag of Tokyo.svg"
+         },
          {
             "name" : "イチョウ",
             "type" : "tree"
@@ -950,9 +1078,12 @@
       "wikipedia_image_wref" : "ファイル:Skyscrapers of Shinjuku 2009 January.jpg"
    },
    "栃木県" : {
-      "flag_label" : "栃木県旗",
-      "flag_wref" : "ファイル:Flag of Tochigi Prefecture.svg",
       "symbols" : [
+         {
+            "name" : "栃木県旗",
+            "type" : "flag",
+            "wref" : "ファイル:Flag of Tochigi Prefecture.svg"
+         },
          {
             "name" : "トチノキ",
             "type" : "tree"
@@ -986,11 +1117,17 @@
       "wikipedia_image_wref" : "ファイル:20100727 Nikko Tosho-gu Yomeimon 5889.jpg"
    },
    "沖縄県" : {
-      "flag_label" : "沖縄県旗",
-      "flag_wref" : "ファイル:Flag of Okinawa Prefecture.svg",
-      "symbol_label" : "沖縄県章",
-      "symbol_wref" : "ファイル:Symbol of Okinawa Prefecture.svg",
       "symbols" : [
+         {
+            "name" : "沖縄県旗",
+            "type" : "flag",
+            "wref" : "ファイル:Flag of Okinawa Prefecture.svg"
+         },
+         {
+            "name" : "沖縄県章",
+            "type" : "mark",
+            "wref" : "ファイル:Symbol of Okinawa Prefecture.svg"
+         },
          {
             "name" : "リュウキュウマツ",
             "type" : "tree"
@@ -1005,21 +1142,21 @@
          },
          {
             "label" : "県の魚",
-            "name" : " タカサゴ(グルクン)",
+            "name" : "タカサゴ(グルクン)",
             "type" : "fish"
          },
          {
-            "name" : " 沖縄県民の歌",
+            "name" : "沖縄県民の歌",
             "type" : "song"
          },
          {
+            "date_value" : "05-15",
             "label" : "本土復帰記念日",
-            "name" : " 5月15日",
             "type" : "day"
          },
          {
+            "date_value" : "06-23",
             "label" : "慰霊の日",
-            "name" : " 6月23日",
             "type" : "day"
          }
       ],
@@ -1028,11 +1165,17 @@
       "wikipedia_image_wref" : "ファイル:Village in Taketomi Island - located at southwest Japan.jpg"
    },
    "滋賀県" : {
-      "flag_label" : "滋賀県旗",
-      "flag_wref" : "ファイル:Flag of Shiga Prefecture.svg",
-      "symbol_label" : "滋賀県章",
-      "symbol_wref" : "ファイル:Emblem of Shiga prefecture.svg",
       "symbols" : [
+         {
+            "name" : "滋賀県旗",
+            "type" : "flag",
+            "wref" : "ファイル:Flag of Shiga Prefecture.svg"
+         },
+         {
+            "name" : "滋賀県章",
+            "type" : "mark",
+            "wref" : "ファイル:Emblem of Shiga prefecture.svg"
+         },
          {
             "name" : "モミジ",
             "type" : "tree"
@@ -1073,9 +1216,12 @@
       "wikipedia_image_wref" : "ファイル:Chikubusumajinja01s3200.jpg"
    },
    "熊本県" : {
-      "flag_label" : "熊本県旗",
-      "flag_wref" : "ファイル:Flag of Kumamoto Prefecture.svg",
       "symbols" : [
+         {
+            "name" : "熊本県旗",
+            "type" : "flag",
+            "wref" : "ファイル:Flag of Kumamoto Prefecture.svg"
+         },
          {
             "name" : "クスノキ",
             "type" : "tree"
@@ -1103,9 +1249,12 @@
       "wikipedia_image_wref" : "ファイル:Mt.Aso and caldera01.jpg"
    },
    "石川県" : {
-      "flag_label" : "石川県旗",
-      "flag_wref" : "ファイル:Flag of Ishikawa Prefecture.svg",
       "symbols" : [
+         {
+            "name" : "石川県旗",
+            "type" : "flag",
+            "wref" : "ファイル:Flag of Ishikawa Prefecture.svg"
+         },
          {
             "name" : "アテ",
             "type" : "tree"
@@ -1128,9 +1277,12 @@
       "wikipedia_image_wref" : "ファイル:Kenroku-en Kotoji Lantern 5.jpg"
    },
    "神奈川県" : {
-      "flag_label" : "神奈川県旗",
-      "flag_wref" : "ファイル:Flag of Kanagawa Prefecture.svg",
       "symbols" : [
+         {
+            "name" : "神奈川県旗",
+            "type" : "flag",
+            "wref" : "ファイル:Flag of Kanagawa Prefecture.svg"
+         },
          {
             "name" : "イチョウ",
             "type" : "tree"
@@ -1158,11 +1310,17 @@
       "wikipedia_image_wref" : "ファイル:Shichirigahama from Inamuragasaki.jpg"
    },
    "福井県" : {
-      "flag_label" : "福井県旗",
-      "flag_wref" : "ファイル:Flag of Fukui Prefecture.svg",
-      "symbol_label" : "福井県章",
-      "symbol_wref" : "ファイル:Emblem of Fukui prefecture.svg",
       "symbols" : [
+         {
+            "name" : "福井県旗",
+            "type" : "flag",
+            "wref" : "ファイル:Flag of Fukui Prefecture.svg"
+         },
+         {
+            "name" : "福井県章",
+            "type" : "mark",
+            "wref" : "ファイル:Emblem of Fukui prefecture.svg"
+         },
          {
             "name" : "松",
             "type" : "tree"
@@ -1195,9 +1353,12 @@
       "wikipedia_image_wref" : "ファイル:Japan Tojinbo02n4592.jpg"
    },
    "福岡県" : {
-      "flag_label" : "福岡県旗",
-      "flag_wref" : "ファイル:Flag of Fukuoka Prefecture.svg",
       "symbols" : [
+         {
+            "name" : "福岡県旗",
+            "type" : "flag",
+            "wref" : "ファイル:Flag of Fukuoka Prefecture.svg"
+         },
          {
             "name" : "ツツジ",
             "type" : "tree"
@@ -1220,9 +1381,12 @@
       "wikipedia_image_wref" : "ファイル:20100719 Dazaifu Tenmangu Shrine 3328.jpg"
    },
    "福島県" : {
-      "flag_label" : "福島県旗",
-      "flag_wref" : "ファイル:Flag of Fukushima Prefecture.svg",
       "symbols" : [
+         {
+            "name" : "福島県旗",
+            "type" : "flag",
+            "wref" : "ファイル:Flag of Fukushima Prefecture.svg"
+         },
          {
             "name" : "ケヤキ",
             "type" : "tree"
@@ -1250,9 +1414,12 @@
       "wikipedia_image_wref" : "ファイル:Ja-fukushima-ohuchijuku-7.jpg"
    },
    "秋田県" : {
-      "flag_label" : "秋田県旗",
-      "flag_wref" : "ファイル:Flag of Akita Prefecture.svg",
       "symbols" : [
+         {
+            "name" : "秋田県旗",
+            "type" : "flag",
+            "wref" : "ファイル:Flag of Akita Prefecture.svg"
+         },
          {
             "name" : "秋田杉",
             "type" : "tree"
@@ -1280,11 +1447,17 @@
       "wikipedia_image_wref" : "ファイル:Hiru kanto 1.jpg"
    },
    "群馬県" : {
-      "flag_label" : "群馬県旗",
-      "flag_wref" : "ファイル:Flag of Gunma Prefecture.svg",
-      "symbol_label" : "群馬県紋章",
-      "symbol_wref" : "ファイル:Symbol of Gunma prefecture.png",
       "symbols" : [
+         {
+            "name" : "群馬県旗",
+            "type" : "flag",
+            "wref" : "ファイル:Flag of Gunma Prefecture.svg"
+         },
+         {
+            "name" : "群馬県紋章",
+            "type" : "mark",
+            "wref" : "ファイル:Symbol of Gunma prefecture.png"
+         },
          {
             "name" : "クロマツ",
             "type" : "tree"
@@ -1317,9 +1490,12 @@
       "wikipedia_image_wref" : "ファイル:Yumomi.jpg"
    },
    "茨城県" : {
-      "flag_label" : "茨城県旗",
-      "flag_wref" : "ファイル:Flag of Ibaraki Prefecture.svg",
       "symbols" : [
+         {
+            "name" : "茨城県旗",
+            "type" : "flag",
+            "wref" : "ファイル:Flag of Ibaraki Prefecture.svg"
+         },
          {
             "name" : "ウメ",
             "type" : "tree"
@@ -1352,9 +1528,12 @@
       "wikipedia_image_wref" : "ファイル:Fukuroda Falls - 袋田の滝(ふくろだのたき).jpg"
    },
    "長崎県" : {
-      "flag_label" : "長崎県旗",
-      "flag_wref" : "ファイル:Flag of Nagasaki Prefecture.svg",
       "symbols" : [
+         {
+            "name" : "長崎県旗",
+            "type" : "flag",
+            "wref" : "ファイル:Flag of Nagasaki Prefecture.svg"
+         },
          {
             "name" : "ヒノキ",
             "type" : "tree"
@@ -1447,11 +1626,17 @@
       "wikipedia_image_wref" : "ファイル:Nagasaki-Glover-Garden-5415.jpg"
    },
    "長野県" : {
-      "flag_label" : "長野県旗",
-      "flag_wref" : "ファイル:Flag of Nagano Prefecture.svg",
-      "symbol_label" : "長野県章",
-      "symbol_wref" : "ファイル:Emblem of Nagano Prefecture.svg",
       "symbols" : [
+         {
+            "name" : "長野県旗",
+            "type" : "flag",
+            "wref" : "ファイル:Flag of Nagano Prefecture.svg"
+         },
+         {
+            "name" : "長野県章",
+            "type" : "mark",
+            "wref" : "ファイル:Emblem of Nagano Prefecture.svg"
+         },
          {
             "name" : "白樺",
             "type" : "tree"
@@ -1485,11 +1670,17 @@
       "wikipedia_image_wref" : "ファイル:Mount Shirouma from Mount Korenge 2000-7-31.jpg"
    },
    "青森県" : {
-      "flag_label" : "青森県旗",
-      "flag_wref" : "ファイル:Flag of Aomori Prefecture.svg",
-      "symbol_label" : "青森県章",
-      "symbol_wref" : "ファイル:Emblem of Aomori Prefecture.svg",
       "symbols" : [
+         {
+            "name" : "青森県旗",
+            "type" : "flag",
+            "wref" : "ファイル:Flag of Aomori Prefecture.svg"
+         },
+         {
+            "name" : "青森県章",
+            "type" : "mark",
+            "wref" : "ファイル:Emblem of Aomori Prefecture.svg"
+         },
          {
             "name" : "ヒバ",
             "type" : "tree"
@@ -1504,18 +1695,18 @@
          },
          {
             "label" : "県の魚",
-            "name" : " ヒラメ",
+            "name" : "ヒラメ",
             "type" : "fish"
          },
          {
             "date" : "1971",
-            "name" : " 青森県賛歌",
+            "name" : "青森県賛歌",
             "type" : "song"
          },
          {
             "date" : "2001",
             "label" : "県民の歌",
-            "name" : " 青い森のメッセージ",
+            "name" : "青い森のメッセージ",
             "type" : "song"
          }
       ],
@@ -1524,9 +1715,12 @@
       "wikipedia_image_wref" : "ファイル:Iwakisan 02.jpg"
    },
    "静岡県" : {
-      "flag_label" : "静岡県旗",
-      "flag_wref" : "ファイル:Flag of Shizuoka Prefecture.svg",
       "symbols" : [
+         {
+            "name" : "静岡県旗",
+            "type" : "flag",
+            "wref" : "ファイル:Flag of Shizuoka Prefecture.svg"
+         },
          {
             "name" : "モクセイ(キンモクセイ)",
             "type" : "tree"
@@ -1558,11 +1752,17 @@
       "wikipedia_image_wref" : "ファイル:20091228富士山.jpg"
    },
    "香川県" : {
-      "flag_label" : "香川県旗",
-      "flag_wref" : "ファイル:Flag of Kagawa Prefecture.svg",
-      "symbol_label" : "香川県章",
-      "symbol_wref" : "ファイル:Symbol of Kagawa Prefecture.svg",
       "symbols" : [
+         {
+            "name" : "香川県旗",
+            "type" : "flag",
+            "wref" : "ファイル:Flag of Kagawa Prefecture.svg"
+         },
+         {
+            "name" : "香川県章",
+            "type" : "mark",
+            "wref" : "ファイル:Symbol of Kagawa Prefecture.svg"
+         },
          {
             "name" : "オリーブ",
             "type" : "tree"
@@ -1596,11 +1796,17 @@
       "wikipedia_image_wref" : "ファイル:Takamatsu200910cut.JPG"
    },
    "高知県" : {
-      "flag_label" : "高知県旗",
-      "flag_wref" : "ファイル:Flag of Kochi Prefecture.svg",
-      "symbol_label" : "高知県章",
-      "symbol_wref" : "ファイル:Emblem of Kochi Prefecture.svg",
       "symbols" : [
+         {
+            "name" : "高知県旗",
+            "type" : "flag",
+            "wref" : "ファイル:Flag of Kochi Prefecture.svg"
+         },
+         {
+            "name" : "高知県章",
+            "type" : "mark",
+            "wref" : "ファイル:Emblem of Kochi Prefecture.svg"
+         },
          {
             "name" : "ヤナセスギ",
             "type" : "tree"
@@ -1629,9 +1835,12 @@
       "wikipedia_image_wref" : "ファイル:Shimanto River And Iwama Bridge 1.JPG"
    },
    "鳥取県" : {
-      "flag_label" : "鳥取県旗",
-      "flag_wref" : "ファイル:Flag of Tottori Prefecture.svg",
       "symbols" : [
+         {
+            "name" : "鳥取県旗",
+            "type" : "flag",
+            "wref" : "ファイル:Flag of Tottori Prefecture.svg"
+         },
          {
             "name" : "ダイセンキャラボク",
             "type" : "tree"
@@ -1664,9 +1873,12 @@
       "wikipedia_image_wref" : "ファイル:Tottori-Sakyu Tottori Japan.JPG"
    },
    "鹿児島県" : {
-      "flag_label" : "鹿児島県旗",
-      "flag_wref" : "ファイル:Flag of Kagoshima Prefecture.svg",
       "symbols" : [
+         {
+            "name" : "鹿児島県旗",
+            "type" : "flag",
+            "wref" : "ファイル:Flag of Kagoshima Prefecture.svg"
+         },
          {
             "name" : "カイコウズ",
             "type" : "tree"
