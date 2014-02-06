@@ -30,14 +30,46 @@ pmbp-update: git-submodules pmbp-upgrade
 pmbp-install: pmbp-upgrade
 	perl local/bin/pmbp.pl --install
 
+
+
+## ------ Wikipedia dumps ------
+
+wikipedia-dumps: local/cache/xml/jawiki-latest-pages-meta-current.xml
+
+%.xml: %.xml.bz2
+	bzcat $< > $@
+
+local/cache/xml/jawiki-latest-pages-meta-current.xml.bz2:
+	mkdir -p local/cache/xml
+	$(WGET) -O $@ http://download.wikimedia.org/jawiki/latest/jawiki-latest-pages-meta-current.xml.bz2
+
+wp-autoupdate: deps wp-clean wp-data
+
+wp-clean:
+	rm -fr intermediate/wikipedia-*.json
+
+wp-deps:
+	$(PERL) bin/prepare-wikipedia-cache.pl
+
+wp-data: wp-deps intermediate/wikipedia-prefs.json
+	$(GIT) add intermediate
+
+intermediate/wikipedia-prefs.json: local/jp-regions.json \
+    bin/wikipedia-prefs.pl #wikipedia-dump
+	mkdir -p intermediate
+	$(PERL) bin/wikipedia-prefs.pl > $@
+
 ## ------ Data ------
 
 all-jpregions: data/jp-regions.json
 clean-jpregions: clean-jpzip
 
-data/jp-regions.json: local/ken_all.csv local/ken_all_rome.csv \
+local/jp-regions.json: local/ken_all.csv local/ken_all_rome.csv \
     bin/jp-regions.pl
 	$(PERL) bin/jp-regions.pl > $@
+
+data/jp-regions.json: local/jp-regions.json
+	cp $< $@
 
 all-jpzip: data/jp-zip.json data/jp-zip.json.gz
 clean-jpzip:

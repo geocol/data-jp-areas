@@ -1,0 +1,1701 @@
+{
+   "三重県" : {
+      "flag_label" : "三重県旗",
+      "symbols" : [
+         {
+            "name" : "神宮杉",
+            "type" : "tree"
+         },
+         {
+            "name" : "ハナショウブ",
+            "type" : "flower"
+         },
+         {
+            "name" : "シロチドリ",
+            "type" : "bird"
+         },
+         {
+            "label" : "県の魚",
+            "name" : "伊勢えび",
+            "type" : "fish"
+         },
+         {
+            "label" : "県の獣",
+            "name" : "カモシカ",
+            "type" : "animal"
+         },
+         {
+            "name" : "三重県民歌",
+            "type" : "song"
+         },
+         {
+            "date_value" : "04-18",
+            "label" : "県民の日",
+            "type" : "day"
+         }
+      ],
+      "url" : "http://www.pref.mie.jp/",
+      "wikipedia_image_desc" : "伊勢神宮内宮の参道口である宇治橋",
+      "wikipedia_image_wref" : "ファイル:宇治橋02.jpg"
+   },
+   "京都府" : {
+      "flag_label" : "京都府旗",
+      "flag_wref" : "ファイル:Flag of Kyoto Prefecture.svg",
+      "symbol_label" : "京都府章",
+      "symbol_wref" : "ファイル:Symbol of Kyoto Prefecture.svg",
+      "symbols" : [
+         {
+            "name" : "北山杉",
+            "type" : "tree"
+         },
+         {
+            "name" : "しだれ桜",
+            "type" : "flower"
+         },
+         {
+            "name" : "嵯峨ぎく",
+            "type" : "flower"
+         },
+         {
+            "name" : "ナデシコ",
+            "type" : "flower"
+         },
+         {
+            "name" : "オオミズナギドリ",
+            "type" : "bird"
+         },
+         {
+            "date" : "1984",
+            "name" : "京都府の歌",
+            "type" : "song"
+         }
+      ],
+      "url" : "http://www.pref.kyoto.jp/",
+      "wikipedia_image_desc" : "天橋立",
+      "wikipedia_image_wref" : "ファイル:Amanohashidate view from Mt Moju02s3s4592.jpg"
+   },
+   "佐賀県" : {
+      "flag_label" : null,
+      "flag_wref" : "ファイル:Flag of Saga Prefecture.svg",
+      "symbol_wref" : "ファイル:Emblem of Saga prefecture.svg",
+      "symbols" : [
+         {
+            "name" : "クスの木",
+            "type" : "tree"
+         },
+         {
+            "name" : "クスの花",
+            "type" : "flower"
+         },
+         {
+            "name" : "カササギ(カチガラス)",
+            "type" : "bird"
+         },
+         {
+            "name" : "県歌「佐賀県民の歌」",
+            "type" : "song"
+         },
+         {
+            "name" : "さが・ふるさとの歌「栄の国から」",
+            "type" : "song"
+         },
+         {
+            "name" : "佐賀県準県歌「風はみらい色」",
+            "type" : "song"
+         }
+      ],
+      "url" : "http://www.pref.saga.lg.jp/",
+      "wikipedia_image_desc" : "吉野ヶ里遺跡",
+      "wikipedia_image_wref" : "ファイル:Yoshinogari Ancient Ruins 2008.jpg"
+   },
+   "兵庫県" : {
+      "flag_label" : "兵庫県旗",
+      "flag_wref" : "ファイル:Flag of Hyogo Prefecture.svg",
+      "symbol_label" : "兵庫県徽章",
+      "symbol_wref" : "ファイル:Emblem of Hyogo Prefecture.svg",
+      "symbols" : [
+         {
+            "name" : "クスノキ",
+            "type" : "tree"
+         },
+         {
+            "name" : "ノジギク",
+            "type" : "flower"
+         },
+         {
+            "name" : "コウノトリ",
+            "type" : "bird"
+         }
+      ],
+      "url" : "http://web.pref.hyogo.lg.jp/",
+      "wikipedia_image_desc" : "神戸メリケンパーク",
+      "wikipedia_image_wref" : "ファイル:Kobe-meriken-park.jpg"
+   },
+   "北海道" : {
+      "flag_label" : "北海道旗",
+      "flag_wref" : "ファイル:Flag of Hokkaido Prefecture.svg",
+      "symbols" : [
+         {
+            "name" : "エゾマツ",
+            "type" : "tree"
+         },
+         {
+            "name" : "アカエゾマツ",
+            "type" : "tree"
+         },
+         {
+            "name" : "ハマナス",
+            "type" : "flower"
+         },
+         {
+            "name" : "タンチョウ",
+            "type" : "bird"
+         },
+         {
+            "label" : "道民のうた",
+            "name" : "行進曲「光あふれて」"
+         },
+         {
+            "label" : "道民のうた",
+            "name" : "ホームソング「むかしのむかし」"
+         },
+         {
+            "label" : "道民のうた",
+            "name" : "音頭「北海ばやし」"
+         },
+         {
+            "label" : "道民のうた",
+            "name" : "道民体操(どさんこ体操)"
+         }
+      ],
+      "url" : "http://www.pref.hokkaido.lg.jp/",
+      "wikipedia_image_desc" : "十勝平野の大規模農場",
+      "wikipedia_image_wref" : "ファイル:Tokachi plain 01.jpg"
+   },
+   "千葉県" : {
+      "flag_label" : "千葉県旗",
+      "symbol_label" : "千葉県徽章",
+      "symbol_wref" : "ファイル:Emblem of Chiba prefecture.svg",
+      "symbols" : [
+         {
+            "date" : "1966-09-29",
+            "name" : "マキ",
+            "type" : "tree"
+         },
+         {
+            "date" : "1954-04",
+            "name" : "菜の花",
+            "type" : "flower"
+         },
+         {
+            "date" : "1965-05-10",
+            "name" : "ホオジロ",
+            "type" : "bird"
+         },
+         {
+            "date" : "1989-02-23",
+            "label" : "県魚",
+            "name" : "タイ",
+            "type" : "fish"
+         },
+         {
+            "date" : "1964-12",
+            "label" : "県歌",
+            "name" : "千葉県民歌",
+            "type" : "song"
+         },
+         {
+            "date" : "2011-01",
+            "label" : "県のマスコット",
+            "name" : "チーバくん"
+         },
+         {
+            "date_value" : "06-15",
+            "label" : "県民の日",
+            "type" : "day"
+         }
+      ],
+      "url" : "http://www.pref.chiba.lg.jp/",
+      "wikipedia_image_desc" : "成田山新勝寺",
+      "wikipedia_image_wref" : "ファイル:Naritasan-Shinshoji-Temple-2008.jpg"
+   },
+   "和歌山県" : {
+      "flag_label" : "和歌山県旗",
+      "flag_wref" : "ファイル:Flag of Wakayama Prefecture.svg",
+      "symbol_label" : "和歌山県章",
+      "symbol_wref" : "ファイル:Symbol of Wakayama Prefecture.svg",
+      "symbols" : [
+         {
+            "name" : "ウバメガシ",
+            "type" : "tree"
+         },
+         {
+            "name" : "ウメ",
+            "type" : "flower"
+         },
+         {
+            "name" : "メジロ",
+            "type" : "bird"
+         },
+         {
+            "label" : "県の魚",
+            "name" : "マグロ",
+            "type" : "fish"
+         },
+         {
+            "name" : "和歌山県民歌",
+            "song_by" : "山田耕筰",
+            "type" : "song"
+         }
+      ],
+      "url" : "http://www.pref.wakayama.lg.jp/",
+      "wikipedia_image_desc" : "高野山壇上伽藍",
+      "wikipedia_image_wref" : "ファイル:Danjogaran Koyasan12n3200.jpg"
+   },
+   "埼玉県" : {
+      "flag_label" : "埼玉県旗",
+      "flag_wref" : "ファイル:Flag of Saitama Prefecture.svg",
+      "symbols" : [
+         {
+            "name" : "ケヤキ",
+            "type" : "tree"
+         },
+         {
+            "name" : "サクラソウ",
+            "type" : "flower"
+         },
+         {
+            "name" : "シラコバト",
+            "type" : "bird"
+         },
+         {
+            "label" : "県の魚",
+            "name" : "ムサシトミヨ",
+            "type" : "fish"
+         },
+         {
+            "label" : "県の蝶",
+            "name" : "ミドリシジミ"
+         },
+         {
+            "label" : "県のマスコット",
+            "name" : "コバトン"
+         },
+         {
+            "name" : "埼玉県歌",
+            "type" : "song"
+         },
+         {
+            "date_value" : "11-14",
+            "label" : "県民の日",
+            "type" : "day"
+         }
+      ],
+      "url" : "http://www.pref.saitama.lg.jp/",
+      "wikipedia_image_desc" : "彩湖に架かる幸魂大橋",
+      "wikipedia_image_wref" : "ファイル:Sakitama-bridge.jpg"
+   },
+   "大分県" : {
+      "flag_label" : "大分県旗",
+      "flag_wref" : "ファイル:Flag of Oita Prefecture.svg",
+      "symbol_label" : "大分県徽章",
+      "symbol_wref" : "ファイル:Symbol of Oita prefecture.png",
+      "symbols" : [
+         {
+            "name" : "ブンゴウメ",
+            "type" : "tree"
+         },
+         {
+            "name" : "ブンゴウメの花",
+            "type" : "flower"
+         },
+         {
+            "name" : "メジロ",
+            "type" : "bird"
+         },
+         {
+            "date_value" : "11-14",
+            "label" : "大分県の日",
+            "type" : "day"
+         }
+      ],
+      "url" : "http://www.pref.oita.lg.jp/",
+      "wikipedia_image_desc" : "別府温泉(海地獄)",
+      "wikipedia_image_wref" : "ファイル:Beppu Umi-jigoku04n4272.jpg"
+   },
+   "大阪府" : {
+      "flag_label" : "大阪府旗",
+      "flag_wref" : "ファイル:Flag of Osaka Prefecture.svg",
+      "symbols" : [
+         {
+            "name" : "イチョウ",
+            "type" : "tree"
+         },
+         {
+            "name" : "ウメ",
+            "type" : "flower"
+         },
+         {
+            "name" : "サクラソウ",
+            "type" : "flower"
+         },
+         {
+            "name" : "モズ",
+            "type" : "bird"
+         }
+      ],
+      "url" : "http://www.pref.osaka.jp/",
+      "wikipedia_image_desc" : "生駒山地を背景に大坂城と大阪ビジネスパーク",
+      "wikipedia_image_wref" : "ファイル:Osaka Castle Park 20071230.jpg"
+   },
+   "奈良県" : {
+      "flag_label" : "奈良県旗",
+      "flag_wref" : "ファイル:Flag of Nara Prefecture.svg",
+      "symbol_label" : "奈良県章",
+      "symbol_wref" : "ファイル:Symbol of Nara Prefecture.svg",
+      "symbols" : [
+         {
+            "name" : "スギ",
+            "type" : "tree"
+         },
+         {
+            "name" : "ナラヤエザクラ",
+            "type" : "flower"
+         },
+         {
+            "name" : "コマドリ",
+            "type" : "bird"
+         },
+         {
+            "label" : "県のさかな",
+            "name" : "キンギョ"
+         },
+         {
+            "label" : "県のさかな",
+            "name" : "アユ"
+         },
+         {
+            "label" : "県のさかな",
+            "name" : "アマゴ"
+         },
+         {
+            "name" : "奈良県民の歌",
+            "type" : "song"
+         }
+      ],
+      "url" : "http://www.pref.nara.jp/",
+      "wikipedia_image_desc" : "吉野山",
+      "wikipedia_image_wref" : "ファイル:Cherry blossoms at Yoshinoyama 10.jpg"
+   },
+   "宮城県" : {
+      "flag_label" : "宮城県旗",
+      "flag_wref" : "ファイル:Flag of Miyagi Prefecture.svg",
+      "symbols" : [
+         {
+            "name" : "ケヤキ",
+            "type" : "tree"
+         },
+         {
+            "name" : "ミヤギノハギ",
+            "type" : "flower"
+         },
+         {
+            "name" : "ガン",
+            "type" : "bird"
+         },
+         {
+            "label" : "県の獣",
+            "name" : "シカ",
+            "type" : "animal"
+         },
+         {
+            "label" : "県民の歌",
+            "name" : "輝く郷土",
+            "type" : "song"
+         }
+      ],
+      "url" : "http://www.pref.miyagi.jp/",
+      "wikipedia_image_desc" : "大高森から望む松島の夕景",
+      "wikipedia_image_wref" : "ファイル:Ootakamori evening.JPG"
+   },
+   "宮崎県" : {
+      "flag_label" : "宮崎県旗",
+      "flag_wref" : "ファイル:Flag of Miyazaki Prefecture.svg",
+      "symbol_label" : "宮崎県徽章",
+      "symbol_wref" : "ファイル:Symbol of Miyazaki prefecture.png",
+      "symbols" : [
+         {
+            "date" : "1966-09-03",
+            "name" : "フェニックス",
+            "type" : "tree"
+         },
+         {
+            "date" : "2003-02-06",
+            "name" : "ヤマザクラ",
+            "type" : "tree"
+         },
+         {
+            "date" : "2003-02-06",
+            "name" : "オビスギ",
+            "type" : "tree"
+         },
+         {
+            "date" : "1964-12-22",
+            "name" : "ハマユウ",
+            "type" : "flower"
+         },
+         {
+            "date" : "1964-12-22",
+            "name" : "コシジロヤマドリ",
+            "type" : "bird"
+         },
+         {
+            "date" : "1964",
+            "name" : "宮崎県民歌",
+            "type" : "song"
+         }
+      ],
+      "url" : "http://www.pref.miyazaki.lg.jp/",
+      "wikipedia_image_desc" : "高千穂峡",
+      "wikipedia_image_wref" : "ファイル:Takachihokyou55.jpg"
+   },
+   "富山県" : {
+      "flag_date" : "1988-12-27",
+      "flag_label" : "富山県旗",
+      "flag_wref" : "ファイル:Flag of Toyama.svg",
+      "symbols" : [
+         {
+            "name" : "タテヤマスギ",
+            "type" : "tree"
+         },
+         {
+            "name" : "チューリップ",
+            "type" : "flower"
+         },
+         {
+            "name" : "ライチョウ",
+            "type" : "bird"
+         },
+         {
+            "label" : "県の獣",
+            "name" : "ニホンカモシカ",
+            "type" : "animal"
+         },
+         {
+            "label" : "県の魚",
+            "name" : "ブリ",
+            "type" : "fish"
+         },
+         {
+            "label" : "県の魚",
+            "name" : "シロエビ",
+            "type" : "fish"
+         },
+         {
+            "label" : "県の魚",
+            "name" : "ホタルイカ",
+            "type" : "fish"
+         },
+         {
+            "name" : "富山県民の歌",
+            "type" : "song"
+         }
+      ],
+      "url" : "http://www.pref.toyama.lg.jp/",
+      "wikipedia_image_desc" : "呉羽丘陵から望む立山連峰と富山市街",
+      "wikipedia_image_wref" : "ファイル:Tsurugi-toyama 16-9.jpg"
+   },
+   "山口県" : {
+      "flag_label" : "山口県旗",
+      "flag_wref" : "ファイル:Flag of Yamaguchi Prefecture.svg",
+      "symbols" : [
+         {
+            "name" : "アカマツ",
+            "type" : "tree"
+         },
+         {
+            "name" : "夏みかんの花",
+            "type" : "flower"
+         },
+         {
+            "name" : "ナベヅル",
+            "type" : "bird"
+         },
+         {
+            "label" : "県の魚",
+            "name" : "フグ",
+            "type" : "fish"
+         },
+         {
+            "label" : "県の獣",
+            "name" : "ホンシュウジカ",
+            "type" : "animal"
+         },
+         {
+            "name" : "山口県民の歌",
+            "type" : "song"
+         }
+      ],
+      "url" : "http://www.pref.yamaguchi.lg.jp/",
+      "wikipedia_image_desc" : "角島",
+      "wikipedia_image_wref" : "ファイル:Tunoshima sea side.JPG"
+   },
+   "山形県" : {
+      "flag_label" : "山形県旗",
+      "flag_wref" : "ファイル:Flag of Yamagata Prefecture.svg",
+      "symbol_label" : "山形県章",
+      "symbol_wref" : "ファイル:Symbol of Yamagata Prefecture.svg",
+      "symbols" : [
+         {
+            "name" : "サクランボ",
+            "type" : "tree"
+         },
+         {
+            "name" : "ベニバナ",
+            "type" : "flower"
+         },
+         {
+            "name" : "オシドリ",
+            "type" : "bird"
+         },
+         {
+            "label" : "県の魚",
+            "name" : "サクラマス",
+            "type" : "fish"
+         },
+         {
+            "label" : "県の獣",
+            "name" : "カモシカ",
+            "type" : "animal"
+         },
+         {
+            "label" : "県民の歌",
+            "name" : "最上川",
+            "type" : "song"
+         }
+      ],
+      "url" : "http://www.pref.yamagata.jp/",
+      "wikipedia_image_desc" : "月山",
+      "wikipedia_image_wref" : "ファイル:Precincts of Gassan jinja.JPG"
+   },
+   "山梨県" : {
+      "flag_label" : "山梨県旗",
+      "flag_wref" : "ファイル:Flag of Yamanashi Prefecture.svg",
+      "symbol_label" : "山梨県章",
+      "symbol_wref" : "ファイル:Emblem of Yamanashi prefecture.svg",
+      "symbols" : [
+         {
+            "name" : "カエデ",
+            "type" : "tree"
+         },
+         {
+            "name" : "フジザクラ",
+            "type" : "flower"
+         },
+         {
+            "name" : "ウグイス",
+            "type" : "bird"
+         },
+         {
+            "label" : "県の獣",
+            "name" : "カモシカ",
+            "type" : "animal"
+         },
+         {
+            "name" : "山梨県の歌",
+            "type" : "song"
+         },
+         {
+            "date_value" : "11-20",
+            "label" : "県民の日",
+            "type" : "day"
+         }
+      ],
+      "url" : "http://www.pref.yamanashi.jp/",
+      "wikipedia_image_desc" : "春の河口湖と富士山",
+      "wikipedia_image_wref" : "ファイル:Lake Kawaguchiko Sakura Mount Fuji 3.JPG"
+   },
+   "岐阜県" : {
+      "flag_label" : "岐阜県旗",
+      "flag_wref" : "ファイル:Flag of Gifu Prefecture.svg",
+      "symbol_label" : "岐阜県徽章",
+      "symbol_wref" : "ファイル:Emblem of Gifu Prefecture.svg",
+      "symbols" : [
+         {
+            "name" : "イチイ",
+            "type" : "tree"
+         },
+         {
+            "name" : "レンゲソウ",
+            "type" : "flower"
+         },
+         {
+            "name" : "ライチョウ",
+            "type" : "bird"
+         },
+         {
+            "label" : "県の魚",
+            "name" : "アユ",
+            "type" : "fish"
+         },
+         {
+            "name" : "岐阜県民の歌",
+            "type" : "song"
+         }
+      ],
+      "url" : "http://www.pref.gifu.lg.jp/",
+      "wikipedia_image_desc" : "白川郷",
+      "wikipedia_image_wref" : "ファイル:Ogi Shirakawa02bs3200.jpg"
+   },
+   "岡山県" : {
+      "flag_label" : "岡山県旗",
+      "flag_wref" : "ファイル:Flag of Okayama Prefecture.svg",
+      "symbols" : [
+         {
+            "name" : "アカマツ",
+            "type" : "tree"
+         },
+         {
+            "name" : "ももの花",
+            "type" : "flower"
+         },
+         {
+            "name" : "キジ",
+            "type" : "bird"
+         },
+         {
+            "date_value" : "11-01",
+            "label" : "おかやま教育の日",
+            "type" : "day"
+         },
+         {
+            "date" : "1957",
+            "label" : "県歌",
+            "name" : "岡山県の歌",
+            "type" : "song"
+         },
+         {
+            "date" : "1982",
+            "label" : "県民愛唱歌",
+            "name" : "みんなのこころに",
+            "type" : "song"
+         },
+         {
+            "label" : "マスコット",
+            "name" : "ももっち"
+         }
+      ],
+      "url" : "http://www.pref.okayama.lg.jp/",
+      "wikipedia_image_desc" : "後楽園と岡山城",
+      "wikipedia_image_wref" : "ファイル:Okayama Korakuen Garden01.jpg"
+   },
+   "岩手県" : {
+      "flag_label" : "岩手県旗",
+      "flag_wref" : "ファイル:Flag of Iwate Prefecture.svg",
+      "symbols" : [
+         {
+            "name" : "ナンブアカマツ",
+            "type" : "tree"
+         },
+         {
+            "name" : "キリ",
+            "type" : "flower"
+         },
+         {
+            "name" : "キジ",
+            "type" : "bird"
+         },
+         {
+            "label" : "県の魚",
+            "name" : "ナンブサケ",
+            "type" : "fish"
+         },
+         {
+            "name" : "岩手県民の歌",
+            "type" : "song"
+         }
+      ],
+      "url" : "http://www.pref.iwate.jp/",
+      "wikipedia_image_desc" : "盛岡市の北上川畔から望む岩手山",
+      "wikipedia_image_wref" : "ファイル:Mt. Iwate and Morioka.jpg"
+   },
+   "島根県" : {
+      "flag_label" : "島根県旗",
+      "flag_wref" : "ファイル:Flag of Shimane Prefecture.svg",
+      "symbols" : [
+         {
+            "name" : "クロマツ",
+            "type" : "tree"
+         },
+         {
+            "name" : "ボタン",
+            "type" : "flower"
+         },
+         {
+            "name" : "ハクチョウ",
+            "type" : "bird"
+         },
+         {
+            "label" : "県の魚",
+            "name" : "トビウオ",
+            "type" : "fish"
+         },
+         {
+            "date" : "1951",
+            "label" : "県民歌",
+            "name" : "薄紫の山脈",
+            "type" : "song"
+         }
+      ],
+      "url" : "http://www.pref.shimane.lg.jp/",
+      "wikipedia_image_desc" : "出雲大社(拝殿)",
+      "wikipedia_image_wref" : "ファイル:Izumo-taisha16nt3200.jpg"
+   },
+   "広島県" : {
+      "flag_label" : "広島県旗",
+      "flag_wref" : "ファイル:Flag of Hiroshima Prefecture.svg",
+      "symbols" : [
+         {
+            "name" : "モミジ",
+            "type" : "tree"
+         },
+         {
+            "name" : "モミジ",
+            "type" : "flower"
+         },
+         {
+            "name" : "アビ",
+            "type" : "bird"
+         },
+         {
+            "label" : "県の魚",
+            "name" : "カキ",
+            "type" : "fish"
+         }
+      ],
+      "url" : "http://www.pref.hiroshima.lg.jp/",
+      "wikipedia_image_desc" : "厳島神社",
+      "wikipedia_image_wref" : "ファイル:Itsukushima torii distance.jpg"
+   },
+   "徳島県" : {
+      "flag_label" : "徳島県旗",
+      "symbols" : [
+         {
+            "name" : "ヤマモモ",
+            "type" : "tree"
+         },
+         {
+            "name" : "すだちの花",
+            "type" : "flower"
+         },
+         {
+            "name" : "シラサギ",
+            "type" : "bird"
+         },
+         {
+            "name" : "徳島県民の歌",
+            "type" : "song"
+         }
+      ],
+      "url" : "http://www.pref.tokushima.jp/",
+      "wikipedia_image_desc" : "鳴門海峡に架かる大鳴門橋",
+      "wikipedia_image_wref" : "ファイル:Onaruto-bridge and Naruto Channel,Naruto-city,Japan.JPG"
+   },
+   "愛媛県" : {
+      "flag_label" : "愛媛県旗",
+      "flag_wref" : "ファイル:Flag of Ehime Prefecture.svg",
+      "symbol_label" : "愛媛県章",
+      "symbol_wref" : "ファイル:Emblem of Ehime prefecture.svg",
+      "symbols" : [
+         {
+            "name" : "マツ",
+            "type" : "tree"
+         },
+         {
+            "name" : "みかんの花",
+            "type" : "flower"
+         },
+         {
+            "name" : "コマドリ",
+            "type" : "bird"
+         },
+         {
+            "label" : "県の魚",
+            "name" : " マダイ",
+            "type" : "fish"
+         },
+         {
+            "label" : "県の獣",
+            "name" : " ニッポンカワウソ",
+            "type" : "animal"
+         },
+         {
+            "name" : " 愛媛の歌",
+            "type" : "song"
+         },
+         {
+            "label" : "県民の日",
+            "name" : " 2月20日(県政発足記念日)",
+            "type" : "day"
+         },
+         {
+            "label" : "マスコットキャラクター",
+            "name" : " みきゃん"
+         }
+      ],
+      "url" : "http://www.pref.ehime.jp/",
+      "wikipedia_image_desc" : "亀老山から望む来島海峡大橋(しまなみ海道)",
+      "wikipedia_image_wref" : "ファイル:Kurushimakaikyo Ohashi bridge from Mt.Kirosan.jpg"
+   },
+   "愛知県" : {
+      "flag_label" : "愛知県旗",
+      "flag_wref" : "ファイル:Flag of Aichi Prefecture.svg",
+      "symbol_label" : "愛知県章",
+      "symbol_wref" : "ファイル:Symbol of Aichi Prefecture.svg",
+      "symbols" : [
+         {
+            "name" : "ハナノキ",
+            "type" : "tree"
+         },
+         {
+            "name" : "カキツバタ",
+            "type" : "flower"
+         },
+         {
+            "name" : "コノハズク",
+            "type" : "bird"
+         },
+         {
+            "label" : "県の魚",
+            "name" : "クルマエビ",
+            "type" : "fish"
+         },
+         {
+            "label" : "県民歌",
+            "name" : "われらが愛知",
+            "type" : "song"
+         }
+      ],
+      "url" : "http://www.pref.aichi.jp/",
+      "wikipedia_image_desc" : "名古屋城",
+      "wikipedia_image_wref" : "ファイル:Nagoya Castle(Larger).jpg"
+   },
+   "新潟県" : {
+      "flag_label" : "新潟県旗",
+      "flag_wref" : "ファイル:Flag of Niigata Prefecture.svg",
+      "symbol_label" : "シンボルマーク",
+      "symbol_wref" : "ファイル:Symbol mark of Niigata Prefecture.svg",
+      "symbols" : [
+         {
+            "name" : "ユキツバキ",
+            "type" : "tree"
+         },
+         {
+            "name" : "チューリップ",
+            "type" : "flower"
+         },
+         {
+            "name" : "トキ",
+            "type" : "bird"
+         },
+         {
+            "date" : "2008-03-01",
+            "label" : "県の草花",
+            "name" : " 雪割草"
+         },
+         {
+            "date" : "1948-03-28",
+            "name" : " 新潟県民歌",
+            "type" : "song"
+         }
+      ],
+      "url" : "http://www.pref.niigata.lg.jp/",
+      "wikipedia_image_desc" : "新潟県庁より新潟市街",
+      "wikipedia_image_wref" : "ファイル:Niigata003.png"
+   },
+   "東京都" : {
+      "flag_label" : "東京都旗",
+      "flag_wref" : "ファイル:Flag of Tokyo.svg",
+      "symbol_label" : "東京都シンボル旗",
+      "symbol_wref" : "ファイル:Symbol flag of Tokyo.svg",
+      "symbols" : [
+         {
+            "name" : "イチョウ",
+            "type" : "tree"
+         },
+         {
+            "name" : "ソメイヨシノ",
+            "type" : "flower"
+         },
+         {
+            "name" : "ユリカモメ",
+            "type" : "bird"
+         },
+         {
+            "name" : "東京市歌",
+            "type" : "song"
+         },
+         {
+            "name" : "東京都歌",
+            "type" : "song"
+         },
+         {
+            "date_value" : "10-01",
+            "label" : "都民の日",
+            "type" : "day"
+         }
+      ],
+      "url" : "http://www.metro.tokyo.jp/",
+      "wikipedia_image_desc" : "新宿副都心",
+      "wikipedia_image_wref" : "ファイル:Skyscrapers of Shinjuku 2009 January.jpg"
+   },
+   "栃木県" : {
+      "flag_label" : "栃木県旗",
+      "flag_wref" : "ファイル:Flag of Tochigi Prefecture.svg",
+      "symbols" : [
+         {
+            "name" : "トチノキ",
+            "type" : "tree"
+         },
+         {
+            "name" : "ヤシオツツジ",
+            "type" : "flower"
+         },
+         {
+            "name" : "オオルリ",
+            "type" : "bird"
+         },
+         {
+            "label" : "県の獣",
+            "name" : "ニホンカモシカ",
+            "type" : "animal"
+         },
+         {
+            "label" : "県民の歌",
+            "name" : "県民の歌",
+            "type" : "song"
+         },
+         {
+            "date_value" : "06-15",
+            "label" : "県民の日",
+            "type" : "day"
+         }
+      ],
+      "url" : "http://www.pref.tochigi.lg.jp/",
+      "wikipedia_image_desc" : "日光東照宮",
+      "wikipedia_image_wref" : "ファイル:20100727 Nikko Tosho-gu Yomeimon 5889.jpg"
+   },
+   "沖縄県" : {
+      "flag_label" : "沖縄県旗",
+      "flag_wref" : "ファイル:Flag of Okinawa Prefecture.svg",
+      "symbol_label" : "沖縄県章",
+      "symbol_wref" : "ファイル:Symbol of Okinawa Prefecture.svg",
+      "symbols" : [
+         {
+            "name" : "リュウキュウマツ",
+            "type" : "tree"
+         },
+         {
+            "name" : "デイゴ",
+            "type" : "flower"
+         },
+         {
+            "name" : "ノグチゲラ",
+            "type" : "bird"
+         },
+         {
+            "label" : "県の魚",
+            "name" : " タカサゴ(グルクン)",
+            "type" : "fish"
+         },
+         {
+            "name" : " 沖縄県民の歌",
+            "type" : "song"
+         },
+         {
+            "label" : "本土復帰記念日",
+            "name" : " 5月15日",
+            "type" : "day"
+         },
+         {
+            "label" : "慰霊の日",
+            "name" : " 6月23日",
+            "type" : "day"
+         }
+      ],
+      "url" : "http://www.pref.okinawa.lg.jp/",
+      "wikipedia_image_desc" : "竹富島",
+      "wikipedia_image_wref" : "ファイル:Village in Taketomi Island - located at southwest Japan.jpg"
+   },
+   "滋賀県" : {
+      "flag_label" : "滋賀県旗",
+      "flag_wref" : "ファイル:Flag of Shiga Prefecture.svg",
+      "symbol_label" : "滋賀県章",
+      "symbol_wref" : "ファイル:Emblem of Shiga prefecture.svg",
+      "symbols" : [
+         {
+            "name" : "モミジ",
+            "type" : "tree"
+         },
+         {
+            "name" : "シャクナゲ",
+            "type" : "flower"
+         },
+         {
+            "name" : "カイツブリ",
+            "type" : "bird"
+         },
+         {
+            "label" : "県民の歌",
+            "name" : "滋賀県民の歌",
+            "type" : "song"
+         },
+         {
+            "label" : "シンボルマーク",
+            "name" : "Mother Lake"
+         },
+         {
+            "label" : "イメージキャラクター",
+            "name" : "うぉーたん"
+         },
+         {
+            "label" : "イメージキャラクター",
+            "name" : "キャッフィー"
+         },
+         {
+            "date_value" : "07-01",
+            "label" : "びわ湖の日",
+            "type" : "day"
+         }
+      ],
+      "url" : "http://www.pref.shiga.lg.jp",
+      "wikipedia_image_desc" : "都久夫須麻神社から望む琵琶湖",
+      "wikipedia_image_wref" : "ファイル:Chikubusumajinja01s3200.jpg"
+   },
+   "熊本県" : {
+      "flag_label" : "熊本県旗",
+      "flag_wref" : "ファイル:Flag of Kumamoto Prefecture.svg",
+      "symbols" : [
+         {
+            "name" : "クスノキ",
+            "type" : "tree"
+         },
+         {
+            "name" : "リンドウ",
+            "type" : "flower"
+         },
+         {
+            "name" : "ヒバリ",
+            "type" : "bird"
+         },
+         {
+            "label" : "県の魚",
+            "name" : "クルマエビ",
+            "type" : "fish"
+         },
+         {
+            "name" : "熊本県民の歌",
+            "type" : "song"
+         }
+      ],
+      "url" : "http://www.pref.kumamoto.jp/",
+      "wikipedia_image_desc" : "阿蘇山",
+      "wikipedia_image_wref" : "ファイル:Mt.Aso and caldera01.jpg"
+   },
+   "石川県" : {
+      "flag_label" : "石川県旗",
+      "flag_wref" : "ファイル:Flag of Ishikawa Prefecture.svg",
+      "symbols" : [
+         {
+            "name" : "アテ",
+            "type" : "tree"
+         },
+         {
+            "name" : "クロユリ",
+            "type" : "flower"
+         },
+         {
+            "name" : "イヌワシ",
+            "type" : "bird"
+         },
+         {
+            "name" : "石川県民の歌",
+            "type" : "song"
+         }
+      ],
+      "url" : "http://www.pref.ishikawa.lg.jp",
+      "wikipedia_image_desc" : "兼六園",
+      "wikipedia_image_wref" : "ファイル:Kenroku-en Kotoji Lantern 5.jpg"
+   },
+   "神奈川県" : {
+      "flag_label" : "神奈川県旗",
+      "flag_wref" : "ファイル:Flag of Kanagawa Prefecture.svg",
+      "symbols" : [
+         {
+            "name" : "イチョウ",
+            "type" : "tree"
+         },
+         {
+            "name" : "ヤマユリ",
+            "type" : "flower"
+         },
+         {
+            "name" : "カモメ",
+            "type" : "bird"
+         },
+         {
+            "label" : "県の色",
+            "name" : "かながわブルー"
+         },
+         {
+            "label" : "県民歌",
+            "name" : "光あらたに",
+            "type" : "song"
+         }
+      ],
+      "url" : "http://www.pref.kanagawa.jp/",
+      "wikipedia_image_desc" : "湘南海岸(稲村ヶ崎から望む七里ヶ浜と江の島)",
+      "wikipedia_image_wref" : "ファイル:Shichirigahama from Inamuragasaki.jpg"
+   },
+   "福井県" : {
+      "flag_label" : "福井県旗",
+      "flag_wref" : "ファイル:Flag of Fukui Prefecture.svg",
+      "symbol_label" : "福井県章",
+      "symbol_wref" : "ファイル:Emblem of Fukui prefecture.svg",
+      "symbols" : [
+         {
+            "name" : "松",
+            "type" : "tree"
+         },
+         {
+            "name" : "水仙",
+            "type" : "flower"
+         },
+         {
+            "name" : "つぐみ",
+            "type" : "bird"
+         },
+         {
+            "label" : "県の魚",
+            "name" : "越前蟹",
+            "type" : "fish"
+         },
+         {
+            "name" : "福井県民歌",
+            "type" : "song"
+         },
+         {
+            "date_value" : "02-07",
+            "label" : "ふるさとの日",
+            "type" : "day"
+         }
+      ],
+      "url" : "http://www.pref.fukui.lg.jp",
+      "wikipedia_image_desc" : "東尋坊",
+      "wikipedia_image_wref" : "ファイル:Japan Tojinbo02n4592.jpg"
+   },
+   "福岡県" : {
+      "flag_label" : "福岡県旗",
+      "flag_wref" : "ファイル:Flag of Fukuoka Prefecture.svg",
+      "symbols" : [
+         {
+            "name" : "ツツジ",
+            "type" : "tree"
+         },
+         {
+            "name" : "ウメ",
+            "type" : "flower"
+         },
+         {
+            "name" : "ウグイス",
+            "type" : "bird"
+         },
+         {
+            "name" : "福岡県民の歌「希望の光」",
+            "type" : "song"
+         }
+      ],
+      "url" : "http://www.pref.fukuoka.lg.jp/",
+      "wikipedia_image_desc" : "太宰府天満宮",
+      "wikipedia_image_wref" : "ファイル:20100719 Dazaifu Tenmangu Shrine 3328.jpg"
+   },
+   "福島県" : {
+      "flag_label" : "福島県旗",
+      "flag_wref" : "ファイル:Flag of Fukushima Prefecture.svg",
+      "symbols" : [
+         {
+            "name" : "ケヤキ",
+            "type" : "tree"
+         },
+         {
+            "name" : "ネモトシャクナゲ",
+            "type" : "flower"
+         },
+         {
+            "name" : "キビタキ",
+            "type" : "bird"
+         },
+         {
+            "name" : "福島県県民の歌",
+            "type" : "song"
+         },
+         {
+            "date_value" : "08-21",
+            "label" : "県民の日",
+            "type" : "day"
+         }
+      ],
+      "url" : "http://www.pref.fukushima.jp/",
+      "wikipedia_image_desc" : "大内宿",
+      "wikipedia_image_wref" : "ファイル:Ja-fukushima-ohuchijuku-7.jpg"
+   },
+   "秋田県" : {
+      "flag_label" : "秋田県旗",
+      "flag_wref" : "ファイル:Flag of Akita Prefecture.svg",
+      "symbols" : [
+         {
+            "name" : "秋田杉",
+            "type" : "tree"
+         },
+         {
+            "name" : "フキノトウ",
+            "type" : "flower"
+         },
+         {
+            "name" : "ヤマドリ",
+            "type" : "bird"
+         },
+         {
+            "label" : "県の魚",
+            "name" : "ハタハタ",
+            "type" : "fish"
+         },
+         {
+            "name" : "秋田県民歌、県民の歌",
+            "type" : "song"
+         }
+      ],
+      "url" : "http://www.pref.akita.lg.jp/",
+      "wikipedia_image_desc" : "秋田竿燈まつり",
+      "wikipedia_image_wref" : "ファイル:Hiru kanto 1.jpg"
+   },
+   "群馬県" : {
+      "flag_label" : "群馬県旗",
+      "flag_wref" : "ファイル:Flag of Gunma Prefecture.svg",
+      "symbol_label" : "群馬県紋章",
+      "symbol_wref" : "ファイル:Symbol of Gunma prefecture.png",
+      "symbols" : [
+         {
+            "name" : "クロマツ",
+            "type" : "tree"
+         },
+         {
+            "name" : "レンゲツツジ",
+            "type" : "flower"
+         },
+         {
+            "name" : "ヤマドリ",
+            "type" : "bird"
+         },
+         {
+            "label" : "県の魚",
+            "name" : "アユ",
+            "type" : "fish"
+         },
+         {
+            "name" : "群馬県の歌",
+            "type" : "song"
+         },
+         {
+            "date_value" : "10-28",
+            "label" : "県民の日",
+            "type" : "day"
+         }
+      ],
+      "url" : "http://www.pref.gunma.lg.jp/",
+      "wikipedia_image_desc" : "草津温泉",
+      "wikipedia_image_wref" : "ファイル:Yumomi.jpg"
+   },
+   "茨城県" : {
+      "flag_label" : "茨城県旗",
+      "flag_wref" : "ファイル:Flag of Ibaraki Prefecture.svg",
+      "symbols" : [
+         {
+            "name" : "ウメ",
+            "type" : "tree"
+         },
+         {
+            "name" : "バラ",
+            "type" : "flower"
+         },
+         {
+            "name" : "ヒバリ",
+            "type" : "bird"
+         },
+         {
+            "label" : "県の魚",
+            "name" : "ヒラメ",
+            "type" : "fish"
+         },
+         {
+            "label" : "県民の歌",
+            "name" : "茨城県民の歌",
+            "type" : "song"
+         },
+         {
+            "label" : "県民体操",
+            "name" : "茨城県民体操"
+         }
+      ],
+      "url" : "http://www.pref.ibaraki.lg.jp/",
+      "wikipedia_image_desc" : "袋田の滝",
+      "wikipedia_image_wref" : "ファイル:Fukuroda Falls - 袋田の滝(ふくろだのたき).jpg"
+   },
+   "長崎県" : {
+      "flag_label" : "長崎県旗",
+      "flag_wref" : "ファイル:Flag of Nagasaki Prefecture.svg",
+      "symbols" : [
+         {
+            "name" : "ヒノキ",
+            "type" : "tree"
+         },
+         {
+            "name" : "ツバキ",
+            "type" : "tree"
+         },
+         {
+            "name" : "雲仙ツツジ",
+            "type" : "flower"
+         },
+         {
+            "name" : "オシドリ",
+            "type" : "bird"
+         },
+         {
+            "date" : "1961",
+            "name" : "南の風",
+            "type" : "song"
+         },
+         {
+            "label" : "県の獣",
+            "name" : "九州シカ",
+            "type" : "animal"
+         },
+         {
+            "label" : "県の魚(春)",
+            "name" : "タイ",
+            "type" : "fish"
+         },
+         {
+            "label" : "県の魚(春)",
+            "name" : "イカ",
+            "type" : "fish"
+         },
+         {
+            "label" : "県の魚(春)",
+            "name" : "アマダイ",
+            "type" : "fish"
+         },
+         {
+            "label" : "県の魚(夏)",
+            "name" : "アジ",
+            "type" : "fish"
+         },
+         {
+            "label" : "県の魚(夏)",
+            "name" : "イサキ",
+            "type" : "fish"
+         },
+         {
+            "label" : "県の魚(夏)",
+            "name" : "アワビ",
+            "type" : "fish"
+         },
+         {
+            "label" : "県の魚(秋)",
+            "name" : "サバ",
+            "type" : "fish"
+         },
+         {
+            "label" : "県の魚(秋)",
+            "name" : "トビウオ",
+            "type" : "fish"
+         },
+         {
+            "label" : "県の魚(秋)",
+            "name" : "ヒラメ",
+            "type" : "fish"
+         },
+         {
+            "label" : "県の魚(冬)",
+            "name" : "ブリ",
+            "type" : "fish"
+         },
+         {
+            "label" : "県の魚(冬)",
+            "name" : "イワシ",
+            "type" : "fish"
+         },
+         {
+            "label" : "県の魚(冬)",
+            "name" : "フグ",
+            "type" : "fish"
+         }
+      ],
+      "url" : "http://www.pref.nagasaki.lg.jp/",
+      "wikipedia_image_desc" : "グラバー園",
+      "wikipedia_image_wref" : "ファイル:Nagasaki-Glover-Garden-5415.jpg"
+   },
+   "長野県" : {
+      "flag_label" : "長野県旗",
+      "flag_wref" : "ファイル:Flag of Nagano Prefecture.svg",
+      "symbol_label" : "長野県章",
+      "symbol_wref" : "ファイル:Emblem of Nagano Prefecture.svg",
+      "symbols" : [
+         {
+            "name" : "白樺",
+            "type" : "tree"
+         },
+         {
+            "name" : "リンドウ",
+            "type" : "flower"
+         },
+         {
+            "name" : "雷鳥",
+            "type" : "bird"
+         },
+         {
+            "label" : "県歌",
+            "name" : "信濃の国",
+            "type" : "song"
+         },
+         {
+            "label" : "県獣",
+            "name" : "ニホンカモシカ",
+            "type" : "animal"
+         },
+         {
+            "date_value" : "02-07",
+            "label" : "長野冬季五輪開催記念日",
+            "type" : "day"
+         }
+      ],
+      "url" : "http://www.pref.nagano.lg.jp/",
+      "wikipedia_image_desc" : "小蓮華山から望む白馬岳",
+      "wikipedia_image_wref" : "ファイル:Mount Shirouma from Mount Korenge 2000-7-31.jpg"
+   },
+   "青森県" : {
+      "flag_label" : "青森県旗",
+      "flag_wref" : "ファイル:Flag of Aomori Prefecture.svg",
+      "symbol_label" : "青森県章",
+      "symbol_wref" : "ファイル:Emblem of Aomori Prefecture.svg",
+      "symbols" : [
+         {
+            "name" : "ヒバ",
+            "type" : "tree"
+         },
+         {
+            "name" : "リンゴの花",
+            "type" : "flower"
+         },
+         {
+            "name" : "ハクチョウ",
+            "type" : "bird"
+         },
+         {
+            "label" : "県の魚",
+            "name" : " ヒラメ",
+            "type" : "fish"
+         },
+         {
+            "date" : "1971",
+            "name" : " 青森県賛歌",
+            "type" : "song"
+         },
+         {
+            "date" : "2001",
+            "label" : "県民の歌",
+            "name" : " 青い森のメッセージ",
+            "type" : "song"
+         }
+      ],
+      "url" : "http://www.pref.aomori.lg.jp/",
+      "wikipedia_image_desc" : "りんご畑と岩木山",
+      "wikipedia_image_wref" : "ファイル:Iwakisan 02.jpg"
+   },
+   "静岡県" : {
+      "flag_label" : "静岡県旗",
+      "flag_wref" : "ファイル:Flag of Shizuoka Prefecture.svg",
+      "symbols" : [
+         {
+            "name" : "モクセイ(キンモクセイ)",
+            "type" : "tree"
+         },
+         {
+            "name" : "ツツジ",
+            "type" : "flower"
+         },
+         {
+            "name" : "サンコウチョウ",
+            "type" : "bird"
+         },
+         {
+            "name" : "静岡県歌",
+            "type" : "song"
+         },
+         {
+            "name" : "しずおか賛歌〜富士よ夢よ友よ",
+            "type" : "song"
+         },
+         {
+            "date_value" : "08-21",
+            "label" : "県民の日",
+            "type" : "day"
+         }
+      ],
+      "url" : "http://www.pref.shizuoka.jp/",
+      "wikipedia_image_desc" : "富士山と三保半島",
+      "wikipedia_image_wref" : "ファイル:20091228富士山.jpg"
+   },
+   "香川県" : {
+      "flag_label" : "香川県旗",
+      "flag_wref" : "ファイル:Flag of Kagawa Prefecture.svg",
+      "symbol_label" : "香川県章",
+      "symbol_wref" : "ファイル:Symbol of Kagawa Prefecture.svg",
+      "symbols" : [
+         {
+            "name" : "オリーブ",
+            "type" : "tree"
+         },
+         {
+            "name" : "オリーブ",
+            "type" : "flower"
+         },
+         {
+            "name" : "ホトトギス",
+            "type" : "bird"
+         },
+         {
+            "label" : "県の魚",
+            "name" : "ハマチ",
+            "type" : "fish"
+         },
+         {
+            "label" : "県の獣",
+            "name" : "シカ",
+            "type" : "animal"
+         },
+         {
+            "date" : "1954",
+            "name" : "香川県民歌",
+            "type" : "song"
+         }
+      ],
+      "url" : "http://www.pref.kagawa.lg.jp/",
+      "wikipedia_image_desc" : "屋島から望む高松市街と瀬戸内海",
+      "wikipedia_image_wref" : "ファイル:Takamatsu200910cut.JPG"
+   },
+   "高知県" : {
+      "flag_label" : "高知県旗",
+      "flag_wref" : "ファイル:Flag of Kochi Prefecture.svg",
+      "symbol_label" : "高知県章",
+      "symbol_wref" : "ファイル:Emblem of Kochi Prefecture.svg",
+      "symbols" : [
+         {
+            "name" : "ヤナセスギ",
+            "type" : "tree"
+         },
+         {
+            "name" : "ヤマモモ",
+            "type" : "flower"
+         },
+         {
+            "name" : "ヤイロチョウ",
+            "type" : "bird"
+         },
+         {
+            "label" : "県の魚",
+            "name" : "カツオ",
+            "type" : "fish"
+         },
+         {
+            "date" : "1953",
+            "name" : "高知県民の歌",
+            "type" : "song"
+         }
+      ],
+      "url" : "http://www.pref.kochi.lg.jp/",
+      "wikipedia_image_desc" : "四万十川と岩間沈下橋",
+      "wikipedia_image_wref" : "ファイル:Shimanto River And Iwama Bridge 1.JPG"
+   },
+   "鳥取県" : {
+      "flag_label" : "鳥取県旗",
+      "flag_wref" : "ファイル:Flag of Tottori Prefecture.svg",
+      "symbols" : [
+         {
+            "name" : "ダイセンキャラボク",
+            "type" : "tree"
+         },
+         {
+            "name" : "二十世紀梨の花",
+            "type" : "flower"
+         },
+         {
+            "name" : "オシドリ",
+            "type" : "bird"
+         },
+         {
+            "date_value" : "09-12",
+            "label" : "県民の日",
+            "type" : "day"
+         },
+         {
+            "label" : "県の魚",
+            "name" : "ヒラメ",
+            "type" : "fish"
+         },
+         {
+            "name" : "鳥取県民歌「わきあがる力」",
+            "type" : "song"
+         }
+      ],
+      "url" : "http://www.pref.tottori.lg.jp/",
+      "wikipedia_image_desc" : "鳥取砂丘",
+      "wikipedia_image_wref" : "ファイル:Tottori-Sakyu Tottori Japan.JPG"
+   },
+   "鹿児島県" : {
+      "flag_label" : "鹿児島県旗",
+      "flag_wref" : "ファイル:Flag of Kagoshima Prefecture.svg",
+      "symbols" : [
+         {
+            "name" : "カイコウズ",
+            "type" : "tree"
+         },
+         {
+            "name" : "クス",
+            "type" : "tree"
+         },
+         {
+            "name" : "ミヤマキリシマ",
+            "type" : "flower"
+         },
+         {
+            "name" : "ルリカケス",
+            "type" : "bird"
+         },
+         {
+            "date" : "1948",
+            "name" : "鹿児島県民の歌",
+            "type" : "song"
+         },
+         {
+            "label" : "かごしま畜産の日",
+            "name" : "毎月29日(2月は9日)",
+            "type" : "day"
+         }
+      ],
+      "url" : "http://www.pref.kagoshima.jp/",
+      "wikipedia_image_desc" : "桜島と鹿児島市街",
+      "wikipedia_image_wref" : "ファイル:Kagoshima and Sakurajima.jpg"
+   }
+}

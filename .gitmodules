@@ -22,3 +22,9 @@
 [submodule "bin/modules/mediawiki-parser"]
 	path = bin/modules/mediawiki-parser
 	url = git://github.com/geocol/perl-mediawiki-parser
+[submodule "bin/modules/web-utils"]
+	path = bin/modules/web-utils
+	url = git://github.com/wakaba/perl-web-utils
+[submodule "bin/modules/web-useragent-functions"]
+	path = bin/modules/web-useragent-functions
+	url = git://github.com/wakaba/perl-web-useragent-functions
