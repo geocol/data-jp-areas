@@ -76,6 +76,11 @@ Values contain following name/value pairs:
     exists and known.  If specified, it is a JSON array of JSON
     objects, containing following name/value pairs:
 
+      color_value [string?]
+
+        The color, if the symbol can be represetned as a color.  The
+        color is represented as a CSS <color> value.
+
       date [string?]
 
         The date, month, or year the symbol has been established.  It

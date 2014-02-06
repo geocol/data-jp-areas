@@ -55,9 +55,10 @@ wp-data: wp-deps intermediate/wikipedia-prefs.json
 	$(GIT) add intermediate
 
 intermediate/wikipedia-prefs.json: local/jp-regions.json \
-    bin/wikipedia-prefs.pl #wikipedia-dump
+    bin/wikipedia-prefs.pl bin/wikipedia-regions.pl #wikipedia-dump
 	mkdir -p intermediate
-	$(PERL) bin/wikipedia-prefs.pl > $@
+	$(PERL) bin/wikipedia-prefs.pl
+	$(PERL) bin/wikipedia-cities.pl
 
 ## ------ Data ------
 
