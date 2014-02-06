@@ -1,0 +1,14 @@
+AnyEvent~7.07
+Exporter::Lite~0.02
+Types::Serialiser~1.0
+Test::Tester~0.109
+JSON::XS~3.01
+Test::NoWarnings~1.04
+Exporter~5.68
+Carp~1.32
+Unicode::Normalize~1.17
+Encode~2.57
+List::Util~1.38
+Path::Class~0.33
+common::sense~3.72
+Unicode::Stringprep~1.104

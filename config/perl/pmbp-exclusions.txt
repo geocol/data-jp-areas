@@ -1,2 +1,14 @@
-- "../../bin/modules/charclass" tests
+- "../../bin/modules/charclass" tests build
 - "../../bin/modules/json-functions-xs" tests
+- "../../bin/modules/ooutils" test operationresponse objectcachesmethod calssregistry classdiamondgenerator
+- "../../bin/modules/wanage" tests mp datetime
+- "../../bin/modules/web-url" tests
+- "../../bin/modules/web-css" tests
+- "../../bin/modules/web-encodings" tests
+- "../../bin/modules/web-dom" tests
+- "../../bin/modules/web-markup" tests tests-json
+- "../../bin/modules/web-useragent-functions" cli oauth tests testws wsse
+- "../../bin/modules/web-utils" tests
+- "../../bin/modules/mediawiki-parser" tests web
+- "../../t_deps/modules/test-x1" tests
+- "../../t_deps/modules/testdataparser" tests

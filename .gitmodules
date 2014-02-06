@@ -19,3 +19,6 @@
 [submodule "bin/modules/web-css"]
 	path = bin/modules/web-css
 	url = git://github.com/manakai/perl-web-css
+[submodule "bin/modules/mediawiki-parser"]
+	path = bin/modules/mediawiki-parser
+	url = git://github.com/geocol/perl-mediawiki-parser
