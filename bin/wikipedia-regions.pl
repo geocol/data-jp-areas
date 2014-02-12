@@ -117,8 +117,15 @@ sub extract_from_data ($$$$) {
   my $doc = new Web::DOM::Document;
   my $parser = Text::MediaWiki::Parser->new;
   $parser->parse_char_string ($data->{data} => $doc);
-  my $el = $doc->query_selector ('include[wref="基礎情報 都道府県"], include[wref="日本の市"], include[wref="日本の町村"], include[wref="東京都の特別区"], include[wref="日本の行政区"]')
-      or do { $cv->end; return };
+  my $el = $doc->query_selector ('include[wref="基礎情報 都道府県"], include[wref="日本の市"], include[wref="日本の町村"], include[wref="東京都の特別区"], include[wref="日本の行政区"]');
+  if (not defined $el) {
+    if ($target_wref =~ /郡(?: \([^()]+\))?$/) {
+      $Data->{$target}->{wref} = $target_wref;
+      $Data->{$target}->{timestamp} = $data->{timestamp};
+    }
+    $cv->end;
+    return;
+  }
   delete $Data->{$target};
   my @ip = grep { $_->local_name eq 'iparam' } @{$el->children};
   my $symbols_label;

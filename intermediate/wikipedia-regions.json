@@ -17274,6 +17274,10 @@
       "wikipedia_image_desc" : "出雲大社(拝殿)",
       "wikipedia_image_wref" : "ファイル:Izumo-taisha16nt3200.jpg"
    },
+   "島根県,仁多郡" : {
+      "timestamp" : 1372255738,
+      "wref" : "仁多郡"
+   },
    "島根県,仁多郡,奥出雲町" : {
       "symbols" : [
          {
@@ -17293,7 +17297,9 @@
             "type" : "flower"
          }
       ],
-      "url" : "http://www.town.okuizumo.shimane.jp/"
+      "timestamp" : 1387979500,
+      "url" : "http://www.town.okuizumo.shimane.jp/",
+      "wref" : "奥出雲町"
    },
    "島根県,出雲市" : {
       "symbols" : [
@@ -17319,9 +17325,11 @@
             "name" : "秋-コスモス、冬-ツバキ"
          }
       ],
+      "timestamp" : 1389067190,
       "url" : "http://www.city.izumo.shimane.jp/",
       "wikipedia_image_desc" : "出雲大社",
-      "wikipedia_image_wref" : "ファイル:IzumoTaisha.JPG"
+      "wikipedia_image_wref" : "ファイル:IzumoTaisha.JPG",
+      "wref" : "出雲市"
    },
    "島根県,大田市" : {
       "symbols" : [
@@ -17347,7 +17355,9 @@
             "type" : "fish"
          }
       ],
-      "url" : "http://www.city.ohda.lg.jp/"
+      "timestamp" : 1390433603,
+      "url" : "http://www.city.ohda.lg.jp/",
+      "wref" : "大田市"
    },
    "島根県,安来市" : {
       "symbols" : [
@@ -17370,7 +17380,9 @@
             "type" : "fish"
          }
       ],
-      "url" : "http://www.city.yasugi.shimane.jp/"
+      "timestamp" : 1387980072,
+      "url" : "http://www.city.yasugi.shimane.jp/",
+      "wref" : "安来市"
    },
    "島根県,松江市" : {
       "symbols" : [
@@ -17388,9 +17400,11 @@
             "type" : "flower"
          }
       ],
+      "timestamp" : 1389975750,
       "url" : "http://www.city.matsue.shimane.jp/",
       "wikipedia_image_desc" : "左上上:熊野大社、左上下:八重垣神社、右上:美保神社 左中:松江城、右中上:宍道湖・嫁ヶ島、右中下:玉造温泉\n左下:美保関灯台、右下:松江市中心部の夜景",
-      "wikipedia_image_wref" : "ファイル:Matsue montage.jpg"
+      "wikipedia_image_wref" : "ファイル:Matsue montage.jpg",
+      "wref" : "松江市"
    },
    "島根県,江津市" : {
       "symbols" : [
@@ -17403,7 +17417,9 @@
             "type" : "flower"
          }
       ],
-      "url" : "http://www.city.gotsu.lg.jp/"
+      "timestamp" : 1384096634,
+      "url" : "http://www.city.gotsu.lg.jp/",
+      "wref" : "江津市"
    },
    "島根県,浜田市" : {
       "symbols" : [
@@ -17437,7 +17453,9 @@
             "type" : "fish"
          }
       ],
-      "url" : "http://www.city.hamada.shimane.jp/"
+      "timestamp" : 1384095982,
+      "url" : "http://www.city.hamada.shimane.jp/",
+      "wref" : "浜田市"
    },
    "島根県,益田市" : {
       "symbols" : [
@@ -17456,7 +17474,13 @@
             "type" : "flower"
          }
       ],
-      "url" : "http://www.city.masuda.lg.jp/"
+      "timestamp" : 1381916566,
+      "url" : "http://www.city.masuda.lg.jp/",
+      "wref" : "益田市"
+   },
+   "島根県,邑智郡" : {
+      "timestamp" : 1362925572,
+      "wref" : "邑智郡"
    },
    "島根県,邑智郡,川本町" : {
       "symbols" : [
@@ -17469,7 +17493,9 @@
             "type" : "flower"
          }
       ],
-      "url" : "http://www.kawamoto-town.jp/"
+      "timestamp" : 1363755876,
+      "url" : "http://www.kawamoto-town.jp/",
+      "wref" : "川本町"
    },
    "島根県,邑智郡,美郷町" : {
       "symbols" : [
@@ -17482,7 +17508,9 @@
             "type" : "flower"
          }
       ],
-      "url" : "http://www.town.shimane-misato.lg.jp/"
+      "timestamp" : 1368325336,
+      "url" : "http://www.town.shimane-misato.lg.jp/",
+      "wref" : "美郷町 (島根県)"
    },
    "島根県,邑智郡,邑南町" : {
       "symbols" : [
@@ -17497,18 +17525,30 @@
             "type" : "flower"
          }
       ],
-      "url" : "http://www.town.ohnan.lg.jp/"
+      "timestamp" : 1377953127,
+      "url" : "http://www.town.ohnan.lg.jp/",
+      "wref" : "邑南町"
+   },
+   "島根県,隠岐郡" : {
+      "timestamp" : 1362869133,
+      "wref" : "隠岐郡"
    },
    "島根県,隠岐郡,海士町" : {
-      "url" : "http://www.town.ama.shimane.jp/index.html"
+      "timestamp" : 1387981323,
+      "url" : "http://www.town.ama.shimane.jp/index.html",
+      "wref" : "海士町"
    },
    "島根県,隠岐郡,知夫村" : {
+      "timestamp" : 1389087970,
       "url" : "http://chibu-vill.com/",
       "wikipedia_image_desc" : "赤壁",
-      "wikipedia_image_wref" : "Chibu sekiheki.jpg"
+      "wikipedia_image_wref" : "Chibu sekiheki.jpg",
+      "wref" : "知夫村"
    },
    "島根県,隠岐郡,西ノ島町" : {
-      "url" : "http://www.town.nishinoshima.shimane.jp/"
+      "timestamp" : 1383918125,
+      "url" : "http://www.town.nishinoshima.shimane.jp/",
+      "wref" : "西ノ島町"
    },
    "島根県,隠岐郡,隠岐の島町" : {
       "symbols" : [
@@ -17527,9 +17567,11 @@
             "type" : "flower"
          }
       ],
+      "timestamp" : 1384098959,
       "url" : "http://www.town.okinoshima.shimane.jp/index.php",
       "wikipedia_image_desc" : "ローソク島",
-      "wikipedia_image_wref" : "Rosoku-is.jpg"
+      "wikipedia_image_wref" : "Rosoku-is.jpg",
+      "wref" : "隠岐の島町"
    },
    "島根県,雲南市" : {
       "symbols" : [
@@ -17542,7 +17584,13 @@
             "type" : "flower"
          }
       ],
-      "url" : "http://www.city.unnan.shimane.jp/"
+      "timestamp" : 1387980522,
+      "url" : "http://www.city.unnan.shimane.jp/",
+      "wref" : "雲南市"
+   },
+   "島根県,飯石郡" : {
+      "timestamp" : 1372257206,
+      "wref" : "飯石郡"
    },
    "島根県,飯石郡,飯南町" : {
       "symbols" : [
@@ -17555,7 +17603,13 @@
             "type" : "flower"
          }
       ],
-      "url" : "http://www.iinan.jp/"
+      "timestamp" : 1367059083,
+      "url" : "http://www.iinan.jp/",
+      "wref" : "飯南町"
+   },
+   "島根県,鹿足郡" : {
+      "timestamp" : 1362929860,
+      "wref" : "鹿足郡"
    },
    "島根県,鹿足郡,吉賀町" : {
       "symbols" : [
@@ -17572,7 +17626,9 @@
             "name" : "未定"
          }
       ],
-      "url" : "http://www.town.yoshika.lg.jp/"
+      "timestamp" : 1363892262,
+      "url" : "http://www.town.yoshika.lg.jp/",
+      "wref" : "吉賀町"
    },
    "島根県,鹿足郡,津和野町" : {
       "symbols" : [
@@ -17595,7 +17651,9 @@
             "name" : "白鷺"
          }
       ],
-      "url" : "http://www.town.tsuwano.lg.jp/"
+      "timestamp" : 1384176064,
+      "url" : "http://www.town.tsuwano.lg.jp/",
+      "wref" : "津和野町"
    },
    "広島県" : {
       "symbols" : [
@@ -17646,7 +17704,9 @@
             "type" : "flower"
          }
       ],
-      "url" : "http://www.city.mihara.hiroshima.jp/"
+      "timestamp" : 1384832629,
+      "url" : "http://www.city.mihara.hiroshima.jp/",
+      "wref" : "三原市"
    },
    "広島県,三次市" : {
       "symbols" : [
@@ -17667,10 +17727,13 @@
             "name" : "セグロセキレイ"
          }
       ],
+      "timestamp" : 1386586190,
       "url" : "http://www.city.miyoshi.hiroshima.jp/",
       "wikipedia_image_desc" : "巴橋",
-      "wikipedia_image_wref" : "File:Tomoe bridge Miyoshi.jpg"
+      "wikipedia_image_wref" : "File:Tomoe bridge Miyoshi.jpg",
+      "wref" : "三次市"
    },
+   "広島県,世羅郡" : {},
    "広島県,世羅郡,世羅町" : {
       "symbols" : [
          {
@@ -17682,7 +17745,9 @@
             "type" : "flower"
          }
       ],
-      "url" : "http://www.town.sera.hiroshima.jp/"
+      "timestamp" : 1380864639,
+      "url" : "http://www.town.sera.hiroshima.jp/",
+      "wref" : "世羅町"
    },
    "広島県,呉市" : {
       "symbols" : [
@@ -17700,7 +17765,9 @@
             "type" : "flower"
          }
       ],
-      "url" : "http://www.city.kure.lg.jp/"
+      "timestamp" : 1390219445,
+      "url" : "http://www.city.kure.lg.jp/",
+      "wref" : "呉市"
    },
    "広島県,大竹市" : {
       "symbols" : [
@@ -17717,8 +17784,11 @@
             "type" : "flower"
          }
       ],
-      "url" : "http://www.city.otake.hiroshima.jp/"
+      "timestamp" : 1389613633,
+      "url" : "http://www.city.otake.hiroshima.jp/",
+      "wref" : "大竹市"
    },
+   "広島県,安芸郡" : {},
    "広島県,安芸郡,坂町" : {
       "symbols" : [
          {
@@ -17741,7 +17811,9 @@
             "type" : "bird"
          }
       ],
-      "url" : "http://www.town.saka.hiroshima.jp/sakacho/"
+      "timestamp" : 1378118058,
+      "url" : "http://www.town.saka.hiroshima.jp/sakacho/",
+      "wref" : "坂町"
    },
    "広島県,安芸郡,府中町" : {
       "symbols" : [
@@ -17760,7 +17832,9 @@
             "type" : "flower"
          }
       ],
-      "url" : "http://www.town.fuchu.hiroshima.jp/"
+      "timestamp" : 1389828348,
+      "url" : "http://www.town.fuchu.hiroshima.jp/",
+      "wref" : "府中町"
    },
    "広島県,安芸郡,海田町" : {
       "symbols" : [
@@ -17773,7 +17847,9 @@
             "type" : "flower"
          }
       ],
-      "url" : "http://www.town.kaita.lg.jp/"
+      "timestamp" : 1386861640,
+      "url" : "http://www.town.kaita.lg.jp/",
+      "wref" : "海田町"
    },
    "広島県,安芸郡,熊野町" : {
       "symbols" : [
@@ -17790,9 +17866,11 @@
             "name" : "うぐいす"
          }
       ],
+      "timestamp" : 1377935156,
       "url" : "http://www.town.kumano.hiroshima.jp/",
       "wikipedia_image_desc" : "巨大熊野筆",
-      "wikipedia_image_wref" : "巨大熊野筆01.jpg"
+      "wikipedia_image_wref" : "巨大熊野筆01.jpg",
+      "wref" : "熊野町"
    },
    "広島県,安芸高田市" : {
       "symbols" : [
@@ -17818,7 +17896,9 @@
             "type" : "day"
          }
       ],
-      "url" : "http://www.akitakata.jp/"
+      "timestamp" : 1389484636,
+      "url" : "http://www.akitakata.jp/",
+      "wref" : "安芸高田市"
    },
    "広島県,尾道市" : {
       "symbols" : [
@@ -17836,10 +17916,13 @@
             "type" : "flower"
          }
       ],
+      "timestamp" : 1389697136,
       "url" : "http://www.city.onomichi.hiroshima.jp/",
       "wikipedia_image_desc" : "千光寺",
-      "wikipedia_image_wref" : "Senkoji Onomichi16s3872.jpg"
+      "wikipedia_image_wref" : "Senkoji Onomichi16s3872.jpg",
+      "wref" : "尾道市"
    },
+   "広島県,山県郡" : {},
    "広島県,山県郡,北広島町" : {
       "symbols" : [
          {
@@ -17849,7 +17932,9 @@
             "wref" : "ファイル:Flag of Kitashiroshima, Hiroshima.svg"
          }
       ],
-      "url" : "http://www.town.kitahiroshima.lg.jp/"
+      "timestamp" : 1383117655,
+      "url" : "http://www.town.kitahiroshima.lg.jp/",
+      "wref" : "北広島町"
    },
    "広島県,山県郡,安芸太田町" : {
       "symbols" : [
@@ -17868,7 +17953,9 @@
             "type" : "flower"
          }
       ],
-      "url" : "http://www.akiota.jp/index.html"
+      "timestamp" : 1372409961,
+      "url" : "http://www.akiota.jp/index.html",
+      "wref" : "安芸太田町"
    },
    "広島県,広島市" : {
       "symbols" : [
@@ -17886,33 +17973,51 @@
             "type" : "flower"
          }
       ],
+      "timestamp" : 1390129293,
       "url" : "http://www.city.hiroshima.lg.jp/",
       "wikipedia_image_desc" : "左上から: 広島城、マツダスタジアム、原爆ドーム、八丁堀の夜景、原爆の子の像",
-      "wikipedia_image_wref" : "ファイル:Hiroshima montage.jpg"
+      "wikipedia_image_wref" : "ファイル:Hiroshima montage.jpg",
+      "wref" : "広島市"
    },
    "広島県,広島市,中区" : {
-      "url" : "http://www.city.hiroshima.lg.jp/naka/"
+      "timestamp" : 1386171920,
+      "url" : "http://www.city.hiroshima.lg.jp/naka/",
+      "wref" : "中区 (広島市)"
    },
    "広島県,広島市,佐伯区" : {
-      "url" : "http://www.city.hiroshima.lg.jp/www/genre/0000000000000/1001000001912/index.html"
+      "timestamp" : 1389180047,
+      "url" : "http://www.city.hiroshima.lg.jp/www/genre/0000000000000/1001000001912/index.html",
+      "wref" : "佐伯区"
    },
    "広島県,広島市,南区" : {
-      "url" : "http://www.city.hiroshima.lg.jp/www/genre/0000000000000/1000000002179/index.html"
+      "timestamp" : 1387149589,
+      "url" : "http://www.city.hiroshima.lg.jp/www/genre/0000000000000/1000000002179/index.html",
+      "wref" : "南区 (広島市)"
    },
    "広島県,広島市,安佐北区" : {
-      "url" : "http://www.city.hiroshima.lg.jp/www/genre/0000000000000/1213340291028/index.html"
+      "timestamp" : 1385822223,
+      "url" : "http://www.city.hiroshima.lg.jp/www/genre/0000000000000/1213340291028/index.html",
+      "wref" : "安佐北区"
    },
    "広島県,広島市,安佐南区" : {
-      "url" : "http://www.city.hiroshima.lg.jp/asaminami/"
+      "timestamp" : 1389008982,
+      "url" : "http://www.city.hiroshima.lg.jp/asaminami/",
+      "wref" : "安佐南区"
    },
    "広島県,広島市,安芸区" : {
-      "url" : "http://www.city.hiroshima.lg.jp/www/genre/0000000000000/1001000001884/index.html"
+      "timestamp" : 1389171676,
+      "url" : "http://www.city.hiroshima.lg.jp/www/genre/0000000000000/1001000001884/index.html",
+      "wref" : "安芸区"
    },
    "広島県,広島市,東区" : {
-      "url" : "http://www.city.hiroshima.lg.jp/www/genre/0000000000000/1001000001830/index.html"
+      "timestamp" : 1385821897,
+      "url" : "http://www.city.hiroshima.lg.jp/www/genre/0000000000000/1001000001830/index.html",
+      "wref" : "東区 (広島市)"
    },
    "広島県,広島市,西区" : {
-      "url" : "http://www.city.hiroshima.lg.jp/www/genre/0000000000000/1001000001850/index.html"
+      "timestamp" : 1390176040,
+      "url" : "http://www.city.hiroshima.lg.jp/www/genre/0000000000000/1001000001850/index.html",
+      "wref" : "西区 (広島市)"
    },
    "広島県,庄原市" : {
       "symbols" : [
@@ -17930,9 +18035,11 @@
             "type" : "flower"
          }
       ],
+      "timestamp" : 1389517170,
       "url" : "http://www.city.shobara.hiroshima.jp/",
       "wikipedia_image_desc" : "国営備北丘陵公園",
-      "wikipedia_image_wref" : "Bihoku-kyuryo Park.jpg"
+      "wikipedia_image_wref" : "Bihoku-kyuryo Park.jpg",
+      "wref" : "庄原市"
    },
    "広島県,府中市" : {
       "symbols" : [
@@ -17950,7 +18057,9 @@
             "type" : "flower"
          }
       ],
-      "url" : "http://www.city.fuchu.hiroshima.jp/"
+      "timestamp" : 1385256111,
+      "url" : "http://www.city.fuchu.hiroshima.jp/",
+      "wref" : "府中市 (広島県)"
    },
    "広島県,廿日市市" : {
       "symbols" : [
@@ -17969,9 +18078,11 @@
             "type" : "flower"
          }
       ],
+      "timestamp" : 1390059175,
       "url" : "http://www.city.hatsukaichi.hiroshima.jp",
       "wikipedia_image_desc" : "(gifアニメ) 速谷神社\n厳島神社\n宮浜温泉源泉の碑\n冠山\n小瀬川ダム",
-      "wikipedia_image_wref" : "Hatsukaichi 20121229.gif"
+      "wikipedia_image_wref" : "Hatsukaichi 20121229.gif",
+      "wref" : "廿日市市"
    },
    "広島県,東広島市" : {
       "symbols" : [
@@ -17988,7 +18099,9 @@
             "type" : "flower"
          }
       ],
-      "url" : "http://www.city.higashihiroshima.hiroshima.jp/"
+      "timestamp" : 1388754783,
+      "url" : "http://www.city.higashihiroshima.hiroshima.jp/",
+      "wref" : "東広島市"
    },
    "広島県,江田島市" : {
       "symbols" : [
@@ -17998,8 +18111,11 @@
             "wref" : "ファイル:Etajima Hiroshima chapter.JPG"
          }
       ],
-      "url" : "http://www.city.etajima.hiroshima.jp/"
+      "timestamp" : 1383376651,
+      "url" : "http://www.city.etajima.hiroshima.jp/",
+      "wref" : "江田島市"
    },
+   "広島県,神石郡" : {},
    "広島県,神石郡,神石高原町" : {
       "symbols" : [
          {
@@ -18011,7 +18127,9 @@
             "type" : "flower"
          }
       ],
-      "url" : "http://www.jinsekigun.jp/"
+      "timestamp" : 1389866628,
+      "url" : "http://www.jinsekigun.jp/",
+      "wref" : "神石高原町"
    },
    "広島県,福山市" : {
       "symbols" : [
@@ -18041,9 +18159,11 @@
             "type" : "flower"
          }
       ],
+      "timestamp" : 1390122627,
       "url" : "http://www.city.fukuyama.hiroshima.jp/",
       "wikipedia_image_desc" : "鞆の浦",
-      "wikipedia_image_wref" : "Sensuizima.jpg"
+      "wikipedia_image_wref" : "Sensuizima.jpg",
+      "wref" : "福山市"
    },
    "広島県,竹原市" : {
       "symbols" : [
@@ -18061,10 +18181,13 @@
             "type" : "flower"
          }
       ],
+      "timestamp" : 1389614273,
       "url" : "http://www.city.takehara.lg.jp/",
       "wikipedia_image_desc" : "朝日山より望む竹原市",
-      "wikipedia_image_wref" : "Takehara City.jpg"
+      "wikipedia_image_wref" : "Takehara City.jpg",
+      "wref" : "竹原市"
    },
+   "広島県,豊田郡" : {},
    "広島県,豊田郡,大崎上島町" : {
       "symbols" : [
          {
@@ -18076,7 +18199,9 @@
             "type" : "flower"
          }
       ],
-      "url" : "http://www.town.osakikamijima.hiroshima.jp/"
+      "timestamp" : 1385571108,
+      "url" : "http://www.town.osakikamijima.hiroshima.jp/",
+      "wref" : "大崎上島町"
    },
    "徳島県" : {
       "symbols" : [
@@ -36411,8 +36536,11 @@
             "type" : "bird"
          }
       ],
-      "url" : "http://www.city.kurayoshi.lg.jp/"
+      "timestamp" : "1387944860",
+      "url" : "http://www.city.kurayoshi.lg.jp/",
+      "wref" : "倉吉市"
    },
+   "鳥取県,八頭郡" : {},
    "鳥取県,八頭郡,八頭町" : {
       "symbols" : [
          {
@@ -36424,7 +36552,9 @@
             "type" : "flower"
          }
       ],
-      "url" : "http://www.town.yazu.tottori.jp/"
+      "timestamp" : "1387970802",
+      "url" : "http://www.town.yazu.tottori.jp/",
+      "wref" : "八頭町"
    },
    "鳥取県,八頭郡,智頭町" : {
       "symbols" : [
@@ -36442,7 +36572,9 @@
             "type" : "flower"
          }
       ],
-      "url" : "http://www1.town.chizu.tottori.jp/"
+      "timestamp" : "1376732348",
+      "url" : "http://www1.town.chizu.tottori.jp/",
+      "wref" : "智頭町"
    },
    "鳥取県,八頭郡,若桜町" : {
       "symbols" : [
@@ -36451,9 +36583,11 @@
             "type" : "tree"
          }
       ],
+      "timestamp" : "1387004335",
       "url" : "http://www.town.wakasa.tottori.jp/dd.aspx",
       "wikipedia_image_desc" : "若桜鬼ヶ城から望む若桜町",
-      "wikipedia_image_wref" : "Wakasa Onigajo 13.JPG"
+      "wikipedia_image_wref" : "Wakasa Onigajo 13.JPG",
+      "wref" : "若桜町"
    },
    "鳥取県,境港市" : {
       "symbols" : [
@@ -36471,10 +36605,13 @@
             "type" : "flower"
          }
       ],
+      "timestamp" : "1387978015",
       "url" : "http://www.city.sakaiminato.lg.jp/",
       "wikipedia_image_desc" : "境港市空撮画像",
-      "wikipedia_image_wref" : "SakaiminatoCity.jpg"
+      "wikipedia_image_wref" : "SakaiminatoCity.jpg",
+      "wref" : "境港市"
    },
+   "鳥取県,岩美郡" : {},
    "鳥取県,岩美郡,岩美町" : {
       "symbols" : [
          {
@@ -36491,10 +36628,15 @@
             "type" : "flower"
          }
       ],
-      "url" : "http://www.iwami.gr.jp/"
+      "timestamp" : "1390478023",
+      "url" : "http://www.iwami.gr.jp/",
+      "wref" : "岩美町"
    },
+   "鳥取県,日野郡" : {},
    "鳥取県,日野郡,日南町" : {
-      "url" : "http://www.town.nichinan.tottori.jp/"
+      "timestamp" : "1387979101",
+      "url" : "http://www.town.nichinan.tottori.jp/",
+      "wref" : "日南町"
    },
    "鳥取県,日野郡,日野町" : {
       "symbols" : [
@@ -36512,7 +36654,9 @@
             "type" : "bird"
          }
       ],
-      "url" : "http://www.town.hino.tottori.jp/"
+      "timestamp" : "1387978704",
+      "url" : "http://www.town.hino.tottori.jp/",
+      "wref" : "日野町 (鳥取県)"
    },
    "鳥取県,日野郡,江府町" : {
       "symbols" : [
@@ -36531,10 +36675,13 @@
             "type" : "flower"
          }
       ],
+      "timestamp" : "1387978423",
       "url" : "http://www.town-kofu.jp/index.htm",
       "wikipedia_image_desc" : "鍵掛峠",
-      "wikipedia_image_wref" : "Kagikake Pass.JPG"
+      "wikipedia_image_wref" : "Kagikake Pass.JPG",
+      "wref" : "江府町"
    },
+   "鳥取県,東伯郡" : {},
    "鳥取県,東伯郡,三朝町" : {
       "symbols" : [
          {
@@ -36551,9 +36698,11 @@
             "type" : "flower"
          }
       ],
+      "timestamp" : "1382809324",
       "url" : "http://www.town.misasa.tottori.jp/",
       "wikipedia_image_desc" : "左上:三朝温泉 右上:三仏寺\n中:みささ美術館\n下左:陣所の館\n下右:三徳川",
-      "wikipedia_image_wref" : "Misasa montage.JPG"
+      "wikipedia_image_wref" : "Misasa montage.JPG",
+      "wref" : "三朝町"
    },
    "鳥取県,東伯郡,北栄町" : {
       "symbols" : [
@@ -36576,7 +36725,9 @@
             "type" : "bird"
          }
       ],
-      "url" : "http://www.e-hokuei.net/"
+      "timestamp" : "1389004350",
+      "url" : "http://www.e-hokuei.net/",
+      "wref" : "北栄町"
    },
    "鳥取県,東伯郡,湯梨浜町" : {
       "symbols" : [
@@ -36599,7 +36750,9 @@
             "type" : "fish"
          }
       ],
-      "url" : "http://www.yurihama.jp/"
+      "timestamp" : "1387972365",
+      "url" : "http://www.yurihama.jp/",
+      "wref" : "湯梨浜町"
    },
    "鳥取県,東伯郡,琴浦町" : {
       "symbols" : [
@@ -36622,7 +36775,9 @@
             "type" : "bird"
          }
       ],
-      "url" : "http://www.town.kotoura.tottori.jp/index.html"
+      "timestamp" : "1387975284",
+      "url" : "http://www.town.kotoura.tottori.jp/index.html",
+      "wref" : "琴浦町"
    },
    "鳥取県,米子市" : {
       "symbols" : [
@@ -36641,10 +36796,13 @@
             "type" : "bird"
          }
       ],
+      "timestamp" : "1387298756",
       "url" : "http://www.city.yonago.lg.jp/",
       "wikipedia_image_desc" : "1段目:皆生温泉 2段目左:妻木晩田遺跡\n2段目右:米子城跡\n3段目左:孝霊山4\n3段目右:米子市美術館\n4段目:米子市街地",
-      "wikipedia_image_wref" : "Yonago montage.JPG"
+      "wikipedia_image_wref" : "Yonago montage.JPG",
+      "wref" : "米子市"
    },
+   "鳥取県,西伯郡" : {},
    "鳥取県,西伯郡,伯耆町" : {
       "symbols" : [
          {
@@ -36661,12 +36819,16 @@
             "type" : "flower"
          }
       ],
+      "timestamp" : "1387977248",
       "url" : "http://www.houki-town.jp/",
       "wikipedia_image_desc" : "溝口の鬼",
-      "wikipedia_image_wref" : "Mizokuchi-oni.JPG"
+      "wikipedia_image_wref" : "Mizokuchi-oni.JPG",
+      "wref" : "伯耆町"
    },
    "鳥取県,西伯郡,南部町" : {
-      "url" : "http://www.town.nanbu.tottori.jp/"
+      "timestamp" : "1387976627",
+      "url" : "http://www.town.nanbu.tottori.jp/",
+      "wref" : "南部町 (鳥取県)"
    },
    "鳥取県,西伯郡,大山町" : {
       "symbols" : [
@@ -36684,7 +36846,9 @@
             "type" : "flower"
          }
       ],
-      "url" : "http://www.daisen.jp/"
+      "timestamp" : "1388876458",
+      "url" : "http://www.daisen.jp/",
+      "wref" : "大山町"
    },
    "鳥取県,西伯郡,日吉津村" : {
       "symbols" : [
@@ -36702,7 +36866,9 @@
             "type" : "flower"
          }
       ],
-      "url" : "http://www.hiezu.jp/"
+      "timestamp" : "1377946035",
+      "url" : "http://www.hiezu.jp/",
+      "wref" : "日吉津村"
    },
    "鳥取県,鳥取市" : {
       "symbols" : [
@@ -36720,9 +36886,11 @@
             "type" : "flower"
          }
       ],
+      "timestamp" : "1390477351",
       "url" : "http://www.city.tottori.lg.jp/",
       "wikipedia_image_desc" : "左上:鳥取城址、右上:城下町・鹿野 中:鳥取砂丘\n左下:仁風閣、右下:久松山から望む鳥取市街",
-      "wikipedia_image_wref" : "ファイル:Tottori montage.jpg"
+      "wikipedia_image_wref" : "ファイル:Tottori montage.jpg",
+      "wref" : "鳥取市"
    },
    "鹿児島県" : {
       "symbols" : [
