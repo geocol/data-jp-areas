@@ -46,7 +46,6 @@ local/cache/xml/jawiki-latest-pages-meta-current.xml.bz2:
 wp-autoupdate: deps wp-clean wp-data
 
 wp-clean:
-	rm -fr intermediate/wikipedia-*.json
 
 wp-deps:
 	$(PERL) bin/prepare-wikipedia-cache.pl
