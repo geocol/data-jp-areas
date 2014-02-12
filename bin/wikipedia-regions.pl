@@ -116,7 +116,7 @@ sub extract_from_data ($$$$) {
   my ($target, $target_wref, $data, $cv) = @_;
   my $doc = new Web::DOM::Document;
   my $parser = Text::MediaWiki::Parser->new;
-  $parser->parse_char_string ($data => $doc);
+  $parser->parse_char_string ($data->{data} => $doc);
   my $el = $doc->query_selector ('include[wref="基礎情報 都道府県"], include[wref="日本の市"], include[wref="日本の町村"], include[wref="東京都の特別区"], include[wref="日本の行政区"]')
       or do { $cv->end; return };
   delete $Data->{$target};
@@ -162,7 +162,7 @@ sub extract_from_data ($$$$) {
           $symbols_label = [split /\x0A/, _tc $ip];
         } elsif ($name eq '歌など' or $name eq '鳥など') {
           my $value = _tc $ip;
-          $value =~ s/\x0A\s*([(（])/ $1/g;
+          $value =~ s{\x0A\s*([(（])}{ $1}g;
           $symbols_value = [split /\x0A/, $value];
         } elsif ($name eq '外部リンク') {
           my $fc = $ip->first_element_child;
@@ -174,7 +174,7 @@ sub extract_from_data ($$$$) {
           }
         } elsif ($name eq '木' or $name eq '花' or $name eq '鳥') {
           my $value = _tc $ip;
-          $value =~ s/\x0A\s*([(（])/ $1/g;
+          $value =~ s{\x0A\s*([(（])}{ $1}g;
           for (split /[、\x0A]/, $value) {
             push @{$Data->{$target}->{symbols} ||= []},
                 {type => {木 => 'tree', 花 => 'flower',
@@ -246,22 +246,28 @@ sub extract_from_data ($$$$) {
       }
       delete $_->{name} if defined $_->{name} and not length $_->{name};
     }
+    $Data->{$target}->{wref} = $target_wref;
+    $Data->{$target}->{timestamp} = $data->{timestamp};
     print STDERR ".";
     $cv->end;
   });
 } # extract_from_data
 
-sub _get ($$$$);
-sub _get ($$$$) {
-  my ($target, $target_wref, $wrefs, $cv) = @_;
-  $mw->get_source_text_by_name_as_cv ($target_wref)->cb (sub {
+sub _get ($$$$$);
+sub _get ($$$$$) {
+  my ($target, $target_wref, $wrefs, $ims, $cv) = @_;
+  $mw->get_source_text_by_name_as_cv ($target_wref, ims => $ims || 0)->cb (sub {
     my $data = $_[0]->recv;
-    if (defined $data) {
-      extract_from_data $target, $target_wref, $data, $cv;
+    if (defined $data and defined $data->{data}) {
+      if ($data->{not_modified}) {
+        $cv->end;
+      } else {
+        extract_from_data $target, $target_wref, $data, $cv;
+      }
     } else {
       if (@$wrefs) {
         my $wref = shift @$wrefs;
-        _get $target, $wref, $wrefs, $cv;
+        _get $target, $wref, $wrefs, $ims, $cv;
       } else {
         $cv->end;
       }
@@ -280,7 +286,8 @@ for my $target (@target) {
   push @wref, sprintf '%s (%s)', $target->[-1], $target->[-3] if @$target >= 3;
   push @wref, $target->[-1];
   my $target_wref = shift @wref;
-  _get $target_key, $target_wref, \@wref, $cv;
+  my $ims = $Data->{$target_key}->{timestamp}; # or undef
+  _get $target_key, $target_wref, \@wref, $ims, $cv;
 }
 $cv->end;
 

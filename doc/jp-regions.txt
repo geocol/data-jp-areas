@@ -1,41 +1,44 @@
 jp-regions.json, jp-regions-full.json
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-These files contain the list of administrative divisions in Japan.
-File |jp-regions-full.json| contain more properties than file
+These files contain the list of administrative divisions (行政区画) in
+Japan.  File |jp-regions-full.json| contain more properties than file
 |jp-regions.json|.  Data contained only in |jp-regions-full.json| are
 marked as "[FULL]" in this document.
 
 * Structure
 
 These files contain an "area list" JSON object containing 47
-prefectures in Japan.
+prefectures (都道府県) in Japan.
 
 The |areas| fields of the "area list" objects of prefectures contain
 "area list" objects of cities (including wards in Tokyo), districts,
-and towns and villages not belonging to any district in the
-prefecture.
+and towns and villages (市区郡町村) not belonging to any other
+district in the prefecture.
 
 The |areas| fields of the "area list" objects of designated cities
-contain "area list" objects of wards in the city.
+(政令指定都市) contain "area list" objects of wards (区) in the city.
 
-The |areas| fields of the "area list" object of districts contain
-"area list" objects of towns and villages in the city.
+The |areas| fields of the "area list" object of districts (郡) contain
+"area list" objects of towns and villages (町村) in the district.
 
 * The "area list" JSON object structure
 
 The "area list" object is a JSON object, where names are Japanese
 names of the areas and values are their data.
 
-As exceptions, there are five districts entries in 北海道 prefecture
-which contain district names followed by country names in parentheses
-to avoid name confliction:
+As exceptions, there are five district entries in the 北海道
+prefecture which contain district names followed by country (令制国)
+names in parentheses to avoid name confliction:
 
   上川郡 (十勝国)
   上川郡 (天塩国)
   上川郡 (石狩国)
   中川郡 (天塩国)
   中川郡 (十勝国)
+
+Note that this annotation scheme is sometimes used in laws,
+e.g. <http://law.e-gov.go.jp/htmldata/H13/H13F12001000012.html>.
 
 Values contain following name/value pairs:
 
@@ -45,7 +48,9 @@ Values contain following name/value pairs:
 
   code [string?]
 
-    全国地方公共団体コード (JIS X 0401, JIS X 0402).
+    The two or five digit code (i.e. without check digit) of the local
+    government of the area (全国地方公共団体コード - JIS X 0401, JIS X
+    0402), if any.
 
   kana [string]
 
@@ -152,6 +157,11 @@ Values contain following name/value pairs:
       wref [string]
 
         The Wikipedia reference of the the image file.
+
+  [FULL] wref [string?]
+
+    The (Japanese) Wikipedia reference for the page in which the
+    region is described, if known.
 
 * Sources
 

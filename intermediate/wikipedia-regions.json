@@ -2677,9 +2677,11 @@
             "name" : "道民体操(どさんこ体操)"
          }
       ],
+      "timestamp" : "1388808867",
       "url" : "http://www.pref.hokkaido.lg.jp/",
       "wikipedia_image_desc" : "十勝平野の大規模農場",
-      "wikipedia_image_wref" : "ファイル:Tokachi plain 01.jpg"
+      "wikipedia_image_wref" : "ファイル:Tokachi plain 01.jpg",
+      "wref" : "北海道"
    },
    "北海道,三笠市" : {
       "symbols" : [
@@ -29419,9 +29421,11 @@
             "type" : "song"
          }
       ],
+      "timestamp" : "1389916353",
       "url" : "http://www.pref.akita.lg.jp/",
       "wikipedia_image_desc" : "秋田竿燈まつり",
-      "wikipedia_image_wref" : "ファイル:Hiru kanto 1.jpg"
+      "wikipedia_image_wref" : "ファイル:Hiru kanto 1.jpg",
+      "wref" : "秋田県"
    },
    "秋田県,にかほ市" : {
       "symbols" : [

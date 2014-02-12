@@ -14,6 +14,8 @@ our $Data = file2perl $root_d->file ('data', 'jp-regions.json');
   my $json = file2perl $f;
   for my $pref (keys %$json) {
     $Data->{$pref}->{url} = $json->{$pref}->{url};
+    $Data->{$pref}->{wref} = $json->{$pref}->{wref}
+        if defined $json->{$pref}->{wref};
     $Data->{$pref}->{symbols} = $json->{$pref}->{symbols} || [];
     $Data->{$pref}->{wikipedia_image} = {
         wref => $json->{$pref}->{wikipedia_image_wref},
