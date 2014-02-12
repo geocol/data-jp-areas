@@ -9,18 +9,28 @@ use JSON::Functions::XS qw(perl2json_bytes_for_record file2perl);
 my $root_d = file (__FILE__)->dir->parent;
 our $Data = file2perl $root_d->file ('data', 'jp-regions.json');
 
+sub copy ($$) {
+  my ($f, $t) = @_;
+  for my $key (qw(url wref symbols)) {
+    $t->{$key} = $f->{$key} if defined $f->{$key};
+  }
+  $t->{wikipedia_image} = {
+    wref => $f->{wikipedia_image_wref},
+    desc => $f->{wikipedia_image_desc},
+  } if defined $f->{wikipedia_image_wref};
+} # copy
+
 {
   my $f = file (__FILE__)->dir->parent->file ('intermediate', 'wikipedia-regions.json');
   my $json = file2perl $f;
-  for my $pref (keys %$json) {
-    $Data->{$pref}->{url} = $json->{$pref}->{url};
-    $Data->{$pref}->{wref} = $json->{$pref}->{wref}
-        if defined $json->{$pref}->{wref};
-    $Data->{$pref}->{symbols} = $json->{$pref}->{symbols} || [];
-    $Data->{$pref}->{wikipedia_image} = {
-        wref => $json->{$pref}->{wikipedia_image_wref},
-        desc => $json->{$pref}->{wikipedia_image_desc},
-    };
+  for my $pref (keys %$Data) {
+    copy $json->{$pref} => $Data->{$pref};
+    for my $city (keys %{$Data->{$pref}->{areas} or {}}) {
+      copy $json->{"$pref,$city"} => $Data->{$pref}->{areas}->{$city};
+      for my $town (keys %{$Data->{$pref}->{areas}->{$city}->{areas} or {}}) {
+        copy $json->{"$pref,$city,$town"} => $Data->{$pref}->{areas}->{$city}->{areas}->{$town};
+      }
+    }
   }
 }
 
