@@ -16,7 +16,7 @@ $| = 1;
 select STDOUT;
 
 my $root_d = file (__FILE__)->dir->parent;
-my $data_f = $root_d->file ('intermediate', 'wikipedia-prefs.json');
+my $data_f = $root_d->file ('intermediate', 'wikipedia-regions.json');
 
 our $Data = file2perl $data_f;
 

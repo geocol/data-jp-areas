@@ -10,7 +10,7 @@ my $root_d = file (__FILE__)->dir->parent;
 our $Data = file2perl $root_d->file ('data', 'jp-regions.json');
 
 {
-  my $f = file (__FILE__)->dir->parent->file ('intermediate', 'wikipedia-prefs.json');
+  my $f = file (__FILE__)->dir->parent->file ('intermediate', 'wikipedia-regions.json');
   my $json = file2perl $f;
   for my $pref (keys %$json) {
     $Data->{$pref}->{url} = $json->{$pref}->{url};

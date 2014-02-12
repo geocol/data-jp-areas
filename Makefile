@@ -51,10 +51,10 @@ wp-clean:
 wp-deps:
 	$(PERL) bin/prepare-wikipedia-cache.pl
 
-wp-data: wp-deps intermediate/wikipedia-prefs.json
+wp-data: wp-deps intermediate/wikipedia-regions.json
 	$(GIT) add intermediate
 
-intermediate/wikipedia-prefs.json: local/jp-regions.json \
+intermediate/wikipedia-regions.json: local/jp-regions.json \
     bin/wikipedia-prefs.pl bin/wikipedia-regions.pl \
     bin/wikipedia-cities.pl #wikipedia-dump
 	mkdir -p intermediate
@@ -74,7 +74,7 @@ data/jp-regions.json: local/jp-regions.json
 	cp $< $@
 
 data/jp-regions-full.json: data/jp-regions.json bin/jp-regions-full.pl \
-    intermediate/wikipedia-prefs.json
+    intermediate/wikipedia-regions.json
 	$(PERL) bin/jp-regions-full.pl > $@
 
 all-jpzip: data/jp-zip.json data/jp-zip.json.gz
