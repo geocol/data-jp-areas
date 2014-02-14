@@ -67,7 +67,8 @@ local/intermediate-wikipedia:
 
 ## ------ Data ------
 
-all-jpregions: data/jp-regions.json data/jp-regions-full.json
+all-jpregions: data/jp-regions.json data/jp-regions-full.json \
+    data/jp-regions-suffix-mixed-names.json
 clean-jpregions: clean-jpzip
 
 local/jp-regions.json: local/ken_all.csv local/ken_all_rome.csv \
@@ -127,6 +128,17 @@ intermediate/geonlp-pref.json: \
     local/geonlp_japan_pref/geonlp_japan_pref_20140115_u.csv \
     bin/geonlp-pref.pl
 	$(PERL) bin/geonlp-pref.pl > $@
+
+local/bin/jq:
+	$(WGET) -O $@ http://stedolan.github.io/jq/download/linux64/jq
+	chmod u+x local/bin/jq
+
+local/all-area-names.json: local/bin/jq data/jp-regions.json
+	cat data/jp-regions.json | local/bin/jq '[recurse(.[].areas) | to_entries | map([.key, .value.code]) | .[]]' > $@
+
+data/jp-regions-suffix-mixed-names.json: bin/suffix-mixed-names.pl \
+    local/all-area-names.json
+	$(PERL) bin/suffix-mixed-names.pl > $@
 
 ## ------ Tests ------
 

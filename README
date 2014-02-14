@@ -8,9 +8,14 @@ areadata
 
 There are following data files:
 
-  data/jp-regions.txt  - Prefectures, cities, towns, and villages in Japan
-  data/jp-regions-full.txt - Ditto, with additional data
-  data/jp-zip.txt      - ZIP codes assigned to areas in Japan
+  jp-regions.json
+      Prefectures, cities, towns, and villages in Japan.
+  jp-regions-full.json
+      Ditto, with additional data.
+  jp-regions-suffix-mixed-names.json
+      Regions in Japan, whose name contains region suffix (within name).
+  jp-zip.json
+      ZIP codes assigned to areas in Japan.
 
 * Distribution
 
@@ -19,7 +24,7 @@ Latest version of these data files are available from
 
 * Maintainer
 
-Wakaba <wakaba@suikawiki.org>.
+Wakaba <wakaba@suikawiki.org> (Hatena <http://hatenacorp.jp/>).
 
 * License
 

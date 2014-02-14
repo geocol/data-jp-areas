@@ -1,0 +1,29 @@
+jp-regions-suffix-mixed-names.json
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+This file contains list of areas whose name contains area name suffix
+characters (e.g. "京都府" contains "都" and "四日市市" contains "市").
+
+The current version of the file only contains areas in the
+|jp-regions.json|, i.e. the current administrative divisions.
+Historical areas and fictional areas are not included.
+
+Following suffixes are taken into account: 国, 都, 道, 府, 県, 市, 郡,
+区, 町, and 村.
+
+* Structure
+
+The file contains a JSON object with following name/value pairs:
+
+  areas
+
+    A JSON array containing areas.  An area is represented as as JSON
+    array whose first item is the name of the area (as in the
+    |jp-regions.json| file) and second item is the area code (if any,
+    or |null|).
+
+  patterns [object]
+
+    Names are suffixes and values are list of area names which
+    contains the suffix in its name, separated by a "|" character.
+    Values can be used as part of regular expressions.
