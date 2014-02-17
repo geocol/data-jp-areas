@@ -16,7 +16,7 @@ for my $area (@$json) {
   $v =~ s/\s*\([^()]+\)$//;
   $v =~ s/(.)$//;
   my $suffix = $1;
-  if ($v =~ /[国都道府県市郡区町村]/) {
+  if ($v =~ /[国國都道府県縣市郡区區町村]/) {
     push @result, $area;
     push @{$by_suffix{$suffix} ||= []}, $area->[0];
   }
