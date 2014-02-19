@@ -4218,7 +4218,7 @@
             },
             "code" : "28100",
             "designated" : 1,
-            "kana" : "コウベシヒガシ",
+            "kana" : "コウベシ",
             "latin" : "Kobe-shi",
             "office" : {
                "address" : "中央区加納町6-5-1",
@@ -7142,7 +7142,7 @@
             "kana" : "カワカミグン",
             "latin" : "Kawakami-gun",
             "type" : "district",
-            "wref" : "川上郡 (北海道)"
+            "wref" : "川上郡"
          },
          "帯広市" : {
             "code" : "01207",
@@ -7630,7 +7630,7 @@
             "kana" : "ヒダカグン",
             "latin" : "Hidaka-gun",
             "type" : "district",
-            "wref" : "日高郡 (北海道)"
+            "wref" : "日高郡"
          },
          "旭川市" : {
             "code" : "01204",
@@ -13464,7 +13464,7 @@
             "kana" : "ヒダカグン",
             "latin" : "Hidaka-gun",
             "type" : "district",
-            "wref" : "日高郡 (和歌山県)"
+            "wref" : "日高郡"
          },
          "有田市" : {
             "code" : "30204",
@@ -17446,7 +17446,7 @@
             "kana" : "ミシマグン",
             "latin" : "Mishima-gun",
             "type" : "district",
-            "wref" : "三島郡 (大阪府)"
+            "wref" : "三島郡"
          },
          "交野市" : {
             "code" : "27230",
@@ -18529,7 +18529,7 @@
             },
             "code" : "27100",
             "designated" : 1,
-            "kana" : "オオサカシ",
+            "kana" : "オオサカシフクシ",
             "latin" : "Osaka-shi",
             "office" : {
                "address" : "北区中之島1-3-20",
@@ -24312,7 +24312,7 @@
             "kana" : "クマゲグン",
             "latin" : "Kumage-gun",
             "type" : "district",
-            "wref" : "熊毛郡 (山口県)"
+            "wref" : "熊毛郡"
          },
          "玖珂郡" : {
             "areas" : {
@@ -31576,7 +31576,7 @@
             "kana" : "ヤマガタグン",
             "latin" : "Yamagata-gun",
             "type" : "district",
-            "wref" : "山県郡 (広島県)"
+            "wref" : "山県郡"
          },
          "広島市" : {
             "areas" : {
@@ -35880,7 +35880,7 @@
             "kana" : "サントウグン",
             "latin" : "Santo-gun",
             "type" : "district",
-            "wref" : "三島郡 (新潟県)"
+            "wref" : "三島郡"
          },
          "三条市" : {
             "code" : "15204",
@@ -36588,7 +36588,7 @@
             },
             "code" : "15100",
             "designated" : 1,
-            "kana" : "ニイガタシ",
+            "kana" : "ニイガタシニシ",
             "latin" : "Niigata-shi",
             "office" : {
                "address" : "中央区学校町通1番町602-1",
@@ -44897,7 +44897,7 @@
             "kana" : "ナカグン",
             "latin" : "Naka-gun",
             "type" : "district",
-            "wref" : "中郡 (神奈川県)"
+            "wref" : "中郡"
          },
          "伊勢原市" : {
             "code" : "14214",
@@ -51252,7 +51252,7 @@
             "kana" : "イシカワグン",
             "latin" : "Ishikawa-gun",
             "type" : "district",
-            "wref" : "石川郡 (福島県)"
+            "wref" : "石川郡"
          },
          "福島市" : {
             "code" : "07201",
@@ -52725,7 +52725,7 @@
             "kana" : "サワグン",
             "latin" : "Sawa-gun",
             "type" : "district",
-            "wref" : "佐波郡 (群馬県)"
+            "wref" : "佐波郡"
          },
          "利根郡" : {
             "areas" : {
@@ -55486,7 +55486,7 @@
             "kana" : "ナカグン",
             "latin" : "Naka-gun",
             "type" : "district",
-            "wref" : "那珂郡 (茨城県)"
+            "wref" : "那珂郡"
          },
          "鉾田市" : {
             "code" : "08234",
@@ -61641,7 +61641,7 @@
             "kana" : "カモグン",
             "latin" : "Kamo-gun",
             "type" : "district",
-            "wref" : "賀茂郡 (静岡県)"
+            "wref" : "賀茂郡"
          },
          "静岡市" : {
             "areas" : {
