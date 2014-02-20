@@ -7897,7 +7897,7 @@
                },
                "大正区" : {
                   "code" : "27108",
-                  "kana" : "ョウク",
+                  "kana" : "タイショウク",
                   "latin" : "Taisho-ku",
                   "office" : {
                      "address" : "千島2-7-95",
@@ -7949,7 +7949,7 @@
                },
                "東住吉区" : {
                   "code" : "27121",
-                  "kana" : "スミヨシク",
+                  "kana" : "ヒガシスミヨシク",
                   "latin" : "Higashisumiyoshi-ku",
                   "office" : {
                      "address" : "東田辺1-13-4",
@@ -7962,7 +7962,7 @@
                },
                "東成区" : {
                   "code" : "27115",
-                  "kana" : "ナリク",
+                  "kana" : "ヒガシナリク",
                   "latin" : "Higashinari-ku",
                   "office" : {
                      "address" : "大今里西2-8-4",
@@ -7975,7 +7975,7 @@
                },
                "東淀川区" : {
                   "code" : "27114",
-                  "kana" : "ヨドガワク",
+                  "kana" : "ヒガシヨドガワク",
                   "latin" : "Higashiyodogawa-ku",
                   "office" : {
                      "address" : "豊新2-1-4",
@@ -8053,7 +8053,7 @@
                },
                "福島区" : {
                   "code" : "27103",
-                  "kana" : "マク",
+                  "kana" : "フクシマク",
                   "latin" : "Fukushima-ku",
                   "office" : {
                      "address" : "大開1-8-1",
@@ -8079,7 +8079,7 @@
                },
                "西成区" : {
                   "code" : "27122",
-                  "kana" : "ナリク",
+                  "kana" : "ニシナリク",
                   "latin" : "Nishinari-ku",
                   "office" : {
                      "address" : "岸里1-5-20",
@@ -8092,7 +8092,7 @@
                },
                "西淀川区" : {
                   "code" : "27113",
-                  "kana" : "ヨドガワク",
+                  "kana" : "ニシヨドガワク",
                   "latin" : "Nishiyodogawa-ku",
                   "office" : {
                      "address" : "御幣島1丁目2-10",
@@ -8145,7 +8145,7 @@
             },
             "code" : "27100",
             "designated" : 1,
-            "kana" : "オオサカシフクシ",
+            "kana" : "オオサカシ",
             "latin" : "Osaka-shi",
             "office" : {
                "address" : "北区中之島1-3-20",
@@ -16013,7 +16013,7 @@
                },
                "西蒲区" : {
                   "code" : "15108",
-                  "kana" : "カンク",
+                  "kana" : "ニシカンク",
                   "latin" : "Nishikan-ku",
                   "office" : {
                      "address" : "巻甲2690-1",
@@ -16027,7 +16027,7 @@
             },
             "code" : "15100",
             "designated" : 1,
-            "kana" : "ニイガタシニシ",
+            "kana" : "ニイガタシ",
             "latin" : "Niigata-shi",
             "office" : {
                "address" : "中央区学校町通1番町602-1",
