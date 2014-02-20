@@ -45,7 +45,7 @@ for my $data (values %{$Areas->{cities}}, values %{$Areas->{prefs}}) {
     if ($data->{name} =~ /^(.+市)(.+区)$/) {
         $data->{city} = $1;
         $data->{name} = $2;
-        $data->{kana} =~ /^(キョウトシ|シズオカシ|コウベシ|.+シ)(.+ク)$/;
+        $data->{kana} =~ /^(キョウトシ|シズオカシ|コウベシ|オオサカシ|ニイガタシ|.+シ)(.+ク)$/;
         $data->{city_kana} = $1;
         $data->{kana} = $2;
         $data->{latin} =~ /^(.+-ku) (.+-shi)$/;
