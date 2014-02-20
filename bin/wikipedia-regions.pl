@@ -266,11 +266,9 @@ sub _get ($$$$$) {
   $mw->get_source_text_by_name_as_cv ($target_wref, ims => $ims || 0)->cb (sub {
     my $data = $_[0]->recv;
     if (defined $data and defined $data->{data}) {
-      if ($data->{not_modified}) {
-        $cv->end;
-      } else {
-        extract_from_data $target, $target_wref, $data, $cv;
-      }
+      extract_from_data $target, $target_wref, $data, $cv;
+    } elsif (defined $data and $data->{not_modified}) {
+      $cv->end;
     } else {
       if (@$wrefs) {
         my $wref = shift @$wrefs;
