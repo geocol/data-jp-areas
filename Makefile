@@ -70,6 +70,14 @@ local/intermediate-wikipedia:
 all-jpregions: data/jp-regions.json data/jp-regions-full.json \
     data/jp-regions-suffix-mixed-names.json
 clean-jpregions: clean-jpzip
+	rm -fr local/soumu-jp-regions.csv
+
+local/soumu-jp-regions.csv:
+	$(WGET) -O $@ http://www.stat.go.jp/index/seido/csv/9-5.csv
+
+local/soumu-jp-regions.json: local/soumu-jp-regions.csv \
+    bin/soumu-jp-regions.pl
+	$(PERL) bin/soumu-jp-regions.pl > $@
 
 local/japanpost-jp-regions.json: local/ken_all.csv local/ken_all_rome.csv \
     bin/japanpost-jp-regions.pl
@@ -97,8 +105,10 @@ data/jp-zip.json.gz: data/jp-zip.json
 
 local/ken_all.csv: local/ken_all.lzh local/bin/lhasa
 	cd local && bin/lhasa xf ken_all.lzh
+	touch $@
 local/ken_all_rome.csv: local/ken_all_rome.lzh local/bin/lhasa
 	cd local && bin/lhasa xf ken_all_rome.lzh
+	touch $@
 
 local/ken_all.lzh:
 	mkdir -p local
@@ -137,7 +147,7 @@ local/bin/jq:
 	chmod u+x local/bin/jq
 
 local/all-area-names.json: local/bin/jq data/jp-regions.json
-	cat data/jp-regions.json | local/bin/jq '[recurse(.[].areas) | to_entries | map([.key, .value.code]) | .[]]' > $@
+	cat data/jp-regions.json | local/bin/jq '[recurse(.[].areas, .[].districts) | to_entries | map([.key, .value.code]) | .[]]' > $@
 
 data/jp-regions-suffix-mixed-names.json: bin/suffix-mixed-names.pl \
     local/all-area-names.json

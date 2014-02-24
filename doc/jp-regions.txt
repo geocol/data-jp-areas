@@ -22,6 +22,10 @@ The |areas| fields of the "area list" objects of designated cities
 The |areas| fields of the "area list" object of districts (郡) contain
 "area list" objects of towns and villages (町村) in the district.
 
+Note that districts (郡) in Hokkaidou prefecture (北海道) are not
+contained in |areas| field, but in |districts| field of the
+prefecture's area object.
+
 * The "area list" JSON object structure
 
 The "area list" object is a JSON object, where names are Japanese
@@ -42,9 +46,17 @@ e.g. <http://law.e-gov.go.jp/htmldata/H13/H13F12001000012.html>.
 
 Values contain following name/value pairs:
 
+  area_names [object?]
+
+    If the area is a district (郡) in Hokkaidou prefecture (北海道),
+    or is a subprefecture or branch office (振興局, 支庁) in Hokkaidou
+    (北海道) or Tokyo (東京都) prefecture, the list of towns and
+    villages in the area, represented as name/value pairs whose names
+    are town or village names and values are boolean true values.
+
   areas [object?]
 
-    Subareas, if any, represented as nested "area list" object.
+    Subareas, if any, represented as a nested "area list" object.
 
   code [string?]
 
@@ -52,13 +64,26 @@ Values contain following name/value pairs:
     government of the area (全国地方公共団体コード - JIS X 0401, JIS X
     0402), if any.
 
-  kana [string]
+  district_name [string?]
 
-    Hiragana representation of area name.
+    For towns and villages in Hokkaidou prefecture (北海道) only, the
+    name of the district (郡) to which it belongs.  As noted in the
+    previous section, some district names contain country (国) name
+    annotation.
 
-  latin [string]
+  districts [object?]
 
-    Latin (roman) representation of area name.
+    If the area is Hokkaidou prefecture (北海道), districts (郡) in
+    the prefecture, represented as a nested "area list" object.  (For
+    other prefectures, they are contained in |areas| field.)
+
+  kana [string?]
+
+    Hiragana representation of area name, if known.
+
+  latin [string?]
+
+    Latin (roman) representation of area name, if known.
 
   office [object?]
 
@@ -74,6 +99,19 @@ Values contain following name/value pairs:
 
         The WGS84 geographical location of the office, represented as
         a JSON array of latitude and longitude number values.
+
+  subpref_name [string?]
+
+    If the area is a town or village in Hokkaidou (北海道) or Tokyo (東
+    京都) prefecture, the name of the subprefecture or branch office
+    by which the area is administrated.
+
+  subprefs [object?]
+
+    If the area is Hokkaidou (北海道) or Tokyo (東京都) prefecture,
+    list of subprefecture or branch office (振興局, 支庁), represented
+    as a nested "area list" object.  Note that they are local
+    government branches rather than areas.
 
   [FULL] symbols
 
@@ -140,6 +178,7 @@ Values contain following name/value pairs:
       district 郡
       town     町
       village  村
+      subpref  振興局, 支庁
 
   [FULL] url [string?]
 
@@ -165,6 +204,9 @@ Values contain following name/value pairs:
 
 * Sources
 
+統計に用いる標準地域コード (総務省所管)
+<http://www.data.go.jp/data/dataset/soumu_06_ds_131126_00000008>.
+
 Wikipedia - 全国地方公共団体コード
 <http://ja.wikipedia.org/wiki/%E5%85%A8%E5%9B%BD%E5%9C%B0%E6%96%B9%E5%85%AC%E5%85%B1%E5%9B%A3%E4%BD%93%E3%82%B3%E3%83%BC%E3%83%89>.
 
@@ -179,6 +221,14 @@ Wikipedia - 全国地方公共団体コード
 <https://geonlp.ex.nii.ac.jp/dictionary/geonlp/japan_pref>.
 
 * License
+
+The JSON data partially derived from 統計に用いる標準地域コード (総務省
+所管)
+<http://www.data.go.jp/data/dataset/soumu_06_ds_131126_00000008>,
+which is licensed under CC-BY.  See クリエイティブ・コモンズ・ライセン
+ス 表示 2.1 日本 <http://creativecommons.org/licenses/by/2.1/jp/> and
+データカタログサイト試行版利用規約
+<http://www.data.go.jp/terms-of-use/terms-of-use/>.
 
 The JSON data partially derived from 郵便番号データ, whose license
 terms <http://www.post.japanpost.jp/zipcode/dl/readme.html> are:
