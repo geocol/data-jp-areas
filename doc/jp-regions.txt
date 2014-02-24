@@ -54,7 +54,7 @@ Values contain following name/value pairs:
 
   kana [string]
 
-    Katakana representation of area name.
+    Hiragana representation of area name.
 
   latin [string]
 

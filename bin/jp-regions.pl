@@ -6,6 +6,7 @@ use lib glob file (__FILE__)->dir->subdir ('modules', '*', 'lib');
 use Encode;
 use JSON::Functions::XS qw(perl2json_bytes_for_record file2perl);
 use Char::Normalize::FullwidthHalfwidth qw(normalize_width combine_voiced_sound_marks);
+use Char::Transliterate::Kana qw(hiragana_to_katakana katakana_to_hiragana);
 
 our $Data;
 {
@@ -28,10 +29,13 @@ sub type_by_suffix ($) {
 
 for my $pref (keys %$Data) {
     $Data->{$pref}->{type} = 'pref';
+    katakana_to_hiragana $Data->{$pref}->{kana};
     for my $city (keys %{$Data->{$pref}->{areas} or {}}) {
         $Data->{$pref}->{areas}->{$city}->{type} = type_by_suffix $city;
+        katakana_to_hiragana $Data->{$pref}->{areas}->{$city}->{kana};
         for my $town (keys %{$Data->{$pref}->{areas}->{$city}->{areas} or {}}) {
             $Data->{$pref}->{areas}->{$city}->{areas}->{$town}->{type} = type_by_suffix $town;
+            katakana_to_hiragana $Data->{$pref}->{areas}->{$city}->{areas}->{$town}->{kana};
         }
     }
 }
