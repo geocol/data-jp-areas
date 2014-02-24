@@ -396,7 +396,7 @@
          },
          "鈴鹿市" : {
             "code" : "24207",
-            "kana" : "すじかし",
+            "kana" : "すずかし",
             "latin" : "Suzuka-shi",
             "office" : {
                "address" : "神戸1-18-18",
@@ -747,7 +747,7 @@
          },
          "城陽市" : {
             "code" : "26207",
-            "kana" : "ジょうようし",
+            "kana" : "じょうようし",
             "latin" : "Joyo-shi",
             "office" : {
                "address" : "寺田東ノ口16・17",
@@ -760,7 +760,7 @@
          },
          "宇治市" : {
             "code" : "26204",
-            "kana" : "うジし",
+            "kana" : "うじし",
             "latin" : "Uji-shi",
             "office" : {
                "address" : "宇治琵琶33",
@@ -886,7 +886,7 @@
                },
                "宇治田原町" : {
                   "code" : "26344",
-                  "kana" : "うジたわらちょう",
+                  "kana" : "うじたわらちょう",
                   "latin" : "Ujitawara-cho",
                   "office" : {
                      "address" : "大字荒木小字西出10",
@@ -1228,7 +1228,7 @@
                   "type" : "town"
                }
             },
-            "kana" : "ふジつぐん",
+            "kana" : "ふじつぐん",
             "latin" : "Fujitsu-gun",
             "type" : "district"
          },
@@ -1445,7 +1445,7 @@
          },
          "南あわじ市" : {
             "code" : "28224",
-            "kana" : "みなみあわジし",
+            "kana" : "みなみあわじし",
             "latin" : "Minamiawaji-shi",
             "office" : {
                "address" : "市善光寺18-27",
@@ -1478,7 +1478,7 @@
          },
          "姫路市" : {
             "code" : "28201",
-            "kana" : "ひめジし",
+            "kana" : "ひめじし",
             "latin" : "Himeji-shi",
             "office" : {
                "address" : "安田4-1",
@@ -1635,7 +1635,7 @@
          },
          "淡路市" : {
             "code" : "28226",
-            "kana" : "あわジし",
+            "kana" : "あわじし",
             "latin" : "Awaji-shi",
             "office" : {
                "address" : "生穂新島8",
@@ -2040,7 +2040,7 @@
                },
                "清水町" : {
                   "code" : "01636",
-                  "kana" : "しみじちょう",
+                  "kana" : "しみずちょう",
                   "latin" : "Shimizu-cho",
                   "office" : {
                      "address" : "南4条2-2",
@@ -2487,7 +2487,7 @@
             "areas" : {
                "利尻富士町" : {
                   "code" : "01519",
-                  "kana" : "りしりふジちょう",
+                  "kana" : "りしりふじちょう",
                   "latin" : "Rishirifuji-cho",
                   "office" : {
                      "address" : "鴛泊字富士野6",
@@ -3229,7 +3229,7 @@
                   "type" : "town"
                }
             },
-            "kana" : "ほろいじみぐん",
+            "kana" : "ほろいずみぐん",
             "latin" : "Horoizumi-gun",
             "type" : "district"
          },
@@ -3296,7 +3296,7 @@
             "areas" : {
                "小清水町" : {
                   "code" : "01547",
-                  "kana" : "こしみじちょう",
+                  "kana" : "こしみずちょう",
                   "latin" : "Koshimizu-cho",
                   "office" : {
                      "address" : "字小清水217",
@@ -5291,7 +5291,7 @@
                },
                "御宿町" : {
                   "code" : "12443",
-                  "kana" : "おんジゅくまち",
+                  "kana" : "おんじゅくまち",
                   "latin" : "Onjuku-machi",
                   "office" : {
                      "address" : "須賀1522",
@@ -5370,7 +5370,7 @@
             "areas" : {
                "九十九里町" : {
                   "code" : "12403",
-                  "kana" : "くジゅうくりまち",
+                  "kana" : "くじゅうくりまち",
                   "latin" : "Kujukuri-machi",
                   "office" : {
                      "address" : "片貝4099",
@@ -6129,7 +6129,7 @@
                },
                "太地町" : {
                   "code" : "30422",
-                  "kana" : "たいジちょう",
+                  "kana" : "たいじちょう",
                   "latin" : "Taiji-cho",
                   "office" : {
                      "address" : "大字太地3767-1",
@@ -6439,7 +6439,7 @@
          },
          "ふじみ野市" : {
             "code" : "11245",
-            "kana" : "ふジみのし",
+            "kana" : "ふじみのし",
             "latin" : "Fujimino-shi",
             "office" : {
                "address" : "福岡1-1-1",
@@ -6767,7 +6767,7 @@
          },
          "富士見市" : {
             "code" : "11235",
-            "kana" : "ふジみし",
+            "kana" : "ふじみし",
             "latin" : "Fujimi-shi",
             "office" : {
                "address" : "大字鶴馬1800-1",
@@ -6910,7 +6910,7 @@
          },
          "本庄市" : {
             "code" : "11211",
-            "kana" : "ほんジょうし",
+            "kana" : "ほんじょうし",
             "latin" : "Honjo-shi",
             "office" : {
                "address" : "本庄3-5-3",
@@ -7003,7 +7003,7 @@
                },
                "川島町" : {
                   "code" : "11346",
-                  "kana" : "かわジままち",
+                  "kana" : "かわじままち",
                   "latin" : "Kawajima-machi",
                   "office" : {
                      "address" : "大字平沼1175",
@@ -7546,7 +7546,7 @@
             "areas" : {
                "日出町" : {
                   "code" : "44341",
-                  "kana" : "ひジまち",
+                  "kana" : "ひじまち",
                   "latin" : "Hiji-machi",
                   "office" : {
                      "address" : "2974-1",
@@ -7684,7 +7684,7 @@
          },
          "和泉市" : {
             "code" : "27219",
-            "kana" : "いじみし",
+            "kana" : "いずみし",
             "latin" : "Izumi-shi",
             "office" : {
                "address" : "府中町2-7-5",
@@ -7697,7 +7697,7 @@
          },
          "四條畷市" : {
             "code" : "27229",
-            "kana" : "しジょうなわてし",
+            "kana" : "しじょうなわてし",
             "latin" : "Shijonawate-shi",
             "office" : {
                "address" : "中野本町1-1",
@@ -7884,7 +7884,7 @@
                },
                "城東区" : {
                   "code" : "27118",
-                  "kana" : "ジょうとうく",
+                  "kana" : "じょうとうく",
                   "latin" : "Joto-ku",
                   "office" : {
                      "address" : "中央3-4-29",
@@ -7910,7 +7910,7 @@
                },
                "天王寺区" : {
                   "code" : "27109",
-                  "kana" : "てんのうジく",
+                  "kana" : "てんのうじく",
                   "latin" : "Tennoji-ku",
                   "office" : {
                      "address" : "真法院町20-33",
@@ -8105,7 +8105,7 @@
                },
                "都島区" : {
                   "code" : "27102",
-                  "kana" : "みやこジまく",
+                  "kana" : "みやこじまく",
                   "latin" : "Miyakojima-ku",
                   "office" : {
                      "address" : "中野町2-16-20",
@@ -8314,7 +8314,7 @@
          },
          "泉佐野市" : {
             "code" : "27213",
-            "kana" : "いじみさのし",
+            "kana" : "いずみさのし",
             "latin" : "Izumisano-shi",
             "office" : {
                "address" : "市場東1-295-3",
@@ -8388,7 +8388,7 @@
                },
                "田尻町" : {
                   "code" : "27362",
-                  "kana" : "たジりちょう",
+                  "kana" : "たじりちょう",
                   "latin" : "Tajiri-cho",
                   "office" : {
                      "address" : "大字嘉祥寺375-1",
@@ -8406,7 +8406,7 @@
          },
          "泉大津市" : {
             "code" : "27206",
-            "kana" : "いじみおおつし",
+            "kana" : "いずみおおつし",
             "latin" : "Izumiotsu-shi",
             "office" : {
                "address" : "東雲町9-12",
@@ -8458,7 +8458,7 @@
          },
          "藤井寺市" : {
             "code" : "27226",
-            "kana" : "ふジいでらし",
+            "kana" : "ふじいでらし",
             "latin" : "Fujiidera-shi",
             "office" : {
                "address" : "岡1-1-1",
@@ -8597,7 +8597,7 @@
       "areas" : {
          "五條市" : {
             "code" : "29207",
-            "kana" : "ごジょうし",
+            "kana" : "ごじょうし",
             "latin" : "Gojo-shi",
             "office" : {
                "address" : "本町1-1-1",
@@ -8651,7 +8651,7 @@
                },
                "王寺町" : {
                   "code" : "29425",
-                  "kana" : "おうジちょう",
+                  "kana" : "おうじちょう",
                   "latin" : "Oji-cho",
                   "office" : {
                      "address" : "王寺2-1-23",
@@ -9222,7 +9222,7 @@
                },
                "泉区" : {
                   "code" : "04105",
-                  "kana" : "いじみく",
+                  "kana" : "いずみく",
                   "latin" : "Izumi-ku",
                   "office" : {
                      "address" : "泉中央2-1-1",
@@ -9380,7 +9380,7 @@
          },
          "多賀城市" : {
             "code" : "04209",
-            "kana" : "たがジょうし",
+            "kana" : "たがじょうし",
             "latin" : "Tagajo-shi",
             "office" : {
                "address" : "中央2-1-1",
@@ -9816,7 +9816,7 @@
                },
                "木城町" : {
                   "code" : "45404",
-                  "kana" : "きジょうちょう",
+                  "kana" : "きじょうちょう",
                   "latin" : "Kijo-cho",
                   "office" : {
                      "address" : "大字高城1227-1",
@@ -10129,7 +10129,7 @@
          },
          "都城市" : {
             "code" : "45202",
-            "kana" : "みやこのジょうし",
+            "kana" : "みやこのじょうし",
             "latin" : "Miyakonojo-shi",
             "office" : {
                "address" : "姫城町6街区21号",
@@ -10262,7 +10262,7 @@
          },
          "射水市" : {
             "code" : "16211",
-            "kana" : "いみじし",
+            "kana" : "いみずし",
             "latin" : "Imizu-shi",
             "office" : {
                "address" : "戸破1511",
@@ -10769,7 +10769,7 @@
          },
          "新庄市" : {
             "code" : "06205",
-            "kana" : "しんジょうし",
+            "kana" : "しんじょうし",
             "latin" : "Shinjo-shi",
             "office" : {
                "address" : "沖の町10-37",
@@ -11317,7 +11317,7 @@
                },
                "富士川町" : {
                   "code" : "19368",
-                  "kana" : "ふジかわちょう",
+                  "kana" : "ふじかわちょう",
                   "latin" : "Fujikawa-cho",
                   "office" : {
                      "address" : "天神中条1134",
@@ -11363,7 +11363,7 @@
             "areas" : {
                "富士河口湖町" : {
                   "code" : "19430",
-                  "kana" : "ふジかわぐちこまち",
+                  "kana" : "ふじかわぐちこまち",
                   "latin" : "Fujikawaguchiko-machi",
                   "office" : {
                      "address" : "船津1700",
@@ -11459,7 +11459,7 @@
          },
          "富士吉田市" : {
             "code" : "19202",
-            "kana" : "ふジよしだし",
+            "kana" : "ふじよしだし",
             "latin" : "Fujiyoshida-shi",
             "office" : {
                "address" : "下吉田1842",
@@ -11814,7 +11814,7 @@
          },
          "多治見市" : {
             "code" : "21204",
-            "kana" : "たジみし",
+            "kana" : "たじみし",
             "latin" : "Tajimi-shi",
             "office" : {
                "address" : "日ノ出町2-15",
@@ -12037,7 +12037,7 @@
          },
          "瑞浪市" : {
             "code" : "21208",
-            "kana" : "みじなみし",
+            "kana" : "みずなみし",
             "latin" : "Mizunami-shi",
             "office" : {
                "address" : "上平町1-1",
@@ -12050,7 +12050,7 @@
          },
          "瑞穂市" : {
             "code" : "21216",
-            "kana" : "みじほし",
+            "kana" : "みずほし",
             "latin" : "Mizuho-shi",
             "office" : {
                "address" : "別府1288",
@@ -12135,7 +12135,7 @@
          },
          "郡上市" : {
             "code" : "21219",
-            "kana" : "ぐジょうし",
+            "kana" : "ぐじょうし",
             "latin" : "Gujo-shi",
             "office" : {
                "address" : "八幡町島谷228",
@@ -12555,7 +12555,7 @@
             "areas" : {
                "新庄村" : {
                   "code" : "33586",
-                  "kana" : "しんジょうそん",
+                  "kana" : "しんじょうそん",
                   "latin" : "Shinjo-son",
                   "office" : {
                      "address" : "2008-1",
@@ -12586,7 +12586,7 @@
          },
          "総社市" : {
             "code" : "33208",
-            "kana" : "そうジゃし",
+            "kana" : "そうじゃし",
             "latin" : "Soja-shi",
             "office" : {
                "address" : "中央1-1-1",
@@ -12761,7 +12761,7 @@
                },
                "岩泉町" : {
                   "code" : "03483",
-                  "kana" : "いわいじみちょう",
+                  "kana" : "いわいずみちょう",
                   "latin" : "Iwaizumi-cho",
                   "office" : {
                      "address" : "岩泉字惣畑59-5",
@@ -12805,7 +12805,7 @@
          },
          "久慈市" : {
             "code" : "03207",
-            "kana" : "くジし",
+            "kana" : "くじし",
             "latin" : "Kuji-shi",
             "office" : {
                "address" : "川崎町1-1",
@@ -13010,7 +13010,7 @@
                },
                "葛巻町" : {
                   "code" : "03302",
-                  "kana" : "くじまきまち",
+                  "kana" : "くずまきまち",
                   "latin" : "Kuzumaki-machi",
                   "office" : {
                      "address" : "葛巻第16地割1-1",
@@ -13023,7 +13023,7 @@
                },
                "雫石町" : {
                   "code" : "03301",
-                  "kana" : "しじくいしちょう",
+                  "kana" : "しずくいしちょう",
                   "latin" : "Shizukuishi-cho",
                   "office" : {
                      "address" : "千刈田5-1",
@@ -13148,7 +13148,7 @@
             "areas" : {
                "平泉町" : {
                   "code" : "03402",
-                  "kana" : "ひらいじみちょう",
+                  "kana" : "ひらいずみちょう",
                   "latin" : "Hiraizumi-cho",
                   "office" : {
                      "address" : "平泉字志羅山45-2",
@@ -13222,7 +13222,7 @@
             "areas" : {
                "奥出雲町" : {
                   "code" : "32343",
-                  "kana" : "おくいじもちょう",
+                  "kana" : "おくいずもちょう",
                   "latin" : "Okuizumo-cho",
                   "office" : {
                      "address" : "三成358-1",
@@ -13240,7 +13240,7 @@
          },
          "出雲市" : {
             "code" : "32203",
-            "kana" : "いじもし",
+            "kana" : "いずもし",
             "latin" : "Izumo-shi",
             "office" : {
                "address" : "今市町109-1",
@@ -13879,7 +13879,7 @@
          },
          "江田島市" : {
             "code" : "34215",
-            "kana" : "えたジまし",
+            "kana" : "えたじまし",
             "latin" : "Etajima-shi",
             "office" : {
                "address" : "能美町中町4859-9",
@@ -13894,7 +13894,7 @@
             "areas" : {
                "神石高原町" : {
                   "code" : "34545",
-                  "kana" : "ジんせきこうげんちょう",
+                  "kana" : "じんせきこうげんちょう",
                   "latin" : "Jinsekikogen-cho",
                   "office" : {
                      "address" : "小畠2025",
@@ -13906,7 +13906,7 @@
                   "type" : "town"
                }
             },
-            "kana" : "ジんせきぐん",
+            "kana" : "じんせきぐん",
             "latin" : "Jinseki-gun",
             "type" : "district"
          },
@@ -13940,7 +13940,7 @@
             "areas" : {
                "大崎上島町" : {
                   "code" : "34431",
-                  "kana" : "おおさきかみジまちょう",
+                  "kana" : "おおさきかみじまちょう",
                   "latin" : "Osakikamijima-cho",
                   "office" : {
                      "address" : "東野6625-1",
@@ -14146,7 +14146,7 @@
                },
                "北島町" : {
                   "code" : "36402",
-                  "kana" : "きたジまちょう",
+                  "kana" : "きたじまちょう",
                   "latin" : "Kitajima-cho",
                   "office" : {
                      "address" : "中村字上地23-1",
@@ -14185,7 +14185,7 @@
                },
                "藍住町" : {
                   "code" : "36403",
-                  "kana" : "あいじみちょう",
+                  "kana" : "あいずみちょう",
                   "latin" : "Aizumi-cho",
                   "office" : {
                      "address" : "奥野字矢上前52-1",
@@ -14534,7 +14534,7 @@
          },
          "大洲市" : {
             "code" : "38207",
-            "kana" : "おおじし",
+            "kana" : "おおずし",
             "latin" : "Ozu-shi",
             "office" : {
                "address" : "大洲690-1",
@@ -14547,7 +14547,7 @@
          },
          "宇和島市" : {
             "code" : "38203",
-            "kana" : "うわジまし",
+            "kana" : "うわじまし",
             "latin" : "Uwajima-shi",
             "office" : {
                "address" : "曙町1",
@@ -14632,7 +14632,7 @@
          },
          "西条市" : {
             "code" : "38206",
-            "kana" : "さいジょうし",
+            "kana" : "さいじょうし",
             "latin" : "Saijo-shi",
             "office" : {
                "address" : "明屋敷164",
@@ -14647,7 +14647,7 @@
             "areas" : {
                "上島町" : {
                   "code" : "38356",
-                  "kana" : "かみジまちょう",
+                  "kana" : "かみじまちょう",
                   "latin" : "Kamijima-cho",
                   "office" : {
                      "address" : "弓削下弓削210",
@@ -15008,7 +15008,7 @@
                },
                "瑞穂区" : {
                   "code" : "23108",
-                  "kana" : "みじほく",
+                  "kana" : "みずほく",
                   "latin" : "Mizuho-ku",
                   "office" : {
                      "address" : "瑞穂通3-32",
@@ -15074,7 +15074,7 @@
          },
          "安城市" : {
             "code" : "23212",
-            "kana" : "あんジょうし",
+            "kana" : "あんじょうし",
             "latin" : "Anjo-shi",
             "office" : {
                "address" : "桜町18-23",
@@ -15652,7 +15652,7 @@
             "areas" : {
                "出雲崎町" : {
                   "code" : "15405",
-                  "kana" : "いじもざきまち",
+                  "kana" : "いずもざきまち",
                   "latin" : "Izumozaki-machi",
                   "office" : {
                      "address" : "川西140",
@@ -15670,7 +15670,7 @@
          },
          "三条市" : {
             "code" : "15204",
-            "kana" : "さんジょうし",
+            "kana" : "さんじょうし",
             "latin" : "Sanjo-shi",
             "office" : {
                "address" : "旭町2-3-1",
@@ -15683,7 +15683,7 @@
          },
          "上越市" : {
             "code" : "15222",
-            "kana" : "ジょうえつし",
+            "kana" : "じょうえつし",
             "latin" : "Joetsu-shi",
             "office" : {
                "address" : "木田1丁目1-3",
@@ -16303,7 +16303,7 @@
          },
          "八丈町" : {
             "code" : "13401",
-            "kana" : "はちジょうまち",
+            "kana" : "はちじょうまち",
             "latin" : "Hachijo-machi",
             "office" : {
                "address" : "大賀郷2345-1",
@@ -16316,7 +16316,7 @@
          },
          "八王子市" : {
             "code" : "13201",
-            "kana" : "はちおうジし",
+            "kana" : "はちおうじし",
             "latin" : "Hachioji-shi",
             "office" : {
                "address" : "元本郷町3-24-1",
@@ -16394,7 +16394,7 @@
          },
          "国分寺市" : {
             "code" : "13214",
-            "kana" : "こくぶんジし",
+            "kana" : "こくぶんじし",
             "latin" : "Kokubunji-shi",
             "office" : {
                "address" : "戸倉1-6-1",
@@ -16524,7 +16524,7 @@
          },
          "御蔵島村" : {
             "code" : "13382",
-            "kana" : "みくらジまむら",
+            "kana" : "みくらじまむら",
             "latin" : "Mikurajima-mura",
             "office" : {
                "address" : "字入かねが沢",
@@ -16550,7 +16550,7 @@
          },
          "新宿区" : {
             "code" : "13104",
-            "kana" : "しんジゅくく",
+            "kana" : "しんじゅくく",
             "latin" : "Shinjuku-ku",
             "office" : {
                "address" : "歌舞伎町1-4-1",
@@ -16563,7 +16563,7 @@
          },
          "新島村" : {
             "code" : "13363",
-            "kana" : "にいジまむら",
+            "kana" : "にいじまむら",
             "latin" : "Niijima-mura",
             "office" : {
                "address" : "本村1-1-1",
@@ -16942,7 +16942,7 @@
                },
                "瑞穂町" : {
                   "code" : "13303",
-                  "kana" : "みじほまち",
+                  "kana" : "みずほまち",
                   "latin" : "Mizuho-machi",
                   "office" : {
                      "address" : "大字箱根ヶ崎2335",
@@ -17572,7 +17572,7 @@
          },
          "南城市" : {
             "code" : "47215",
-            "kana" : "なんジょうし",
+            "kana" : "なんじょうし",
             "latin" : "Nanjo-shi",
             "office" : {
                "address" : "玉城字富里143",
@@ -17600,7 +17600,7 @@
             "areas" : {
                "今帰仁村" : {
                   "code" : "47306",
-                  "kana" : "なきジんそん",
+                  "kana" : "なきじんそん",
                   "latin" : "Nakijin-son",
                   "office" : {
                      "address" : "字仲宗根219",
@@ -17735,7 +17735,7 @@
          },
          "宮古島市" : {
             "code" : "47214",
-            "kana" : "みやこジまし",
+            "kana" : "みやこじまし",
             "latin" : "Miyakojima-shi",
             "office" : {
                "address" : "平良字西里186",
@@ -17783,7 +17783,7 @@
                },
                "久米島町" : {
                   "code" : "47361",
-                  "kana" : "くめジまちょう",
+                  "kana" : "くめじまちょう",
                   "latin" : "Kumejima-cho",
                   "office" : {
                      "address" : "字比嘉2870",
@@ -17925,7 +17925,7 @@
                   "type" : "village"
                }
             },
-            "kana" : "しまジりぐん",
+            "kana" : "しまじりぐん",
             "latin" : "Shimajiri-gun",
             "type" : "district"
          },
@@ -18707,7 +18707,7 @@
                },
                "水上村" : {
                   "code" : "43507",
-                  "kana" : "みじかみむら",
+                  "kana" : "みずかみむら",
                   "latin" : "Mizukami-mura",
                   "office" : {
                      "address" : "大字岩野90",
@@ -19067,7 +19067,7 @@
          },
          "珠洲市" : {
             "code" : "17205",
-            "kana" : "すじし",
+            "kana" : "すずし",
             "latin" : "Suzu-shi",
             "office" : {
                "address" : "上戸町北方1の6の2",
@@ -19108,7 +19108,7 @@
             "areas" : {
                "宝達志水町" : {
                   "code" : "17386",
-                  "kana" : "ほうだつしみじちょう",
+                  "kana" : "ほうだつしみずちょう",
                   "latin" : "Hodatsushimizu-cho",
                   "office" : {
                      "address" : "子浦そ18-1",
@@ -19172,7 +19172,7 @@
          },
          "輪島市" : {
             "code" : "17204",
-            "kana" : "わジまし",
+            "kana" : "わじまし",
             "latin" : "Wajima-shi",
             "office" : {
                "address" : "二ツ屋町2字29",
@@ -19206,7 +19206,7 @@
             "areas" : {
                "穴水町" : {
                   "code" : "17461",
-                  "kana" : "あなみじまち",
+                  "kana" : "あなみずまち",
                   "latin" : "Anamizu-machi",
                   "office" : {
                      "address" : "字川島ラ174",
@@ -19649,7 +19649,7 @@
                },
                "泉区" : {
                   "code" : "14116",
-                  "kana" : "いじみく",
+                  "kana" : "いずみく",
                   "latin" : "Izumi-ku",
                   "office" : {
                      "address" : "和泉町4636-2",
@@ -19932,7 +19932,7 @@
          },
          "藤沢市" : {
             "code" : "14205",
-            "kana" : "ふジさわし",
+            "kana" : "ふじさわし",
             "latin" : "Fujisawa-shi",
             "office" : {
                "address" : "朝日町1-1",
@@ -20063,7 +20063,7 @@
          },
          "逗子市" : {
             "code" : "14208",
-            "kana" : "じしし",
+            "kana" : "ずしし",
             "latin" : "Zushi-shi",
             "office" : {
                "address" : "逗子5-2-16",
@@ -20237,7 +20237,7 @@
                   "type" : "town"
                }
             },
-            "kana" : "なんジょうぐん",
+            "kana" : "なんじょうぐん",
             "latin" : "Nanjo-gun",
             "type" : "district"
          },
@@ -20245,7 +20245,7 @@
             "areas" : {
                "永平寺町" : {
                   "code" : "18322",
-                  "kana" : "えいへいジちょう",
+                  "kana" : "えいへいじちょう",
                   "latin" : "Eiheiji-cho",
                   "office" : {
                      "address" : "松岡春日1-4",
@@ -20462,7 +20462,7 @@
                   "type" : "town"
                }
             },
-            "kana" : "みじまぐん",
+            "kana" : "みずまぐん",
             "latin" : "Mizuma-gun",
             "type" : "district"
          },
@@ -20640,7 +20640,7 @@
                },
                "門司区" : {
                   "code" : "40101",
-                  "kana" : "もジく",
+                  "kana" : "もじく",
                   "latin" : "Moji-ku",
                   "office" : {
                      "address" : "清滝1-1-1",
@@ -20739,7 +20739,7 @@
          },
          "大野城市" : {
             "code" : "40219",
-            "kana" : "おおのジょうし",
+            "kana" : "おおのじょうし",
             "latin" : "Onojo-shi",
             "office" : {
                "address" : "曙町2-2-1",
@@ -21041,7 +21041,7 @@
                },
                "城南区" : {
                   "code" : "40136",
-                  "kana" : "ジょうなんく",
+                  "kana" : "じょうなんく",
                   "latin" : "Jonan-ku",
                   "office" : {
                      "address" : "鳥飼6-1-1",
@@ -21194,7 +21194,7 @@
                },
                "築上町" : {
                   "code" : "40647",
-                  "kana" : "ちくジょうまち",
+                  "kana" : "ちくじょうまち",
                   "latin" : "Chikujo-machi",
                   "office" : {
                      "address" : "大字椎田891-2",
@@ -21206,7 +21206,7 @@
                   "type" : "town"
                }
             },
-            "kana" : "ちくジょうぐん",
+            "kana" : "ちくじょうぐん",
             "latin" : "Chikujo-gun",
             "type" : "district"
          },
@@ -21357,7 +21357,7 @@
                },
                "水巻町" : {
                   "code" : "40382",
-                  "kana" : "みじまきまち",
+                  "kana" : "みずまきまち",
                   "latin" : "Mizumaki-machi",
                   "office" : {
                      "address" : "頃末北1-1-1",
@@ -22237,7 +22237,7 @@
             "areas" : {
                "中島村" : {
                   "code" : "07465",
-                  "kana" : "なかジまむら",
+                  "kana" : "なかじまむら",
                   "latin" : "Nakajima-mura",
                   "office" : {
                      "address" : "大字滑津字中島西11-1",
@@ -22250,7 +22250,7 @@
                },
                "泉崎村" : {
                   "code" : "07464",
-                  "kana" : "いじみざきむら",
+                  "kana" : "いずみざきむら",
                   "latin" : "Izumizaki-mura",
                   "office" : {
                      "address" : "大字泉崎字新宿2",
@@ -22416,7 +22416,7 @@
             "areas" : {
                "五城目町" : {
                   "code" : "05361",
-                  "kana" : "ごジょうめまち",
+                  "kana" : "ごじょうめまち",
                   "latin" : "Gojome-machi",
                   "office" : {
                      "address" : "西磯ノ目1-1-1",
@@ -22527,7 +22527,7 @@
                },
                "藤里町" : {
                   "code" : "05346",
-                  "kana" : "ふジさとまち",
+                  "kana" : "ふじさとまち",
                   "latin" : "Fujisato-machi",
                   "office" : {
                      "address" : "藤琴字藤琴8",
@@ -22584,7 +22584,7 @@
          },
          "由利本荘市" : {
             "code" : "05210",
-            "kana" : "ゆりほんジょうし",
+            "kana" : "ゆりほんじょうし",
             "latin" : "Yurihonjo-shi",
             "office" : {
                "address" : "尾崎17",
@@ -22870,7 +22870,7 @@
             "areas" : {
                "中之条町" : {
                   "code" : "10421",
-                  "kana" : "なかのジょうまち",
+                  "kana" : "なかのじょうまち",
                   "latin" : "Nakanojo-machi",
                   "office" : {
                      "address" : "大字中之条町1091",
@@ -23110,7 +23110,7 @@
          },
          "藤岡市" : {
             "code" : "10209",
-            "kana" : "ふジおかし",
+            "kana" : "ふじおかし",
             "latin" : "Fujioka-shi",
             "office" : {
                "address" : "中栗須327",
@@ -23138,7 +23138,7 @@
                },
                "大泉町" : {
                   "code" : "10524",
-                  "kana" : "おおいじみまち",
+                  "kana" : "おおいずみまち",
                   "latin" : "Oizumi-machi",
                   "office" : {
                      "address" : "日の出55-1",
@@ -23315,7 +23315,7 @@
                   "type" : "town"
                }
             },
-            "kana" : "くジぐん",
+            "kana" : "くじぐん",
             "latin" : "Kuji-gun",
             "type" : "district"
          },
@@ -23432,7 +23432,7 @@
          },
          "常総市" : {
             "code" : "08211",
-            "kana" : "ジょうそうし",
+            "kana" : "じょうそうし",
             "latin" : "Joso-shi",
             "office" : {
                "address" : "水海道諏訪町3222-3",
@@ -24255,7 +24255,7 @@
                },
                "飯島町" : {
                   "code" : "20384",
-                  "kana" : "いいジままち",
+                  "kana" : "いいじままち",
                   "latin" : "Iijima-machi",
                   "office" : {
                      "address" : "飯島2537",
@@ -24367,7 +24367,7 @@
             "areas" : {
                "下條村" : {
                   "code" : "20411",
-                  "kana" : "しもジょうむら",
+                  "kana" : "しもじょうむら",
                   "latin" : "Shimojo-mura",
                   "office" : {
                      "address" : "睦沢8801-1",
@@ -24576,7 +24576,7 @@
                },
                "木島平村" : {
                   "code" : "20562",
-                  "kana" : "きジまだいらむら",
+                  "kana" : "きじまだいらむら",
                   "latin" : "Kijimadaira-mura",
                   "office" : {
                      "address" : "大字往郷973-1",
@@ -24869,7 +24869,7 @@
          },
          "塩尻市" : {
             "code" : "20215",
-            "kana" : "しおジりし",
+            "kana" : "しおじりし",
             "latin" : "Shiojiri-shi",
             "office" : {
                "address" : "大門7番町3-3",
@@ -25197,7 +25197,7 @@
                },
                "富士見町" : {
                   "code" : "20362",
-                  "kana" : "ふジみまち",
+                  "kana" : "ふじみまち",
                   "latin" : "Fujimi-machi",
                   "office" : {
                      "address" : "落合10777",
@@ -25499,7 +25499,7 @@
                },
                "野辺地町" : {
                   "code" : "02401",
-                  "kana" : "のへジまち",
+                  "kana" : "のへじまち",
                   "latin" : "Noheji-machi",
                   "office" : {
                      "address" : "字野辺地123-1",
@@ -25709,7 +25709,7 @@
                },
                "藤崎町" : {
                   "code" : "02361",
-                  "kana" : "ふジさきまち",
+                  "kana" : "ふじさきまち",
                   "latin" : "Fujisaki-machi",
                   "office" : {
                      "address" : "大字西豊田1-1",
@@ -25827,7 +25827,7 @@
                },
                "鰺ヶ沢町" : {
                   "code" : "02321",
-                  "kana" : "あジがさわまち",
+                  "kana" : "あじがさわまち",
                   "latin" : "Ajigasawa-machi",
                   "office" : {
                      "address" : "大字本町209-2",
@@ -25925,7 +25925,7 @@
          },
          "伊豆の国市" : {
             "code" : "22225",
-            "kana" : "いじのくにし",
+            "kana" : "いずのくにし",
             "latin" : "Izunokuni-shi",
             "office" : {
                "address" : "長岡340-1",
@@ -25938,7 +25938,7 @@
          },
          "伊豆市" : {
             "code" : "22222",
-            "kana" : "いじし",
+            "kana" : "いずし",
             "latin" : "Izu-shi",
             "office" : {
                "address" : "小立野38-2",
@@ -25971,7 +25971,7 @@
          },
          "富士宮市" : {
             "code" : "22207",
-            "kana" : "ふジのみやし",
+            "kana" : "ふじのみやし",
             "latin" : "Fujinomiya-shi",
             "office" : {
                "address" : "弓沢町150",
@@ -25984,7 +25984,7 @@
          },
          "富士市" : {
             "code" : "22210",
-            "kana" : "ふジし",
+            "kana" : "ふじし",
             "latin" : "Fuji-shi",
             "office" : {
                "address" : "永田町1-100",
@@ -26300,7 +26300,7 @@
          },
          "藤枝市" : {
             "code" : "22214",
-            "kana" : "ふジえだし",
+            "kana" : "ふじえだし",
             "latin" : "Fujieda-shi",
             "office" : {
                "address" : "岡出山1-11-1",
@@ -26341,7 +26341,7 @@
             "areas" : {
                "南伊豆町" : {
                   "code" : "22304",
-                  "kana" : "みなみいじちょう",
+                  "kana" : "みなみいずちょう",
                   "latin" : "Minamiizu-cho",
                   "office" : {
                      "address" : "下賀茂328-2",
@@ -26354,7 +26354,7 @@
                },
                "東伊豆町" : {
                   "code" : "22301",
-                  "kana" : "ひがしいじちょう",
+                  "kana" : "ひがしいずちょう",
                   "latin" : "Higashiizu-cho",
                   "office" : {
                      "address" : "稲取3354",
@@ -26393,7 +26393,7 @@
                },
                "西伊豆町" : {
                   "code" : "22306",
-                  "kana" : "にしいじちょう",
+                  "kana" : "にしいずちょう",
                   "latin" : "Nishiizu-cho",
                   "office" : {
                      "address" : "仁科401-1",
@@ -26413,7 +26413,7 @@
             "areas" : {
                "清水区" : {
                   "code" : "22103",
-                  "kana" : "しみじく",
+                  "kana" : "しみずく",
                   "latin" : "Shimizu-ku",
                   "office" : {
                      "address" : "旭町6-8",
@@ -26453,7 +26453,7 @@
             },
             "code" : "22100",
             "designated" : 1,
-            "kana" : "しじおかし",
+            "kana" : "しずおかし",
             "latin" : "Shizuoka-shi",
             "office" : {
                "address" : "葵区追手町5-1",
@@ -26481,7 +26481,7 @@
                },
                "清水町" : {
                   "code" : "22341",
-                  "kana" : "しみじちょう",
+                  "kana" : "しみずちょう",
                   "latin" : "Shimizu-cho",
                   "office" : {
                      "address" : "堂庭210-1",
@@ -26494,7 +26494,7 @@
                },
                "長泉町" : {
                   "code" : "22342",
-                  "kana" : "ながいじみちょう",
+                  "kana" : "ながいずみちょう",
                   "latin" : "Nagaizumi-cho",
                   "office" : {
                      "address" : "中土狩828",
@@ -26512,7 +26512,7 @@
          }
       },
       "code" : "22",
-      "kana" : "しじおかけん",
+      "kana" : "しずおかけん",
       "latin" : "Shizuoka",
       "office" : {
          "address" : "静岡市葵区追手町9-6",
@@ -26612,7 +26612,7 @@
          },
          "善通寺市" : {
             "code" : "37204",
-            "kana" : "ぜんつうジし",
+            "kana" : "ぜんつうじし",
             "latin" : "Zentsuji-shi",
             "office" : {
                "address" : "文京町2-1-1",
@@ -26665,7 +26665,7 @@
                   "type" : "town"
                }
             },
-            "kana" : "しょうじぐん",
+            "kana" : "しょうずぐん",
             "latin" : "Shozu-gun",
             "type" : "district"
          },
@@ -26737,7 +26737,7 @@
          },
          "観音寺市" : {
             "code" : "37205",
-            "kana" : "かんおんジし",
+            "kana" : "かんおんじし",
             "latin" : "Kanonji-shi",
             "office" : {
                "address" : "坂本町一丁目1-1",
@@ -26870,7 +26870,7 @@
          },
          "土佐清水市" : {
             "code" : "39209",
-            "kana" : "とさしみじし",
+            "kana" : "とさしみずし",
             "latin" : "Tosashimizu-shi",
             "office" : {
                "address" : "天神町11-2",
@@ -27009,7 +27009,7 @@
                },
                "馬路村" : {
                   "code" : "39306",
-                  "kana" : "うまジむら",
+                  "kana" : "うまじむら",
                   "latin" : "Umaji-mura",
                   "office" : {
                      "address" : "馬路443",
@@ -27305,7 +27305,7 @@
             "areas" : {
                "八頭町" : {
                   "code" : "31329",
-                  "kana" : "やじちょう",
+                  "kana" : "やずちょう",
                   "latin" : "Yazu-cho",
                   "office" : {
                      "address" : "郡家493",
@@ -27343,7 +27343,7 @@
                   "type" : "town"
                }
             },
-            "kana" : "やじぐん",
+            "kana" : "やずぐん",
             "latin" : "Yazu-gun",
             "type" : "district"
          },
@@ -27613,7 +27613,7 @@
          },
          "出水市" : {
             "code" : "46208",
-            "kana" : "いじみし",
+            "kana" : "いずみし",
             "latin" : "Izumi-shi",
             "office" : {
                "address" : "緑町1-3",
@@ -27640,7 +27640,7 @@
                   "type" : "town"
                }
             },
-            "kana" : "いじみぐん",
+            "kana" : "いずみぐん",
             "latin" : "Izumi-gun",
             "type" : "district"
          },
@@ -27672,7 +27672,7 @@
          },
          "垂水市" : {
             "code" : "46214",
-            "kana" : "たるみじし",
+            "kana" : "たるみずし",
             "latin" : "Tarumizu-shi",
             "office" : {
                "address" : "上町114",
