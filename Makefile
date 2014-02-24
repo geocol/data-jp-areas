@@ -71,8 +71,11 @@ all-jpregions: data/jp-regions.json data/jp-regions-full.json \
     data/jp-regions-suffix-mixed-names.json
 clean-jpregions: clean-jpzip
 
-local/jp-regions.json: local/ken_all.csv local/ken_all_rome.csv \
-    bin/jp-regions.pl
+local/japanpost-jp-regions.json: local/ken_all.csv local/ken_all_rome.csv \
+    bin/japanpost-jp-regions.pl
+	$(PERL) bin/japanpost-jp-regions.pl > $@
+
+local/jp-regions.json: local/japanpost-jp-regions.json bin/jp-regions.pl
 	$(PERL) bin/jp-regions.pl > $@
 
 data/jp-regions.json: local/jp-regions.json
