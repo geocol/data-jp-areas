@@ -86,8 +86,9 @@ local/japanpost-jp-regions.json: local/ken_all.csv local/ken_all_rome.csv \
 local/jp-regions.json: local/japanpost-jp-regions.json bin/jp-regions.pl
 	$(PERL) bin/jp-regions.pl > $@
 
-data/jp-regions.json: local/jp-regions.json
-	cp $< $@
+data/jp-regions.json: local/jp-regions.json local/hokkaidou-subprefs.json \
+    bin/jp-regions-2.pl
+	$(PERL) bin/jp-regions-2.pl > $@
 
 data/jp-regions-full.json: data/jp-regions.json bin/jp-regions-full.pl \
     intermediate/wikipedia-regions.json
@@ -152,6 +153,9 @@ local/all-area-names.json: local/bin/jq data/jp-regions.json
 data/jp-regions-suffix-mixed-names.json: bin/suffix-mixed-names.pl \
     local/all-area-names.json
 	$(PERL) bin/suffix-mixed-names.pl > $@
+
+local/hokkaidou-subprefs.json: intermediate/wikipedia-regions.json local/bin/jq
+	cat intermediate/wikipedia-regions.json | local/bin/jq 'to_entries | map(select(.value.subpref)) | map([.key, .value.subpref])' > $@
 
 ## ------ Tests ------
 

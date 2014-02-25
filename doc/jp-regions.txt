@@ -50,9 +50,10 @@ Values contain following name/value pairs:
 
     If the area is a district (郡) in Hokkaidou prefecture (北海道),
     or is a subprefecture or branch office (振興局, 支庁) in Hokkaidou
-    (北海道) or Tokyo (東京都) prefecture, the list of towns and
-    villages in the area, represented as name/value pairs whose names
-    are town or village names and values are boolean true values.
+    (北海道) or Tokyo (東京都) prefecture, the list of cities, towns,
+    and villages in the area, represented as name/value pairs whose
+    names are town or village names and values are boolean true
+    values.
 
   areas [object?]
 
@@ -87,8 +88,9 @@ Values contain following name/value pairs:
 
   office [object?]
 
-    The location of the local government office of the area, if exists
-    and known.  This is a JSON object with following name/value pairs:
+    The location of the local government office (都道府県庁, 市区役所,
+    町村役場) of the area, if exists and known.  This is a JSON object
+    with following name/value pairs:
 
       address [string?]
 
@@ -102,9 +104,9 @@ Values contain following name/value pairs:
 
   subpref_name [string?]
 
-    If the area is a town or village in Hokkaidou (北海道) or Tokyo (東
-    京都) prefecture, the name of the subprefecture or branch office
-    by which the area is administrated.
+    If the area is a city, town, or village in Hokkaidou (北海道) or
+    Tokyo (東京都) prefecture, the name of the subprefecture or branch
+    office by which the area is administrated.
 
   subprefs [object?]
 
