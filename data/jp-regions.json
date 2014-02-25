@@ -4834,7 +4834,8 @@
                "清水町" : 1
             },
             "kana" : "カミカワグン",
-            "latin" : "Kamikawa-gun"
+            "latin" : "Kamikawa-gun",
+            "type" : "district"
          },
          "上川郡 (天塩国)" : {
             "area_names" : {
@@ -4843,7 +4844,8 @@
                "和寒町" : 1
             },
             "kana" : "カミカワグン",
-            "latin" : "Kamikawa-gun"
+            "latin" : "Kamikawa-gun",
+            "type" : "district"
          },
          "上川郡 (石狩国)" : {
             "area_names" : {
@@ -4857,7 +4859,8 @@
                "鷹栖町" : 1
             },
             "kana" : "カミカワグン",
-            "latin" : "Kamikawa-gun"
+            "latin" : "Kamikawa-gun",
+            "type" : "district"
          },
          "上磯郡" : {
             "area_names" : {
@@ -4865,7 +4868,8 @@
                "知内町" : 1
             },
             "kana" : "カミイソグン",
-            "latin" : "Kamiiso-gun"
+            "latin" : "Kamiiso-gun",
+            "type" : "district"
          },
          "中川郡 (十勝国)" : {
             "area_names" : {
@@ -4875,7 +4879,8 @@
                "豊頃町" : 1
             },
             "kana" : "ナカガワグン",
-            "latin" : "Nakagawa-gun"
+            "latin" : "Nakagawa-gun",
+            "type" : "district"
          },
          "中川郡 (天塩国)" : {
             "area_names" : {
@@ -4884,28 +4889,32 @@
                "音威子府村" : 1
             },
             "kana" : "ナカガワグン",
-            "latin" : "Nakagawa-gun"
+            "latin" : "Nakagawa-gun",
+            "type" : "district"
          },
          "久遠郡" : {
             "area_names" : {
                "せたな町" : 1
             },
             "kana" : "クドウグン",
-            "latin" : "Kudo-gun"
+            "latin" : "Kudo-gun",
+            "type" : "district"
          },
          "亀田郡" : {
             "area_names" : {
                "七飯町" : 1
             },
             "kana" : "カメダグン",
-            "latin" : "Kameda-gun"
+            "latin" : "Kameda-gun",
+            "type" : "district"
          },
          "二海郡" : {
             "area_names" : {
                "八雲町" : 1
             },
             "kana" : "フタミグン",
-            "latin" : "Futami-gun"
+            "latin" : "Futami-gun",
+            "type" : "district"
          },
          "余市郡" : {
             "area_names" : {
@@ -4914,7 +4923,8 @@
                "赤井川村" : 1
             },
             "kana" : "ヨイチグン",
-            "latin" : "Yoichi-gun"
+            "latin" : "Yoichi-gun",
+            "type" : "district"
          },
          "利尻郡" : {
             "area_names" : {
@@ -4922,7 +4932,8 @@
                "利尻町" : 1
             },
             "kana" : "リシリグン",
-            "latin" : "Rishiri-gun"
+            "latin" : "Rishiri-gun",
+            "type" : "district"
          },
          "勇払郡" : {
             "area_names" : {
@@ -4932,14 +4943,16 @@
                "安平町" : 1
             },
             "kana" : "ユウフツグン",
-            "latin" : "Yufutsu-gun"
+            "latin" : "Yufutsu-gun",
+            "type" : "district"
          },
          "十勝郡" : {
             "area_names" : {
                "浦幌町" : 1
             },
             "kana" : "トカチグン",
-            "latin" : "Tokachi-gun"
+            "latin" : "Tokachi-gun",
+            "type" : "district"
          },
          "厚岸郡" : {
             "area_names" : {
@@ -4947,7 +4960,8 @@
                "浜中町" : 1
             },
             "kana" : "アッケシグン",
-            "latin" : "Akkeshi-gun"
+            "latin" : "Akkeshi-gun",
+            "type" : "district"
          },
          "古宇郡" : {
             "area_names" : {
@@ -4955,14 +4969,16 @@
                "神恵内村" : 1
             },
             "kana" : "フルウグン",
-            "latin" : "Furu-gun"
+            "latin" : "Furu-gun",
+            "type" : "district"
          },
          "古平郡" : {
             "area_names" : {
                "古平町" : 1
             },
             "kana" : "フルビラグン",
-            "latin" : "Furubira-gun"
+            "latin" : "Furubira-gun",
+            "type" : "district"
          },
          "国後郡" : {
             "area_names" : {
@@ -4978,7 +4994,8 @@
                "増毛町" : 1
             },
             "kana" : "マシケグン",
-            "latin" : "Mashike-gun"
+            "latin" : "Mashike-gun",
+            "type" : "district"
          },
          "夕張郡" : {
             "area_names" : {
@@ -4987,7 +5004,8 @@
                "長沼町" : 1
             },
             "kana" : "ユウバリグン",
-            "latin" : "Yubari-gun"
+            "latin" : "Yubari-gun",
+            "type" : "district"
          },
          "天塩郡" : {
             "area_names" : {
@@ -4997,21 +5015,24 @@
                "遠別町" : 1
             },
             "kana" : "テシオグン",
-            "latin" : "Teshio-gun"
+            "latin" : "Teshio-gun",
+            "type" : "district"
          },
          "奥尻郡" : {
             "area_names" : {
                "奥尻町" : 1
             },
             "kana" : "オクシリグン",
-            "latin" : "Okushiri-gun"
+            "latin" : "Okushiri-gun",
+            "type" : "district"
          },
          "宗谷郡" : {
             "area_names" : {
                "猿払村" : 1
             },
             "kana" : "ソウヤグン",
-            "latin" : "Soya-gun"
+            "latin" : "Soya-gun",
+            "type" : "district"
          },
          "寿都郡" : {
             "area_names" : {
@@ -5019,14 +5040,16 @@
                "黒松内町" : 1
             },
             "kana" : "スッツグン",
-            "latin" : "Suttsu-gun"
+            "latin" : "Suttsu-gun",
+            "type" : "district"
          },
          "山越郡" : {
             "area_names" : {
                "長万部町" : 1
             },
             "kana" : "ヤマコシグン",
-            "latin" : "Yamakoshi-gun"
+            "latin" : "Yamakoshi-gun",
+            "type" : "district"
          },
          "岩内郡" : {
             "area_names" : {
@@ -5034,14 +5057,16 @@
                "岩内町" : 1
             },
             "kana" : "イワナイグン",
-            "latin" : "Iwanai-gun"
+            "latin" : "Iwanai-gun",
+            "type" : "district"
          },
          "島牧郡" : {
             "area_names" : {
                "島牧村" : 1
             },
             "kana" : "シママキグン",
-            "latin" : "Shimamaki-gun"
+            "latin" : "Shimamaki-gun",
+            "type" : "district"
          },
          "川上郡" : {
             "area_names" : {
@@ -5049,7 +5074,8 @@
                "標茶町" : 1
             },
             "kana" : "カワカミグン",
-            "latin" : "Kawakami-gun"
+            "latin" : "Kawakami-gun",
+            "type" : "district"
          },
          "常呂郡" : {
             "area_names" : {
@@ -5058,14 +5084,16 @@
                "訓子府町" : 1
             },
             "kana" : "トコログン",
-            "latin" : "Tokoro-gun"
+            "latin" : "Tokoro-gun",
+            "type" : "district"
          },
          "幌泉郡" : {
             "area_names" : {
                "えりも町" : 1
             },
             "kana" : "ホロイズミグン",
-            "latin" : "Horoizumi-gun"
+            "latin" : "Horoizumi-gun",
+            "type" : "district"
          },
          "広尾郡" : {
             "area_names" : {
@@ -5073,7 +5101,8 @@
                "広尾町" : 1
             },
             "kana" : "ヒロオグン",
-            "latin" : "Hiro-gun"
+            "latin" : "Hiro-gun",
+            "type" : "district"
          },
          "択捉郡" : {
             "area_names" : {
@@ -5090,28 +5119,32 @@
                "清里町" : 1
             },
             "kana" : "シャリグン",
-            "latin" : "Shari-gun"
+            "latin" : "Shari-gun",
+            "type" : "district"
          },
          "新冠郡" : {
             "area_names" : {
                "新冠町" : 1
             },
             "kana" : "ニイカップグン",
-            "latin" : "Niikappu-gun"
+            "latin" : "Niikappu-gun",
+            "type" : "district"
          },
          "日高郡" : {
             "area_names" : {
                "新ひだか町" : 1
             },
             "kana" : "ヒダカグン",
-            "latin" : "Hidaka-gun"
+            "latin" : "Hidaka-gun",
+            "type" : "district"
          },
          "有珠郡" : {
             "area_names" : {
                "壮瞥町" : 1
             },
             "kana" : "ウスグン",
-            "latin" : "Usu-gun"
+            "latin" : "Usu-gun",
+            "type" : "district"
          },
          "松前郡" : {
             "area_names" : {
@@ -5119,7 +5152,8 @@
                "福島町" : 1
             },
             "kana" : "マツマエグン",
-            "latin" : "Matsumae-gun"
+            "latin" : "Matsumae-gun",
+            "type" : "district"
          },
          "枝幸郡" : {
             "area_names" : {
@@ -5128,14 +5162,16 @@
                "浜頓別町" : 1
             },
             "kana" : "エサシグン",
-            "latin" : "Esashi-gun"
+            "latin" : "Esashi-gun",
+            "type" : "district"
          },
          "様似郡" : {
             "area_names" : {
                "様似町" : 1
             },
             "kana" : "サマニグン",
-            "latin" : "Samani-gun"
+            "latin" : "Samani-gun",
+            "type" : "district"
          },
          "標津郡" : {
             "area_names" : {
@@ -5143,7 +5179,8 @@
                "標津町" : 1
             },
             "kana" : "シベツグン",
-            "latin" : "Shibetsu-gun"
+            "latin" : "Shibetsu-gun",
+            "type" : "district"
          },
          "樺戸郡" : {
             "area_names" : {
@@ -5152,7 +5189,8 @@
                "浦臼町" : 1
             },
             "kana" : "カバトグン",
-            "latin" : "Kabato-gun"
+            "latin" : "Kabato-gun",
+            "type" : "district"
          },
          "檜山郡" : {
             "area_names" : {
@@ -5161,7 +5199,8 @@
                "江差町" : 1
             },
             "kana" : "ヒヤマグン",
-            "latin" : "Hiyama-gun"
+            "latin" : "Hiyama-gun",
+            "type" : "district"
          },
          "沙流郡" : {
             "area_names" : {
@@ -5169,7 +5208,8 @@
                "日高町" : 1
             },
             "kana" : "サルグン",
-            "latin" : "Saru-gun"
+            "latin" : "Saru-gun",
+            "type" : "district"
          },
          "河東郡" : {
             "area_names" : {
@@ -5179,7 +5219,8 @@
                "鹿追町" : 1
             },
             "kana" : "カトウグン",
-            "latin" : "Kato-gun"
+            "latin" : "Kato-gun",
+            "type" : "district"
          },
          "河西郡" : {
             "area_names" : {
@@ -5188,56 +5229,64 @@
                "芽室町" : 1
             },
             "kana" : "カサイグン",
-            "latin" : "Kasai-gun"
+            "latin" : "Kasai-gun",
+            "type" : "district"
          },
          "浦河郡" : {
             "area_names" : {
                "浦河町" : 1
             },
             "kana" : "ウラカワグン",
-            "latin" : "Urakawa-gun"
+            "latin" : "Urakawa-gun",
+            "type" : "district"
          },
          "瀬棚郡" : {
             "area_names" : {
                "今金町" : 1
             },
             "kana" : "セタナグン",
-            "latin" : "Setana-gun"
+            "latin" : "Setana-gun",
+            "type" : "district"
          },
          "爾志郡" : {
             "area_names" : {
                "乙部町" : 1
             },
             "kana" : "ニシグン",
-            "latin" : "Nishi-gun"
+            "latin" : "Nishi-gun",
+            "type" : "district"
          },
          "留萌郡" : {
             "area_names" : {
                "小平町" : 1
             },
             "kana" : "ルモイグン",
-            "latin" : "Rumoi-gun"
+            "latin" : "Rumoi-gun",
+            "type" : "district"
          },
          "白糠郡" : {
             "area_names" : {
                "白糠町" : 1
             },
             "kana" : "シラヌカグン",
-            "latin" : "Shiranuka-gun"
+            "latin" : "Shiranuka-gun",
+            "type" : "district"
          },
          "白老郡" : {
             "area_names" : {
                "白老町" : 1
             },
             "kana" : "シラオイグン",
-            "latin" : "Shiraoi-gun"
+            "latin" : "Shiraoi-gun",
+            "type" : "district"
          },
          "目梨郡" : {
             "area_names" : {
                "羅臼町" : 1
             },
             "kana" : "メナシグン",
-            "latin" : "Menashi-gun"
+            "latin" : "Menashi-gun",
+            "type" : "district"
          },
          "石狩郡" : {
             "area_names" : {
@@ -5245,28 +5294,32 @@
                "新篠津村" : 1
             },
             "kana" : "イシカリグン",
-            "latin" : "Ishikari-gun"
+            "latin" : "Ishikari-gun",
+            "type" : "district"
          },
          "磯谷郡" : {
             "area_names" : {
                "蘭越町" : 1
             },
             "kana" : "イソヤグン",
-            "latin" : "Isoya-gun"
+            "latin" : "Isoya-gun",
+            "type" : "district"
          },
          "礼文郡" : {
             "area_names" : {
                "礼文町" : 1
             },
             "kana" : "レブングン",
-            "latin" : "Rebun-gun"
+            "latin" : "Rebun-gun",
+            "type" : "district"
          },
          "積丹郡" : {
             "area_names" : {
                "積丹町" : 1
             },
             "kana" : "シャコタングン",
-            "latin" : "Shakotan-gun"
+            "latin" : "Shakotan-gun",
+            "type" : "district"
          },
          "空知郡" : {
             "area_names" : {
@@ -5278,7 +5331,8 @@
                "奈井江町" : 1
             },
             "kana" : "ソラチグン",
-            "latin" : "Sorachi-gun"
+            "latin" : "Sorachi-gun",
+            "type" : "district"
          },
          "紋別郡" : {
             "area_names" : {
@@ -5290,7 +5344,8 @@
                "雄武町" : 1
             },
             "kana" : "モンベツグン",
-            "latin" : "Mombetsu-gun"
+            "latin" : "Mombetsu-gun",
+            "type" : "district"
          },
          "紗那郡" : {
             "area_names" : {
@@ -5307,7 +5362,8 @@
                "美幌町" : 1
             },
             "kana" : "アバシリグン",
-            "latin" : "Abashiri-gun"
+            "latin" : "Abashiri-gun",
+            "type" : "district"
          },
          "色丹郡" : {
             "area_names" : {
@@ -5324,7 +5380,8 @@
                "苫前町" : 1
             },
             "kana" : "トママエグン",
-            "latin" : "Tomamae-gun"
+            "latin" : "Tomamae-gun",
+            "type" : "district"
          },
          "茅部郡" : {
             "area_names" : {
@@ -5332,7 +5389,8 @@
                "鹿部町" : 1
             },
             "kana" : "カヤベグン",
-            "latin" : "Kayabe-gun"
+            "latin" : "Kayabe-gun",
+            "type" : "district"
          },
          "蘂取郡" : {
             "area_names" : {
@@ -5354,7 +5412,8 @@
                "豊浦町" : 1
             },
             "kana" : "アブタグン",
-            "latin" : "Abuta-gun"
+            "latin" : "Abuta-gun",
+            "type" : "district"
          },
          "足寄郡" : {
             "area_names" : {
@@ -5362,28 +5421,32 @@
                "陸別町" : 1
             },
             "kana" : "アショログン",
-            "latin" : "Ashoro-gun"
+            "latin" : "Ashoro-gun",
+            "type" : "district"
          },
          "野付郡" : {
             "area_names" : {
                "別海町" : 1
             },
             "kana" : "ノツケグン",
-            "latin" : "Notsuke-gun"
+            "latin" : "Notsuke-gun",
+            "type" : "district"
          },
          "釧路郡" : {
             "area_names" : {
                "釧路町" : 1
             },
             "kana" : "クシログン",
-            "latin" : "Kushiro-gun"
+            "latin" : "Kushiro-gun",
+            "type" : "district"
          },
          "阿寒郡" : {
             "area_names" : {
                "鶴居村" : 1
             },
             "kana" : "アカングン",
-            "latin" : "Akan-gun"
+            "latin" : "Akan-gun",
+            "type" : "district"
          },
          "雨竜郡" : {
             "area_names" : {
@@ -5395,7 +5458,8 @@
                "雨竜町" : 1
             },
             "kana" : "ウリュウグン",
-            "latin" : "Uryu-gun"
+            "latin" : "Uryu-gun",
+            "type" : "district"
          }
       },
       "kana" : "ほっかいどう",
@@ -5427,7 +5491,7 @@
                "雄武町" : 1
             },
             "code" : "01540",
-            "hiragana" : "おほーつくそうごうしんこうきょく",
+            "kana" : null,
             "type" : "subpref"
          },
          "上川総合振興局" : {
@@ -5453,7 +5517,7 @@
                "鷹栖町" : 1
             },
             "code" : "01450",
-            "hiragana" : "かみかわそうごうしんこうきょく",
+            "kana" : null,
             "type" : "subpref"
          },
          "十勝総合振興局" : {
@@ -5478,7 +5542,7 @@
                "鹿追町" : 1
             },
             "code" : "01630",
-            "hiragana" : "とかちそうごうしんこうきょく",
+            "kana" : null,
             "type" : "subpref"
          },
          "宗谷総合振興局" : {
@@ -5494,7 +5558,7 @@
                "豊富町" : 1
             },
             "code" : "01510",
-            "hiragana" : "そうやそうごうしんこうきょく",
+            "kana" : null,
             "type" : "subpref"
          },
          "後志総合振興局" : {
@@ -5520,7 +5584,7 @@
                "黒松内町" : 1
             },
             "code" : "01390",
-            "hiragana" : "しりべしそうごうしんこうきょく",
+            "kana" : null,
             "type" : "subpref"
          },
          "日高振興局" : {
@@ -5534,7 +5598,7 @@
                "浦河町" : 1
             },
             "code" : "01600",
-            "hiragana" : "ひだかしんこうきょく",
+            "kana" : null,
             "type" : "subpref"
          },
          "根室振興局" : {
@@ -5551,7 +5615,7 @@
                "蘂取村" : 1
             },
             "code" : "01690",
-            "hiragana" : "ねむろしんこうきょく",
+            "kana" : null,
             "type" : "subpref"
          },
          "檜山振興局" : {
@@ -5565,7 +5629,7 @@
                "江差町" : 1
             },
             "code" : "01360",
-            "hiragana" : "ひやましんこうきょく",
+            "kana" : null,
             "type" : "subpref"
          },
          "渡島総合振興局" : {
@@ -5581,7 +5645,7 @@
                "鹿部町" : 1
             },
             "code" : "01330",
-            "hiragana" : "おしまそうごうしんこうきょく",
+            "kana" : null,
             "type" : "subpref"
          },
          "留萌振興局" : {
@@ -5595,7 +5659,7 @@
                "遠別町" : 1
             },
             "code" : "01480",
-            "hiragana" : "るもいしんこうきょく",
+            "kana" : null,
             "type" : "subpref"
          },
          "石狩振興局" : {
@@ -5604,7 +5668,7 @@
                "新篠津村" : 1
             },
             "code" : "01300",
-            "hiragana" : "いしかりしんこうきょく",
+            "kana" : null,
             "type" : "subpref"
          },
          "空知総合振興局" : {
@@ -5625,7 +5689,7 @@
                "雨竜町" : 1
             },
             "code" : "01420",
-            "hiragana" : "そらちそうごうしんこうきょく",
+            "kana" : null,
             "type" : "subpref"
          },
          "胆振総合振興局" : {
@@ -5639,7 +5703,7 @@
                "豊浦町" : 1
             },
             "code" : "01570",
-            "hiragana" : "いぶりそうごうしんこうきょく",
+            "kana" : null,
             "type" : "subpref"
          },
          "釧路総合振興局" : {
@@ -5653,7 +5717,7 @@
                "鶴居村" : 1
             },
             "code" : "01660",
-            "hiragana" : "くしろそうごうしんこうきょく",
+            "kana" : "くしろそうごうしんこうきょく",
             "type" : "subpref"
          }
       },
@@ -17854,7 +17918,7 @@
                "御蔵島村" : 1
             },
             "code" : "13380",
-            "hiragana" : "みやけしちょう",
+            "kana" : null,
             "type" : "subpref"
          },
          "八丈支庁" : {
@@ -17863,7 +17927,7 @@
                "青ヶ島村" : 1
             },
             "code" : "13400",
-            "hiragana" : "はちじょうしちょう",
+            "kana" : null,
             "type" : "subpref"
          },
          "大島支庁" : {
@@ -17874,7 +17938,7 @@
                "神津島村" : 1
             },
             "code" : "13360",
-            "hiragana" : "おおしましちょう",
+            "kana" : null,
             "type" : "subpref"
          },
          "小笠原支庁" : {
@@ -17882,7 +17946,7 @@
                "小笠原村" : 1
             },
             "code" : "13420",
-            "hiragana" : "おがさわらしちょう",
+            "kana" : "おがさわらしちょう",
             "type" : "subpref"
          }
       },

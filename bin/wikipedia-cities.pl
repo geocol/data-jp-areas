@@ -17,7 +17,8 @@ my @pref = @ARGV ? map { decode 'utf-8', $_ } @ARGV : keys %$regions;
 
 for my $pref (@pref) {
   my @region;
-  for my $city (keys %{$regions->{$pref}->{areas}}) {
+  for my $city (keys %{$regions->{$pref}->{areas}},
+                keys %{$regions->{$pref}->{districts} or {}}) {
     push @region, join ',', $pref, $city;
     for my $town (keys %{$regions->{$pref}->{areas}->{$city}->{areas} or {}}) {
       push @region, join ',', $pref, $city, $town;

@@ -3077,454 +3077,26 @@
       "wikipedia_image_wref" : "ファイル:Tokachi plain 01.jpg",
       "wref" : "北海道"
    },
-   "北海道,三笠市" : {
+   "北海道,えりも町" : {
+      "subpref" : "日高振興局",
       "symbols" : [
          {
-            "date" : "1957-03-08",
-            "type" : "mark",
-            "wref" : "ファイル:Mikasa Hokkaido chapter.svg"
-         },
-         {
-            "name" : "ナナカマド",
+            "name" : "エゾヤマツツジ",
             "type" : "tree"
          },
          {
-            "name" : "菊",
-            "type" : "flower"
-         },
-         {
-            "label" : "市の鳥",
-            "name" : "ハクセキレイ",
-            "type" : "bird"
-         }
-      ],
-      "timestamp" : 1385005669,
-      "url" : "http://www.city.mikasa.hokkaido.jp/",
-      "wref" : "三笠市"
-   },
-   "北海道,上川郡 (十勝国)" : {
-      "timestamp" : 1388901193,
-      "wref" : "上川郡 (十勝国)"
-   },
-   "北海道,上川郡 (十勝国),新得町" : {
-      "symbols" : [
-         {
-            "name" : "エゾヤマザクラ",
-            "type" : "tree"
-         },
-         {
-            "name" : "エゾムラサキツツジ",
-            "type" : "flower"
-         },
-         {
-            "label" : "町の鳥",
-            "name" : "エゾライチョウ",
-            "type" : "bird"
-         }
-      ],
-      "timestamp" : 1385106809,
-      "url" : "http://www.shintoku-town.jp/",
-      "wref" : "新得町"
-   },
-   "北海道,上川郡 (十勝国),清水町" : {
-      "symbols" : [
-         {
-            "name" : "ナナカマド",
-            "type" : "tree"
-         },
-         {
-            "name" : "スズラン",
-            "type" : "flower"
-         },
-         {
-            "label" : "町の鳥",
-            "name" : "ウグイス",
-            "type" : "bird"
-         },
-         {
-            "date_value" : "10-01",
-            "label" : "開町記念日",
-            "type" : "day"
-         }
-      ],
-      "timestamp" : 1363903498,
-      "url" : "http://www.town.shimizu.hokkaido.jp/",
-      "wref" : "清水町 (北海道)"
-   },
-   "北海道,上川郡 (天塩国)" : {
-      "timestamp" : 1363114733,
-      "wref" : "上川郡 (天塩国)"
-   },
-   "北海道,上川郡 (天塩国),下川町" : {
-      "symbols" : [
-         {
-            "name" : "トドマツ",
-            "type" : "tree"
-         },
-         {
-            "name" : "エゾリンドウ",
+            "name" : "エリモシャクナゲ",
             "type" : "flower"
          }
       ],
-      "timestamp" : 1391765911,
-      "url" : "http://www.town.shimokawa.hokkaido.jp/",
-      "wref" : "下川町"
+      "timestamp" : 1374583756,
+      "url" : "http://www.town.erimo.hokkaido.jp/",
+      "wikipedia_image_desc" : "襟裳岬突端と海上に延びる岩礁",
+      "wikipedia_image_wref" : "Erimo misaki 02.JPG",
+      "wref" : "えりも町"
    },
-   "北海道,上川郡 (天塩国),剣淵町" : {
-      "symbols" : [
-         {
-            "name" : "ヤチダモ",
-            "type" : "tree"
-         },
-         {
-            "name" : "エゾリンドウ",
-            "type" : "flower"
-         }
-      ],
-      "timestamp" : 1363858521,
-      "url" : "http://www.town.kembuchi.hokkaido.jp/",
-      "wref" : "剣淵町"
-   },
-   "北海道,上川郡 (天塩国),和寒町" : {
-      "symbols" : [
-         {
-            "name" : "ニレ",
-            "type" : "tree"
-         },
-         {
-            "name" : "カタクリ",
-            "type" : "flower"
-         }
-      ],
-      "timestamp" : 1379597544,
-      "url" : "http://www.town.wassamu.hokkaido.jp/",
-      "wref" : "和寒町"
-   },
-   "北海道,上川郡 (石狩国)" : {
-      "timestamp" : 1363114748,
-      "wref" : "上川郡 (石狩国)"
-   },
-   "北海道,上川郡 (石狩国),上川町" : {
-      "symbols" : [
-         {
-            "name" : "アカエゾマツ",
-            "type" : "tree"
-         },
-         {
-            "name" : "えぞつつじ",
-            "type" : "flower"
-         }
-      ],
-      "timestamp" : 1388142456,
-      "url" : "http://www.town.kamikawa.hokkaido.jp/",
-      "wref" : "上川町"
-   },
-   "北海道,上川郡 (石狩国),当麻町" : {
-      "symbols" : [
-         {
-            "name" : "イチイ",
-            "type" : "tree"
-         },
-         {
-            "name" : "菊",
-            "type" : "flower"
-         }
-      ],
-      "timestamp" : 1375276628,
-      "url" : "http://www.town.tohma.hokkaido.jp/",
-      "wref" : "当麻町"
-   },
-   "北海道,上川郡 (石狩国),愛別町" : {
-      "symbols" : [
-         {
-            "name" : "桜",
-            "type" : "tree"
-         },
-         {
-            "name" : "つつじ",
-            "type" : "flower"
-         }
-      ],
-      "timestamp" : 1389243624,
-      "url" : "http://www.town.aibetsu.hokkaido.jp/",
-      "wref" : "愛別町"
-   },
-   "北海道,上川郡 (石狩国),東川町" : {
-      "symbols" : [
-         {
-            "name" : "カツラ",
-            "type" : "tree"
-         },
-         {
-            "name" : "エゾムラサキツツジ",
-            "type" : "flower"
-         }
-      ],
-      "timestamp" : 1380422492,
-      "url" : "http://www.town.higashikawa.hokkaido.jp/",
-      "wref" : "東川町"
-   },
-   "北海道,上川郡 (石狩国),東神楽町" : {
-      "symbols" : [
-         {
-            "name" : "イチイ",
-            "type" : "tree"
-         },
-         {
-            "name" : "ツツジ",
-            "type" : "flower"
-         },
-         {
-            "label" : "町の鳥",
-            "name" : "ヒバリ",
-            "type" : "bird"
-         }
-      ],
-      "timestamp" : 1365406144,
-      "url" : "http://www.town.higashikagura.hokkaido.jp/",
-      "wref" : "東神楽町"
-   },
-   "北海道,上川郡 (石狩国),比布町" : {
-      "symbols" : [
-         {
-            "name" : "ナナカマド",
-            "type" : "tree"
-         },
-         {
-            "name" : "スイセン",
-            "type" : "flower"
-         }
-      ],
-      "timestamp" : 1386490146,
-      "url" : "http://www.town.pippu.hokkaido.jp/",
-      "wref" : "比布町"
-   },
-   "北海道,上川郡 (石狩国),美瑛町" : {
-      "symbols" : [
-         {
-            "date" : "1963-02-25",
-            "name" : "町旗:1969年(昭和44年)8月11日制定 町章:",
-            "type" : "mark",
-            "wref" : "ファイル:Flag of Biei, Hokkaido.svg"
-         },
-         {
-            "name" : "しらかば",
-            "type" : "tree"
-         },
-         {
-            "name" : "すずらん",
-            "type" : "flower"
-         }
-      ],
-      "timestamp" : 1382949533,
-      "url" : "http://town.biei.hokkaido.jp/",
-      "wikipedia_image_desc" : "冬の美瑛",
-      "wikipedia_image_wref" : "Wiki-kenmerry2.jpg",
-      "wref" : "美瑛町"
-   },
-   "北海道,上川郡 (石狩国),鷹栖町" : {
-      "symbols" : [
-         {
-            "name" : "ななかまど",
-            "type" : "tree"
-         },
-         {
-            "name" : "マリーゴールド",
-            "type" : "flower"
-         }
-      ],
-      "timestamp" : 1383009676,
-      "url" : "http://town.takasu.hokkaido.jp/",
-      "wref" : "鷹栖町"
-   },
-   "北海道,上磯郡" : {
-      "timestamp" : 1363317424,
-      "wref" : "上磯郡"
-   },
-   "北海道,上磯郡,木古内町" : {
-      "symbols" : [
-         {
-            "name" : "スギ",
-            "type" : "tree"
-         },
-         {
-            "name" : "ツツジ",
-            "type" : "flower"
-         }
-      ],
-      "timestamp" : 1363910412,
-      "url" : "http://www.town.kikonai.hokkaido.jp/",
-      "wref" : "木古内町"
-   },
-   "北海道,上磯郡,知内町" : {
-      "symbols" : [
-         {
-            "label" : "他のシンボル",
-            "name" : "鷹"
-         }
-      ],
-      "timestamp" : 1386580376,
-      "url" : "http://www.town.shiriuchi.hokkaido.jp/",
-      "wref" : "知内町"
-   },
-   "北海道,中川郡 (十勝国)" : {
-      "timestamp" : 1364699711,
-      "wref" : "中川郡 (十勝国)"
-   },
-   "北海道,中川郡 (十勝国),幕別町" : {
-      "symbols" : [
-         {
-            "name" : "カシワ",
-            "type" : "tree"
-         },
-         {
-            "name" : "シバザクラ",
-            "type" : "flower"
-         },
-         {
-            "name" : "スズラン",
-            "type" : "flower"
-         },
-         {
-            "label" : "町の鳥",
-            "name" : "オオハクチョウ",
-            "type" : "bird"
-         }
-      ],
-      "timestamp" : 1387057881,
-      "url" : "http://www.town.makubetsu.lg.jp/",
-      "wref" : "幕別町"
-   },
-   "北海道,中川郡 (十勝国),本別町" : {
-      "symbols" : [
-         {
-            "name" : "カシワ",
-            "type" : "tree"
-         },
-         {
-            "name" : "エゾムラサキツツジ",
-            "type" : "flower"
-         },
-         {
-            "label" : "町の鳥",
-            "name" : "アカゲラ",
-            "type" : "bird"
-         },
-         {
-            "date_value" : "09-15",
-            "label" : "開町記念日",
-            "type" : "day"
-         }
-      ],
-      "timestamp" : 1363885359,
-      "url" : "http://www.town.honbetsu.hokkaido.jp/",
-      "wref" : "本別町"
-   },
-   "北海道,中川郡 (十勝国),池田町" : {
-      "symbols" : [
-         {
-            "name" : "サクラ",
-            "type" : "tree"
-         },
-         {
-            "name" : "カシワ",
-            "type" : "tree"
-         },
-         {
-            "name" : "ツツジ",
-            "type" : "flower"
-         },
-         {
-            "date_value" : "10-01",
-            "label" : "開町記念日",
-            "type" : "day"
-         }
-      ],
-      "timestamp" : 1368584273,
-      "url" : "http://www.town.hokkaido-ikeda.lg.jp/",
-      "wref" : "池田町 (北海道)"
-   },
-   "北海道,中川郡 (十勝国),豊頃町" : {
-      "symbols" : [
-         {
-            "name" : "ニレ",
-            "type" : "tree"
-         },
-         {
-            "name" : "エゾムラサキツツジ",
-            "type" : "flower"
-         }
-      ],
-      "timestamp" : 1372713046,
-      "url" : "http://www.toyokoro.jp/",
-      "wikipedia_image_desc" : "ハルニレの木",
-      "wikipedia_image_wref" : "ファイル:The famous Japanese Elm, Toyokoro Town, Hokkaido.jpg",
-      "wref" : "豊頃町"
-   },
-   "北海道,中川郡 (天塩国)" : {
-      "timestamp" : 1363112540,
-      "wref" : "中川郡 (天塩国)"
-   },
-   "北海道,中川郡 (天塩国),中川町" : {
-      "symbols" : [
-         {
-            "name" : "イチイ",
-            "type" : "tree"
-         },
-         {
-            "name" : "ツツジ",
-            "type" : "flower"
-         }
-      ],
-      "timestamp" : 1365766664,
-      "url" : "http://www.town.nakagawa.hokkaido.jp/",
-      "wref" : "中川町"
-   },
-   "北海道,中川郡 (天塩国),美深町" : {
-      "symbols" : [
-         {
-            "date" : "1948-04-01",
-            "type" : "mark",
-            "wref" : "ファイル:Flag of Bifuka Hokkaido.JPG"
-         },
-         {
-            "name" : "エゾマツ",
-            "type" : "tree"
-         },
-         {
-            "name" : "ツツジ",
-            "type" : "flower"
-         }
-      ],
-      "timestamp" : 1363904188,
-      "url" : "http://www.town.bifuka.hokkaido.jp/",
-      "wref" : "美深町"
-   },
-   "北海道,中川郡 (天塩国),音威子府村" : {
-      "symbols" : [
-         {
-            "name" : "アカエゾマツ",
-            "type" : "tree"
-         },
-         {
-            "name" : "シバザクラ",
-            "type" : "flower"
-         },
-         {
-            "label" : "村の鳥",
-            "name" : "ブッポウソウ",
-            "type" : "bird"
-         }
-      ],
-      "timestamp" : 1380680336,
-      "url" : "http://www.vill.otoineppu.hokkaido.jp/",
-      "wref" : "音威子府村"
-   },
-   "北海道,久遠郡" : {
-      "timestamp" : 1374232639,
-      "wref" : "久遠郡"
-   },
-   "北海道,久遠郡,せたな町" : {
+   "北海道,せたな町" : {
+      "subpref" : "檜山振興局",
       "symbols" : [
          {
             "name" : "スイセン",
@@ -3544,11 +3116,62 @@
       "url" : "http://www.town.setana.lg.jp/index.php",
       "wref" : "せたな町"
    },
-   "北海道,亀田郡" : {
-      "timestamp" : 1363317421,
-      "wref" : "亀田郡"
+   "北海道,むかわ町" : {
+      "subpref" : "胆振総合振興局",
+      "symbols" : [
+         {
+            "name" : "イチイ",
+            "type" : "tree"
+         },
+         {
+            "date" : "2006-03-27",
+            "name" : "アカエゾマツ",
+            "type" : "tree"
+         },
+         {
+            "date" : "2006-03-27",
+            "name" : "ツツジ",
+            "type" : "flower"
+         },
+         {
+            "date" : "2006-03-27",
+            "label" : "町の魚",
+            "name" : "柳葉魚",
+            "type" : "fish"
+         }
+      ],
+      "timestamp" : 1387200195,
+      "url" : "http://www.town.mukawa.lg.jp/",
+      "wref" : "むかわ町"
    },
-   "北海道,亀田郡,七飯町" : {
+   "北海道,ニセコ町" : {
+      "symbols" : [
+         {
+            "date" : "1968-05-15",
+            "name" : "町旗・町章、共に",
+            "type" : "mark",
+            "wref" : "ファイル:Flag of Niseko, Hokkaido.svg"
+         },
+         {
+            "name" : "シラカバ",
+            "type" : "tree"
+         },
+         {
+            "name" : "ラベンダー",
+            "type" : "flower"
+         },
+         {
+            "label" : "町の鳥",
+            "name" : "アカゲラ",
+            "type" : "bird"
+         }
+      ],
+      "timestamp" : 1388766811,
+      "url" : "http://www.town.niseko.lg.jp/",
+      "wref" : "ニセコ町"
+   },
+   "北海道,七飯町" : {
+      "subpref" : "渡島総合振興局",
       "symbols" : [
          {
             "date" : "1977-11-03",
@@ -3580,34 +3203,174 @@
       "wikipedia_image_wref" : "Ōnuma-Kōen01.jpg",
       "wref" : "七飯町"
    },
-   "北海道,二海郡" : {
-      "timestamp" : 1375890459,
-      "wref" : "二海郡"
-   },
-   "北海道,二海郡,八雲町" : {
+   "北海道,三笠市" : {
+      "subpref" : "空知総合振興局",
       "symbols" : [
          {
-            "name" : "オンコ",
+            "date" : "1957-03-08",
+            "type" : "mark",
+            "wref" : "ファイル:Mikasa Hokkaido chapter.svg"
+         },
+         {
+            "name" : "ナナカマド",
             "type" : "tree"
          },
          {
-            "name" : "ヒマワリ",
+            "name" : "菊",
+            "type" : "flower"
+         },
+         {
+            "label" : "市の鳥",
+            "name" : "ハクセキレイ",
+            "type" : "bird"
+         }
+      ],
+      "timestamp" : 1385005669,
+      "url" : "http://www.city.mikasa.hokkaido.jp/",
+      "wref" : "三笠市"
+   },
+   "北海道,上ノ国町" : {
+      "subpref" : "檜山振興局",
+      "symbols" : [
+         {
+            "name" : "ヒノキアスナロ",
+            "type" : "tree"
+         },
+         {
+            "name" : "エゾヤマツツジ",
+            "type" : "flower"
+         },
+         {
+            "name" : "なし"
+         }
+      ],
+      "timestamp" : 1386329521,
+      "wref" : "上ノ国町"
+   },
+   "北海道,上士幌町" : {
+      "subpref" : "十勝総合振興局",
+      "symbols" : [
+         {
+            "name" : "しらかば",
+            "type" : "tree"
+         },
+         {
+            "name" : "すずらん",
             "type" : "flower"
          },
          {
             "label" : "町の鳥",
-            "name" : "オオワシ",
+            "name" : "かっこう",
             "type" : "bird"
          }
       ],
-      "timestamp" : 1385868319,
-      "url" : "http://www.town.yakumo.lg.jp/",
-      "wref" : "八雲町"
+      "timestamp" : 1375701276,
+      "url" : "http://www.kamishihoro.jp/",
+      "wref" : "上士幌町"
    },
-   "北海道,伊達市" : {
+   "北海道,上富良野町" : {
+      "subpref" : "上川総合振興局",
       "symbols" : [
          {
-            "name" : "エゾヤマザクラ",
+            "name" : "アカエゾマツ",
+            "type" : "tree"
+         },
+         {
+            "name" : "ラベンダー",
+            "type" : "flower"
+         }
+      ],
+      "timestamp" : 1372104400,
+      "url" : "http://hp.town.kamifurano.hokkaido.jp/",
+      "wref" : "上富良野町"
+   },
+   "北海道,上川町" : {
+      "subpref" : "上川総合振興局",
+      "symbols" : [
+         {
+            "name" : "アカエゾマツ",
+            "type" : "tree"
+         },
+         {
+            "name" : "えぞつつじ",
+            "type" : "flower"
+         }
+      ],
+      "timestamp" : 1388142456,
+      "url" : "http://www.town.kamikawa.hokkaido.jp/",
+      "wref" : "上川町"
+   },
+   "北海道,上川郡 (十勝国)" : {
+      "timestamp" : 1388901193,
+      "wref" : "上川郡 (十勝国)"
+   },
+   "北海道,上川郡 (天塩国)" : {
+      "timestamp" : 1363114733,
+      "wref" : "上川郡 (天塩国)"
+   },
+   "北海道,上川郡 (石狩国)" : {
+      "timestamp" : 1363114748,
+      "wref" : "上川郡 (石狩国)"
+   },
+   "北海道,上砂川町" : {
+      "subpref" : "空知総合振興局",
+      "symbols" : [
+         {
+            "name" : "ハルニレ",
+            "type" : "tree"
+         },
+         {
+            "name" : "芝桜",
+            "type" : "flower"
+         }
+      ],
+      "timestamp" : 1379153987,
+      "url" : "http://www.town.kamisunagawa.hokkaido.jp/",
+      "wref" : "上砂川町"
+   },
+   "北海道,上磯郡" : {
+      "timestamp" : 1363317424,
+      "wref" : "上磯郡"
+   },
+   "北海道,下川町" : {
+      "subpref" : "上川総合振興局",
+      "symbols" : [
+         {
+            "name" : "トドマツ",
+            "type" : "tree"
+         },
+         {
+            "name" : "エゾリンドウ",
+            "type" : "flower"
+         }
+      ],
+      "timestamp" : 1363847761,
+      "url" : "http://www.town.shimokawa.hokkaido.jp/",
+      "wref" : "下川町"
+   },
+   "北海道,中富良野町" : {
+      "subpref" : "上川総合振興局",
+      "symbols" : [
+         {
+            "name" : "コブシ",
+            "type" : "tree"
+         },
+         {
+            "name" : "ラベンダー",
+            "type" : "flower"
+         }
+      ],
+      "timestamp" : 1387665752,
+      "url" : "http://www.furano.ne.jp/nakafurano/",
+      "wikipedia_image_desc" : "ファーム富田のラベンダー畑",
+      "wikipedia_image_wref" : "Nakafurano_01.jpg",
+      "wref" : "中富良野町"
+   },
+   "北海道,中川町" : {
+      "subpref" : "上川総合振興局",
+      "symbols" : [
+         {
+            "name" : "イチイ",
             "type" : "tree"
          },
          {
@@ -3615,15 +3378,129 @@
             "type" : "flower"
          }
       ],
-      "timestamp" : 1391794479,
-      "url" : "http://www.city.date.hokkaido.jp/",
-      "wref" : "伊達市 (北海道)"
+      "timestamp" : 1365766664,
+      "url" : "http://www.town.nakagawa.hokkaido.jp/",
+      "wref" : "中川町"
    },
-   "北海道,余市郡" : {
-      "timestamp" : 1365308993,
-      "wref" : "余市郡"
+   "北海道,中川郡 (十勝国)" : {
+      "timestamp" : 1364699711,
+      "wref" : "中川郡 (十勝国)"
    },
-   "北海道,余市郡,仁木町" : {
+   "北海道,中川郡 (天塩国)" : {
+      "timestamp" : 1363112540,
+      "wref" : "中川郡 (天塩国)"
+   },
+   "北海道,中札内村" : {
+      "subpref" : "十勝総合振興局",
+      "symbols" : [
+         {
+            "name" : "カシワ",
+            "type" : "tree"
+         },
+         {
+            "name" : "スズラン",
+            "type" : "flower"
+         },
+         {
+            "label" : "村の鳥",
+            "name" : "ヒバリ",
+            "type" : "bird"
+         }
+      ],
+      "timestamp" : 1383000541,
+      "url" : "http://www.vill.nakasatsunai.hokkaido.jp/",
+      "wref" : "中札内村"
+   },
+   "北海道,中標津町" : {
+      "subpref" : "根室振興局",
+      "symbols" : [
+         {
+            "date" : "1950-01-01",
+            "type" : "mark",
+            "wref" : "ファイル:Flag of Nakashibetsu, Hokkaido.svg"
+         },
+         {
+            "name" : "シラカバ",
+            "type" : "tree"
+         },
+         {
+            "name" : "エゾリンドウ",
+            "type" : "flower"
+         }
+      ],
+      "timestamp" : 1389779215,
+      "url" : "http://www.nakashibetsu.jp/",
+      "wikipedia_image_desc" : "開陽台",
+      "wikipedia_image_wref" : "File:Kaiyoudai 2009.JPG",
+      "wref" : "中標津町"
+   },
+   "北海道,中頓別町" : {
+      "subpref" : "宗谷総合振興局",
+      "symbols" : [
+         {
+            "name" : "アカエゾマツ",
+            "type" : "tree"
+         },
+         {
+            "name" : "チシマザクラ",
+            "type" : "flower"
+         }
+      ],
+      "timestamp" : 1389175576,
+      "url" : "http://www.town.nakatombetsu.hokkaido.jp/",
+      "wref" : "中頓別町"
+   },
+   "北海道,久遠郡" : {
+      "timestamp" : 1374232639,
+      "wref" : "久遠郡"
+   },
+   "北海道,乙部町" : {
+      "subpref" : "檜山振興局",
+      "symbols" : [
+         {
+            "name" : "スギ",
+            "type" : "tree"
+         },
+         {
+            "name" : "ユリ",
+            "type" : "flower"
+         },
+         {
+            "label" : "町の鳥",
+            "name" : "なし",
+            "type" : "bird"
+         }
+      ],
+      "timestamp" : 1385949947,
+      "url" : "http://www.town.otobe.lg.jp/web/pd_menu.nsf",
+      "wref" : "乙部町"
+   },
+   "北海道,亀田郡" : {
+      "timestamp" : 1363317421,
+      "wref" : "亀田郡"
+   },
+   "北海道,二海郡" : {
+      "timestamp" : 1375890459,
+      "wref" : "二海郡"
+   },
+   "北海道,京極町" : {
+      "subpref" : "後志総合振興局",
+      "symbols" : [
+         {
+            "name" : "ひまわり",
+            "type" : "flower"
+         },
+         {
+            "name" : "ミズナラ",
+            "type" : "tree"
+         }
+      ],
+      "timestamp" : 1382430660,
+      "url" : "http://www.town-kyogoku.jp/",
+      "wref" : "京極町"
+   },
+   "北海道,仁木町" : {
+      "subpref" : "後志総合振興局",
       "symbols" : [
          {
             "name" : "サクランボ",
@@ -3647,7 +3524,60 @@
       "url" : "http://www.town.niki.hokkaido.jp/",
       "wref" : "仁木町"
    },
-   "北海道,余市郡,余市町" : {
+   "北海道,今金町" : {
+      "subpref" : "檜山振興局",
+      "symbols" : [
+         {
+            "name" : "イチイ",
+            "type" : "tree"
+         },
+         {
+            "name" : "チューリップ",
+            "type" : "flower"
+         }
+      ],
+      "timestamp" : 1385040597,
+      "url" : "http://www.town.imakane.lg.jp/index.php",
+      "wref" : "今金町"
+   },
+   "北海道,伊達市" : {
+      "subpref" : "胆振総合振興局",
+      "symbols" : [
+         {
+            "name" : "エゾヤマザクラ",
+            "type" : "tree"
+         },
+         {
+            "name" : "ツツジ",
+            "type" : "flower"
+         }
+      ],
+      "timestamp" : 1389840603,
+      "url" : "http://www.city.date.hokkaido.jp/",
+      "wref" : "伊達市 (北海道)"
+   },
+   "北海道,佐呂間町" : {
+      "subpref" : "オホーツク総合振興局",
+      "symbols" : [
+         {
+            "name" : "オオバボダイジュ",
+            "type" : "tree"
+         },
+         {
+            "name" : "エゾムラサキツツジ",
+            "type" : "flower"
+         },
+         {
+            "label" : "町技",
+            "name" : "ソフトボール"
+         }
+      ],
+      "timestamp" : 1380014566,
+      "url" : "http://www.town.saroma.hokkaido.jp/index.html",
+      "wref" : "佐呂間町"
+   },
+   "北海道,余市町" : {
+      "subpref" : "後志総合振興局",
       "symbols" : [
          {
             "name" : "リンゴ",
@@ -3667,27 +3597,65 @@
       "url" : "http://www.town.yoichi.hokkaido.jp/",
       "wref" : "余市町"
    },
-   "北海道,余市郡,赤井川村" : {
+   "北海道,余市郡" : {
+      "timestamp" : 1365308993,
+      "wref" : "余市郡"
+   },
+   "北海道,倶知安町" : {
+      "subpref" : "後志総合振興局",
       "symbols" : [
          {
-            "date" : "1968-06-10",
-            "type" : "mark",
-            "wref" : "ファイル:Flag of Akaigawa Hokkaido 1.svg"
-         },
-         {
-            "name" : "シラカバ",
+            "name" : "イタヤカエデ",
             "type" : "tree"
          },
          {
-            "name" : "ムラサキヤシオ",
+            "name" : "キバナシャクナゲ",
             "type" : "flower"
          }
       ],
-      "timestamp" : 1388234326,
-      "url" : "http://www.akaigawa.com/",
-      "wref" : "赤井川村"
+      "timestamp" : 1386499561,
+      "url" : "http://www.town.kutchan.hokkaido.jp/",
+      "wref" : "倶知安町"
+   },
+   "北海道,八雲町" : {
+      "subpref" : "渡島総合振興局",
+      "symbols" : [
+         {
+            "name" : "オンコ",
+            "type" : "tree"
+         },
+         {
+            "name" : "ヒマワリ",
+            "type" : "flower"
+         },
+         {
+            "label" : "町の鳥",
+            "name" : "オオワシ",
+            "type" : "bird"
+         }
+      ],
+      "timestamp" : 1385868319,
+      "url" : "http://www.town.yakumo.lg.jp/",
+      "wref" : "八雲町"
+   },
+   "北海道,共和町" : {
+      "subpref" : "後志総合振興局",
+      "symbols" : [
+         {
+            "name" : "イチイ(オンコ)",
+            "type" : "tree"
+         },
+         {
+            "name" : "ミツガシワ",
+            "type" : "flower"
+         }
+      ],
+      "timestamp" : 1387068697,
+      "url" : "http://www.town.kyowa.hokkaido.jp/",
+      "wref" : "共和町"
    },
    "北海道,函館市" : {
+      "subpref" : "渡島総合振興局",
       "symbols" : [
          {
             "date" : "1935-07-13",
@@ -3714,17 +3682,51 @@
             "type" : "fish"
          }
       ],
-      "timestamp" : 1391490424,
+      "timestamp" : 1390155770,
       "url" : "http://www.city.hakodate.hokkaido.jp/",
       "wikipedia_image_desc" : "1段目左:五稜郭 1段目右:函館ハリストス正教会\n2段目:函館山から見た夜景と花火の共演\n3段目左:夜の五稜郭タワー\n3段目右:八幡坂と函館港",
       "wikipedia_image_wref" : "Hakodate montage.jpg",
       "wref" : "函館市"
    },
-   "北海道,利尻郡" : {
-      "timestamp" : 1365249197,
-      "wref" : "利尻郡"
+   "北海道,初山別村" : {
+      "subpref" : "留萌振興局",
+      "symbols" : [
+         {
+            "name" : "ナナカマド",
+            "type" : "tree"
+         },
+         {
+            "name" : "ツツジ",
+            "type" : "flower"
+         }
+      ],
+      "timestamp" : 1385795657,
+      "url" : "http://www.hokkai.or.jp/shosanbe/",
+      "wref" : "初山別村"
    },
-   "北海道,利尻郡,利尻富士町" : {
+   "北海道,別海町" : {
+      "subpref" : "根室振興局",
+      "symbols" : [
+         {
+            "name" : "ナラ",
+            "type" : "tree"
+         },
+         {
+            "name" : "センダイハギ",
+            "type" : "flower"
+         },
+         {
+            "label" : "町の鳥",
+            "name" : "ハクチョウ",
+            "type" : "bird"
+         }
+      ],
+      "timestamp" : 1375913675,
+      "url" : "http://betsukai.jp/",
+      "wref" : "別海町"
+   },
+   "北海道,利尻富士町" : {
+      "subpref" : "宗谷総合振興局",
       "symbols" : [
          {
             "name" : "エゾマツ",
@@ -3750,7 +3752,8 @@
       "wikipedia_image_wref" : "Rishiri 102 01102006.JPG",
       "wref" : "利尻富士町"
    },
-   "北海道,利尻郡,利尻町" : {
+   "北海道,利尻町" : {
+      "subpref" : "宗谷総合振興局",
       "symbols" : [
          {
             "name" : "ハイマツ",
@@ -3774,98 +3777,32 @@
       "url" : "http://www.town.rishiri.hokkaido.jp/",
       "wref" : "利尻町"
    },
+   "北海道,利尻郡" : {
+      "timestamp" : 1365249197,
+      "wref" : "利尻郡"
+   },
+   "北海道,剣淵町" : {
+      "subpref" : "上川総合振興局",
+      "symbols" : [
+         {
+            "name" : "ヤチダモ",
+            "type" : "tree"
+         },
+         {
+            "name" : "エゾリンドウ",
+            "type" : "flower"
+         }
+      ],
+      "timestamp" : 1363858521,
+      "url" : "http://www.town.kembuchi.hokkaido.jp/",
+      "wref" : "剣淵町"
+   },
    "北海道,勇払郡" : {
       "timestamp" : 1382754246,
       "wref" : "勇払郡"
    },
-   "北海道,勇払郡,むかわ町" : {
-      "symbols" : [
-         {
-            "name" : "イチイ",
-            "type" : "tree"
-         },
-         {
-            "date" : "2006-03-27",
-            "name" : "アカエゾマツ",
-            "type" : "tree"
-         },
-         {
-            "date" : "2006-03-27",
-            "name" : "ツツジ",
-            "type" : "flower"
-         },
-         {
-            "date" : "2006-03-27",
-            "label" : "町の魚",
-            "name" : "柳葉魚",
-            "type" : "fish"
-         }
-      ],
-      "timestamp" : 1391171818,
-      "url" : "http://www.town.mukawa.lg.jp/",
-      "wref" : "むかわ町"
-   },
-   "北海道,勇払郡,占冠村" : {
-      "symbols" : [
-         {
-            "name" : "カエデ",
-            "type" : "tree"
-         },
-         {
-            "name" : "ツツジ",
-            "type" : "flower"
-         }
-      ],
-      "timestamp" : 1388831112,
-      "url" : "http://www.vill.shimukappu.lg.jp/",
-      "wref" : "占冠村"
-   },
-   "北海道,勇払郡,厚真町" : {
-      "symbols" : [
-         {
-            "name" : "コブシ",
-            "type" : "tree"
-         },
-         {
-            "name" : "ヤマツツジ",
-            "type" : "flower"
-         },
-         {
-            "label" : "町の鳥",
-            "name" : "ウグイス",
-            "type" : "bird"
-         },
-         {
-            "label" : "町の獣",
-            "name" : "厚真犬",
-            "type" : "animal"
-         },
-         {
-            "label" : "公式マスコット",
-            "name" : "あつまるくん"
-         }
-      ],
-      "timestamp" : 1381887934,
-      "url" : "http://www.town.atsuma.lg.jp/",
-      "wref" : "厚真町"
-   },
-   "北海道,勇払郡,安平町" : {
-      "symbols" : [
-         {
-            "date" : "2006-03-27",
-            "type" : "mark",
-            "wref" : "ファイル:Flag of Abira Hokkaido 1.svg"
-         },
-         {
-            "label" : "他のシンボル",
-            "name" : "なし"
-         }
-      ],
-      "timestamp" : 1368105433,
-      "url" : "http://www.town.abira.lg.jp",
-      "wref" : "安平町"
-   },
    "北海道,北広島市" : {
+      "subpref" : "石狩振興局",
       "symbols" : [
          {
             "date" : "1969-10-20",
@@ -3886,11 +3823,12 @@
             "name" : "なし"
          }
       ],
-      "timestamp" : 1391257349,
+      "timestamp" : 1389511463,
       "url" : "http://www.city.kitahiroshima.hokkaido.jp/",
       "wref" : "北広島市"
    },
    "北海道,北斗市" : {
+      "subpref" : "渡島総合振興局",
       "symbols" : [
          {
             "date" : "2006-02-01",
@@ -3922,7 +3860,26 @@
       "url" : "http://www.city.hokuto.hokkaido.jp/",
       "wref" : "北斗市"
    },
+   "北海道,北竜町" : {
+      "subpref" : "空知総合振興局",
+      "symbols" : [
+         {
+            "name" : "イチイ",
+            "type" : "tree"
+         },
+         {
+            "name" : "ひまわり",
+            "type" : "flower"
+         }
+      ],
+      "timestamp" : 1363856448,
+      "url" : "http://www.town.hokuryu.hokkaido.jp/",
+      "wikipedia_image_desc" : "ひまわりの里",
+      "wikipedia_image_wref" : "Hokuryu town Sunflower field.JPG",
+      "wref" : "北竜町"
+   },
    "北海道,北見市" : {
+      "subpref" : "オホーツク総合振興局",
       "symbols" : [
          {
             "date" : "2006-03-05",
@@ -3939,7 +3896,7 @@
             "type" : "flower"
          }
       ],
-      "timestamp" : 1390707475,
+      "timestamp" : 1388417008,
       "url" : "http://www.city.kitami.lg.jp/",
       "wikipedia_image_desc" : "1段目:北見市街地 2段目左:北見市営カーリングホール\n2段目右:ピアソン記念館\n3段目左:温根湯温泉\n3段目右:滝の湯温泉\n4段目左:ワッカ原生花園\n4段目右:北見極寒の焼き肉まつり",
       "wikipedia_image_wref" : "Kitami montage.JPG",
@@ -3949,32 +3906,8 @@
       "timestamp" : 1364581939,
       "wref" : "十勝郡"
    },
-   "北海道,十勝郡,浦幌町" : {
-      "symbols" : [
-         {
-            "name" : "ナナカマド",
-            "type" : "tree"
-         },
-         {
-            "name" : "ハマナス",
-            "type" : "flower"
-         },
-         {
-            "label" : "町の鳥",
-            "name" : "青サギ",
-            "type" : "bird"
-         },
-         {
-            "date_value" : "06-05",
-            "label" : "開町記念日",
-            "type" : "day"
-         }
-      ],
-      "timestamp" : 1380540516,
-      "url" : "http://www.urahoro.jp/",
-      "wref" : "浦幌町"
-   },
    "北海道,千歳市" : {
+      "subpref" : "石狩振興局",
       "symbols" : [
          {
             "date" : "1952-05-01",
@@ -4014,17 +3947,62 @@
             "name" : "ヒメマス、サケ"
          }
       ],
-      "timestamp" : 1391470452,
+      "timestamp" : 1385078028,
       "url" : "http://www.city.chitose.hokkaido.jp/",
       "wikipedia_image_desc" : "新千歳空港",
       "wikipedia_image_wref" : "File:Image-Air DO B762 in Shin-ChitoseAP.jpg",
       "wref" : "千歳市"
    },
-   "北海道,厚岸郡" : {
-      "timestamp" : 1364672016,
-      "wref" : "厚岸郡"
+   "北海道,南富良野町" : {
+      "subpref" : "上川総合振興局",
+      "symbols" : [
+         {
+            "name" : "クルミ",
+            "type" : "tree"
+         },
+         {
+            "name" : "ヒナゲシ",
+            "type" : "flower"
+         }
+      ],
+      "timestamp" : 1387452501,
+      "url" : "http://www.town.minamifurano.hokkaido.jp/",
+      "wref" : "南富良野町"
    },
-   "北海道,厚岸郡,厚岸町" : {
+   "北海道,南幌町" : {
+      "subpref" : "空知総合振興局",
+      "symbols" : [
+         {
+            "name" : "オンコ",
+            "type" : "tree"
+         },
+         {
+            "name" : "ツツジ",
+            "type" : "flower"
+         }
+      ],
+      "timestamp" : 1385390973,
+      "url" : "http://www.town.nanporo.hokkaido.jp/",
+      "wref" : "南幌町"
+   },
+   "北海道,占冠村" : {
+      "subpref" : "上川総合振興局",
+      "symbols" : [
+         {
+            "name" : "カエデ",
+            "type" : "tree"
+         },
+         {
+            "name" : "ツツジ",
+            "type" : "flower"
+         }
+      ],
+      "timestamp" : 1388831112,
+      "url" : "http://www.vill.shimukappu.lg.jp/",
+      "wref" : "占冠村"
+   },
+   "北海道,厚岸町" : {
+      "subpref" : "釧路総合振興局",
       "symbols" : [
          {
             "name" : "エゾヤマザクラ",
@@ -4044,73 +4022,72 @@
       "url" : "http://www.akkeshi-town.jp/",
       "wref" : "厚岸町"
    },
-   "北海道,厚岸郡,浜中町" : {
+   "北海道,厚岸郡" : {
+      "timestamp" : 1364672016,
+      "wref" : "厚岸郡"
+   },
+   "北海道,厚沢部町" : {
+      "subpref" : "檜山振興局",
       "symbols" : [
          {
-            "name" : "白樺",
+            "name" : "クロマツ",
             "type" : "tree"
          },
          {
-            "name" : "エゾカンゾウ",
+            "name" : "ツツジ",
+            "type" : "flower"
+         }
+      ],
+      "timestamp" : 1381031515,
+      "url" : "http://www.town.assabu.lg.jp/",
+      "wref" : "厚沢部町"
+   },
+   "北海道,厚真町" : {
+      "subpref" : "胆振総合振興局",
+      "symbols" : [
+         {
+            "name" : "コブシ",
+            "type" : "tree"
+         },
+         {
+            "name" : "ヤマツツジ",
             "type" : "flower"
          },
          {
             "label" : "町の鳥",
-            "name" : "エトピリカ",
+            "name" : "ウグイス",
             "type" : "bird"
+         },
+         {
+            "label" : "町の獣",
+            "name" : "厚真犬",
+            "type" : "animal"
+         },
+         {
+            "label" : "公式マスコット",
+            "name" : "あつまるくん"
          }
       ],
-      "timestamp" : 1387666393,
-      "url" : "http://www.townhamanaka.jp/index.html",
-      "wref" : "浜中町"
+      "timestamp" : 1381887934,
+      "url" : "http://www.town.atsuma.lg.jp/",
+      "wref" : "厚真町"
    },
    "北海道,古宇郡" : {
       "timestamp" : 1371935074,
       "wref" : "古宇郡"
    },
-   "北海道,古宇郡,泊村" : {
-      "symbols" : [
-         {
-            "name" : "サクラ",
-            "type" : "tree"
-         },
-         {
-            "name" : "エゾスカシユリ",
-            "type" : "flower"
-         }
-      ],
-      "timestamp" : 1387703846,
-      "url" : "http://www.vill.tomari.hokkaido.jp/",
-      "wikipedia_image_desc" : "泊原子力発電所",
-      "wikipedia_image_wref" : "Tomari Nuclear Power Plant 01-02.jpg",
-      "wref" : "泊村"
-   },
-   "北海道,古宇郡,神恵内村" : {
-      "symbols" : [
-         {
-            "name" : "トドマツ",
-            "type" : "tree"
-         },
-         {
-            "label" : "村の魚",
-            "name" : "サケ",
-            "type" : "fish"
-         }
-      ],
-      "timestamp" : 1388654934,
-      "url" : "http://www.vill.kamoenai.hokkaido.jp/",
-      "wref" : "神恵内村"
+   "北海道,古平町" : {
+      "subpref" : "後志総合振興局",
+      "timestamp" : 1387068508,
+      "url" : "http://www.town.furubira.hokkaido.jp/",
+      "wref" : "古平町"
    },
    "北海道,古平郡" : {
       "timestamp" : 1363011499,
       "wref" : "古平郡"
    },
-   "北海道,古平郡,古平町" : {
-      "timestamp" : 1387068508,
-      "url" : "http://www.town.furubira.hokkaido.jp/",
-      "wref" : "古平町"
-   },
    "北海道,名寄市" : {
+      "subpref" : "上川総合振興局",
       "symbols" : [
          {
             "date" : "2006-03-27",
@@ -4135,17 +4112,44 @@
       "url" : "http://www.city.nayoro.lg.jp",
       "wref" : "名寄市"
    },
+   "北海道,和寒町" : {
+      "subpref" : "上川総合振興局",
+      "symbols" : [
+         {
+            "name" : "ニレ",
+            "type" : "tree"
+         },
+         {
+            "name" : "カタクリ",
+            "type" : "flower"
+         }
+      ],
+      "timestamp" : 1379597544,
+      "url" : "http://www.town.wassamu.hokkaido.jp/",
+      "wref" : "和寒町"
+   },
+   "北海道,喜茂別町" : {
+      "subpref" : "後志総合振興局",
+      "symbols" : [
+         {
+            "name" : "エゾヤマザクラ",
+            "type" : "tree"
+         },
+         {
+            "name" : "インパチェンス",
+            "type" : "flower"
+         }
+      ],
+      "timestamp" : 1388234251,
+      "url" : "http://www.town.kimobetsu.hokkaido.jp/",
+      "wref" : "喜茂別町"
+   },
    "北海道,国後郡" : {
       "timestamp" : 1378907062,
       "wref" : "国後郡"
    },
-   "北海道,国後郡,泊村" : {},
-   "北海道,国後郡,留夜別村" : {},
-   "北海道,増毛郡" : {
-      "timestamp" : 1365153918,
-      "wref" : "増毛郡"
-   },
-   "北海道,増毛郡,増毛町" : {
+   "北海道,増毛町" : {
+      "subpref" : "留萌振興局",
       "symbols" : [
          {
             "name" : "ナナカマド",
@@ -4165,7 +4169,12 @@
       "url" : "http://www.town.mashike.hokkaido.jp",
       "wref" : "増毛町"
    },
+   "北海道,増毛郡" : {
+      "timestamp" : 1365153918,
+      "wref" : "増毛郡"
+   },
    "北海道,士別市" : {
+      "subpref" : "上川総合振興局",
       "symbols" : [
          {
             "name" : "ナナカマド",
@@ -4195,7 +4204,55 @@
       "url" : "http://www.city.shibetsu.lg.jp/",
       "wref" : "士別市"
    },
+   "北海道,士幌町" : {
+      "subpref" : "十勝総合振興局",
+      "symbols" : [
+         {
+            "name" : "カシワ",
+            "type" : "tree"
+         },
+         {
+            "name" : "スズラン",
+            "type" : "flower"
+         },
+         {
+            "label" : "町の鳥",
+            "name" : "カッコウ",
+            "type" : "bird"
+         }
+      ],
+      "timestamp" : 1381299643,
+      "url" : "http://www.shihoro.jp/hp/index.htm",
+      "wref" : "士幌町"
+   },
+   "北海道,壮瞥町" : {
+      "subpref" : "胆振総合振興局",
+      "symbols" : [
+         {
+            "type" : "mark",
+            "wref" : "File:Sobetsu Hokkaido chapter.JPG"
+         },
+         {
+            "name" : "ムクゲ",
+            "type" : "tree"
+         },
+         {
+            "name" : "モミジ",
+            "type" : "flower"
+         },
+         {
+            "name" : "イチイ",
+            "type" : "flower"
+         }
+      ],
+      "timestamp" : 1381031096,
+      "url" : "http://www.town.sobetsu.lg.jp/",
+      "wikipedia_image_desc" : "昭和新山",
+      "wikipedia_image_wref" : "Mount Showa-shinzan 01.jpg",
+      "wref" : "壮瞥町"
+   },
    "北海道,夕張市" : {
+      "subpref" : "空知総合振興局",
       "symbols" : [
          {
             "date" : "1937-08-02",
@@ -4225,61 +4282,51 @@
       "timestamp" : 1364708174,
       "wref" : "夕張郡"
    },
-   "北海道,夕張郡,栗山町" : {
+   "北海道,大樹町" : {
+      "subpref" : "十勝総合振興局",
       "symbols" : [
          {
-            "name" : "クリ",
+            "name" : "かしわ",
             "type" : "tree"
          },
          {
-            "name" : "ユリ",
-            "type" : "flower"
-         }
-      ],
-      "timestamp" : 1390724707,
-      "url" : "http://www.town.kuriyama.hokkaido.jp/index.html",
-      "wref" : "栗山町"
-   },
-   "北海道,夕張郡,由仁町" : {
-      "symbols" : [
-         {
-            "name" : "いちい",
-            "type" : "tree"
-         },
-         {
-            "name" : "きく",
-            "type" : "flower"
-         }
-      ],
-      "timestamp" : 1388234458,
-      "url" : "http://www.town.yuni.lg.jp/",
-      "wref" : "由仁町"
-   },
-   "北海道,夕張郡,長沼町" : {
-      "symbols" : [
-         {
-            "name" : "エゾヤマザクラ",
-            "type" : "tree"
-         },
-         {
-            "name" : "ライラック",
+            "name" : "コスモス",
             "type" : "flower"
          },
          {
             "label" : "町の鳥",
-            "name" : "カッコウ",
+            "name" : "ひばり",
             "type" : "bird"
          }
       ],
-      "timestamp" : 1388234383,
-      "url" : "http://www.maoi-net.jp/",
-      "wref" : "長沼町"
+      "timestamp" : 1388234617,
+      "url" : "http://www.town.taiki.hokkaido.jp/",
+      "wref" : "大樹町"
    },
-   "北海道,天塩郡" : {
-      "timestamp" : 1364691504,
-      "wref" : "天塩郡"
+   "北海道,大空町" : {
+      "subpref" : "オホーツク総合振興局",
+      "symbols" : [
+         {
+            "name" : "ななかまど・しらかば",
+            "type" : "tree"
+         },
+         {
+            "name" : "芝桜・水芭蕉",
+            "type" : "flower"
+         },
+         {
+            "label" : "町のスポーツ",
+            "name" : "バレーボール"
+         }
+      ],
+      "timestamp" : 1381071213,
+      "url" : "http://www.town.ozora.hokkaido.jp",
+      "wikipedia_image_desc" : "女満別空港",
+      "wikipedia_image_wref" : "File:Jex 337j04.JPG",
+      "wref" : "大空町"
    },
-   "北海道,天塩郡,天塩町" : {
+   "北海道,天塩町" : {
+      "subpref" : "留萌振興局",
       "symbols" : [
          {
             "name" : "エゾヤマザクラ",
@@ -4299,62 +4346,41 @@
       "url" : "http://www.teshiotown.com/",
       "wref" : "天塩町"
    },
-   "北海道,天塩郡,幌延町" : {
-      "symbols" : [
-         {
-            "name" : "アカエゾマツ",
-            "type" : "tree"
-         },
-         {
-            "name" : "テシオコザクラ",
-            "type" : "flower"
-         }
-      ],
-      "timestamp" : 1376908344,
-      "url" : "http://www.town.horonobe.hokkaido.jp/",
-      "wref" : "幌延町"
+   "北海道,天塩郡" : {
+      "timestamp" : 1364691504,
+      "wref" : "天塩郡"
    },
-   "北海道,天塩郡,豊富町" : {
+   "北海道,奈井江町" : {
+      "subpref" : "空知総合振興局",
       "symbols" : [
          {
-            "date" : "1940-10-01",
-            "name" : "町旗:1968年(昭和43年)9月1日制定 町章:",
+            "date" : "1954-03-18",
             "type" : "mark",
-            "wref" : "ファイル:Flag of Toyotomi Hokkaido.JPG"
+            "wref" : "ファイル:Flag of Naie Hokkaido.svg"
          },
          {
-            "name" : "イチイ(オンコ)",
-            "type" : "tree"
-         },
-         {
-            "name" : "エゾカンゾウ",
-            "type" : "flower"
-         }
-      ],
-      "timestamp" : 1363874371,
-      "url" : "http://www.town.toyotomi.hokkaido.jp/",
-      "wref" : "豊富町"
-   },
-   "北海道,天塩郡,遠別町" : {
-      "symbols" : [
-         {
-            "name" : "シラカバ",
+            "name" : "ナナカマド",
             "type" : "tree"
          },
          {
             "name" : "ツツジ",
             "type" : "flower"
+         },
+         {
+            "name" : "ヘメロカリス",
+            "type" : "flower"
+         },
+         {
+            "label" : "他のシンボル",
+            "name" : "なし"
          }
       ],
-      "timestamp" : 1385795833,
-      "url" : "http://www.town.embetsu.hokkaido.jp/",
-      "wref" : "遠別町"
+      "timestamp" : 1371798645,
+      "url" : "http://www.town.naie.hokkaido.jp/",
+      "wref" : "奈井江町"
    },
-   "北海道,奥尻郡" : {
-      "timestamp" : 1368271814,
-      "wref" : "奥尻郡"
-   },
-   "北海道,奥尻郡,奥尻町" : {
+   "北海道,奥尻町" : {
+      "subpref" : "檜山振興局",
       "symbols" : [
          {
             "date" : "1966-01-01",
@@ -4374,31 +4400,49 @@
       "url" : "http://www.town.okushiri.lg.jp/",
       "wref" : "奥尻町"
    },
+   "北海道,奥尻郡" : {
+      "timestamp" : 1368271814,
+      "wref" : "奥尻郡"
+   },
+   "北海道,妹背牛町" : {
+      "subpref" : "空知総合振興局",
+      "symbols" : [
+         {
+            "name" : "ななかまど",
+            "type" : "tree"
+         },
+         {
+            "name" : "つつじ",
+            "type" : "flower"
+         }
+      ],
+      "timestamp" : 1375923052,
+      "url" : "http://www.town.moseushi.hokkaido.jp/",
+      "wref" : "妹背牛町"
+   },
+   "北海道,安平町" : {
+      "subpref" : "胆振総合振興局",
+      "symbols" : [
+         {
+            "date" : "2006-03-27",
+            "type" : "mark",
+            "wref" : "ファイル:Flag of Abira Hokkaido 1.svg"
+         },
+         {
+            "label" : "他のシンボル",
+            "name" : "なし"
+         }
+      ],
+      "timestamp" : 1368105433,
+      "url" : "http://www.town.abira.lg.jp",
+      "wref" : "安平町"
+   },
    "北海道,宗谷郡" : {
       "timestamp" : 1363315079,
       "wref" : "宗谷郡"
    },
-   "北海道,宗谷郡,猿払村" : {
-      "symbols" : [
-         {
-            "name" : "ナナカマド",
-            "type" : "tree"
-         },
-         {
-            "name" : "コケモモ",
-            "type" : "flower"
-         },
-         {
-            "label" : "村の魚",
-            "name" : "イトウ",
-            "type" : "fish"
-         }
-      ],
-      "timestamp" : 1390997542,
-      "url" : "http://www.vill.sarufutsu.hokkaido.jp/",
-      "wref" : "猿払村"
-   },
    "北海道,室蘭市" : {
+      "subpref" : "胆振総合振興局",
       "symbols" : [
          {
             "date" : "1936-04-13",
@@ -4431,6 +4475,7 @@
       "wref" : "室蘭市"
    },
    "北海道,富良野市" : {
+      "subpref" : "上川総合振興局",
       "symbols" : [
          {
             "name" : "イチイ",
@@ -4459,11 +4504,8 @@
       "url" : "http://www.city.furano.hokkaido.jp/",
       "wref" : "富良野市"
    },
-   "北海道,寿都郡" : {
-      "timestamp" : 1363011428,
-      "wref" : "寿都郡"
-   },
-   "北海道,寿都郡,寿都町" : {
+   "北海道,寿都町" : {
+      "subpref" : "後志総合振興局",
       "symbols" : [
          {
             "name" : "サクラ",
@@ -4483,18 +4525,17 @@
       "url" : "http://www.town.suttu.lg.jp/index.html",
       "wref" : "寿都町"
    },
-   "北海道,寿都郡,黒松内町" : {
-      "symbols" : [
-         {
-            "name" : "ブナ",
-            "type" : "tree"
-         }
-      ],
-      "timestamp" : 1383558619,
-      "url" : "http://www.kuromatsunai.com/",
-      "wref" : "黒松内町"
+   "北海道,寿都郡" : {
+      "timestamp" : 1363011428,
+      "wref" : "寿都郡"
+   },
+   "北海道,小平町" : {
+      "subpref" : "留萌振興局",
+      "timestamp" : 1385795489,
+      "wref" : "小平町"
    },
    "北海道,小樽市" : {
+      "subpref" : "後志総合振興局",
       "symbols" : [
          {
             "date" : "1901-09-10",
@@ -4524,47 +4565,37 @@
       "wikipedia_image_wref" : "Otaru Montage.jpg",
       "wref" : "小樽市"
    },
+   "北海道,小清水町" : {
+      "subpref" : "オホーツク総合振興局",
+      "symbols" : [
+         {
+            "name" : "ミズナラ",
+            "type" : "tree"
+         },
+         {
+            "name" : "エゾスカシユリ",
+            "type" : "flower"
+         },
+         {
+            "label" : "町の鳥",
+            "name" : "オオハクチョウ",
+            "type" : "bird"
+         },
+         {
+            "label" : "町技",
+            "name" : "ソフトボール"
+         }
+      ],
+      "timestamp" : 1368609928,
+      "url" : "http://www.dosanko.co.jp/kosimizu/",
+      "wref" : "小清水町"
+   },
    "北海道,山越郡" : {
       "timestamp" : 1365120976,
       "wref" : "山越郡"
    },
-   "北海道,山越郡,長万部町" : {
-      "symbols" : [
-         {
-            "name" : "クロマツ",
-            "type" : "tree"
-         },
-         {
-            "name" : "アヤメ",
-            "type" : "flower"
-         }
-      ],
-      "timestamp" : 1385868013,
-      "url" : "http://www.town.oshamambe.lg.jp/",
-      "wikipedia_image_desc" : "内浦湾の夜明け(2002年(平成14年)9月)",
-      "wikipedia_image_wref" : "Uchiura-bay Oshamanbe.jpg",
-      "wref" : "長万部町"
-   },
-   "北海道,岩内郡" : {
-      "timestamp" : 1363011464,
-      "wref" : "岩内郡"
-   },
-   "北海道,岩内郡,共和町" : {
-      "symbols" : [
-         {
-            "name" : "イチイ(オンコ)",
-            "type" : "tree"
-         },
-         {
-            "name" : "ミツガシワ",
-            "type" : "flower"
-         }
-      ],
-      "timestamp" : 1387068697,
-      "url" : "http://www.town.kyowa.hokkaido.jp/",
-      "wref" : "共和町"
-   },
-   "北海道,岩内郡,岩内町" : {
+   "北海道,岩内町" : {
+      "subpref" : "後志総合振興局",
       "symbols" : [
          {
             "name" : "ナナカマド",
@@ -4581,7 +4612,12 @@
       "wikipedia_image_wref" : "Iwanai from Niseko-Panorama Line.JPG",
       "wref" : "岩内町"
    },
+   "北海道,岩内郡" : {
+      "timestamp" : 1363011464,
+      "wref" : "岩内郡"
+   },
    "北海道,岩見沢市" : {
+      "subpref" : "空知総合振興局",
       "symbols" : [
          {
             "name" : "岩見沢市旗",
@@ -4602,15 +4638,12 @@
             "type" : "bird"
          }
       ],
-      "timestamp" : 1391823888,
+      "timestamp" : 1389959484,
       "url" : "http://www.city.iwamizawa.hokkaido.jp/",
       "wref" : "岩見沢市"
    },
-   "北海道,島牧郡" : {
-      "timestamp" : 1363011416,
-      "wref" : "島牧郡"
-   },
-   "北海道,島牧郡,島牧村" : {
+   "北海道,島牧村" : {
+      "subpref" : "後志総合振興局",
       "symbols" : [
          {
             "name" : "ブナ",
@@ -4625,46 +4658,16 @@
       "url" : "http://www.vill.shimamaki.lg.jp/",
       "wref" : "島牧村"
    },
+   "北海道,島牧郡" : {
+      "timestamp" : 1363011416,
+      "wref" : "島牧郡"
+   },
    "北海道,川上郡" : {
       "timestamp" : 1365260685,
       "wref" : "川上郡 (北海道)"
    },
-   "北海道,川上郡,弟子屈町" : {
-      "symbols" : [
-         {
-            "name" : "桜",
-            "type" : "tree"
-         },
-         {
-            "name" : "つつじ",
-            "type" : "flower"
-         },
-         {
-            "label" : "町の鳥",
-            "name" : "白鳥",
-            "type" : "bird"
-         }
-      ],
-      "timestamp" : 1391165807,
-      "url" : "http://www.town.teshikaga.hokkaido.jp/",
-      "wref" : "弟子屈町"
-   },
-   "北海道,川上郡,標茶町" : {
-      "symbols" : [
-         {
-            "name" : "ナラ",
-            "type" : "tree"
-         },
-         {
-            "name" : "コスモス",
-            "type" : "flower"
-         }
-      ],
-      "timestamp" : 1389751231,
-      "url" : "http://www.town.shibecha.hokkaido.jp/yakuba/welcome.html",
-      "wref" : "標茶町"
-   },
    "北海道,帯広市" : {
+      "subpref" : "十勝総合振興局",
       "symbols" : [
          {
             "date" : "1972-09-09",
@@ -4686,7 +4689,7 @@
             "type" : "bird"
          }
       ],
-      "timestamp" : 1390803583,
+      "timestamp" : 1386115518,
       "url" : "http://www.city.obihiro.hokkaido.jp/",
       "wref" : "帯広市"
    },
@@ -4694,106 +4697,99 @@
       "timestamp" : 1364794821,
       "wref" : "常呂郡"
    },
-   "北海道,常呂郡,佐呂間町" : {
+   "北海道,幌加内町" : {
+      "subpref" : "上川総合振興局",
       "symbols" : [
          {
-            "name" : "オオバボダイジュ",
+            "name" : "ナナカマド",
             "type" : "tree"
          },
          {
-            "name" : "エゾムラサキツツジ",
+            "name" : "カタクリ",
             "type" : "flower"
          },
          {
-            "label" : "町技",
-            "name" : "ソフトボール"
+            "label" : "町の鳥",
+            "name" : "アカゲラ",
+            "type" : "bird"
          }
       ],
-      "timestamp" : 1380014566,
-      "url" : "http://www.town.saroma.hokkaido.jp/index.html",
-      "wref" : "佐呂間町"
+      "timestamp" : 1389112773,
+      "url" : "http://www.town.horokanai.hokkaido.jp/index.html",
+      "wref" : "幌加内町"
    },
-   "北海道,常呂郡,置戸町" : {
+   "北海道,幌延町" : {
+      "subpref" : "宗谷総合振興局",
       "symbols" : [
          {
             "name" : "アカエゾマツ",
             "type" : "tree"
          },
          {
-            "name" : "エゾムラサキツツジ",
-            "type" : "flower"
-         },
-         {
-            "label" : "町の鳥",
-            "name" : "クマゲラ",
-            "type" : "bird"
-         }
-      ],
-      "timestamp" : 1363857833,
-      "url" : "http://www.town.oketo.hokkaido.jp/",
-      "wref" : "置戸町"
-   },
-   "北海道,常呂郡,訓子府町" : {
-      "symbols" : [
-         {
-            "name" : "オンコ",
-            "type" : "tree"
-         },
-         {
-            "name" : "エゾムラサキツツジ",
+            "name" : "テシオコザクラ",
             "type" : "flower"
          }
       ],
-      "timestamp" : 1363893274,
-      "url" : "http://www.town.kunneppu.hokkaido.jp/",
-      "wref" : "訓子府町"
+      "timestamp" : 1376908344,
+      "url" : "http://www.town.horonobe.hokkaido.jp/",
+      "wref" : "幌延町"
    },
    "北海道,幌泉郡" : {
       "timestamp" : 1364806346,
       "wref" : "幌泉郡"
    },
-   "北海道,幌泉郡,えりも町" : {
+   "北海道,幕別町" : {
+      "subpref" : "十勝総合振興局",
       "symbols" : [
          {
-            "name" : "エゾヤマツツジ",
+            "name" : "カシワ",
             "type" : "tree"
          },
          {
-            "name" : "エリモシャクナゲ",
+            "name" : "シバザクラ",
             "type" : "flower"
-         }
-      ],
-      "timestamp" : 1374583756,
-      "url" : "http://www.town.erimo.hokkaido.jp/",
-      "wikipedia_image_desc" : "襟裳岬突端と海上に延びる岩礁",
-      "wikipedia_image_wref" : "Erimo misaki 02.JPG",
-      "wref" : "えりも町"
-   },
-   "北海道,広尾郡" : {
-      "timestamp" : 1366103336,
-      "wref" : "広尾郡"
-   },
-   "北海道,広尾郡,大樹町" : {
-      "symbols" : [
-         {
-            "name" : "かしわ",
-            "type" : "tree"
          },
          {
-            "name" : "コスモス",
+            "name" : "スズラン",
             "type" : "flower"
          },
          {
             "label" : "町の鳥",
-            "name" : "ひばり",
+            "name" : "オオハクチョウ",
             "type" : "bird"
          }
       ],
-      "timestamp" : 1388234617,
-      "url" : "http://www.town.taiki.hokkaido.jp/",
-      "wref" : "大樹町"
+      "timestamp" : 1387057881,
+      "url" : "http://www.town.makubetsu.lg.jp/",
+      "wref" : "幕別町"
    },
-   "北海道,広尾郡,広尾町" : {
+   "北海道,平取町" : {
+      "subpref" : "日高振興局",
+      "symbols" : [
+         {
+            "date" : "1949-07-01",
+            "type" : "mark",
+            "wref" : "ファイル:Flag of Biratori, Hokkaido.svg"
+         },
+         {
+            "name" : "カツラ",
+            "type" : "tree"
+         },
+         {
+            "name" : "スズラン",
+            "type" : "flower"
+         },
+         {
+            "label" : "他のシンボル",
+            "name" : "アカゲラ"
+         }
+      ],
+      "timestamp" : 1388234551,
+      "url" : "http://www2.town.biratori.hokkaido.jp/biratori/",
+      "wref" : "平取町"
+   },
+   "北海道,広尾町" : {
+      "subpref" : "十勝総合振興局",
       "symbols" : [
          {
             "name" : "オンコ",
@@ -4818,7 +4814,70 @@
       "url" : "http://www.town.hiroo.hokkaido.jp/",
       "wref" : "広尾町"
    },
+   "北海道,広尾郡" : {
+      "timestamp" : 1366103336,
+      "wref" : "広尾郡"
+   },
+   "北海道,弟子屈町" : {
+      "subpref" : "釧路総合振興局",
+      "symbols" : [
+         {
+            "name" : "桜",
+            "type" : "tree"
+         },
+         {
+            "name" : "つつじ",
+            "type" : "flower"
+         },
+         {
+            "label" : "町の鳥",
+            "name" : "白鳥",
+            "type" : "bird"
+         }
+      ],
+      "timestamp" : 1376397243,
+      "url" : "http://www.town.teshikaga.hokkaido.jp/",
+      "wref" : "弟子屈町"
+   },
+   "北海道,当別町" : {
+      "subpref" : "石狩振興局",
+      "symbols" : [
+         {
+            "name" : "白樺",
+            "type" : "tree"
+         },
+         {
+            "name" : "かすみ草",
+            "type" : "flower"
+         },
+         {
+            "label" : "町の鳥",
+            "name" : "ふくろう",
+            "type" : "bird"
+         }
+      ],
+      "timestamp" : 1388829871,
+      "url" : "http://www.town.tobetsu.hokkaido.jp/",
+      "wref" : "当別町"
+   },
+   "北海道,当麻町" : {
+      "subpref" : "上川総合振興局",
+      "symbols" : [
+         {
+            "name" : "イチイ",
+            "type" : "tree"
+         },
+         {
+            "name" : "菊",
+            "type" : "flower"
+         }
+      ],
+      "timestamp" : 1375276628,
+      "url" : "http://www.town.tohma.hokkaido.jp/",
+      "wref" : "当麻町"
+   },
    "北海道,恵庭市" : {
+      "subpref" : "石狩振興局",
       "symbols" : [
          {
             "date" : "1961-09-01",
@@ -4858,40 +4917,28 @@
       "wikipedia_image_wref" : "Eniwa-montage2.jpg",
       "wref" : "恵庭市"
    },
+   "北海道,愛別町" : {
+      "subpref" : "上川総合振興局",
+      "symbols" : [
+         {
+            "name" : "桜",
+            "type" : "tree"
+         },
+         {
+            "name" : "つつじ",
+            "type" : "flower"
+         }
+      ],
+      "timestamp" : 1389243624,
+      "url" : "http://www.town.aibetsu.hokkaido.jp/",
+      "wref" : "愛別町"
+   },
    "北海道,択捉郡" : {
       "timestamp" : 1378906603,
       "wref" : "択捉郡"
    },
-   "北海道,択捉郡,留別村" : {},
-   "北海道,斜里郡" : {
-      "timestamp" : 1363174133,
-      "wref" : "斜里郡"
-   },
-   "北海道,斜里郡,小清水町" : {
-      "symbols" : [
-         {
-            "name" : "ミズナラ",
-            "type" : "tree"
-         },
-         {
-            "name" : "エゾスカシユリ",
-            "type" : "flower"
-         },
-         {
-            "label" : "町の鳥",
-            "name" : "オオハクチョウ",
-            "type" : "bird"
-         },
-         {
-            "label" : "町技",
-            "name" : "ソフトボール"
-         }
-      ],
-      "timestamp" : 1368609928,
-      "url" : "http://www.dosanko.co.jp/kosimizu/",
-      "wref" : "小清水町"
-   },
-   "北海道,斜里郡,斜里町" : {
+   "北海道,斜里町" : {
+      "subpref" : "オホーツク総合振興局",
       "symbols" : [
          {
             "name" : "ミズナラ",
@@ -4913,46 +4960,12 @@
       "wikipedia_image_wref" : "File:Shiretoko 5peaks.JPG",
       "wref" : "斜里町"
    },
-   "北海道,斜里郡,清里町" : {
-      "symbols" : [
-         {
-            "name" : "オンコ",
-            "type" : "tree"
-         },
-         {
-            "name" : "ムクゲ",
-            "type" : "flower"
-         }
-      ],
-      "timestamp" : 1381144744,
-      "url" : "http://www.town.kiyosato.hokkaido.jp/",
-      "wref" : "清里町"
+   "北海道,斜里郡" : {
+      "timestamp" : 1363174133,
+      "wref" : "斜里郡"
    },
-   "北海道,新冠郡" : {
-      "timestamp" : 1363315066,
-      "wref" : "新冠郡"
-   },
-   "北海道,新冠郡,新冠町" : {
-      "symbols" : [
-         {
-            "name" : "ヒガツラ",
-            "type" : "tree"
-         },
-         {
-            "name" : "ツツジ",
-            "type" : "flower"
-         }
-      ],
-      "timestamp" : 1365678270,
-      "wikipedia_image_desc" : "国道235号沿いにある大壁画",
-      "wikipedia_image_wref" : "Niikappu rock wall paint.jpg",
-      "wref" : "新冠町"
-   },
-   "北海道,日高郡" : {
-      "timestamp" : 1375890348,
-      "wref" : "日高郡 (北海道)"
-   },
-   "北海道,日高郡,新ひだか町" : {
+   "北海道,新ひだか町" : {
+      "subpref" : "日高振興局",
       "symbols" : [
          {
             "name" : "エゾヤマサクラ",
@@ -4977,11 +4990,108 @@
             "name" : "なし"
          }
       ],
-      "timestamp" : 1391485392,
+      "timestamp" : 1377143092,
       "url" : "http://shinhidaka.hokkai.jp",
       "wref" : "新ひだか町"
    },
+   "北海道,新冠町" : {
+      "subpref" : "日高振興局",
+      "symbols" : [
+         {
+            "name" : "ヒガツラ",
+            "type" : "tree"
+         },
+         {
+            "name" : "ツツジ",
+            "type" : "flower"
+         }
+      ],
+      "timestamp" : 1365678270,
+      "wikipedia_image_desc" : "国道235号沿いにある大壁画",
+      "wikipedia_image_wref" : "Niikappu rock wall paint.jpg",
+      "wref" : "新冠町"
+   },
+   "北海道,新冠郡" : {
+      "timestamp" : 1363315066,
+      "wref" : "新冠郡"
+   },
+   "北海道,新十津川町" : {
+      "subpref" : "空知総合振興局",
+      "symbols" : [
+         {
+            "name" : "オンコ",
+            "type" : "tree"
+         },
+         {
+            "name" : "ツツジ",
+            "type" : "flower"
+         },
+         {
+            "date_value" : "06-20",
+            "label" : "開町記念日",
+            "type" : "day"
+         }
+      ],
+      "timestamp" : 1385211632,
+      "url" : "http://www.town.shintotsukawa.lg.jp/",
+      "wikipedia_image_desc" : "徳富川(左)と石狩川(右)との合流地点 新十津川町の市街地は左下にある。",
+      "wikipedia_image_wref" : "Takikawa view from glider.jpg",
+      "wref" : "新十津川町"
+   },
+   "北海道,新得町" : {
+      "subpref" : "十勝総合振興局",
+      "symbols" : [
+         {
+            "name" : "エゾヤマザクラ",
+            "type" : "tree"
+         },
+         {
+            "name" : "エゾムラサキツツジ",
+            "type" : "flower"
+         },
+         {
+            "label" : "町の鳥",
+            "name" : "エゾライチョウ",
+            "type" : "bird"
+         }
+      ],
+      "timestamp" : 1385106809,
+      "url" : "http://www.shintoku-town.jp/",
+      "wref" : "新得町"
+   },
+   "北海道,新篠津村" : {
+      "subpref" : "石狩振興局",
+      "symbols" : [
+         {
+            "name" : "ナナカマド",
+            "type" : "tree"
+         },
+         {
+            "name" : "ハナショウブ",
+            "type" : "flower"
+         },
+         {
+            "label" : "他のシンボル",
+            "name" : "なし"
+         }
+      ],
+      "timestamp" : 1381771246,
+      "url" : "http://www.vill.shinshinotsu.hokkaido.jp/",
+      "wref" : "新篠津村"
+   },
+   "北海道,日高町" : {
+      "subpref" : "日高振興局",
+      "symbols" : [],
+      "timestamp" : 1378127723,
+      "url" : "http://www.town.hidaka.hokkaido.jp/",
+      "wref" : "日高町 (北海道)"
+   },
+   "北海道,日高郡" : {
+      "timestamp" : 1375890348,
+      "wref" : "日高郡 (北海道)"
+   },
    "北海道,旭川市" : {
+      "subpref" : "上川総合振興局",
       "symbols" : [
          {
             "date" : "1970-09-18",
@@ -5007,40 +5117,90 @@
             "name" : "カンタン"
          }
       ],
-      "timestamp" : 1391411482,
+      "timestamp" : 1390115453,
       "url" : "http://www.city.asahikawa.hokkaido.jp/",
       "wref" : "旭川市"
+   },
+   "北海道,更別村" : {
+      "subpref" : "十勝総合振興局",
+      "symbols" : [
+         {
+            "name" : "カシワ",
+            "type" : "tree"
+         },
+         {
+            "name" : "スズラン",
+            "type" : "flower"
+         }
+      ],
+      "timestamp" : 1388234708,
+      "url" : "http://www.sarabetsu.jp/",
+      "wref" : "更別村"
+   },
+   "北海道,月形町" : {
+      "subpref" : "空知総合振興局",
+      "symbols" : [
+         {
+            "name" : "イチイ",
+            "type" : "tree"
+         },
+         {
+            "name" : "菊",
+            "type" : "flower"
+         }
+      ],
+      "timestamp" : 1376988748,
+      "url" : "http://www.town.tsukigata.hokkaido.jp/",
+      "wref" : "月形町"
    },
    "北海道,有珠郡" : {
       "timestamp" : 1364716447,
       "wref" : "有珠郡"
    },
-   "北海道,有珠郡,壮瞥町" : {
+   "北海道,木古内町" : {
+      "subpref" : "渡島総合振興局",
       "symbols" : [
          {
-            "type" : "mark",
-            "wref" : "File:Sobetsu Hokkaido chapter.JPG"
-         },
-         {
-            "name" : "ムクゲ",
+            "name" : "スギ",
             "type" : "tree"
          },
          {
-            "name" : "モミジ",
-            "type" : "flower"
-         },
-         {
-            "name" : "イチイ",
+            "name" : "ツツジ",
             "type" : "flower"
          }
       ],
-      "timestamp" : 1381031096,
-      "url" : "http://www.town.sobetsu.lg.jp/",
-      "wikipedia_image_desc" : "昭和新山",
-      "wikipedia_image_wref" : "Mount Showa-shinzan 01.jpg",
-      "wref" : "壮瞥町"
+      "timestamp" : 1363910412,
+      "url" : "http://www.town.kikonai.hokkaido.jp/",
+      "wref" : "木古内町"
+   },
+   "北海道,本別町" : {
+      "subpref" : "十勝総合振興局",
+      "symbols" : [
+         {
+            "name" : "カシワ",
+            "type" : "tree"
+         },
+         {
+            "name" : "エゾムラサキツツジ",
+            "type" : "flower"
+         },
+         {
+            "label" : "町の鳥",
+            "name" : "アカゲラ",
+            "type" : "bird"
+         },
+         {
+            "date_value" : "09-15",
+            "label" : "開町記念日",
+            "type" : "day"
+         }
+      ],
+      "timestamp" : 1363885359,
+      "url" : "http://www.town.honbetsu.hokkaido.jp/",
+      "wref" : "本別町"
    },
    "北海道,札幌市" : {
+      "subpref" : "石狩振興局",
       "symbols" : [
          {
             "name" : "ライラック",
@@ -5061,16 +5221,19 @@
       "wref" : "札幌市"
    },
    "北海道,札幌市,中央区" : {
+      "subpref" : "石狩振興局",
       "timestamp" : 1389586186,
       "url" : "http://www.city.sapporo.jp/chuo/",
       "wref" : "中央区 (札幌市)"
    },
    "北海道,札幌市,北区" : {
+      "subpref" : "石狩振興局",
       "timestamp" : 1389584601,
       "url" : "http://www.city.sapporo.jp/kitaku/",
       "wref" : "北区 (札幌市)"
    },
    "北海道,札幌市,南区" : {
+      "subpref" : "石狩振興局",
       "symbols" : [
          {
             "name" : "シラカバ",
@@ -5091,11 +5254,13 @@
       "wref" : "南区 (札幌市)"
    },
    "北海道,札幌市,厚別区" : {
+      "subpref" : "石狩振興局",
       "timestamp" : 1383992948,
       "url" : "http://www.city.sapporo.jp/atsubetsu/index.html",
       "wref" : "厚別区"
    },
    "北海道,札幌市,手稲区" : {
+      "subpref" : "石狩振興局",
       "symbols" : [
          {
             "label" : "区のマスコット",
@@ -5107,6 +5272,7 @@
       "wref" : "手稲区"
    },
    "北海道,札幌市,東区" : {
+      "subpref" : "石狩振興局",
       "symbols" : [
          {
             "label" : "マスコット",
@@ -5117,17 +5283,19 @@
       "wref" : "東区 (札幌市)"
    },
    "北海道,札幌市,清田区" : {
+      "subpref" : "石狩振興局",
       "symbols" : [
          {
             "label" : "マスコットキャラクター",
             "name" : "きよっち"
          }
       ],
-      "timestamp" : 1391182926,
+      "timestamp" : 1383996066,
       "url" : "http://www.city.sapporo.jp/kiyota/",
       "wref" : "清田区"
    },
    "北海道,札幌市,白石区" : {
+      "subpref" : "石狩振興局",
       "symbols" : [
          {
             "name" : "ポプラ",
@@ -5147,11 +5315,13 @@
       "wref" : "白石区"
    },
    "北海道,札幌市,西区" : {
+      "subpref" : "石狩振興局",
       "timestamp" : 1389589494,
       "url" : "http://www.city.sapporo.jp/nishi/",
       "wref" : "西区 (札幌市)"
    },
    "北海道,札幌市,豊平区" : {
+      "subpref" : "石狩振興局",
       "symbols" : [
          {
             "name" : "ペチュニア(ツクバネアサガオ)",
@@ -5166,11 +5336,45 @@
       "url" : "http://www.city.sapporo.jp/toyohira/",
       "wref" : "豊平区"
    },
-   "北海道,松前郡" : {
-      "timestamp" : 1363300463,
-      "wref" : "松前郡"
+   "北海道,東川町" : {
+      "subpref" : "上川総合振興局",
+      "symbols" : [
+         {
+            "name" : "カツラ",
+            "type" : "tree"
+         },
+         {
+            "name" : "エゾムラサキツツジ",
+            "type" : "flower"
+         }
+      ],
+      "timestamp" : 1380422492,
+      "url" : "http://www.town.higashikawa.hokkaido.jp/",
+      "wref" : "東川町"
    },
-   "北海道,松前郡,松前町" : {
+   "北海道,東神楽町" : {
+      "subpref" : "上川総合振興局",
+      "symbols" : [
+         {
+            "name" : "イチイ",
+            "type" : "tree"
+         },
+         {
+            "name" : "ツツジ",
+            "type" : "flower"
+         },
+         {
+            "label" : "町の鳥",
+            "name" : "ヒバリ",
+            "type" : "bird"
+         }
+      ],
+      "timestamp" : 1365406144,
+      "url" : "http://www.town.higashikagura.hokkaido.jp/",
+      "wref" : "東神楽町"
+   },
+   "北海道,松前町" : {
+      "subpref" : "渡島総合振興局",
       "symbols" : [
          {
             "name" : "マツ",
@@ -5187,41 +5391,12 @@
       "wikipedia_image_wref" : "MatsumaeCastle.jpg",
       "wref" : "松前町 (北海道)"
    },
-   "北海道,松前郡,福島町" : {
-      "symbols" : [
-         {
-            "name" : "スギ",
-            "type" : "tree"
-         },
-         {
-            "name" : "ヤマユリ",
-            "type" : "flower"
-         }
-      ],
-      "timestamp" : 1384075211,
-      "url" : "http://www.town.fukushima.hokkaido.jp/",
-      "wref" : "福島町"
+   "北海道,松前郡" : {
+      "timestamp" : 1363300463,
+      "wref" : "松前郡"
    },
-   "北海道,枝幸郡" : {
-      "timestamp" : 1365058878,
-      "wref" : "枝幸郡"
-   },
-   "北海道,枝幸郡,中頓別町" : {
-      "symbols" : [
-         {
-            "name" : "アカエゾマツ",
-            "type" : "tree"
-         },
-         {
-            "name" : "チシマザクラ",
-            "type" : "flower"
-         }
-      ],
-      "timestamp" : 1389175576,
-      "url" : "http://www.town.nakatombetsu.hokkaido.jp/",
-      "wref" : "中頓別町"
-   },
-   "北海道,枝幸郡,枝幸町" : {
+   "北海道,枝幸町" : {
+      "subpref" : "宗谷総合振興局",
       "symbols" : [
          {
             "label" : "町の鳥",
@@ -5233,27 +5408,28 @@
       "url" : "http://www.town.esashi.hokkaido.jp/",
       "wref" : "枝幸町"
    },
-   "北海道,枝幸郡,浜頓別町" : {
+   "北海道,枝幸郡" : {
+      "timestamp" : 1365058878,
+      "wref" : "枝幸郡"
+   },
+   "北海道,栗山町" : {
+      "subpref" : "空知総合振興局",
       "symbols" : [
          {
-            "name" : "アカエゾマツ",
+            "name" : "クリ",
             "type" : "tree"
          },
          {
-            "name" : "エゾノリュウキンカ",
+            "name" : "ユリ",
             "type" : "flower"
-         },
-         {
-            "label" : "町の鳥",
-            "name" : "コハクチョウ",
-            "type" : "bird"
          }
       ],
-      "timestamp" : 1385866968,
-      "url" : "http://www.town.hamatonbetsu.hokkaido.jp/",
-      "wref" : "浜頓別町"
+      "timestamp" : 1380939608,
+      "url" : "http://www.town.kuriyama.hokkaido.jp/index.html",
+      "wref" : "栗山町"
    },
    "北海道,根室市" : {
+      "subpref" : "根室振興局",
       "symbols" : [
          {
             "date" : "1925-02-13",
@@ -5278,17 +5454,37 @@
             "name" : "卓球"
          }
       ],
-      "timestamp" : 1391019766,
+      "timestamp" : 1386467590,
       "url" : "http://www.city.nemuro.hokkaido.jp/",
       "wikipedia_image_desc" : "納沙布岬",
       "wikipedia_image_wref" : "CapeNosappu.jpg",
       "wref" : "根室市"
    },
-   "北海道,様似郡" : {
-      "timestamp" : 1363315063,
-      "wref" : "様似郡"
+   "北海道,森町" : {
+      "subpref" : "渡島総合振興局",
+      "symbols" : [
+         {
+            "name" : "茅部ぐり",
+            "type" : "tree"
+         },
+         {
+            "name" : "さくら",
+            "type" : "flower"
+         },
+         {
+            "label" : "町の鳥",
+            "name" : "カモメ",
+            "type" : "bird"
+         }
+      ],
+      "timestamp" : 1389176985,
+      "url" : "http://www.town.hokkaido-mori.lg.jp/",
+      "wikipedia_image_desc" : "森駅から駒ヶ岳を臨む",
+      "wikipedia_image_wref" : "Mori stn(Hokkaido)&Komagatake.jpg",
+      "wref" : "森町 (北海道)"
    },
-   "北海道,様似郡,様似町" : {
+   "北海道,様似町" : {
+      "subpref" : "日高振興局",
       "symbols" : [
          {
             "date" : "1918-05-01",
@@ -5311,33 +5507,12 @@
       "wikipedia_image_wref" : "Samani Town and Mount Apoi.jpg",
       "wref" : "様似町"
    },
-   "北海道,標津郡" : {
-      "timestamp" : 1365189247,
-      "wref" : "標津郡"
+   "北海道,様似郡" : {
+      "timestamp" : 1363315063,
+      "wref" : "様似郡"
    },
-   "北海道,標津郡,中標津町" : {
-      "symbols" : [
-         {
-            "date" : "1950-01-01",
-            "type" : "mark",
-            "wref" : "ファイル:Flag of Nakashibetsu, Hokkaido.svg"
-         },
-         {
-            "name" : "シラカバ",
-            "type" : "tree"
-         },
-         {
-            "name" : "エゾリンドウ",
-            "type" : "flower"
-         }
-      ],
-      "timestamp" : 1389779215,
-      "url" : "http://www.nakashibetsu.jp/",
-      "wikipedia_image_desc" : "開陽台",
-      "wikipedia_image_wref" : "File:Kaiyoudai 2009.JPG",
-      "wref" : "中標津町"
-   },
-   "北海道,標津郡,標津町" : {
+   "北海道,標津町" : {
+      "subpref" : "根室振興局",
       "symbols" : [
          {
             "name" : "ナナカマド",
@@ -5356,119 +5531,36 @@
       "url" : "http://www.shibetsutown.jp/",
       "wref" : "標津町"
    },
+   "北海道,標津郡" : {
+      "timestamp" : 1365189247,
+      "wref" : "標津郡"
+   },
+   "北海道,標茶町" : {
+      "subpref" : "釧路総合振興局",
+      "symbols" : [
+         {
+            "name" : "ナラ",
+            "type" : "tree"
+         },
+         {
+            "name" : "コスモス",
+            "type" : "flower"
+         }
+      ],
+      "timestamp" : 1389751231,
+      "url" : "http://www.town.shibecha.hokkaido.jp/yakuba/welcome.html",
+      "wref" : "標茶町"
+   },
    "北海道,樺戸郡" : {
       "timestamp" : 1364628255,
       "wref" : "樺戸郡"
-   },
-   "北海道,樺戸郡,新十津川町" : {
-      "symbols" : [
-         {
-            "name" : "オンコ",
-            "type" : "tree"
-         },
-         {
-            "name" : "ツツジ",
-            "type" : "flower"
-         },
-         {
-            "date_value" : "06-20",
-            "label" : "開町記念日",
-            "type" : "day"
-         }
-      ],
-      "timestamp" : 1385211632,
-      "url" : "http://www.town.shintotsukawa.lg.jp/",
-      "wikipedia_image_desc" : "徳富川(左)と石狩川(右)との合流地点 新十津川町の市街地は左下にある。",
-      "wikipedia_image_wref" : "Takikawa view from glider.jpg",
-      "wref" : "新十津川町"
-   },
-   "北海道,樺戸郡,月形町" : {
-      "symbols" : [
-         {
-            "name" : "イチイ",
-            "type" : "tree"
-         },
-         {
-            "name" : "菊",
-            "type" : "flower"
-         }
-      ],
-      "timestamp" : 1376988748,
-      "url" : "http://www.town.tsukigata.hokkaido.jp/",
-      "wref" : "月形町"
-   },
-   "北海道,樺戸郡,浦臼町" : {
-      "symbols" : [
-         {
-            "name" : "サクラ",
-            "type" : "tree"
-         },
-         {
-            "name" : "ツツジ",
-            "type" : "flower"
-         }
-      ],
-      "timestamp" : 1389172688,
-      "url" : "http://www.town.urausu.hokkaido.jp/",
-      "wref" : "浦臼町"
    },
    "北海道,檜山郡" : {
       "timestamp" : 1363317427,
       "wref" : "檜山郡"
    },
-   "北海道,檜山郡,上ノ国町" : {
-      "symbols" : [
-         {
-            "name" : "ヒノキアスナロ",
-            "type" : "tree"
-         },
-         {
-            "name" : "エゾヤマツツジ",
-            "type" : "flower"
-         },
-         {
-            "name" : "なし"
-         }
-      ],
-      "timestamp" : 1386329521,
-      "wref" : "上ノ国町"
-   },
-   "北海道,檜山郡,厚沢部町" : {
-      "symbols" : [
-         {
-            "name" : "クロマツ",
-            "type" : "tree"
-         },
-         {
-            "name" : "ツツジ",
-            "type" : "flower"
-         }
-      ],
-      "timestamp" : 1381031515,
-      "url" : "http://www.town.assabu.lg.jp/",
-      "wref" : "厚沢部町"
-   },
-   "北海道,檜山郡,江差町" : {
-      "symbols" : [
-         {
-            "date" : "1955",
-            "type" : "mark",
-            "wref" : "ファイル:Flag of Esashi, Hokkaido (Hiyama).svg"
-         },
-         {
-            "name" : "ヒノキアスナロ",
-            "type" : "tree"
-         },
-         {
-            "name" : "ハマナス",
-            "type" : "flower"
-         }
-      ],
-      "timestamp" : 1386329329,
-      "url" : "http://www.hokkaido-esashi.jp/",
-      "wref" : "江差町"
-   },
    "北海道,歌志内市" : {
+      "subpref" : "空知総合振興局",
       "symbols" : [
          {
             "date" : "1942-10-10",
@@ -5493,7 +5585,24 @@
       "url" : "http://www.city.utashinai.hokkaido.jp/",
       "wref" : "歌志内市"
    },
+   "北海道,比布町" : {
+      "subpref" : "上川総合振興局",
+      "symbols" : [
+         {
+            "name" : "ナナカマド",
+            "type" : "tree"
+         },
+         {
+            "name" : "スイセン",
+            "type" : "flower"
+         }
+      ],
+      "timestamp" : 1386490146,
+      "url" : "http://www.town.pippu.hokkaido.jp/",
+      "wref" : "比布町"
+   },
    "北海道,江別市" : {
+      "subpref" : "石狩振興局",
       "symbols" : [
          {
             "date" : "1924-10-24",
@@ -5516,192 +5625,213 @@
       "wikipedia_image_wref" : "kyu-hida-factory.JPG",
       "wref" : "江別市"
    },
-   "北海道,沙流郡" : {
-      "timestamp" : 1381334245,
-      "wref" : "沙流郡"
-   },
-   "北海道,沙流郡,平取町" : {
+   "北海道,江差町" : {
+      "subpref" : "檜山振興局",
       "symbols" : [
          {
-            "date" : "1949-07-01",
+            "date" : "1955",
             "type" : "mark",
-            "wref" : "ファイル:Flag of Biratori, Hokkaido.svg"
+            "wref" : "ファイル:Flag of Esashi, Hokkaido (Hiyama).svg"
          },
          {
-            "name" : "カツラ",
+            "name" : "ヒノキアスナロ",
             "type" : "tree"
          },
          {
-            "name" : "スズラン",
+            "name" : "ハマナス",
             "type" : "flower"
-         },
-         {
-            "label" : "他のシンボル",
-            "name" : "アカゲラ"
          }
       ],
-      "timestamp" : 1388234551,
-      "url" : "http://www2.town.biratori.hokkaido.jp/biratori/",
-      "wref" : "平取町"
+      "timestamp" : 1386329329,
+      "url" : "http://www.hokkaido-esashi.jp/",
+      "wref" : "江差町"
    },
-   "北海道,沙流郡,日高町" : {
-      "symbols" : [],
-      "timestamp" : 1378127723,
-      "url" : "http://www.town.hidaka.hokkaido.jp/",
-      "wref" : "日高町 (北海道)"
-   },
-   "北海道,河東郡" : {
-      "timestamp" : 1364914207,
-      "wref" : "河東郡"
-   },
-   "北海道,河東郡,上士幌町" : {
+   "北海道,池田町" : {
+      "subpref" : "十勝総合振興局",
       "symbols" : [
          {
-            "name" : "しらかば",
+            "name" : "サクラ",
             "type" : "tree"
          },
-         {
-            "name" : "すずらん",
-            "type" : "flower"
-         },
-         {
-            "label" : "町の鳥",
-            "name" : "かっこう",
-            "type" : "bird"
-         }
-      ],
-      "timestamp" : 1375701276,
-      "url" : "http://www.kamishihoro.jp/",
-      "wref" : "上士幌町"
-   },
-   "北海道,河東郡,士幌町" : {
-      "symbols" : [
          {
             "name" : "カシワ",
             "type" : "tree"
          },
          {
-            "name" : "スズラン",
+            "name" : "ツツジ",
             "type" : "flower"
          },
          {
-            "label" : "町の鳥",
-            "name" : "カッコウ",
-            "type" : "bird"
+            "date_value" : "10-01",
+            "label" : "開町記念日",
+            "type" : "day"
          }
       ],
-      "timestamp" : 1381299643,
-      "url" : "http://www.shihoro.jp/hp/index.htm",
-      "wref" : "士幌町"
+      "timestamp" : 1368584273,
+      "url" : "http://www.town.hokkaido-ikeda.lg.jp/",
+      "wref" : "池田町 (北海道)"
    },
-   "北海道,河東郡,音更町" : {
+   "北海道,沙流郡" : {
+      "timestamp" : 1381334245,
+      "wref" : "沙流郡"
+   },
+   "北海道,河東郡" : {
+      "timestamp" : 1364914207,
+      "wref" : "河東郡"
+   },
+   "北海道,河西郡" : {
+      "timestamp" : 1364695452,
+      "wref" : "河西郡"
+   },
+   "北海道,沼田町" : {
+      "subpref" : "空知総合振興局",
+      "symbols" : [
+         {
+            "name" : "イチイ",
+            "type" : "tree"
+         },
+         {
+            "name" : "ツツジ",
+            "type" : "flower"
+         }
+      ],
+      "timestamp" : 1367285571,
+      "url" : "http://www.town.numata.hokkaido.jp/",
+      "wref" : "沼田町"
+   },
+   "北海道,泊村" : {
+      "subpref" : "後志総合振興局",
+      "symbols" : [
+         {
+            "name" : "サクラ",
+            "type" : "tree"
+         },
+         {
+            "name" : "エゾスカシユリ",
+            "type" : "flower"
+         }
+      ],
+      "timestamp" : 1387703846,
+      "url" : "http://www.vill.tomari.hokkaido.jp/",
+      "wikipedia_image_desc" : "泊原子力発電所",
+      "wikipedia_image_wref" : "Tomari Nuclear Power Plant 01-02.jpg",
+      "wref" : "泊村"
+   },
+   "北海道,洞爺湖町" : {
+      "subpref" : "胆振総合振興局",
+      "symbols" : [
+         {
+            "name" : "さくら",
+            "type" : "tree"
+         },
+         {
+            "name" : "ななかまど",
+            "type" : "tree"
+         },
+         {
+            "name" : "すみれ",
+            "type" : "flower"
+         },
+         {
+            "name" : "つつじ",
+            "type" : "flower"
+         },
+         {
+            "label" : "他のシンボル",
+            "name" : "なし"
+         }
+      ],
+      "timestamp" : 1381549582,
+      "url" : "http://www.town.toyako.hokkaido.jp",
+      "wikipedia_image_desc" : "手前は有珠山の金毘羅山火口。中央のビル群は洞爺湖温泉街。火口近くには放棄された被災建物と洞爺湖町立火山科学館、金比羅山麓災害遺構群散策路。沖合の島は中島。",
+      "wikipedia_image_wref" : "File:Lake touya and volcano usu.jpg",
+      "wref" : "洞爺湖町"
+   },
+   "北海道,津別町" : {
+      "subpref" : "オホーツク総合振興局",
+      "symbols" : [
+         {
+            "name" : "エゾマツ",
+            "type" : "tree"
+         },
+         {
+            "name" : "スズラン",
+            "type" : "flower"
+         }
+      ],
+      "timestamp" : 1382808955,
+      "wref" : "津別町"
+   },
+   "北海道,浜中町" : {
+      "subpref" : "釧路総合振興局",
       "symbols" : [
          {
             "name" : "白樺",
             "type" : "tree"
          },
          {
-            "name" : "スズラン",
-            "type" : "flower"
-         }
-      ],
-      "timestamp" : 1385555088,
-      "url" : "http://www.town.otofuke.hokkaido.jp/",
-      "wref" : "音更町"
-   },
-   "北海道,河東郡,鹿追町" : {
-      "symbols" : [
-         {
-            "name" : "モミジ",
-            "type" : "tree"
-         },
-         {
-            "name" : "シャクナゲ",
+            "name" : "エゾカンゾウ",
             "type" : "flower"
          },
          {
             "label" : "町の鳥",
-            "name" : "カッコウ",
+            "name" : "エトピリカ",
             "type" : "bird"
          }
       ],
-      "timestamp" : 1363852679,
-      "url" : "http://www.town.shikaoi.hokkaido.jp/",
-      "wref" : "鹿追町"
+      "timestamp" : 1387666393,
+      "url" : "http://www.townhamanaka.jp/index.html",
+      "wref" : "浜中町"
    },
-   "北海道,河西郡" : {
-      "timestamp" : 1364695452,
-      "wref" : "河西郡"
-   },
-   "北海道,河西郡,中札内村" : {
+   "北海道,浜頓別町" : {
+      "subpref" : "宗谷総合振興局",
       "symbols" : [
          {
-            "name" : "カシワ",
+            "name" : "アカエゾマツ",
             "type" : "tree"
          },
          {
-            "name" : "スズラン",
-            "type" : "flower"
-         },
-         {
-            "label" : "村の鳥",
-            "name" : "ヒバリ",
-            "type" : "bird"
-         }
-      ],
-      "timestamp" : 1390700894,
-      "url" : "http://www.vill.nakasatsunai.hokkaido.jp/",
-      "wref" : "中札内村"
-   },
-   "北海道,河西郡,更別村" : {
-      "symbols" : [
-         {
-            "name" : "カシワ",
-            "type" : "tree"
-         },
-         {
-            "name" : "スズラン",
-            "type" : "flower"
-         }
-      ],
-      "timestamp" : 1388234708,
-      "url" : "http://www.sarabetsu.jp/",
-      "wref" : "更別村"
-   },
-   "北海道,河西郡,芽室町" : {
-      "symbols" : [
-         {
-            "name" : "カシワ",
-            "type" : "tree"
-         },
-         {
-            "name" : "ミズバショウ",
-            "type" : "flower"
-         },
-         {
-            "name" : "エゾムラサキツツジ",
+            "name" : "エゾノリュウキンカ",
             "type" : "flower"
          },
          {
             "label" : "町の鳥",
-            "name" : "カッコウ",
+            "name" : "コハクチョウ",
+            "type" : "bird"
+         }
+      ],
+      "timestamp" : 1385866968,
+      "url" : "http://www.town.hamatonbetsu.hokkaido.jp/",
+      "wref" : "浜頓別町"
+   },
+   "北海道,浦幌町" : {
+      "subpref" : "十勝総合振興局",
+      "symbols" : [
+         {
+            "name" : "ナナカマド",
+            "type" : "tree"
+         },
+         {
+            "name" : "ハマナス",
+            "type" : "flower"
+         },
+         {
+            "label" : "町の鳥",
+            "name" : "青サギ",
             "type" : "bird"
          },
          {
-            "date_value" : "07-15",
+            "date_value" : "06-05",
             "label" : "開町記念日",
             "type" : "day"
          }
       ],
-      "timestamp" : 1367320458,
-      "url" : "http://www.memuro.net/",
-      "wref" : "芽室町"
+      "timestamp" : 1380540516,
+      "url" : "http://www.urahoro.jp/",
+      "wref" : "浦幌町"
    },
-   "北海道,浦河郡" : {
-      "timestamp" : 1364718268,
-      "wref" : "浦河郡"
-   },
-   "北海道,浦河郡,浦河町" : {
+   "北海道,浦河町" : {
+      "subpref" : "日高振興局",
       "symbols" : [
          {
             "date" : "1967-06-26",
@@ -5721,7 +5851,28 @@
       "url" : "http://www.town.urakawa.hokkaido.jp/",
       "wref" : "浦河町"
    },
+   "北海道,浦河郡" : {
+      "timestamp" : 1364718268,
+      "wref" : "浦河郡"
+   },
+   "北海道,浦臼町" : {
+      "subpref" : "空知総合振興局",
+      "symbols" : [
+         {
+            "name" : "サクラ",
+            "type" : "tree"
+         },
+         {
+            "name" : "ツツジ",
+            "type" : "flower"
+         }
+      ],
+      "timestamp" : 1389172688,
+      "url" : "http://www.town.urausu.hokkaido.jp/",
+      "wref" : "浦臼町"
+   },
    "北海道,深川市" : {
+      "subpref" : "空知総合振興局",
       "symbols" : [
          {
             "name" : "シラカバ",
@@ -5741,7 +5892,73 @@
       "url" : "http://www.city.fukagawa.lg.jp/",
       "wref" : "深川市"
    },
+   "北海道,清水町" : {
+      "subpref" : "十勝総合振興局",
+      "symbols" : [
+         {
+            "name" : "ナナカマド",
+            "type" : "tree"
+         },
+         {
+            "name" : "スズラン",
+            "type" : "flower"
+         },
+         {
+            "label" : "町の鳥",
+            "name" : "ウグイス",
+            "type" : "bird"
+         },
+         {
+            "date_value" : "10-01",
+            "label" : "開町記念日",
+            "type" : "day"
+         }
+      ],
+      "timestamp" : 1363903498,
+      "url" : "http://www.town.shimizu.hokkaido.jp/",
+      "wref" : "清水町 (北海道)"
+   },
+   "北海道,清里町" : {
+      "subpref" : "オホーツク総合振興局",
+      "symbols" : [
+         {
+            "name" : "オンコ",
+            "type" : "tree"
+         },
+         {
+            "name" : "ムクゲ",
+            "type" : "flower"
+         }
+      ],
+      "timestamp" : 1381144744,
+      "url" : "http://www.town.kiyosato.hokkaido.jp/",
+      "wref" : "清里町"
+   },
+   "北海道,湧別町" : {
+      "subpref" : "オホーツク総合振興局",
+      "symbols" : [],
+      "timestamp" : 1370106214,
+      "url" : "http://www.town.yubetsu.lg.jp/",
+      "wref" : "湧別町"
+   },
+   "北海道,滝上町" : {
+      "subpref" : "オホーツク総合振興局",
+      "symbols" : [
+         {
+            "name" : "サクラ",
+            "type" : "tree"
+         },
+         {
+            "name" : "シバザクラ",
+            "type" : "flower"
+         }
+      ],
+      "timestamp" : 1389192438,
+      "url" : "http://town.takinoue.hokkaido.jp/",
+      "wref" : "滝上町"
+   },
    "北海道,滝川市" : {
+      "subpref" : "空知総合振興局",
       "symbols" : [
          {
             "date" : "1948-03-01",
@@ -5774,46 +5991,71 @@
       "timestamp" : 1363317437,
       "wref" : "瀬棚郡"
    },
-   "北海道,瀬棚郡,今金町" : {
-      "symbols" : [
-         {
-            "name" : "イチイ",
-            "type" : "tree"
-         },
-         {
-            "name" : "チューリップ",
-            "type" : "flower"
-         }
-      ],
-      "timestamp" : 1385040597,
-      "url" : "http://www.town.imakane.lg.jp/index.php",
-      "wref" : "今金町"
-   },
    "北海道,爾志郡" : {
       "timestamp" : 1365937223,
       "wref" : "爾志郡"
    },
-   "北海道,爾志郡,乙部町" : {
+   "北海道,猿払村" : {
+      "subpref" : "宗谷総合振興局",
       "symbols" : [
          {
-            "name" : "スギ",
+            "name" : "ナナカマド",
             "type" : "tree"
          },
          {
-            "name" : "ユリ",
+            "name" : "コケモモ",
             "type" : "flower"
          },
          {
-            "label" : "町の鳥",
-            "name" : "なし",
-            "type" : "bird"
+            "label" : "村の魚",
+            "name" : "イトウ",
+            "type" : "fish"
          }
       ],
-      "timestamp" : 1385949947,
-      "url" : "http://www.town.otobe.lg.jp/web/pd_menu.nsf",
-      "wref" : "乙部町"
+      "timestamp" : 1389114055,
+      "url" : "http://www.vill.sarufutsu.hokkaido.jp/",
+      "wref" : "猿払村"
+   },
+   "北海道,由仁町" : {
+      "subpref" : "空知総合振興局",
+      "symbols" : [
+         {
+            "name" : "いちい",
+            "type" : "tree"
+         },
+         {
+            "name" : "きく",
+            "type" : "flower"
+         }
+      ],
+      "timestamp" : 1388234458,
+      "url" : "http://www.town.yuni.lg.jp/",
+      "wref" : "由仁町"
+   },
+   "北海道,留別村" : {},
+   "北海道,留夜別村" : {},
+   "北海道,留寿都村" : {
+      "subpref" : "後志総合振興局",
+      "symbols" : [
+         {
+            "name" : "アカダモ(ハルニレ)",
+            "type" : "tree"
+         },
+         {
+            "name" : "シラカバ",
+            "type" : "tree"
+         },
+         {
+            "name" : "セタナリア(シバザクラ)",
+            "type" : "flower"
+         }
+      ],
+      "timestamp" : 1390088435,
+      "url" : "http://www.vill.rusutsu.lg.jp/",
+      "wref" : "留寿都村"
    },
    "北海道,留萌市" : {
+      "subpref" : "留萌振興局",
       "symbols" : [
          {
             "name" : "アカシア",
@@ -5824,7 +6066,7 @@
             "type" : "flower"
          }
       ],
-      "timestamp" : 1391322062,
+      "timestamp" : 1386988150,
       "url" : "http://www.e-rumoi.jp/",
       "wref" : "留萌市"
    },
@@ -5832,11 +6074,8 @@
       "timestamp" : 1364978786,
       "wref" : "留萌郡"
    },
-   "北海道,留萌郡,小平町" : {
-      "timestamp" : 1385795489,
-      "wref" : "小平町"
-   },
    "北海道,登別市" : {
+      "subpref" : "胆振総合振興局",
       "symbols" : [
          {
             "name" : "プラタナス",
@@ -5855,11 +6094,8 @@
       "url" : "http://www.city.noboribetsu.hokkaido.jp/index.html",
       "wref" : "登別市"
    },
-   "北海道,白糠郡" : {
-      "timestamp" : 1364586967,
-      "wref" : "白糠郡"
-   },
-   "北海道,白糠郡,白糠町" : {
+   "北海道,白糠町" : {
+      "subpref" : "釧路総合振興局",
       "symbols" : [
          {
             "name" : "ななかまど",
@@ -5874,11 +6110,12 @@
       "url" : "http://www.town.shiranuka.lg.jp/",
       "wref" : "白糠町"
    },
-   "北海道,白老郡" : {
-      "timestamp" : 1363315046,
-      "wref" : "白老郡"
+   "北海道,白糠郡" : {
+      "timestamp" : 1364586967,
+      "wref" : "白糠郡"
    },
-   "北海道,白老郡,白老町" : {
+   "北海道,白老町" : {
+      "subpref" : "胆振総合振興局",
       "symbols" : [
          {
             "name" : "ナナカマド",
@@ -5893,31 +6130,40 @@
       "url" : "http://www.town.shiraoi.hokkaido.jp/",
       "wref" : "白老町"
    },
+   "北海道,白老郡" : {
+      "timestamp" : 1363315046,
+      "wref" : "白老郡"
+   },
    "北海道,目梨郡" : {
       "timestamp" : 1389710336,
       "wref" : "目梨郡"
    },
-   "北海道,目梨郡,羅臼町" : {
+   "北海道,真狩村" : {
+      "subpref" : "後志総合振興局",
       "symbols" : [
          {
-            "name" : "ナナカマド",
+            "name" : "カツラ",
             "type" : "tree"
-         },
-         {
-            "name" : "シバザクラ",
-            "type" : "flower"
-         },
-         {
-            "label" : "町の鳥",
-            "name" : "オジロワシ",
-            "type" : "bird"
          }
       ],
-      "timestamp" : 1389350382,
-      "url" : "http://www.rausu-town.jp/",
-      "wref" : "羅臼町"
+      "timestamp" : 1383558807,
+      "url" : "http://www.makkari.info/",
+      "wref" : "真狩村"
+   },
+   "北海道,知内町" : {
+      "subpref" : "渡島総合振興局",
+      "symbols" : [
+         {
+            "label" : "他のシンボル",
+            "name" : "鷹"
+         }
+      ],
+      "timestamp" : 1386580376,
+      "url" : "http://www.town.shiriuchi.hokkaido.jp/",
+      "wref" : "知内町"
    },
    "北海道,石狩市" : {
+      "subpref" : "石狩振興局",
       "symbols" : [
          {
             "name" : "カシワ",
@@ -5933,7 +6179,7 @@
             "type" : "bird"
          }
       ],
-      "timestamp" : 1390831343,
+      "timestamp" : 1382486455,
       "url" : "http://www.city.ishikari.hokkaido.jp/",
       "wref" : "石狩市"
    },
@@ -5941,46 +6187,8 @@
       "timestamp" : 1368271630,
       "wref" : "石狩郡"
    },
-   "北海道,石狩郡,当別町" : {
-      "symbols" : [
-         {
-            "name" : "白樺",
-            "type" : "tree"
-         },
-         {
-            "name" : "かすみ草",
-            "type" : "flower"
-         },
-         {
-            "label" : "町の鳥",
-            "name" : "ふくろう",
-            "type" : "bird"
-         }
-      ],
-      "timestamp" : 1390808359,
-      "url" : "http://www.town.tobetsu.hokkaido.jp/",
-      "wref" : "当別町"
-   },
-   "北海道,石狩郡,新篠津村" : {
-      "symbols" : [
-         {
-            "name" : "ナナカマド",
-            "type" : "tree"
-         },
-         {
-            "name" : "ハナショウブ",
-            "type" : "flower"
-         },
-         {
-            "label" : "他のシンボル",
-            "name" : "なし"
-         }
-      ],
-      "timestamp" : 1381771246,
-      "url" : "http://www.vill.shinshinotsu.hokkaido.jp/",
-      "wref" : "新篠津村"
-   },
    "北海道,砂川市" : {
+      "subpref" : "空知総合振興局",
       "symbols" : [
          {
             "date" : "1948-06-30",
@@ -6008,26 +6216,8 @@
       "timestamp" : 1363011452,
       "wref" : "磯谷郡"
    },
-   "北海道,磯谷郡,蘭越町" : {
-      "symbols" : [
-         {
-            "name" : "コブシ",
-            "type" : "tree"
-         },
-         {
-            "name" : "コブシ",
-            "type" : "flower"
-         }
-      ],
-      "timestamp" : 1380739665,
-      "url" : "http://www.town.rankoshi.hokkaido.jp/",
-      "wref" : "蘭越町"
-   },
-   "北海道,礼文郡" : {
-      "timestamp" : 1364601271,
-      "wref" : "礼文郡"
-   },
-   "北海道,礼文郡,礼文町" : {
+   "北海道,礼文町" : {
+      "subpref" : "宗谷総合振興局",
       "symbols" : [
          {
             "name" : "シンパク",
@@ -6047,7 +6237,65 @@
       "url" : "http://www.town.rebun.hokkaido.jp/",
       "wref" : "礼文町"
    },
+   "北海道,礼文郡" : {
+      "timestamp" : 1364601271,
+      "wref" : "礼文郡"
+   },
+   "北海道,神恵内村" : {
+      "subpref" : "後志総合振興局",
+      "symbols" : [
+         {
+            "name" : "トドマツ",
+            "type" : "tree"
+         },
+         {
+            "label" : "村の魚",
+            "name" : "サケ",
+            "type" : "fish"
+         }
+      ],
+      "timestamp" : 1388654934,
+      "url" : "http://www.vill.kamoenai.hokkaido.jp/",
+      "wref" : "神恵内村"
+   },
+   "北海道,福島町" : {
+      "subpref" : "渡島総合振興局",
+      "symbols" : [
+         {
+            "name" : "スギ",
+            "type" : "tree"
+         },
+         {
+            "name" : "ヤマユリ",
+            "type" : "flower"
+         }
+      ],
+      "timestamp" : 1384075211,
+      "url" : "http://www.town.fukushima.hokkaido.jp/",
+      "wref" : "福島町"
+   },
+   "北海道,秩父別町" : {
+      "subpref" : "空知総合振興局",
+      "symbols" : [
+         {
+            "name" : "桜",
+            "type" : "tree"
+         },
+         {
+            "name" : "バラ",
+            "type" : "flower"
+         },
+         {
+            "label" : "町の花木",
+            "name" : "つつじ"
+         }
+      ],
+      "timestamp" : 1363878991,
+      "url" : "http://www.town.chippubetsu.hokkaido.jp/",
+      "wref" : "秩父別町"
+   },
    "北海道,稚内市" : {
+      "subpref" : "宗谷総合振興局",
       "symbols" : [
          {
             "date" : "1968-04-01",
@@ -6068,17 +6316,14 @@
             "type" : "flower"
          }
       ],
-      "timestamp" : 1391578764,
+      "timestamp" : 1389125468,
       "url" : "http://www.city.wakkanai.hokkaido.jp/",
       "wikipedia_image_desc" : "日本最北端の地の碑",
       "wikipedia_image_wref" : "The Most Northern Land of Japan Memorial.jpg",
       "wref" : "稚内市"
    },
-   "北海道,積丹郡" : {
-      "timestamp" : 1363011488,
-      "wref" : "積丹郡"
-   },
-   "北海道,積丹郡,積丹町" : {
+   "北海道,積丹町" : {
+      "subpref" : "後志総合振興局",
       "symbols" : [
          {
             "name" : "エゾヤマザクラ",
@@ -6095,116 +6340,16 @@
       "wikipedia_image_wref" : "130823 Cape Shakotan Shakotan Hokkaido Japan01s3.jpg",
       "wref" : "積丹町"
    },
+   "北海道,積丹郡" : {
+      "timestamp" : 1363011488,
+      "wref" : "積丹郡"
+   },
    "北海道,空知郡" : {
       "timestamp" : 1362869745,
       "wref" : "空知郡"
    },
-   "北海道,空知郡,上富良野町" : {
-      "symbols" : [
-         {
-            "name" : "アカエゾマツ",
-            "type" : "tree"
-         },
-         {
-            "name" : "ラベンダー",
-            "type" : "flower"
-         }
-      ],
-      "timestamp" : 1372104400,
-      "url" : "http://hp.town.kamifurano.hokkaido.jp/",
-      "wref" : "上富良野町"
-   },
-   "北海道,空知郡,上砂川町" : {
-      "symbols" : [
-         {
-            "name" : "ハルニレ",
-            "type" : "tree"
-         },
-         {
-            "name" : "芝桜",
-            "type" : "flower"
-         }
-      ],
-      "timestamp" : 1379153987,
-      "url" : "http://www.town.kamisunagawa.hokkaido.jp/",
-      "wref" : "上砂川町"
-   },
-   "北海道,空知郡,中富良野町" : {
-      "symbols" : [
-         {
-            "name" : "コブシ",
-            "type" : "tree"
-         },
-         {
-            "name" : "ラベンダー",
-            "type" : "flower"
-         }
-      ],
-      "timestamp" : 1387665752,
-      "url" : "http://www.furano.ne.jp/nakafurano/",
-      "wikipedia_image_desc" : "ファーム富田のラベンダー畑",
-      "wikipedia_image_wref" : "Nakafurano_01.jpg",
-      "wref" : "中富良野町"
-   },
-   "北海道,空知郡,南富良野町" : {
-      "symbols" : [
-         {
-            "name" : "クルミ",
-            "type" : "tree"
-         },
-         {
-            "name" : "ヒナゲシ",
-            "type" : "flower"
-         }
-      ],
-      "timestamp" : 1387452501,
-      "url" : "http://www.town.minamifurano.hokkaido.jp/",
-      "wref" : "南富良野町"
-   },
-   "北海道,空知郡,南幌町" : {
-      "symbols" : [
-         {
-            "name" : "オンコ",
-            "type" : "tree"
-         },
-         {
-            "name" : "ツツジ",
-            "type" : "flower"
-         }
-      ],
-      "timestamp" : 1385390973,
-      "url" : "http://www.town.nanporo.hokkaido.jp/",
-      "wref" : "南幌町"
-   },
-   "北海道,空知郡,奈井江町" : {
-      "symbols" : [
-         {
-            "date" : "1954-03-18",
-            "type" : "mark",
-            "wref" : "ファイル:Flag of Naie Hokkaido.svg"
-         },
-         {
-            "name" : "ナナカマド",
-            "type" : "tree"
-         },
-         {
-            "name" : "ツツジ",
-            "type" : "flower"
-         },
-         {
-            "name" : "ヘメロカリス",
-            "type" : "flower"
-         },
-         {
-            "label" : "他のシンボル",
-            "name" : "なし"
-         }
-      ],
-      "timestamp" : 1371798645,
-      "url" : "http://www.town.naie.hokkaido.jp/",
-      "wref" : "奈井江町"
-   },
    "北海道,紋別市" : {
+      "subpref" : "オホーツク総合振興局",
       "symbols" : [
          {
             "date" : "1941-07-01",
@@ -6231,100 +6376,13 @@
       "timestamp" : 1365125347,
       "wref" : "紋別郡"
    },
-   "北海道,紋別郡,湧別町" : {
-      "symbols" : [],
-      "timestamp" : 1370106214,
-      "url" : "http://www.town.yubetsu.lg.jp/",
-      "wref" : "湧別町"
-   },
-   "北海道,紋別郡,滝上町" : {
-      "symbols" : [
-         {
-            "name" : "サクラ",
-            "type" : "tree"
-         },
-         {
-            "name" : "シバザクラ",
-            "type" : "flower"
-         }
-      ],
-      "timestamp" : 1389192438,
-      "url" : "http://town.takinoue.hokkaido.jp/",
-      "wref" : "滝上町"
-   },
-   "北海道,紋別郡,興部町" : {
-      "symbols" : [
-         {
-            "name" : "ナナカマド",
-            "type" : "tree"
-         },
-         {
-            "name" : "ハマナス",
-            "type" : "flower"
-         }
-      ],
-      "timestamp" : 1380410328,
-      "url" : "http://www.town.okoppe.lg.jp/",
-      "wref" : "興部町"
-   },
-   "北海道,紋別郡,西興部村" : {
-      "symbols" : [
-         {
-            "name" : "イチイ(オンコ)",
-            "type" : "tree"
-         },
-         {
-            "name" : "エゾムラサキツツジ",
-            "type" : "flower"
-         }
-      ],
-      "timestamp" : 1381072141,
-      "url" : "http://www.vill.nishiokoppe.hokkaido.jp/index.html",
-      "wref" : "西興部村"
-   },
-   "北海道,紋別郡,遠軽町" : {
-      "symbols" : [
-         {
-            "name" : "エゾヤマザクラ",
-            "type" : "tree"
-         },
-         {
-            "name" : "ヒマワリ",
-            "type" : "flower"
-         }
-      ],
-      "timestamp" : 1390718408,
-      "url" : "http://engaru.jp/",
-      "wikipedia_image_desc" : "瞰望岩から望む遠軽市街地",
-      "wikipedia_image_wref" : "Engaru Hokkaido May 2004.jpg",
-      "wref" : "遠軽町"
-   },
-   "北海道,紋別郡,雄武町" : {
-      "symbols" : [
-         {
-            "name" : "トドマツ",
-            "type" : "tree"
-         },
-         {
-            "name" : "ハマナス",
-            "type" : "flower"
-         },
-         {
-            "label" : "町の鳥",
-            "name" : "カッコウ",
-            "type" : "bird"
-         }
-      ],
-      "timestamp" : 1363867378,
-      "url" : "http://www.town.oumu.hokkaido.jp/",
-      "wref" : "雄武町"
-   },
+   "北海道,紗那村" : {},
    "北海道,紗那郡" : {
       "timestamp" : 1378905708,
       "wref" : "紗那郡"
    },
-   "北海道,紗那郡,紗那村" : {},
    "北海道,網走市" : {
+      "subpref" : "オホーツク総合振興局",
       "symbols" : [
          {
             "date" : "1940-03-22",
@@ -6341,7 +6399,7 @@
             "type" : "flower"
          }
       ],
-      "timestamp" : 1391767880,
+      "timestamp" : 1385544462,
       "url" : "http://www.city.abashiri.hokkaido.jp/",
       "wikipedia_image_desc" : "流氷",
       "wikipedia_image_wref" : "ファイル:Ryuhyoh 02.jpg",
@@ -6351,57 +6409,50 @@
       "timestamp" : 1363161698,
       "wref" : "網走郡"
    },
-   "北海道,網走郡,大空町" : {
+   "北海道,置戸町" : {
+      "subpref" : "オホーツク総合振興局",
       "symbols" : [
          {
-            "name" : "ななかまど・しらかば",
-            "type" : "tree"
-         },
-         {
-            "name" : "芝桜・水芭蕉",
-            "type" : "flower"
-         },
-         {
-            "label" : "町のスポーツ",
-            "name" : "バレーボール"
-         }
-      ],
-      "timestamp" : 1381071213,
-      "url" : "http://www.town.ozora.hokkaido.jp",
-      "wikipedia_image_desc" : "女満別空港",
-      "wikipedia_image_wref" : "File:Jex 337j04.JPG",
-      "wref" : "大空町"
-   },
-   "北海道,網走郡,津別町" : {
-      "symbols" : [
-         {
-            "name" : "エゾマツ",
-            "type" : "tree"
-         },
-         {
-            "name" : "スズラン",
-            "type" : "flower"
-         }
-      ],
-      "timestamp" : 1382808955,
-      "wref" : "津別町"
-   },
-   "北海道,網走郡,美幌町" : {
-      "symbols" : [
-         {
-            "name" : "イチイ(オンコ)",
+            "name" : "アカエゾマツ",
             "type" : "tree"
          },
          {
             "name" : "エゾムラサキツツジ",
             "type" : "flower"
+         },
+         {
+            "label" : "町の鳥",
+            "name" : "クマゲラ",
+            "type" : "bird"
          }
       ],
-      "timestamp" : 1389461751,
-      "url" : "http://www.town.bihoro.hokkaido.jp/",
-      "wref" : "美幌町"
+      "timestamp" : 1363857833,
+      "url" : "http://www.town.oketo.hokkaido.jp/",
+      "wref" : "置戸町"
+   },
+   "北海道,羅臼町" : {
+      "subpref" : "根室振興局",
+      "symbols" : [
+         {
+            "name" : "ナナカマド",
+            "type" : "tree"
+         },
+         {
+            "name" : "シバザクラ",
+            "type" : "flower"
+         },
+         {
+            "label" : "町の鳥",
+            "name" : "オジロワシ",
+            "type" : "bird"
+         }
+      ],
+      "timestamp" : 1389350382,
+      "url" : "http://www.rausu-town.jp/",
+      "wref" : "羅臼町"
    },
    "北海道,美唄市" : {
+      "subpref" : "空知総合振興局",
       "symbols" : [
          {
             "date" : "1950-09-02",
@@ -6427,12 +6478,106 @@
       "url" : "http://www.city.bibai.hokkaido.jp/",
       "wref" : "美唄市"
    },
+   "北海道,美幌町" : {
+      "subpref" : "オホーツク総合振興局",
+      "symbols" : [
+         {
+            "name" : "イチイ(オンコ)",
+            "type" : "tree"
+         },
+         {
+            "name" : "エゾムラサキツツジ",
+            "type" : "flower"
+         }
+      ],
+      "timestamp" : 1389461751,
+      "url" : "http://www.town.bihoro.hokkaido.jp/",
+      "wref" : "美幌町"
+   },
+   "北海道,美深町" : {
+      "subpref" : "上川総合振興局",
+      "symbols" : [
+         {
+            "date" : "1948-04-01",
+            "type" : "mark",
+            "wref" : "ファイル:Flag of Bifuka Hokkaido.JPG"
+         },
+         {
+            "name" : "エゾマツ",
+            "type" : "tree"
+         },
+         {
+            "name" : "ツツジ",
+            "type" : "flower"
+         }
+      ],
+      "timestamp" : 1363904188,
+      "url" : "http://www.town.bifuka.hokkaido.jp/",
+      "wref" : "美深町"
+   },
+   "北海道,美瑛町" : {
+      "subpref" : "上川総合振興局",
+      "symbols" : [
+         {
+            "date" : "1963-02-25",
+            "name" : "町旗:1969年(昭和44年)8月11日制定 町章:",
+            "type" : "mark",
+            "wref" : "ファイル:Flag of Biei, Hokkaido.svg"
+         },
+         {
+            "name" : "しらかば",
+            "type" : "tree"
+         },
+         {
+            "name" : "すずらん",
+            "type" : "flower"
+         }
+      ],
+      "timestamp" : 1382949533,
+      "url" : "http://town.biei.hokkaido.jp/",
+      "wikipedia_image_desc" : "冬の美瑛",
+      "wikipedia_image_wref" : "Wiki-kenmerry2.jpg",
+      "wref" : "美瑛町"
+   },
+   "北海道,羽幌町" : {
+      "subpref" : "留萌振興局",
+      "symbols" : [
+         {
+            "name" : "オンコ(イチイ)",
+            "type" : "tree"
+         },
+         {
+            "name" : "ツツジ",
+            "type" : "flower"
+         }
+      ],
+      "timestamp" : 1385704277,
+      "url" : "http://www.town.haboro.hokkaido.jp/",
+      "wref" : "羽幌町"
+   },
+   "北海道,興部町" : {
+      "subpref" : "オホーツク総合振興局",
+      "symbols" : [
+         {
+            "name" : "ナナカマド",
+            "type" : "tree"
+         },
+         {
+            "name" : "ハマナス",
+            "type" : "flower"
+         }
+      ],
+      "timestamp" : 1380410328,
+      "url" : "http://www.town.okoppe.lg.jp/",
+      "wref" : "興部町"
+   },
+   "北海道,色丹村" : {},
    "北海道,色丹郡" : {
       "timestamp" : 1363303441,
       "wref" : "色丹郡"
    },
-   "北海道,色丹郡,色丹村" : {},
    "北海道,芦別市" : {
+      "subpref" : "空知総合振興局",
       "symbols" : [
          {
             "name" : "ミズナラ",
@@ -6452,41 +6597,38 @@
       "url" : "http://www.city.ashibetsu.hokkaido.jp/",
       "wref" : "芦別市"
    },
-   "北海道,苫前郡" : {
-      "timestamp" : 1365211274,
-      "wref" : "苫前郡"
-   },
-   "北海道,苫前郡,初山別村" : {
+   "北海道,芽室町" : {
+      "subpref" : "十勝総合振興局",
       "symbols" : [
          {
-            "name" : "ナナカマド",
+            "name" : "カシワ",
             "type" : "tree"
          },
          {
-            "name" : "ツツジ",
+            "name" : "ミズバショウ",
             "type" : "flower"
-         }
-      ],
-      "timestamp" : 1385795657,
-      "url" : "http://www.hokkai.or.jp/shosanbe/",
-      "wref" : "初山別村"
-   },
-   "北海道,苫前郡,羽幌町" : {
-      "symbols" : [
-         {
-            "name" : "オンコ(イチイ)",
-            "type" : "tree"
          },
          {
-            "name" : "ツツジ",
+            "name" : "エゾムラサキツツジ",
             "type" : "flower"
+         },
+         {
+            "label" : "町の鳥",
+            "name" : "カッコウ",
+            "type" : "bird"
+         },
+         {
+            "date_value" : "07-15",
+            "label" : "開町記念日",
+            "type" : "day"
          }
       ],
-      "timestamp" : 1391169751,
-      "url" : "http://www.town.haboro.hokkaido.jp/",
-      "wref" : "羽幌町"
+      "timestamp" : 1367320458,
+      "url" : "http://www.memuro.net/",
+      "wref" : "芽室町"
    },
-   "北海道,苫前郡,苫前町" : {
+   "北海道,苫前町" : {
+      "subpref" : "留萌振興局",
       "symbols" : [
          {
             "name" : "ナナカマド",
@@ -6501,7 +6643,12 @@
       "url" : "http://www.town.tomamae.lg.jp/",
       "wref" : "苫前町"
    },
+   "北海道,苫前郡" : {
+      "timestamp" : 1365211274,
+      "wref" : "苫前郡"
+   },
    "北海道,苫小牧市" : {
+      "subpref" : "胆振総合振興局",
       "symbols" : [
          {
             "date" : "1949-08-22",
@@ -6545,187 +6692,87 @@
       "timestamp" : 1363317412,
       "wref" : "茅部郡"
    },
-   "北海道,茅部郡,森町" : {
-      "symbols" : [
-         {
-            "name" : "茅部ぐり",
-            "type" : "tree"
-         },
-         {
-            "name" : "さくら",
-            "type" : "flower"
-         },
-         {
-            "label" : "町の鳥",
-            "name" : "カモメ",
-            "type" : "bird"
-         }
-      ],
-      "timestamp" : 1389176985,
-      "url" : "http://www.town.hokkaido-mori.lg.jp/",
-      "wikipedia_image_desc" : "森駅から駒ヶ岳を臨む",
-      "wikipedia_image_wref" : "Mori stn(Hokkaido)&Komagatake.jpg",
-      "wref" : "森町 (北海道)"
-   },
-   "北海道,茅部郡,鹿部町" : {
-      "symbols" : [
-         {
-            "name" : "ナナカマド",
-            "type" : "tree"
-         },
-         {
-            "name" : "ツツジ",
-            "type" : "flower"
-         },
-         {
-            "label" : "他のシンボル",
-            "name" : "なし"
-         }
-      ],
-      "timestamp" : 1385869508,
-      "url" : "http://www.town.shikabe.lg.jp/",
-      "wref" : "鹿部町"
-   },
+   "北海道,蘂取村" : {},
    "北海道,蘂取郡" : {
       "timestamp" : 1378906179,
       "wref" : "蘂取郡"
    },
-   "北海道,蘂取郡,蘂取村" : {},
+   "北海道,蘭越町" : {
+      "subpref" : "後志総合振興局",
+      "symbols" : [
+         {
+            "name" : "コブシ",
+            "type" : "tree"
+         },
+         {
+            "name" : "コブシ",
+            "type" : "flower"
+         }
+      ],
+      "timestamp" : 1380739665,
+      "url" : "http://www.town.rankoshi.hokkaido.jp/",
+      "wref" : "蘭越町"
+   },
    "北海道,虻田郡" : {
       "timestamp" : 1362869852,
       "wref" : "虻田郡"
    },
-   "北海道,虻田郡,ニセコ町" : {
+   "北海道,西興部村" : {
+      "subpref" : "オホーツク総合振興局",
       "symbols" : [
          {
-            "date" : "1968-05-15",
-            "name" : "町旗・町章、共に",
+            "name" : "イチイ(オンコ)",
+            "type" : "tree"
+         },
+         {
+            "name" : "エゾムラサキツツジ",
+            "type" : "flower"
+         }
+      ],
+      "timestamp" : 1381072141,
+      "url" : "http://www.vill.nishiokoppe.hokkaido.jp/index.html",
+      "wref" : "西興部村"
+   },
+   "北海道,訓子府町" : {
+      "subpref" : "オホーツク総合振興局",
+      "symbols" : [
+         {
+            "name" : "オンコ",
+            "type" : "tree"
+         },
+         {
+            "name" : "エゾムラサキツツジ",
+            "type" : "flower"
+         }
+      ],
+      "timestamp" : 1363893274,
+      "url" : "http://www.town.kunneppu.hokkaido.jp/",
+      "wref" : "訓子府町"
+   },
+   "北海道,豊富町" : {
+      "subpref" : "宗谷総合振興局",
+      "symbols" : [
+         {
+            "date" : "1940-10-01",
+            "name" : "町旗:1968年(昭和43年)9月1日制定 町章:",
             "type" : "mark",
-            "wref" : "ファイル:Flag of Niseko, Hokkaido.svg"
+            "wref" : "ファイル:Flag of Toyotomi Hokkaido.JPG"
          },
          {
-            "name" : "シラカバ",
+            "name" : "イチイ(オンコ)",
             "type" : "tree"
          },
          {
-            "name" : "ラベンダー",
-            "type" : "flower"
-         },
-         {
-            "label" : "町の鳥",
-            "name" : "アカゲラ",
-            "type" : "bird"
-         }
-      ],
-      "timestamp" : 1388766811,
-      "url" : "http://www.town.niseko.lg.jp/",
-      "wref" : "ニセコ町"
-   },
-   "北海道,虻田郡,京極町" : {
-      "symbols" : [
-         {
-            "name" : "ひまわり",
-            "type" : "flower"
-         },
-         {
-            "name" : "ミズナラ",
-            "type" : "tree"
-         }
-      ],
-      "timestamp" : 1382430660,
-      "url" : "http://www.town-kyogoku.jp/",
-      "wref" : "京極町"
-   },
-   "北海道,虻田郡,倶知安町" : {
-      "symbols" : [
-         {
-            "name" : "イタヤカエデ",
-            "type" : "tree"
-         },
-         {
-            "name" : "キバナシャクナゲ",
+            "name" : "エゾカンゾウ",
             "type" : "flower"
          }
       ],
-      "timestamp" : 1386499561,
-      "url" : "http://www.town.kutchan.hokkaido.jp/",
-      "wref" : "倶知安町"
+      "timestamp" : 1363874371,
+      "url" : "http://www.town.toyotomi.hokkaido.jp/",
+      "wref" : "豊富町"
    },
-   "北海道,虻田郡,喜茂別町" : {
-      "symbols" : [
-         {
-            "name" : "エゾヤマザクラ",
-            "type" : "tree"
-         },
-         {
-            "name" : "インパチェンス",
-            "type" : "flower"
-         }
-      ],
-      "timestamp" : 1388234251,
-      "url" : "http://www.town.kimobetsu.hokkaido.jp/",
-      "wref" : "喜茂別町"
-   },
-   "北海道,虻田郡,洞爺湖町" : {
-      "symbols" : [
-         {
-            "name" : "さくら",
-            "type" : "tree"
-         },
-         {
-            "name" : "ななかまど",
-            "type" : "tree"
-         },
-         {
-            "name" : "すみれ",
-            "type" : "flower"
-         },
-         {
-            "name" : "つつじ",
-            "type" : "flower"
-         },
-         {
-            "label" : "他のシンボル",
-            "name" : "なし"
-         }
-      ],
-      "timestamp" : 1381549582,
-      "url" : "http://www.town.toyako.hokkaido.jp",
-      "wikipedia_image_desc" : "手前は有珠山の金毘羅山火口。中央のビル群は洞爺湖温泉街。火口近くには放棄された被災建物と洞爺湖町立火山科学館、金比羅山麓災害遺構群散策路。沖合の島は中島。",
-      "wikipedia_image_wref" : "File:Lake touya and volcano usu.jpg",
-      "wref" : "洞爺湖町"
-   },
-   "北海道,虻田郡,留寿都村" : {
-      "symbols" : [
-         {
-            "name" : "アカダモ(ハルニレ)",
-            "type" : "tree"
-         },
-         {
-            "name" : "シラカバ",
-            "type" : "tree"
-         },
-         {
-            "name" : "セタナリア(シバザクラ)",
-            "type" : "flower"
-         }
-      ],
-      "timestamp" : 1390088435,
-      "url" : "http://www.vill.rusutsu.lg.jp/",
-      "wref" : "留寿都村"
-   },
-   "北海道,虻田郡,真狩村" : {
-      "symbols" : [
-         {
-            "name" : "カツラ",
-            "type" : "tree"
-         }
-      ],
-      "timestamp" : 1383558807,
-      "url" : "http://www.makkari.info/",
-      "wref" : "真狩村"
-   },
-   "北海道,虻田郡,豊浦町" : {
+   "北海道,豊浦町" : {
+      "subpref" : "胆振総合振興局",
       "symbols" : [
          {
             "name" : "ウメ",
@@ -6740,7 +6787,47 @@
       "url" : "http://www.town.toyoura.hokkaido.jp/",
       "wref" : "豊浦町"
    },
+   "北海道,豊頃町" : {
+      "subpref" : "十勝総合振興局",
+      "symbols" : [
+         {
+            "name" : "ニレ",
+            "type" : "tree"
+         },
+         {
+            "name" : "エゾムラサキツツジ",
+            "type" : "flower"
+         }
+      ],
+      "timestamp" : 1372713046,
+      "url" : "http://www.toyokoro.jp/",
+      "wikipedia_image_desc" : "ハルニレの木",
+      "wikipedia_image_wref" : "ファイル:The famous Japanese Elm, Toyokoro Town, Hokkaido.jpg",
+      "wref" : "豊頃町"
+   },
+   "北海道,赤井川村" : {
+      "subpref" : "後志総合振興局",
+      "symbols" : [
+         {
+            "date" : "1968-06-10",
+            "type" : "mark",
+            "wref" : "ファイル:Flag of Akaigawa Hokkaido 1.svg"
+         },
+         {
+            "name" : "シラカバ",
+            "type" : "tree"
+         },
+         {
+            "name" : "ムラサキヤシオ",
+            "type" : "flower"
+         }
+      ],
+      "timestamp" : 1388234326,
+      "url" : "http://www.akaigawa.com/",
+      "wref" : "赤井川村"
+   },
    "北海道,赤平市" : {
+      "subpref" : "空知総合振興局",
       "symbols" : [
          {
             "name" : "カエデ",
@@ -6756,15 +6843,12 @@
             "type" : "bird"
          }
       ],
-      "timestamp" : 1391168149,
+      "timestamp" : 1384592773,
       "url" : "http://www.city.akabira.hokkaido.jp/",
       "wref" : "赤平市"
    },
-   "北海道,足寄郡" : {
-      "timestamp" : 1364643697,
-      "wref" : "足寄郡"
-   },
-   "北海道,足寄郡,足寄町" : {
+   "北海道,足寄町" : {
+      "subpref" : "十勝総合振興局",
       "symbols" : [
          {
             "name" : "アカエゾマツ",
@@ -6780,57 +6864,56 @@
             "type" : "bird"
          }
       ],
-      "timestamp" : 1390749670,
+      "timestamp" : 1368696487,
       "url" : "http://www.town.ashoro.hokkaido.jp/index.html",
       "wikipedia_image_desc" : "オンネトー",
       "wikipedia_image_wref" : "File:Onneto and Akan1 DSCN2488 20060805.JPG",
       "wref" : "足寄町"
    },
-   "北海道,足寄郡,陸別町" : {
+   "北海道,足寄郡" : {
+      "timestamp" : 1364643697,
+      "wref" : "足寄郡"
+   },
+   "北海道,遠別町" : {
+      "subpref" : "留萌振興局",
       "symbols" : [
          {
             "name" : "シラカバ",
             "type" : "tree"
          },
          {
-            "name" : "フクジュソウ",
+            "name" : "ツツジ",
             "type" : "flower"
-         },
-         {
-            "label" : "町の鳥",
-            "name" : "カッコウ",
-            "type" : "bird"
          }
       ],
-      "timestamp" : 1389957026,
-      "url" : "http://www.town.rikubetsu.hokkaido.jp/",
-      "wref" : "陸別町"
+      "timestamp" : 1385795833,
+      "url" : "http://www.town.embetsu.hokkaido.jp/",
+      "wref" : "遠別町"
+   },
+   "北海道,遠軽町" : {
+      "subpref" : "オホーツク総合振興局",
+      "symbols" : [
+         {
+            "name" : "エゾヤマザクラ",
+            "type" : "tree"
+         },
+         {
+            "name" : "ヒマワリ",
+            "type" : "flower"
+         }
+      ],
+      "timestamp" : 1385291520,
+      "url" : "http://engaru.jp/",
+      "wikipedia_image_desc" : "瞰望岩から望む遠軽市街地",
+      "wikipedia_image_wref" : "Engaru Hokkaido May 2004.jpg",
+      "wref" : "遠軽町"
    },
    "北海道,野付郡" : {
       "timestamp" : 1364647206,
       "wref" : "野付郡"
    },
-   "北海道,野付郡,別海町" : {
-      "symbols" : [
-         {
-            "name" : "ナラ",
-            "type" : "tree"
-         },
-         {
-            "name" : "センダイハギ",
-            "type" : "flower"
-         },
-         {
-            "label" : "町の鳥",
-            "name" : "ハクチョウ",
-            "type" : "bird"
-         }
-      ],
-      "timestamp" : 1375913675,
-      "url" : "http://betsukai.jp/",
-      "wref" : "別海町"
-   },
    "北海道,釧路市" : {
+      "subpref" : "釧路総合振興局",
       "symbols" : [
          {
             "date" : "1920",
@@ -6852,11 +6935,8 @@
       "wikipedia_image_wref" : "Kushiro montages.JPG",
       "wref" : "釧路市"
    },
-   "北海道,釧路郡" : {
-      "timestamp" : 1364919358,
-      "wref" : "釧路郡"
-   },
-   "北海道,釧路郡,釧路町" : {
+   "北海道,釧路町" : {
+      "subpref" : "釧路総合振興局",
       "symbols" : [
          {
             "name" : "エゾノコリンゴ",
@@ -6876,11 +6956,156 @@
       "url" : "http://www.town.kushiro.hokkaido.jp/",
       "wref" : "釧路町"
    },
+   "北海道,釧路郡" : {
+      "timestamp" : 1364919358,
+      "wref" : "釧路郡"
+   },
+   "北海道,長万部町" : {
+      "subpref" : "渡島総合振興局",
+      "symbols" : [
+         {
+            "name" : "クロマツ",
+            "type" : "tree"
+         },
+         {
+            "name" : "アヤメ",
+            "type" : "flower"
+         }
+      ],
+      "timestamp" : 1385868013,
+      "url" : "http://www.town.oshamambe.lg.jp/",
+      "wikipedia_image_desc" : "内浦湾の夜明け(2002年(平成14年)9月)",
+      "wikipedia_image_wref" : "Uchiura-bay Oshamanbe.jpg",
+      "wref" : "長万部町"
+   },
+   "北海道,長沼町" : {
+      "subpref" : "空知総合振興局",
+      "symbols" : [
+         {
+            "name" : "エゾヤマザクラ",
+            "type" : "tree"
+         },
+         {
+            "name" : "ライラック",
+            "type" : "flower"
+         },
+         {
+            "label" : "町の鳥",
+            "name" : "カッコウ",
+            "type" : "bird"
+         }
+      ],
+      "timestamp" : 1388234383,
+      "url" : "http://www.maoi-net.jp/",
+      "wref" : "長沼町"
+   },
    "北海道,阿寒郡" : {
       "timestamp" : 1365000226,
       "wref" : "阿寒郡"
    },
-   "北海道,阿寒郡,鶴居村" : {
+   "北海道,陸別町" : {
+      "subpref" : "十勝総合振興局",
+      "symbols" : [
+         {
+            "name" : "シラカバ",
+            "type" : "tree"
+         },
+         {
+            "name" : "フクジュソウ",
+            "type" : "flower"
+         },
+         {
+            "label" : "町の鳥",
+            "name" : "カッコウ",
+            "type" : "bird"
+         }
+      ],
+      "timestamp" : 1389957026,
+      "url" : "http://www.town.rikubetsu.hokkaido.jp/",
+      "wref" : "陸別町"
+   },
+   "北海道,雄武町" : {
+      "subpref" : "オホーツク総合振興局",
+      "symbols" : [
+         {
+            "name" : "トドマツ",
+            "type" : "tree"
+         },
+         {
+            "name" : "ハマナス",
+            "type" : "flower"
+         },
+         {
+            "label" : "町の鳥",
+            "name" : "カッコウ",
+            "type" : "bird"
+         }
+      ],
+      "timestamp" : 1363867378,
+      "url" : "http://www.town.oumu.hokkaido.jp/",
+      "wref" : "雄武町"
+   },
+   "北海道,雨竜町" : {
+      "subpref" : "空知総合振興局",
+      "symbols" : [
+         {
+            "name" : "トドマツ",
+            "type" : "tree"
+         },
+         {
+            "name" : "ダリア",
+            "type" : "flower"
+         }
+      ],
+      "timestamp" : 1363876672,
+      "url" : "http://www.town.uryu.hokkaido.jp/",
+      "wikipedia_image_desc" : "雨竜沼湿原",
+      "wikipedia_image_wref" : "ミズバショウ北海道雨竜沼P7020123.JPG",
+      "wref" : "雨竜町"
+   },
+   "北海道,雨竜郡" : {
+      "timestamp" : 1364983830,
+      "wref" : "雨竜郡"
+   },
+   "北海道,音威子府村" : {
+      "subpref" : "上川総合振興局",
+      "symbols" : [
+         {
+            "name" : "アカエゾマツ",
+            "type" : "tree"
+         },
+         {
+            "name" : "シバザクラ",
+            "type" : "flower"
+         },
+         {
+            "label" : "村の鳥",
+            "name" : "ブッポウソウ",
+            "type" : "bird"
+         }
+      ],
+      "timestamp" : 1380680336,
+      "url" : "http://www.vill.otoineppu.hokkaido.jp/",
+      "wref" : "音威子府村"
+   },
+   "北海道,音更町" : {
+      "subpref" : "十勝総合振興局",
+      "symbols" : [
+         {
+            "name" : "白樺",
+            "type" : "tree"
+         },
+         {
+            "name" : "スズラン",
+            "type" : "flower"
+         }
+      ],
+      "timestamp" : 1385555088,
+      "url" : "http://www.town.otofuke.hokkaido.jp/",
+      "wref" : "音更町"
+   },
+   "北海道,鶴居村" : {
+      "subpref" : "釧路総合振興局",
       "symbols" : [
          {
             "name" : "シラカバ",
@@ -6900,112 +7125,74 @@
       "url" : "http://www.vill.tsurui.lg.jp/",
       "wref" : "鶴居村"
    },
-   "北海道,雨竜郡" : {
-      "timestamp" : 1364983830,
-      "wref" : "雨竜郡"
-   },
-   "北海道,雨竜郡,北竜町" : {
-      "symbols" : [
-         {
-            "name" : "イチイ",
-            "type" : "tree"
-         },
-         {
-            "name" : "ひまわり",
-            "type" : "flower"
-         }
-      ],
-      "timestamp" : 1363856448,
-      "url" : "http://www.town.hokuryu.hokkaido.jp/",
-      "wikipedia_image_desc" : "ひまわりの里",
-      "wikipedia_image_wref" : "Hokuryu town Sunflower field.JPG",
-      "wref" : "北竜町"
-   },
-   "北海道,雨竜郡,妹背牛町" : {
+   "北海道,鷹栖町" : {
+      "subpref" : "上川総合振興局",
       "symbols" : [
          {
             "name" : "ななかまど",
             "type" : "tree"
          },
          {
-            "name" : "つつじ",
+            "name" : "マリーゴールド",
             "type" : "flower"
          }
       ],
-      "timestamp" : 1375923052,
-      "url" : "http://www.town.moseushi.hokkaido.jp/",
-      "wref" : "妹背牛町"
+      "timestamp" : 1383009676,
+      "url" : "http://town.takasu.hokkaido.jp/",
+      "wref" : "鷹栖町"
    },
-   "北海道,雨竜郡,幌加内町" : {
+   "北海道,鹿追町" : {
+      "subpref" : "十勝総合振興局",
+      "symbols" : [
+         {
+            "name" : "モミジ",
+            "type" : "tree"
+         },
+         {
+            "name" : "シャクナゲ",
+            "type" : "flower"
+         },
+         {
+            "label" : "町の鳥",
+            "name" : "カッコウ",
+            "type" : "bird"
+         }
+      ],
+      "timestamp" : 1363852679,
+      "url" : "http://www.town.shikaoi.hokkaido.jp/",
+      "wref" : "鹿追町"
+   },
+   "北海道,鹿部町" : {
+      "subpref" : "渡島総合振興局",
       "symbols" : [
          {
             "name" : "ナナカマド",
             "type" : "tree"
          },
          {
-            "name" : "カタクリ",
-            "type" : "flower"
-         },
-         {
-            "label" : "町の鳥",
-            "name" : "アカゲラ",
-            "type" : "bird"
-         }
-      ],
-      "timestamp" : 1389112773,
-      "url" : "http://www.town.horokanai.hokkaido.jp/index.html",
-      "wref" : "幌加内町"
-   },
-   "北海道,雨竜郡,沼田町" : {
-      "symbols" : [
-         {
-            "name" : "イチイ",
-            "type" : "tree"
-         },
-         {
             "name" : "ツツジ",
             "type" : "flower"
+         },
+         {
+            "label" : "他のシンボル",
+            "name" : "なし"
          }
       ],
-      "timestamp" : 1367285571,
-      "url" : "http://www.town.numata.hokkaido.jp/",
-      "wref" : "沼田町"
+      "timestamp" : 1385869508,
+      "url" : "http://www.town.shikabe.lg.jp/",
+      "wref" : "鹿部町"
    },
-   "北海道,雨竜郡,秩父別町" : {
+   "北海道,黒松内町" : {
+      "subpref" : "後志総合振興局",
       "symbols" : [
          {
-            "name" : "桜",
+            "name" : "ブナ",
             "type" : "tree"
-         },
-         {
-            "name" : "バラ",
-            "type" : "flower"
-         },
-         {
-            "label" : "町の花木",
-            "name" : "つつじ"
          }
       ],
-      "timestamp" : 1363878991,
-      "url" : "http://www.town.chippubetsu.hokkaido.jp/",
-      "wref" : "秩父別町"
-   },
-   "北海道,雨竜郡,雨竜町" : {
-      "symbols" : [
-         {
-            "name" : "トドマツ",
-            "type" : "tree"
-         },
-         {
-            "name" : "ダリア",
-            "type" : "flower"
-         }
-      ],
-      "timestamp" : 1391092533,
-      "url" : "http://www.town.uryu.hokkaido.jp/",
-      "wikipedia_image_desc" : "雨竜沼湿原",
-      "wikipedia_image_wref" : "ミズバショウ北海道雨竜沼P7020123.JPG",
-      "wref" : "雨竜町"
+      "timestamp" : 1383558619,
+      "url" : "http://www.kuromatsunai.com/",
+      "wref" : "黒松内町"
    },
    "千葉県" : {
       "symbols" : [
@@ -32151,6 +32338,26 @@
       "timestamp" : 1390052899,
       "url" : "http://www.town.kasuya.fukuoka.jp/",
       "wref" : "粕屋町"
+   },
+   "福岡県,糟屋郡,須恵町" : {
+      "symbols" : [
+         {
+            "name" : "ヤマモモ",
+            "type" : "tree"
+         },
+         {
+            "name" : "ツツジ",
+            "type" : "flower"
+         },
+         {
+            "label" : "町の鳥",
+            "name" : "ウグイス",
+            "type" : "bird"
+         }
+      ],
+      "timestamp" : 1374491761,
+      "url" : "http://www.town.sue.fukuoka.jp/",
+      "wref" : "須恵町"
    },
    "福岡県,糟屋郡,須惠町" : {},
    "福岡県,糸島市" : {

@@ -108,6 +108,10 @@ my $Defs = {
     name => 'symbol_label',
     type => 'text',
   },
+  支庁 => {
+    name => 'subpref',
+    type => 'text',
+  },
 };
 
 my @target = map { [split /,/, decode 'utf-8', $_ ] } @ARGV;
@@ -292,6 +296,7 @@ for my $target (@target) {
   push @wref, $target->[-1];
   my $target_wref = shift @wref;
   my $ims = $Data->{$target_key}->{timestamp}; # or undef
+  $ims = 0 if $ENV{FORCE_UPDATE};
   _get $target_key, $target_wref, \@wref, $ims, $cv;
 }
 $cv->end;

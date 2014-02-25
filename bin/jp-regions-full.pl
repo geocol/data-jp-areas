@@ -31,6 +31,9 @@ sub copy ($$) {
         copy $json->{"$pref,$city,$town"} => $Data->{$pref}->{areas}->{$city}->{areas}->{$town};
       }
     }
+    for my $city (keys %{$Data->{$pref}->{districts} or {}}) {
+      copy $json->{"$pref,$city"} => $Data->{$pref}->{districts}->{$city};
+    }
   }
 }
 
