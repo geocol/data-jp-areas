@@ -84,7 +84,7 @@ local/japanpost-jp-regions.json: local/ken_all.csv local/ken_all_rome.csv \
 	$(PERL) bin/japanpost-jp-regions.pl > $@
 
 local/jp-regions.json: local/japanpost-jp-regions.json bin/jp-regions.pl \
-    local/soumu-jp-regions.pl
+    local/soumu-jp-regions.json
 	$(PERL) bin/jp-regions.pl > $@
 
 data/jp-regions.json: local/jp-regions.json local/hokkaidou-subprefs.json \
