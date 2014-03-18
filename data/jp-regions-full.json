@@ -6035,6 +6035,12 @@
             "subpref_name" : "上川総合振興局",
             "symbols" : [
                {
+                  "date" : "1963-10-11",
+                  "name" : "村旗・村章、共に",
+                  "type" : "mark",
+                  "wref" : "ファイル:Flag of Shimukappu Hokkaido.svg"
+               },
+               {
                   "name" : "カエデ",
                   "type" : "tree"
                },
@@ -6834,8 +6840,8 @@
             "type" : "city",
             "url" : "http://www.city.otaru.lg.jp/index.htm",
             "wikipedia_image" : {
-               "desc" : "左上:冬の小樽運河 右上3枚:上から日本銀行旧小樽支店金融資料館、小樽ガラス細工、手宮線跡\n下:天狗山から望む小樽市街地と石狩湾",
-               "wref" : "Otaru Montage.jpg"
+               "desc" : "天狗山から望む小樽市街地と石狩湾",
+               "wref" : "Otaru from Tenguyama.JPG"
             },
             "wref" : "小樽市"
          },
@@ -10331,7 +10337,7 @@
                }
             ],
             "type" : "town",
-            "url" : "http://www.town.kushiro.hokkaido.jp/",
+            "url" : "http://www.town.kushiro.lg.jp/",
             "wref" : "釧路町"
          },
          "長万部町" : {
@@ -13178,7 +13184,7 @@
                }
             ],
             "type" : "city",
-            "url" : "http://www.city.narashino.chiba.jp/",
+            "url" : "http://www.city.narashino.lg.jp/",
             "wikipedia_image" : {
                "desc" : "谷津干潟南側",
                "wref" : "Yatsu-Higata.jpg"
@@ -15877,9 +15883,10 @@
             },
             "symbols" : [
                {
-                  "name" : "吉川市旗",
+                  "date" : "1955-03-01",
+                  "name" : "市旗・市章、共に",
                   "type" : "mark",
-                  "wref" : "ファイル:Flag of Yoshikawa Saitama.JPG"
+                  "wref" : "ファイル:Flag of Yoshikawa Saitama 2.svg"
                },
                {
                   "name" : "モクセイ",
@@ -17874,7 +17881,7 @@
                   "type" : "tree"
                },
                {
-                  "name" : "ウメ",
+                  "name" : "エビネ",
                   "type" : "flower"
                }
             ],
@@ -19778,8 +19785,9 @@
             },
             "symbols" : [
                {
+                  "date" : "1954-08-01",
                   "type" : "mark",
-                  "wref" : "ファイル:Flag of Kawachinagano, Osaka.png"
+                  "wref" : "ファイル:Flag of Kawachinagano, Osaka.svg"
                },
                {
                   "name" : "クスノキ",
@@ -20445,8 +20453,8 @@
       "type" : "pref",
       "url" : "http://www.pref.osaka.jp/",
       "wikipedia_image" : {
-         "desc" : "生駒山地を背景に大坂城と大阪ビジネスパーク",
-         "wref" : "ファイル:Osaka Castle Park 20071230.jpg"
+         "desc" : "大坂城と大阪ビジネスパーク",
+         "wref" : "ファイル:Osaka Castle 03bs3200.jpg"
       },
       "wref" : "大阪府"
    },
@@ -25631,8 +25639,10 @@
             },
             "symbols" : [
                {
+                  "date" : "1958-06-20",
+                  "name" : "市旗:2009年(平成21年)4月1日制定 市章:",
                   "type" : "mark",
-                  "wref" : "ファイル:Obanazawa Yamagata chapter.JPG"
+                  "wref" : "ファイル:Flag of Obanazawa Yamagata.svg"
                },
                {
                   "name" : "ケヤキ(ツキを含む)",
@@ -33339,8 +33349,8 @@
             "type" : "city",
             "url" : "http://www.city.komatsushima.tokushima.jp/",
             "wikipedia_image" : {
-               "desc" : "左上:日峰山 右上:金長神社\n中:神田瀬川\n下:小松島ステーションパーク金長たぬき金長たぬき希望の滝",
-               "wref" : "Komatsushima Montarge.JPG"
+               "desc" : "日峰神社より望む小松島市街",
+               "wref" : "Komatsushima city view.jpg"
             },
             "wref" : "小松島市"
          },
@@ -35415,7 +35425,7 @@
             "type" : "city",
             "url" : "http://www.city.nagoya.jp/",
             "wikipedia_image" : {
-               "desc" : null,
+               "desc" : "左上から: 名古屋港、東山動物園、名古屋市中心部、名古屋城、テレビ塔",
                "wref" : "ファイル:Japan Nagoya.png"
             },
             "wref" : "名古屋市"
@@ -36280,7 +36290,7 @@
                      }
                   ],
                   "type" : "town",
-                  "url" : "http://www.town.mihama.aichi.jp/",
+                  "url" : "http://www.town.aichi-mihama.lg.jp/",
                   "wref" : "美浜町 (愛知県)"
                },
                "阿久比町" : {
@@ -38345,7 +38355,7 @@
                {
                   "name" : "北区章",
                   "type" : "mark",
-                  "wref" : "File:東京都北区区章.svg"
+                  "wref" : "ファイル:東京都北区区章.svg"
                },
                {
                   "date" : "1972-12-25",
@@ -38625,7 +38635,7 @@
                {
                   "date" : "1957",
                   "type" : "mark",
-                  "wref" : "ファイル:Flag of Oshima, Tokyo.png"
+                  "wref" : "ファイル:Flag of Oshima, Tokyo.svg"
                },
                {
                   "name" : "つばき",
@@ -38733,7 +38743,7 @@
                {
                   "name" : "小笠原村旗",
                   "type" : "mark",
-                  "wref" : "ファイル:Flag of Ogasawara, Tokyo.png"
+                  "wref" : "ファイル:Flag of Ogasawara, Tokyo.svg"
                },
                {
                   "name" : "タコノキ",
@@ -38947,10 +38957,9 @@
             },
             "symbols" : [
                {
-                  "date" : "1963",
-                  "name" : "日野市章",
+                  "date" : "1963-11-03",
                   "type" : "mark",
-                  "wref" : "ファイル:日野市章.svg"
+                  "wref" : "ファイル:Flag of Hino Tokyo.JPG"
                },
                {
                   "name" : "カシ",
@@ -39555,7 +39564,7 @@
                   "date" : "1977-10-01",
                   "name" : "目黒区紋章",
                   "type" : "mark",
-                  "wref" : "ファイル:Flag of Meguro, Tokyo.png"
+                  "wref" : "ファイル:Flag of Meguro, Tokyo.svg"
                },
                {
                   "name" : "シイ",
@@ -40185,7 +40194,7 @@
             "type" : "village",
             "url" : "http://www.vill.aogashima.tokyo.jp/",
             "wikipedia_image" : {
-               "desc" : "左上:青ヶ島 右上:三宝港\n中左:丸山\n中右:青ヶ島の街並み\u003Cbr/ > 左下:青ヶ島ヘリポート\n左右:三宝港を出る還住丸",
+               "desc" : "左上:青ヶ島 右上:三宝港\n中左:丸山\n中右:青ヶ島の街並み\u003Cbr/ > 左下:青ヶ島ヘリポート\n右下:三宝港を出る還住丸",
                "wref" : "Aogashima montage.JPG"
             },
             "wref" : "青ヶ島村"
@@ -40550,6 +40559,12 @@
                      ]
                   },
                   "symbols" : [
+                     {
+                        "date" : "1959-12-25",
+                        "name" : "町旗・町章、共に",
+                        "type" : "mark",
+                        "wref" : "ファイル:Flag of Takanezawa Tochigi 2.svg"
+                     },
                      {
                         "name" : "イチョウ",
                         "type" : "tree"
@@ -43871,7 +43886,8 @@
             },
             "symbols" : [
                {
-                  "name" : "天草市旗",
+                  "date" : "2006-03-27",
+                  "name" : "市旗・市章、共に",
                   "type" : "mark",
                   "wref" : "ファイル:Flag of Amakusa, Kumamoto.svg"
                },
@@ -48240,7 +48256,6 @@
                }
             ],
             "type" : "city",
-            "url" : "http://www.city.tsuruga.lg.jp",
             "wikipedia_image" : {
                "desc" : "気比松原",
                "wref" : "Kehi matsubara02s3200.jpg"
@@ -51285,7 +51300,7 @@
                      {
                         "date" : "1962-07-01",
                         "type" : "mark",
-                        "wref" : "ファイル:Flag of Namie Fukushima.JPG"
+                        "wref" : "ファイル:Flag of Namie, Fukushima.svg"
                      },
                      {
                         "name" : "松",
@@ -52441,6 +52456,12 @@
                      ]
                   },
                   "symbols" : [
+                     {
+                        "date" : "1954-09-20",
+                        "name" : "町旗:1973年(昭和48年)11月1日制定 町章:",
+                        "type" : "mark",
+                        "wref" : "ファイル:Flag of Nishiaizu Fukushima 2.svg"
+                     },
                      {
                         "name" : "桐",
                         "type" : "tree"
@@ -56540,9 +56561,10 @@
                   },
                   "symbols" : [
                      {
-                        "name" : "東海村旗",
+                        "date" : "1963-04-01",
+                        "name" : "村旗:1995年(平成7年)2月28日 村章:",
                         "type" : "mark",
-                        "wref" : "ファイル:Tokai Ibaraki chapter.JPG"
+                        "wref" : "ファイル:Flag of Tokai Ibaraki 2.svg"
                      },
                      {
                         "name" : "黒松",
@@ -57076,6 +57098,7 @@
                   "129.28751800"
                ]
             },
+            "subpref_name" : "対馬振興局",
             "symbols" : [
                {
                   "date" : "2004-03-01",
@@ -57489,6 +57512,13 @@
             "32.74506",
             "129.8741"
          ]
+      },
+      "subprefs" : {
+         "対馬振興局" : {
+            "area_names" : {
+               "対馬市" : 1
+            }
+         }
       },
       "symbols" : [
          {
@@ -58874,7 +58904,7 @@
                }
             ],
             "type" : "city",
-            "url" : "http://www.city.chikuma.nagano.jp/",
+            "url" : "http://www.city.chikuma.lg.jp/",
             "wikipedia_image" : {
                "desc" : "戸倉上山田温泉",
                "wref" : "ファイル:Togura-Kamiyamada Onsen survey.jpg"
@@ -59632,7 +59662,7 @@
                      }
                   ],
                   "type" : "village",
-                  "url" : "http://www.village.ikusaka.nagano.jp/",
+                  "url" : "http://www.village.ikusaka.nagano.jp/index.html",
                   "wref" : "生坂村"
                },
                "筑北村" : {
@@ -60009,6 +60039,7 @@
             },
             "symbols" : [
                {
+                  "date" : "1957-10-03",
                   "type" : "mark",
                   "wref" : "ファイル:Flag of Iida, Nagano.svg"
                },
@@ -60992,6 +61023,12 @@
                      ]
                   },
                   "symbols" : [
+                     {
+                        "date" : "1956-08-08",
+                        "name" : "町旗:1997年(平成9年)6月27日制定 町章:",
+                        "type" : "mark",
+                        "wref" : "ファイル:Flag of Tsuruta Aomori.svg"
+                     },
                      {
                         "name" : "クロマツ",
                         "type" : "tree"
