@@ -629,6 +629,7 @@
             },
             "symbols" : [
                {
+                  "date" : "1954-08-04",
                   "type" : "mark",
                   "wref" : "ファイル:Flag of Owase, Mie.svg"
                },
@@ -5813,7 +5814,7 @@
                {
                   "date" : "2006-02-01",
                   "type" : "mark",
-                  "wref" : "ファイル:Flag of Hokuto Hokkaido.svg"
+                  "wref" : "File:Symbol of Hokuto Hokkaido.svg北斗市章"
                },
                {
                   "name" : "くろまつ",
@@ -8852,7 +8853,14 @@
                ]
             },
             "subpref_name" : "オホーツク総合振興局",
-            "symbols" : [],
+            "symbols" : [
+               {
+                  "date" : "2009-10-05",
+                  "name" : "湧別町章は",
+                  "type" : "mark",
+                  "wref" : "ファイル:Yubetsu Hokkaido chapter.JPG"
+               }
+            ],
             "type" : "town",
             "url" : "http://www.town.yubetsu.lg.jp/",
             "wref" : "湧別町"
@@ -12484,8 +12492,8 @@
             "type" : "city",
             "url" : "http://www.city.futtsu.lg.jp/",
             "wikipedia_image" : {
-               "desc" : "マザー牧場",
-               "wref" : "ファイル:Mother-Bokujo7197.jpg"
+               "desc" : "富津岬展望台",
+               "wref" : "ファイル:Futtu misaki tenboudai.jpg"
             },
             "wref" : "富津市"
          },
@@ -12503,8 +12511,9 @@
             "symbols" : [
                {
                   "date" : "1969-04-01",
+                  "name" : "市旗:2011年(平成23年)9月14日制定 市章:",
                   "type" : "mark",
-                  "wref" : "ファイル:Flag of Tomisato Chiba.JPG"
+                  "wref" : "File:Flag of Tomisato Chiba.svg"
                },
                {
                   "name" : "ヤマザクラ",
@@ -17715,7 +17724,7 @@
                }
             ],
             "type" : "city",
-            "url" : "http://web.city.kunisaki.oita.jp/",
+            "url" : "http://www.city.kunisaki.oita.jp/",
             "wref" : "国東市"
          },
          "大分市" : {
@@ -18829,8 +18838,8 @@
                   "type" : "ward",
                   "url" : "http://www.city.osaka.lg.jp/kita/",
                   "wikipedia_image" : {
-                     "desc" : "梅田スカイビル",
-                     "wref" : "Umeda-skybuilding-day.jpg"
+                     "desc" : "上から順に:梅田スカイビル、天神祭、梅田・中之島の超高層ビル群、大阪市中央公会堂、大阪天満宮",
+                     "wref" : "File:Osaka Kita-ku montage 2014.jpg"
                   },
                   "wref" : "北区 (大阪市)"
                },
@@ -24653,9 +24662,17 @@
             "symbols" : [
                {
                   "date" : "2006-03-31",
-                  "name" : "黒部市旗",
+                  "name" : "市旗・市章、共に",
                   "type" : "mark",
                   "wref" : "ファイル:Flag of Kurobe, Toyama.svg"
+               },
+               {
+                  "name" : "ツガ・クルミ",
+                  "type" : "tree"
+               },
+               {
+                  "name" : "サクラ・ツバキ",
+                  "type" : "flower"
                }
             ],
             "type" : "city",
@@ -29918,7 +29935,7 @@
                      }
                   ],
                   "type" : "village",
-                  "url" : "http://www.vill.nishiawakura.okayama.jp/",
+                  "url" : "http://ns.vill.nishiawakura.okayama.jp/",
                   "wref" : "西粟倉村"
                }
             },
@@ -33403,7 +33420,7 @@
                   },
                   "symbols" : [
                      {
-                        "date" : "1972",
+                        "date" : "1972-01-01",
                         "type" : "mark",
                         "wref" : "ファイル:Flag of Kamiita Tokushima.JPG"
                      },
@@ -39616,7 +39633,7 @@
                   "date" : "1960-10-01",
                   "name" : "福生町の町章として",
                   "type" : "mark",
-                  "wref" : "ファイル:Emblem of Fussa.gif"
+                  "wref" : "ファイル:Symbol of Fussa Tokyo.svg"
                },
                {
                   "name" : "モクセイ",
@@ -41351,7 +41368,6 @@
                      }
                   ],
                   "type" : "village",
-                  "url" : "http://www.vill.nakagusuku.okinawa.jp/",
                   "wref" : "中城村"
                },
                "北中城村" : {
@@ -41642,6 +41658,7 @@
                }
             ],
             "type" : "city",
+            "url" : "http://www.city.nanjo.okinawa.jp/",
             "wikipedia_image" : {
                "desc" : "左上・中左:斎場御嶽 右上:久高島\n中右:玉城城跡\n左下:玉泉洞\n右下:ニライカナイ橋",
                "wref" : "Nanjo Montage.JPG"
@@ -41742,7 +41759,6 @@
                      }
                   ],
                   "type" : "village",
-                  "url" : "http://www.nakijin.jp/",
                   "wref" : "今帰仁村"
                },
                "伊江村" : {
@@ -42049,7 +42065,8 @@
             },
             "symbols" : [
                {
-                  "name" : "宮古島市旗",
+                  "date" : "2005-10-01",
+                  "name" : "市旗・市章、共に",
                   "type" : "mark",
                   "wref" : "ファイル:Flag of Miyakojima, Okinawa.svg"
                },
@@ -44138,9 +44155,10 @@
             },
             "symbols" : [
                {
+                  "date" : "1969-08-01",
                   "name" : "熊本市章",
                   "type" : "mark",
-                  "wref" : "ファイル:Kumamoto Kumamoto chapter.JPG"
+                  "wref" : "ファイル:Symbol of Kumamoto Kumamoto.svg"
                },
                {
                   "date" : "1974-10-09",
@@ -52658,9 +52676,10 @@
             },
             "symbols" : [
                {
-                  "name" : "須賀川市章",
+                  "date" : "1954-06-10",
+                  "name" : "1989年(平成元年)12月22日制定",
                   "type" : "mark",
-                  "wref" : "File:Flag of Sukagawa, Fukushima.svg"
+                  "wref" : "ファイル:Flag of Sukagawa, Fukushima.svg"
                },
                {
                   "name" : "ぼたん",
@@ -56811,7 +56830,8 @@
             },
             "symbols" : [
                {
-                  "name" : "五島市旗",
+                  "date" : "2004-08-01",
+                  "name" : "市旗・市章、共に",
                   "type" : "mark",
                   "wref" : "ファイル:Flag of Goto, Nagasaki.svg"
                },
@@ -57029,6 +57049,7 @@
             },
             "symbols" : [
                {
+                  "date" : "2004-03-01",
                   "type" : "mark",
                   "wref" : "ファイル:Flag of Iki, Nagasaki.svg"
                },
@@ -58594,6 +58615,7 @@
                }
             ],
             "type" : "city",
+            "url" : "http://www.inacity.jp/",
             "wikipedia_image" : {
                "desc" : "高遠城址公園の桜",
                "wref" : "File:TakatoCastle(高遠城).JPG"
