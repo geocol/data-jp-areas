@@ -719,10 +719,16 @@
                   },
                   "symbols" : [
                      {
+                        "type" : "mark",
+                        "wref" : "ファイル:Flag of Watarai Mie.JPG"
+                     },
+                     {
+                        "date" : "1979-05-18",
                         "name" : "ヒノキ",
                         "type" : "tree"
                      },
                      {
+                        "date" : "2011-04-01",
                         "name" : "リンドウ",
                         "type" : "flower"
                      }
@@ -784,7 +790,7 @@
             },
             "symbols" : [
                {
-                  "name" : "志摩市旗",
+                  "date" : "2005-02-10",
                   "type" : "mark",
                   "wref" : "ファイル:Flag of Shima, Mie.svg"
                },
@@ -1119,8 +1125,8 @@
       "type" : "pref",
       "url" : "http://www.pref.mie.jp/",
       "wikipedia_image" : {
-         "desc" : "伊勢神宮内宮の参道口である宇治橋",
-         "wref" : "ファイル:宇治橋02.jpg"
+         "desc" : "津城",
+         "wref" : "ファイル:140405_Tsu_Castle_Tsu_MIe_pref_Japan01s.jpg"
       },
       "wref" : "三重県"
    },
@@ -2498,6 +2504,7 @@
             "symbols" : [
                {
                   "date" : "2006-03-03",
+                  "name" : "市旗・市章、共に",
                   "type" : "mark",
                   "wref" : "ファイル:Flag of Ogi, Saga.svg"
                },
@@ -3352,7 +3359,7 @@
             "type" : "city",
             "url" : "http://www.city.minamiawaji.hyogo.jp/",
             "wikipedia_image" : {
-               "desc" : "1段目左:諭鶴羽山 1段目右:沼島\n2段目:福良港\n3段目左:道の駅うずしお\n3段目右:大和大国魂神社",
+               "desc" : "上段左:諭鶴羽山 上段右:沼島\n中段:福良港\n下段左:道の駅うずしお\n下段右:大和大国魂神社",
                "wref" : "Minamiawaji montage.JPG"
             },
             "wref" : "南あわじ市"
@@ -4962,6 +4969,7 @@
                }
             ],
             "type" : "town",
+            "url" : "http://www.town.kaminokuni.lg.jp/",
             "wref" : "上ノ国町"
          },
          "上士幌町" : {
@@ -5624,7 +5632,7 @@
                }
             ],
             "type" : "village",
-            "url" : "http://www.hokkai.or.jp/shosanbe/",
+            "url" : "http://www.vill.shosanbetsu.lg.jp/",
             "wref" : "初山別村"
          },
          "別海町" : {
@@ -6186,6 +6194,7 @@
             "symbols" : [
                {
                   "date" : "2006-03-27",
+                  "name" : "市旗・市章、共に",
                   "type" : "mark",
                   "wref" : "ファイル:Flag of Nayoro, Hokkaido.svg"
                },
@@ -7851,6 +7860,7 @@
                      }
                   ],
                   "type" : "ward",
+                  "url" : "http://www.city.sapporo.jp/higashi/",
                   "wref" : "東区 (札幌市)"
                },
                "清田区" : {
@@ -8859,6 +8869,14 @@
                   "name" : "湧別町章は",
                   "type" : "mark",
                   "wref" : "ファイル:Yubetsu Hokkaido chapter.JPG"
+               },
+               {
+                  "name" : "オンコ",
+                  "type" : "tree"
+               },
+               {
+                  "name" : "チューリップ",
+                  "type" : "flower"
                }
             ],
             "type" : "town",
@@ -12476,7 +12494,8 @@
             },
             "symbols" : [
                {
-                  "date" : "1971",
+                  "date" : "1971-10-01",
+                  "name" : "市旗・市章、共に",
                   "type" : "mark",
                   "wref" : "ファイル:Flag of Futtsu Chiba.JPG"
                },
@@ -16965,8 +16984,8 @@
             "type" : "city",
             "url" : "http://www.city.shiraoka.lg.jp/",
             "wikipedia_image" : {
-               "desc" : "梨の花(下大崎地区)",
-               "wref" : "ファイル:Shiraoka Blossom Of Pears 1.JPG"
+               "desc" : "日本三岡八幡宮の一つ、白岡八幡宮",
+               "wref" : "File:Shiraoka-hachimangu.jpg"
             },
             "wref" : "白岡市"
          },
@@ -17743,7 +17762,7 @@
                   "date" : "1965-06-11",
                   "name" : "大分市章",
                   "type" : "mark",
-                  "wref" : "ファイル:Oita Oita chapter.svg"
+                  "wref" : "ファイル:Symbol of Oita Oita.svg"
                },
                {
                   "name" : "ホルトノキ",
@@ -22590,6 +22609,7 @@
                      }
                   ],
                   "type" : "town",
+                  "url" : "http://www.town.ogawara.miyagi.jp/",
                   "wref" : "大河原町"
                },
                "川崎町" : {
@@ -22707,6 +22727,7 @@
                      }
                   ],
                   "type" : "town",
+                  "url" : "http://www.town.shibata.miyagi.jp/",
                   "wref" : "柴田町"
                }
             },
@@ -23728,7 +23749,6 @@
                      }
                   ],
                   "type" : "village",
-                  "url" : "http://www.vill.shiiba.miyazaki.jp/",
                   "wref" : "椎葉村"
                },
                "美郷町" : {
@@ -25694,7 +25714,7 @@
                   "date" : "1954-10-01",
                   "name" : "山形市章",
                   "type" : "mark",
-                  "wref" : "ファイル:Yamagata Yamagata chapter.svg"
+                  "wref" : "ファイル:Symbol of Yamagata Yamagata.svg"
                },
                {
                   "name" : "ナナカマド",
@@ -25987,7 +26007,7 @@
             "symbols" : [
                {
                   "type" : "mark",
-                  "wref" : "File:Murayama Yamagata chapter.svg"
+                  "wref" : "File:Symbol of Murayama Yamagata.svg"
                },
                {
                   "name" : "アカマツ",
@@ -28343,7 +28363,7 @@
                {
                   "name" : "岐阜市章",
                   "type" : "mark",
-                  "wref" : "ファイル:Gifu Gifu chapter.svg"
+                  "wref" : "ファイル:Symbol of Gifu Gifu.svg"
                },
                {
                   "name" : "つぶらじい",
@@ -31656,17 +31676,9 @@
             },
             "symbols" : [
                {
+                  "date" : "2006-02-23",
                   "type" : "mark",
                   "wref" : "ファイル:Flag of Hamada, Shimane.svg"
-               },
-               {
-                  "date" : "0021-10-01",
-                  "name" : "さくら(平成",
-                  "type" : "tree"
-               },
-               {
-                  "name" : "以前は松",
-                  "type" : "tree"
                },
                {
                   "date" : "0021-10-01",
@@ -32814,8 +32826,9 @@
             "symbols" : [
                {
                   "date" : "2004-11-01",
+                  "name" : "市旗・市章、共に",
                   "type" : "mark",
-                  "wref" : "ファイル:Etajima Hiroshima chapter.JPG"
+                  "wref" : "ファイル:Flag of Etajima Hiroshima.JPG"
                }
             ],
             "type" : "city",
@@ -33386,7 +33399,7 @@
                {
                   "name" : "徳島市章",
                   "type" : "mark",
-                  "wref" : "ファイル:Tokushima Tokushima chapter.svg"
+                  "wref" : "ファイル:Symbol of Tokushima Tokushima.svg"
                },
                {
                   "name" : "ホルトノキ",
@@ -33434,6 +33447,11 @@
                      }
                   ],
                   "type" : "town",
+                  "url" : "http://www.townkamiita.jp/",
+                  "wikipedia_image" : {
+                     "desc" : "安楽寺",
+                     "wref" : "ファイル:Onsenzan Anrakuji 01.JPG"
+                  },
                   "wref" : "上板町"
                },
                "北島町" : {
@@ -33524,10 +33542,6 @@
                   ],
                   "type" : "town",
                   "url" : "http://www.town.itano.tokushima.jp/",
-                  "wikipedia_image" : {
-                     "desc" : "左上:あすたむらんど徳島 右上:大日寺\n中左:金泉寺\n中右:地蔵寺\n左下:徳島県立埋蔵文化財総合センター\n右下:徳島工業短期大学",
-                     "wref" : "Itano Tokushima montage.JPG"
-                  },
                   "wref" : "板野町"
                },
                "藍住町" : {
@@ -33950,6 +33964,10 @@
          {
             "name" : "徳島県民の歌",
             "type" : "song"
+         },
+         {
+            "label" : "マスコットキャラクター",
+            "name" : "すだちくん"
          }
       ],
       "type" : "pref",
@@ -34524,6 +34542,11 @@
                   },
                   "symbols" : [
                      {
+                        "date" : "2005-11-07",
+                        "type" : "mark",
+                        "wref" : "ファイル:Flag of Ikata Ehime.JPG"
+                     },
+                     {
                         "name" : "うばめがし",
                         "type" : "tree"
                      },
@@ -34539,6 +34562,10 @@
                   ],
                   "type" : "town",
                   "url" : "http://www.town.ikata.ehime.jp/",
+                  "wikipedia_image" : {
+                     "desc" : "佐田岬",
+                     "wref" : "佐田岬.jpg"
+                  },
                   "wref" : "伊方町"
                }
             },
@@ -36608,6 +36635,8 @@
             },
             "symbols" : [
                {
+                  "date" : "1909-06-06",
+                  "name" : "1963年(明治38年)7月1日制定",
                   "type" : "mark",
                   "wref" : "ファイル:Flag of Toyohashi, Aichi.svg"
                },
@@ -37909,9 +37938,9 @@
             "symbols" : [
                {
                   "date" : "1977-09-21",
-                  "name" : "市旗:1977年(昭和52年)10月11日制定 市章:",
+                  "name" : "長岡市章:",
                   "type" : "mark",
-                  "wref" : "ファイル:Flag of Nagaoka, Niigata.svg"
+                  "wref" : "ファイル:Emblem of Nagaoka Niigata chapter.svg"
                },
                {
                   "name" : "ケヤキ",
@@ -38859,6 +38888,7 @@
                }
             ],
             "type" : "city",
+            "url" : "http://www.city.fuchu.tokyo.jp/",
             "wikipedia_image" : {
                "desc" : "大國魂神社",
                "wref" : "ファイル:Ookunitamajinnja haiden.jpg"
@@ -39650,6 +39680,7 @@
                }
             ],
             "type" : "city",
+            "url" : "http://www.city.fussa.tokyo.jp/",
             "wikipedia_image" : {
                "desc" : "米軍横田基地",
                "wref" : "ファイル:YokotaAirBaseGate2.jpg"
@@ -40772,14 +40803,6 @@
                   "name" : "市旗:",
                   "type" : "mark",
                   "wref" : "ファイル:Flag of Tochigi Tochigi.JPG"
-               },
-               {
-                  "name" : "トチノキ",
-                  "type" : "tree"
-               },
-               {
-                  "name" : "サツキ",
-                  "type" : "flower"
                }
             ],
             "type" : "city",
@@ -40844,7 +40867,7 @@
                {
                   "date" : "1954-12-20",
                   "type" : "mark",
-                  "wref" : "ファイル:Flag of Moka Tochigi.JPG"
+                  "wref" : "ファイル:Flag of Moka Tochigi.svg"
                },
                {
                   "name" : "ケヤキ",
@@ -42314,7 +42337,7 @@
                      }
                   ],
                   "type" : "town",
-                  "url" : "http://www.town.yaese.okinawa.jp/yaese/",
+                  "url" : "http://www.town.yaese.lg.jp/",
                   "wref" : "八重瀬町"
                },
                "北大東村" : {
@@ -43039,6 +43062,12 @@
             "kana" : "こなんし",
             "latin" : "Konan-shi",
             "symbols" : [
+               {
+                  "date" : "2004-10-01",
+                  "name" : "市旗・市章、共に",
+                  "type" : "mark",
+                  "wref" : "ファイル:Flag of Konan Shiga.svg"
+               },
                {
                   "name" : "ウツクシマツ",
                   "type" : "tree"
@@ -44973,7 +45002,7 @@
                      }
                   ],
                   "type" : "town",
-                  "url" : "http://www.town.oguni.kumamoto.jp/",
+                  "url" : "http://www.aso-oguni.com/",
                   "wikipedia_image" : {
                      "desc" : "杖立温泉",
                      "wref" : "Tsuetate-hotspring01.jpg"
@@ -45166,6 +45195,8 @@
             },
             "symbols" : [
                {
+                  "date" : "2004-10-01",
+                  "name" : "市旗・市章、共に",
                   "type" : "mark",
                   "wref" : "ファイル:Flag of Nanao, Ishikawa.svg"
                }
@@ -48814,7 +48845,6 @@
                      ]
                   },
                   "type" : "ward",
-                  "url" : "http://www.city.kitakyushu.lg.jp/yahatahigashi/index.html",
                   "wref" : "八幡東区"
                },
                "八幡西区" : {
@@ -49166,6 +49196,11 @@
                ]
             },
             "symbols" : [
+               {
+                  "date" : "1982-04-01",
+                  "type" : "mark",
+                  "wref" : "ファイル:Flag of Dazaifu Fukuoka.png"
+               },
                {
                   "name" : "クスノキ",
                   "type" : "tree"
@@ -49997,7 +50032,8 @@
             },
             "symbols" : [
                {
-                  "date" : "1958",
+                  "date" : "1958-10-06",
+                  "name" : "市旗:2005年(平成17年)1月19日制定 市章:",
                   "type" : "mark",
                   "wref" : "ファイル:Flag of Chikushino, Fukuoka.svg"
                },
@@ -52429,6 +52465,12 @@
                      ]
                   },
                   "symbols" : [
+                     {
+                        "date" : "1975-12-12",
+                        "name" : "町旗・町章、共に",
+                        "type" : "mark",
+                        "wref" : "ファイル:Flag of Inawashiro Fukushima.svg"
+                     },
                      {
                         "name" : "ナナカマド",
                         "type" : "tree"
@@ -55736,7 +55778,7 @@
                      {
                         "name" : "城里町旗",
                         "type" : "mark",
-                        "wref" : "ファイル:Shirosato Ibaraki chapter.JPG"
+                        "wref" : "File:Symbol of Shirosato Ibaraki.svg"
                      },
                      {
                         "name" : "スダジイ",
@@ -55891,7 +55933,7 @@
                {
                   "name" : "水戸市章",
                   "type" : "mark",
-                  "wref" : "ファイル:Mito Ibaraki chapter.svg"
+                  "wref" : "ファイル:Symbol of Mito Ibaraki.svg"
                },
                {
                   "date" : "1991-04-01",
@@ -56068,7 +56110,7 @@
                      {
                         "name" : "境町旗",
                         "type" : "mark",
-                        "wref" : "ファイル:Sakai Ibaraki chapter.JPG"
+                        "wref" : "File:Symbol of Sakai Ibaraki.svg"
                      },
                      {
                         "name" : "モクセイ",
@@ -59958,7 +60000,7 @@
                   "date" : "1967-03-29",
                   "name" : "長野市章",
                   "type" : "mark",
-                  "wref" : "ファイル:Nagano Nagano chapter.svg"
+                  "wref" : "ファイル:Symbol of Nagano Nagano.svg"
                },
                {
                   "name" : "シナノキ",
@@ -60945,7 +60987,7 @@
             },
             "symbols" : [
                {
-                  "name" : "八戸市章",
+                  "date" : "1931-08-27",
                   "type" : "mark",
                   "wref" : "ファイル:Flag of Hachinohe, Aomori.svg"
                },
@@ -62461,7 +62503,7 @@
             "url" : "http://www.city.makinohara.shizuoka.jp/",
             "wikipedia_image" : {
                "desc" : "静岡空港",
-               "wref" : "FDA Embraer 170 JA02FJ RJSN.JPG"
+               "wref" : "FDA Embraer 170 JA02FJ RJNS.jpg"
             },
             "wref" : "牧之原市"
          },
