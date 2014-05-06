@@ -4922,7 +4922,7 @@
                {
                   "date" : "1957-03-08",
                   "type" : "mark",
-                  "wref" : "ファイル:Mikasa Hokkaido chapter.svg"
+                  "wref" : "ファイル:Symbol of Mikasa Hokkaido.svg"
                },
                {
                   "name" : "ナナカマド",
@@ -6809,7 +6809,18 @@
                ]
             },
             "subpref_name" : "留萌振興局",
+            "symbols" : [
+               {
+                  "name" : "イチイ",
+                  "type" : "tree"
+               },
+               {
+                  "name" : "ツツジ",
+                  "type" : "flower"
+               }
+            ],
             "type" : "town",
+            "url" : "http://www.town.obira.hokkaido.jp/",
             "wref" : "小平町"
          },
          "小樽市" : {
@@ -28028,7 +28039,7 @@
                }
             ],
             "type" : "city",
-            "url" : "http://www.city.kani.gifu.jp/",
+            "url" : "http://www.city.kani.lg.jp/",
             "wikipedia_image" : {
                "desc" : "長塚古墳",
                "wref" : "Nagatsukakofun-1.JPG"
@@ -29712,7 +29723,7 @@
                }
             ],
             "type" : "city",
-            "url" : "http://www.city.tamano.okayama.jp/",
+            "url" : "http://www.city.tamano.lg.jp/",
             "wikipedia_image" : {
                "desc" : "玉野競輪場",
                "wref" : "The Tamano cycle race place is faced from the distance.JPG"
@@ -31216,6 +31227,7 @@
             "symbols" : [
                {
                   "date" : "2006-01-01",
+                  "name" : "市旗・市章、共に",
                   "type" : "mark",
                   "wref" : "ファイル:Flag of Hanamaki, Iwate.svg"
                },
@@ -33541,7 +33553,10 @@
                      }
                   ],
                   "type" : "town",
-                  "url" : "http://www.town.itano.tokushima.jp/",
+                  "wikipedia_image" : {
+                     "desc" : "左上:あすたむらんど徳島 右上:大日寺\n中左:金泉寺\n中右:地蔵寺\n左下:徳島県立埋蔵文化財総合センター\n右下:徳島工業短期大学",
+                     "wref" : "Itano Tokushima montage.JPG"
+                  },
                   "wref" : "板野町"
                },
                "藍住町" : {
@@ -34463,7 +34478,7 @@
                {
                   "name" : "松山市章",
                   "type" : "mark",
-                  "wref" : "ファイル:Matsuyama Ehime chapter.JPG"
+                  "wref" : "File:Symbol of Matsuyama Ehime.svg"
                },
                {
                   "name" : "ヤブツバキ",
@@ -37361,7 +37376,6 @@
                      }
                   ],
                   "type" : "village",
-                  "url" : "http://www.vill.awashimaura.lg.jp/",
                   "wref" : "粟島浦村"
                },
                "関川村" : {
@@ -40949,6 +40963,10 @@
                   },
                   "symbols" : [
                      {
+                        "type" : "mark",
+                        "wref" : "ファイル:Flag of Ichikai Tochigi.JPG"
+                     },
+                     {
                         "name" : "スギ",
                         "type" : "tree"
                      },
@@ -41010,7 +41028,7 @@
                   "symbols" : [
                      {
                         "type" : "mark",
-                        "wref" : "ファイル:栃木県芳賀町町章.svg"
+                        "wref" : "ファイル:Flag of Haga Tochigi.JPG"
                      },
                      {
                         "name" : "ケヤキ",
@@ -42866,7 +42884,7 @@
                {
                   "name" : "大津市章",
                   "type" : "mark",
-                  "wref" : "ファイル:Otsu Shiga chapter.JPG"
+                  "wref" : "File:Symbol of Otsu Shiga.svg"
                },
                {
                   "name" : "ヤマザクラ",
@@ -43802,7 +43820,8 @@
             },
             "symbols" : [
                {
-                  "name" : "八代市旗",
+                  "date" : "2005-08-01",
+                  "name" : "市旗・市章、共に",
                   "type" : "mark",
                   "wref" : "ファイル:Flag of Yatsushiro, Kumamoto.svg"
                },
@@ -48845,6 +48864,7 @@
                      ]
                   },
                   "type" : "ward",
+                  "url" : "http://www.city.kitakyushu.lg.jp/yahatahigashi/index.html",
                   "wref" : "八幡東区"
                },
                "八幡西区" : {
@@ -62346,7 +62366,7 @@
             "symbols" : [
                {
                   "date" : "2005-06-28",
-                  "name" : "浜松市旗・浜松市章",
+                  "name" : "浜松市旗・浜松市章 市旗・市章、共に",
                   "type" : "mark",
                   "wref" : "ファイル:Flag of Hamamatsu, Shizuoka.svg"
                },
