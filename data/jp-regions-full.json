@@ -234,7 +234,7 @@
                   "date" : "2004-11-01",
                   "name" : "伊賀市章",
                   "type" : "mark",
-                  "wref" : "File:Iga Mie chapter.svg"
+                  "wref" : "File:Symbol of Iga Mie.svg"
                },
                {
                   "name" : "アカマツ",
@@ -366,7 +366,7 @@
                   "symbols" : [
                      {
                         "type" : "mark",
-                        "wref" : "File:Kiho Mie chapter.JPG"
+                        "wref" : "File:Symbol of Kiho Mie.svg"
                      },
                      {
                         "name" : "ウバメガシ",
@@ -936,7 +936,7 @@
             },
             "symbols" : [
                {
-                  "name" : "津市旗",
+                  "date" : "2006-01-01",
                   "type" : "mark",
                   "wref" : "ファイル:Flag of Tsu, Mie.svg"
                },
@@ -2303,11 +2303,21 @@
                   },
                   "symbols" : [
                      {
+                        "date" : "1973-03-23",
                         "type" : "mark",
                         "wref" : "ファイル:Flag of Kamimine Saga.svg"
+                     },
+                     {
+                        "name" : "ヤブツバキ",
+                        "type" : "tree"
+                     },
+                     {
+                        "name" : "サルビア",
+                        "type" : "flower"
                      }
                   ],
                   "type" : "town",
+                  "url" : "http://www.town.kamimine.lg.jp/",
                   "wref" : "上峰町"
                },
                "基山町" : {
@@ -2380,7 +2390,8 @@
             },
             "symbols" : [
                {
-                  "name" : "佐賀市旗",
+                  "date" : "2006-04-01",
+                  "name" : "市旗・市章、共に",
                   "type" : "mark",
                   "wref" : "ファイル:Flag of Saga, Saga.svg"
                },
@@ -17912,6 +17923,7 @@
             "symbols" : [
                {
                   "date" : "2005-10-01",
+                  "name" : "市旗・市章、共に",
                   "type" : "mark",
                   "wref" : "ファイル:Flag of Kitsuki Oita.JPG"
                },
@@ -21240,6 +21252,12 @@
                      ]
                   },
                   "symbols" : [
+                     {
+                        "date" : "1972-04-01",
+                        "name" : "村旗・村章、共に",
+                        "type" : "mark",
+                        "wref" : "ファイル:Flag of Yamazoe Nara.svg"
+                     },
                      {
                         "name" : "ヤマツツジ",
                         "type" : "flower"
@@ -24586,6 +24604,11 @@
             },
             "symbols" : [
                {
+                  "date" : "2004-11-01",
+                  "type" : "mark",
+                  "wref" : "File:Flag of Tonami Toyama.JPG"
+               },
+               {
                   "name" : "スギ",
                   "type" : "tree"
                },
@@ -24620,7 +24643,7 @@
             },
             "symbols" : [
                {
-                  "name" : "高岡市旗",
+                  "date" : "2005-11-01",
                   "type" : "mark",
                   "wref" : "ファイル:Flag of Takaoka, Toyama.svg"
                },
@@ -29744,11 +29767,15 @@
             "symbols" : [
                {
                   "type" : "mark",
-                  "wref" : "File:Maniwa Okayama chapter.JPG"
+                  "wref" : "ファイル:Flag of Maniwa Okayama.JPG"
                }
             ],
             "type" : "city",
             "url" : "http://www.city.maniwa.lg.jp/",
+            "wikipedia_image" : {
+               "desc" : "蒜山高原と上蒜山(中央)・中蒜山",
+               "wref" : "Hiruzen 02.jpg"
+            },
             "wref" : "真庭市"
          },
          "真庭郡" : {
@@ -29766,6 +29793,10 @@
                   },
                   "symbols" : [
                      {
+                        "type" : "mark",
+                        "wref" : "ファイル:Flag of Shinjo Okayama.JPG"
+                     },
+                     {
                         "name" : "スギ",
                         "type" : "tree"
                      },
@@ -29776,6 +29807,10 @@
                   ],
                   "type" : "village",
                   "url" : "http://www.shinjoson.net/",
+                  "wikipedia_image" : {
+                     "desc" : "出雲街道新庄宿",
+                     "wref" : "Shinjo-juku -01.jpg"
+                  },
                   "wref" : "新庄村"
                }
             },
@@ -29812,6 +29847,10 @@
             ],
             "type" : "city",
             "url" : "http://www.city.kasaoka.okayama.jp/",
+            "wikipedia_image" : {
+               "desc" : "笠岡古城山公園より撮影した笠岡市街地(笠岡駅方向)",
+               "wref" : "File:笠岡古城山公園より撮影した笠岡市街地(笠岡駅方向)_2014-01-14_13-25.JPG"
+            },
             "wref" : "笠岡市"
          },
          "総社市" : {
@@ -31579,6 +31618,10 @@
             ],
             "type" : "city",
             "url" : "http://www.city.ohda.lg.jp/",
+            "wikipedia_image" : {
+               "desc" : "石見銀山清水谷精錬所跡",
+               "wref" : "Iwami Ginzan Silver Mine, Shimizudani Refinery Ruins 001.JPG"
+            },
             "wref" : "大田市"
          },
          "安来市" : {
@@ -31663,6 +31706,10 @@
             },
             "symbols" : [
                {
+                  "type" : "mark",
+                  "wref" : "ファイル:Flag of Gotsu Shimane.JPG"
+               },
+               {
                   "name" : "クロマツ",
                   "type" : "tree"
                },
@@ -31673,6 +31720,10 @@
             ],
             "type" : "city",
             "url" : "http://www.city.gotsu.lg.jp/",
+            "wikipedia_image" : {
+               "desc" : "水の国",
+               "wref" : "Mizunokuni park and museum.JPG"
+            },
             "wref" : "江津市"
          },
          "浜田市" : {
@@ -34048,7 +34099,7 @@
                {
                   "date" : "2005-01-16",
                   "type" : "mark",
-                  "wref" : "ファイル:Imabari Ehime chapter.JPG"
+                  "wref" : "ファイル:Flag of Imabari Ehime.JPG"
                },
                {
                   "name" : "クスノキ",
@@ -34392,8 +34443,9 @@
             "symbols" : [
                {
                   "date" : "2005-08-01",
+                  "name" : "市旗・市章、共に",
                   "type" : "mark",
-                  "wref" : "ファイル:Uwajima Ehime chapter.JPG"
+                  "wref" : "ファイル:Flag of Uwajima Ehime.JPG"
                }
             ],
             "type" : "city",
@@ -34605,7 +34657,7 @@
                {
                   "date" : "2004-11-01",
                   "type" : "mark",
-                  "wref" : "ファイル:Saijo-city-mark.jpg"
+                  "wref" : "ファイル:Flag of Saijo Ehime.JPG"
                }
             ],
             "type" : "city",
@@ -35125,11 +35177,11 @@
                   },
                   "symbols" : [
                      {
-                        "name" : "サクラ",
+                        "name" : "サクラ水野時二・林薫一・岩崎公弥監修1992168",
                         "type" : "tree"
                      },
                      {
-                        "name" : "コスモス",
+                        "name" : "コスモス水野時二・林薫一・岩崎公弥監修1992168",
                         "type" : "flower"
                      }
                   ],
@@ -37818,6 +37870,7 @@
             },
             "symbols" : [
                {
+                  "date" : "2005-03-19",
                   "type" : "mark",
                   "wref" : "ファイル:Flag of Itoigawa, Niigata.svg"
                },
@@ -40996,6 +41049,10 @@
                      ]
                   },
                   "symbols" : [
+                     {
+                        "type" : "mark",
+                        "wref" : "ファイル:Flag of Mashiko Tochigi.JPG"
+                     },
                      {
                         "name" : "アカマツ",
                         "type" : "tree"
@@ -51180,6 +51237,12 @@
                   },
                   "symbols" : [
                      {
+                        "date" : "1972-10-01",
+                        "name" : "町旗:1985年(昭和60年)9月1日制定 町章:",
+                        "type" : "mark",
+                        "wref" : "ファイル:Flag of Futaba, Fukushima.svg"
+                     },
+                     {
                         "name" : "栴檀",
                         "type" : "tree"
                      },
@@ -51194,6 +51257,7 @@
                      }
                   ],
                   "type" : "town",
+                  "url" : "http://www.town.fukushima-futaba.lg.jp/",
                   "wref" : "双葉町"
                },
                "大熊町" : {
@@ -51443,6 +51507,12 @@
                ]
             },
             "symbols" : [
+               {
+                  "date" : "2006-07-04",
+                  "name" : "市旗:2006年(平成18年)7月12日制定 市章:",
+                  "type" : "mark",
+                  "wref" : "ファイル:Flag of Kitakata Fukushima.svg"
+               },
                {
                   "name" : "飯豊スギ",
                   "type" : "tree"
@@ -51707,6 +51777,12 @@
                ]
             },
             "symbols" : [
+               {
+                  "date" : "2007-01-01",
+                  "name" : "市旗・市章、共に",
+                  "type" : "mark",
+                  "wref" : "ファイル:Flag of Motomiya Fukushima.svg"
+               },
                {
                   "name" : "マユミ",
                   "type" : "tree"
@@ -52417,7 +52493,7 @@
                {
                   "name" : "福島市旗(9つの「フ」と4つの「マ」でふくしまを図案化している)",
                   "type" : "mark",
-                  "wref" : "ファイル:Flag of Fukushima, Fukushima.svg"
+                  "wref" : "File:Flag of Fukushima, Fukushima.svg"
                },
                {
                   "name" : "モモ",
@@ -52437,7 +52513,7 @@
             "url" : "http://www.city.fukushima.fukushima.jp/",
             "wikipedia_image" : {
                "desc" : "信夫山",
-               "wref" : "ファイル:Mt.Shinobu-yama.JPG"
+               "wref" : "File:Mt.Shinobu-yama.JPG"
             },
             "wref" : "福島市"
          },
@@ -55304,7 +55380,7 @@
                      {
                         "name" : "利根町旗",
                         "type" : "mark",
-                        "wref" : "ファイル:Tone Ibaraki chapter.JPG"
+                        "wref" : "File:Symbol of Tone Ibaraki.svg"
                      },
                      {
                         "name" : "サクラ",
@@ -60863,6 +60939,12 @@
                   },
                   "symbols" : [
                      {
+                        "date" : "1973-10-01",
+                        "name" : "村旗・村章、共に",
+                        "type" : "mark",
+                        "wref" : "ファイル:Flag of Higashidoori Aomori.svg"
+                     },
+                     {
                         "name" : "イチイ",
                         "type" : "tree"
                      },
@@ -63188,6 +63270,7 @@
             "symbols" : [
                {
                   "date" : "2006-01-01",
+                  "name" : "市旗・市章、共に",
                   "type" : "mark",
                   "wref" : "ファイル:Flag of Mitoyo Kagawa.JPG"
                },
@@ -66555,6 +66638,13 @@
                         "130.76806100"
                      ]
                   },
+                  "symbols" : [
+                     {
+                        "date" : "2005-08-01",
+                        "type" : "mark",
+                        "wref" : "ファイル:Flag of Minamiosumi Kagoshima.JPG"
+                     }
+                  ],
                   "type" : "town",
                   "url" : "http://www.town.minamiosumi.lg.jp/",
                   "wikipedia_image" : {
