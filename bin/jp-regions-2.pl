@@ -15,7 +15,8 @@ for (@$map) {
     my $region = [split /,/, $_->[0]];
     next unless @$region == 2;
     my $subpref = $_->[1] or next;
-    $Data->{$region->[0]}->{areas}->{$region->[1]}->{subpref_name} = $subpref;
+    $Data->{$region->[0]}->{areas}->{$region->[1]}->{subpref_name} = $subpref
+        if $region->[0] eq '北海道';
     $Data->{$region->[0]}->{subprefs}->{$subpref}->{area_names}->{$region->[1]} = 1;
 }
 
