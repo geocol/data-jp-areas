@@ -6,7 +6,7 @@ clean: clean-jpregions clean-jpzip
 
 GIT = git
 
-dataautoupdate: clean deps all
+updatenightly: clean deps all
 	$(GIT) add data/*
 
 ## ------ Setup ------
