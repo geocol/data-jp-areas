@@ -11,4 +11,4 @@ env:
   global:
     secure: "TjnT09WVZZ1gD2giWrt388F5qPmXyk2GE+PJcXjETwBIKKqWrxfufGjToAIiuQoNMYX1/hxUpo7Hw+IzDbTsjLx31zzkS32U/fCywcDaiiDX92OuuMXoIxeMUis8G11yqqpFe9fBe1AxZr9H4aKDV3usORVabo0D7DeZSSV+LeA="
 after_success:
-  - curl https://gist.githubusercontent.com/wakaba/9970857/raw/travis-merger.pl | perl
+  - curl https://gist.githubusercontent.com/wakaba/9970857/raw/travis-merger-with-gh-pages.pl | perl
