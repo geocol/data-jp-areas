@@ -35,10 +35,7 @@ our $Data;
             $def->{area_names}->{$_} = 1;
         }
         $Data->{東京都}->{subprefs}->{$name} = $def;
-        for (keys %{$Data->{東京都}->{subprefs} or {}}) {
-            $Data->{東京都}->{subprefs}->{$_}->{kana}
-                = delete $Data->{東京都}->{subprefs}->{$_}->{hiragana};
-        }
+        $def->{kana} = delete $def->{hiragana};
         $def->{type} = 'subpref';
         delete $def->{areas};
     }

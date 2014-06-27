@@ -28,8 +28,6 @@ pmbp-update: git-submodules pmbp-upgrade
 pmbp-install: pmbp-upgrade
 	perl local/bin/pmbp.pl --install
 
-
-
 ## ------ Wikipedia dumps ------
 
 wikipedia-dumps: local/cache/xml/jawiki-latest-pages-meta-current.xml
@@ -93,15 +91,12 @@ data/jp-regions-full.json: data/jp-regions.json bin/jp-regions-full.pl \
     intermediate/wikipedia-regions.json
 	$(PERL) bin/jp-regions-full.pl > $@
 
-all-jpzip: data/jp-zip.json data/jp-zip.json.gz
+all-jpzip: data/jp-zip.json
 clean-jpzip:
 	rm -fr local/ken_all.lzh local/ken_all_rome.lzh
 
 data/jp-zip.json: local/ken_all.csv bin/jp-zip.pl
 	$(PERL) bin/jp-zip.pl > $@
-
-data/jp-zip.json.gz: data/jp-zip.json
-	cat $< | gzip > $@
 
 local/ken_all.csv: local/ken_all.lzh local/bin/lhasa
 	cd local && bin/lhasa xf ken_all.lzh
