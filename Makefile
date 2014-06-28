@@ -120,7 +120,7 @@ local/bin/lhasa: local/lhasa-0.2.0.tar.gz
 
 local/lhasa-0.2.0.tar.gz:
 	mkdir -p local
-	$(WGET) -O $@ https://www.soulsphere.org/projects/lhasa/lhasa-0.2.0.tar.gz
+	$(WGET) -O $@ --no-check-certificate https://soulsphere.org/projects/lhasa/lhasa-0.2.0.tar.gz
 
 intermediate/lg-offices.json: bin/extract-offices.pl
 	$(PERL) bin/extract-offices.pl > $@
