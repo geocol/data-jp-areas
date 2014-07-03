@@ -95,12 +95,25 @@ Values contain following name/value pairs:
       address [string?]
 
         The string representation of the address of the office, within
-        the area (i.e. the area name prefix is omitted).
+        the area (i.e. the area name prefix is omitted), except when
+        |not_in_area| is true, in such case, the address string in
+        Japan (i.e. the prefecture and the city are not omitted).
+
+      not_in_area [boolean]
+
+        If true, the office is located outside of the area.
 
       position
 
         The WGS84 geographical location of the office, represented as
         a JSON array of latitude and longitude number values.
+
+  position
+
+    The WGS84 geographical location of somewhere in the area,
+    represented as a JSON array of latitude and longitude number
+    values.  This name/value pair is only specified when |office|'s
+    |not_in_area| is true at the moment.
 
   subpref_name [string?]
 
@@ -223,6 +236,9 @@ Wikipedia - 全国地方公共団体コード
 <https://geonlp.ex.nii.ac.jp/dictionary/geonlp/japan_pref>.
 
 * License
+
+You are granted a license to use, reproduce and create derivative
+works of the JSON file.
 
 The JSON data partially derived from 統計に用いる標準地域コード (総務省
 所管)

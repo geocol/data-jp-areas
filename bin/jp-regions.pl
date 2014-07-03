@@ -202,4 +202,25 @@ $Data->{岩手県}->{areas}->{滝沢市}->{latin} ||= 'Takizawa-shi';
     }
 }
 
+$Data->{鹿児島県}->{areas}->{鹿児島郡}->{areas}->{三島村}
+    ->{position} = [30.834889, 129.95575];
+$Data->{鹿児島県}->{areas}->{鹿児島郡}->{areas}->{三島村}
+    ->{office}->{not_in_area} = 1;
+$Data->{鹿児島県}->{areas}->{鹿児島郡}->{areas}->{三島村}
+    ->{office}->{address} = '鹿児島県' . $Data->{鹿児島県}->{areas}->{鹿児島郡}->{areas}->{三島村}->{office}->{address};
+
+$Data->{鹿児島県}->{areas}->{鹿児島郡}->{areas}->{十島村}
+    ->{position} = [29.838528, 129.853222];
+$Data->{鹿児島県}->{areas}->{鹿児島郡}->{areas}->{十島村}
+    ->{office}->{not_in_area} = 1;
+$Data->{鹿児島県}->{areas}->{鹿児島郡}->{areas}->{十島村}
+    ->{office}->{address} = '鹿児島県' . $Data->{鹿児島県}->{areas}->{鹿児島郡}->{areas}->{十島村}->{office}->{address};
+
+$Data->{沖縄県}->{areas}->{八重山郡}->{areas}->{竹富町}
+    ->{position} = [24.329722, 124.086667];
+$Data->{沖縄県}->{areas}->{八重山郡}->{areas}->{竹富町}
+    ->{office}->{not_in_area} = 1;
+$Data->{沖縄県}->{areas}->{八重山郡}->{areas}->{竹富町}
+    ->{office}->{address} = '沖縄県' . $Data->{沖縄県}->{areas}->{八重山郡}->{areas}->{竹富町}->{office}->{address};
+
 print perl2json_bytes_for_record $Data;
