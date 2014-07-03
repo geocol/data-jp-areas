@@ -42,24 +42,14 @@ local/cache/xml/jawiki-latest-pages-meta-current.xml.bz2:
 wp-autoupdate: deps wp-clean wp-data
 
 wp-clean:
-	rm -fr local/intermediate-wikipedia
+	cd intermediate && make wp-clean
 
 wp-deps:
-	$(PERL) bin/prepare-wikipedia-cache.pl
+	cd intermediate && make wp-deps
 
-wp-data: wp-deps intermediate/wikipedia-regions.json
+wp-data: wp-deps
+	cd intermediate && make wp-data
 	$(GIT) add intermediate
-
-intermediate/wikipedia-regions.json: local/jp-regions.json \
-    bin/wikipedia-prefs.pl bin/wikipedia-regions.pl \
-    bin/wikipedia-cities.pl local/intermediate-wikipedia #wikipedia-dump
-	mkdir -p intermediate
-	$(PERL) bin/wikipedia-prefs.pl
-	$(PERL) bin/wikipedia-cities.pl
-
-local/intermediate-wikipedia:
-	mkdir -p local
-	touch $@
 
 ## ------ Data ------
 
