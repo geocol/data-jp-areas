@@ -18523,12 +18523,17 @@
                   "kana" : "たけとみちょう",
                   "latin" : "Taketomi-cho",
                   "office" : {
-                     "address" : "石垣市美崎町11",
+                     "address" : "沖縄県石垣市美崎町11",
+                     "not_in_area" : 1,
                      "position" : [
                         "24.33976300",
                         "124.15443700"
                      ]
                   },
+                  "position" : [
+                     24.329722,
+                     124.086667
+                  ],
                   "type" : "town"
                }
             },
@@ -29281,12 +29286,17 @@
                   "kana" : "みしまむら",
                   "latin" : "Mishima-mura",
                   "office" : {
-                     "address" : "鹿児島市名山町12-18",
+                     "address" : "鹿児島県鹿児島市名山町12-18",
+                     "not_in_area" : 1,
                      "position" : [
                         "31.59453300",
                         "130.56073500"
                      ]
                   },
+                  "position" : [
+                     30.834889,
+                     129.95575
+                  ],
                   "type" : "village"
                },
                "十島村" : {
@@ -29294,12 +29304,17 @@
                   "kana" : "としまむら",
                   "latin" : "Toshima-mura",
                   "office" : {
-                     "address" : "鹿児島市泉町14-15",
+                     "address" : "鹿児島県鹿児島市泉町14-15",
+                     "not_in_area" : 1,
                      "position" : [
                         "31.59315700",
                         "130.56058800"
                      ]
                   },
+                  "position" : [
+                     29.838528,
+                     129.853222
+                  ],
                   "type" : "village"
                }
             },
