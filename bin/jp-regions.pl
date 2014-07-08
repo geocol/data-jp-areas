@@ -17,9 +17,13 @@ our $Data;
         next unless $name =~ /局$/;
         my $def = delete $Data->{北海道}->{areas}->{$name};
         for (keys %{$def->{areas}}) {
+            my $key = $_;
+            if ($name eq '根室振興局' and $_ eq '泊村') {
+                $key .= ' (千島国)';
+            }
             $def->{areas}->{$_}->{subpref_name} = $name;
-            $Data->{北海道}->{areas}->{$_} = $def->{areas}->{$_};
-            $def->{area_names}->{$_} = 1;
+            $Data->{北海道}->{areas}->{$key} = $def->{areas}->{$_};
+            $def->{area_names}->{$key} = 1;
         }
         $Data->{北海道}->{subprefs}->{$name} = $def;
         $def->{kana} = delete $def->{hiragana};
@@ -54,7 +58,7 @@ $jp_data->{北海道}->{areas}->{色丹郡}->{areas}->{色丹村}
 $jp_data->{北海道}->{areas}->{国後郡}
     = {type => 'district',
        kana => 'くなしりぐん', latin => 'Kunashiri-gun'};
-$jp_data->{北海道}->{areas}->{国後郡}->{areas}->{泊村}
+$jp_data->{北海道}->{areas}->{国後郡}->{areas}->{'泊村 (千島国)'}
     = {type => 'village', code => '01696',
        kana => 'とまりむら', latin => 'Tomari-mura'};
 $jp_data->{北海道}->{areas}->{国後郡}->{areas}->{留夜別村}
@@ -83,7 +87,13 @@ $jp_data->{北海道}->{areas}->{蘂取郡}->{areas}->{蘂取村}
         next unless $name =~ /郡(?:$| )/;
         my $def = delete $jp_data->{北海道}->{areas}->{$name};
         for (keys %{$def->{areas}}) {
+            if (defined $def->{areas}->{$_}->{district_name}) {
+                warn "Duplicate |$_|'s district: |$def->{areas}->{$_}->{district_name}|";
+            }
             $def->{areas}->{$_}->{district_name} = $name;
+            if (defined $jp_data->{北海道}->{areas}->{$_}) {
+                warn "Duplicate area: |$_|";
+            }
             $jp_data->{北海道}->{areas}->{$_} = $def->{areas}->{$_};
             $def->{area_names}->{$_} = 1;
         }
@@ -96,6 +106,9 @@ $jp_data->{北海道}->{areas}->{蘂取郡}->{areas}->{蘂取村}
         $Data->{$pref}->{latin} = $jp_data->{$pref}->{latin};
         for my $city (keys %{$Data->{$pref}->{areas} or {}}) {
             $Data->{$pref}->{areas}->{$city}->{latin} = $jp_data->{$pref}->{areas}->{$city}->{latin};
+            if (defined $Data->{$pref}->{areas}->{$city}->{district_name}) {
+                warn "Duplicate |$pref|/|$city| district |$Data->{$pref}->{areas}->{$city}->{district_name}|";
+            }
             $Data->{$pref}->{areas}->{$city}->{district_name} = $jp_data->{$pref}->{areas}->{$city}->{district_name}
                     if defined $jp_data->{$pref}->{areas}->{$city}->{district_name};
             for my $town (keys %{$Data->{$pref}->{areas}->{$city}->{areas} or {}}) {
