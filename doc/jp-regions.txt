@@ -44,6 +44,13 @@ names in parentheses to avoid name confliction:
 Note that this annotation scheme is sometimes used in laws,
 e.g. <http://law.e-gov.go.jp/htmldata/H13/H13F12001000012.html>.
 
+Tomari village (泊村) in Kunashiri district, Hokkaidou (北海道国後郡)
+is also followed by country (令制国) name to distinguish with
+Tomari-mura (泊村) in Furuu district, Hokkaidou (北海道古宇郡):
+
+  泊村
+  泊村 (千島国)
+
 Values contain following name/value pairs:
 
   area_names [object?]
