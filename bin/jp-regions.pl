@@ -99,6 +99,7 @@ $jp_data->{北海道}->{areas}->{蘂取郡}->{areas}->{蘂取村}
         }
         $jp_data->{北海道}->{districts}->{$name} = $def;
         $def->{type} = 'district';
+        katakana_to_hiragana $def->{kana} if defined $def->{kana};
         delete $def->{areas};
     }
 
