@@ -61,7 +61,7 @@ wp-data: wp-deps
 ## ------ Data ------
 
 all-jpregions: data/jp-regions.json data/jp-regions-full.json \
-    data/jp-regions-suffix-mixed-names.json
+    data/jp-regions-suffix-mixed-names.json data/jp-regions-full-flatten.json
 clean-jpregions: clean-jpzip
 	rm -fr local/soumu-jp-regions.csv
 
@@ -86,10 +86,12 @@ local/jp-regions-2.json: local/jp-regions.json local/hokkaidou-subprefs.json \
 
 data/jp-regions.json: local/jp-regions-2.json bin/jp-regions-3.pl
 	$(PERL) bin/jp-regions-3.pl > $@
-
 data/jp-regions-full.json: data/jp-regions.json bin/jp-regions-full.pl \
     intermediate/wikipedia-regions.json
 	$(PERL) bin/jp-regions-full.pl > $@
+data/jp-regions-full-flatten.json: data/jp-regions-full.json \
+    bin/jp-regions-flatten.pl
+	$(PERL) bin/jp-regions-flatten.pl > $@
 
 all-jpzip: data/jp-zip.json
 clean-jpzip:
