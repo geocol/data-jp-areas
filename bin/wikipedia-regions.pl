@@ -147,54 +147,54 @@ sub extract_from_data ($$$$) {
           $value = $fc->get_attribute ('wref') || _tc $fc;
         } elsif ($fc and $fc->local_name eq 'include' and
                  (lc $fc->get_attribute ('wref')) eq 'flagicon') {
-              $cv1->begin;
-              $mw->get_source_text_by_name_as_cv ("Template:Country flag alias $target_wref")->cb (sub {
-                my $data = $_[0]->recv;
-                if (defined $data) {
-                  my $doc = new Web::DOM::Document;
-                  my $parser = Text::MediaWiki::Parser->new;
-                  $parser->parse_char_string ($data => $doc);
-                  my $n = _tc $doc->body;
-                  $n =~ s/\A\s+//;
-                  $n =~ s/\s+\z//;
-                  $Data->{$target}->{$def->{name}} = "ファイル:$n" if length $n;
-                }
-                $cv1->end;
-              });
-            } else {
-              $value = _n _tc $ip;
+          $cv1->begin;
+          $mw->get_source_text_by_name_as_cv ("Template:Country flag alias $target_wref")->cb (sub {
+            my $data = $_[0]->recv;
+            if (defined $data) {
+              my $doc = new Web::DOM::Document;
+              my $parser = Text::MediaWiki::Parser->new;
+              $parser->parse_char_string ($data => $doc);
+              my $n = _tc $doc->body;
+              $n =~ s/\A\s+//;
+              $n =~ s/\s+\z//;
+              $Data->{$target}->{$def->{name}} = "ファイル:$n" if length $n;
             }
-          } else {
-            $value = _n _tc $ip;
-          }
-          $Data->{$target}->{$def->{name}} = $value
-              if defined $value and length $value;
-        } elsif ($name eq 'シンボル名') {
-          $symbols_label = [split /\x0A/, _tc $ip];
-        } elsif ($name eq '歌など' or $name eq '鳥など') {
-          my $value = _tc $ip;
-          $value =~ s{\x0A\s*([(（])}{ $1}g;
-          $symbols_value = [split /\x0A/, $value];
-        } elsif ($name eq '外部リンク') {
-          my $fc = $ip->first_element_child;
-          if ($fc and $fc->local_name eq 'xl') {
-            $Data->{$target}->{url} = $fc->get_attribute ('href');
-          } elsif ($fc and $fc->local_name eq 'include' and
-                   $fc->get_attribute ('wref') eq 'official') {
-            $Data->{$target}->{url} = 'http://' . _tc $fc;
-          }
-        } elsif ($name eq '木' or $name eq '花' or $name eq '鳥') {
-          my $value = _tc $ip;
-          $value =~ s{\x0A\s*([(（])}{ $1}g;
-          for (split /[、\x0A]/, $value) {
-            push @{$Data->{$target}->{symbols} ||= []},
-                {type => {木 => 'tree', 花 => 'flower',
-                          鳥 => 'bird'}->{$name}, name => _n $_};
-          }
+            $cv1->end;
+          });
+        } else {
+          $value = _n _tc $ip;
         }
+      } else {
+        $value = _n _tc $ip;
       }
-      $cv1->end;
-      $cv1->cb (sub {
+      $Data->{$target}->{$def->{name}} = $value
+          if defined $value and length $value;
+    } elsif ($name eq 'シンボル名') {
+      $symbols_label = [split /\x0A/, _tc $ip];
+    } elsif ($name eq '歌など' or $name eq '鳥など') {
+      my $value = _tc $ip;
+      $value =~ s{\x0A\s*([\(\（])}{ $1}g;
+      $symbols_value = [split /\x0A/, $value];
+    } elsif ($name eq '外部リンク') {
+      my $fc = $ip->first_element_child;
+      if ($fc and $fc->local_name eq 'xl') {
+        $Data->{$target}->{url} = $fc->get_attribute ('href');
+      } elsif ($fc and $fc->local_name eq 'include' and
+               $fc->get_attribute ('wref') eq 'official') {
+        $Data->{$target}->{url} = 'http://' . _tc $fc;
+      }
+    } elsif ($name eq '木' or $name eq '花' or $name eq '鳥') {
+      my $value = _tc $ip;
+      $value =~ s{\x0A\s*([\(\（])}{ $1}g;
+      for (split /[、\x0A]/, $value) {
+        push @{$Data->{$target}->{symbols} ||= []},
+            {type => {木 => 'tree', 花 => 'flower',
+                      鳥 => 'bird'}->{$name}, name => _n $_};
+      }
+    }
+  } # $ip
+  $cv1->end;
+  $cv1->cb (sub {
       if (defined $Data->{$target}->{symbol_wref}) {
         my $d = {type => 'mark', wref => delete $Data->{$target}->{symbol_wref}};
         $d->{name} = delete $Data->{$target}->{symbol_label}

@@ -85,6 +85,10 @@ Values contain following name/value pairs:
     the prefecture, represented as a nested "area list" object.  (For
     other prefectures, they are contained in |areas| field.)
 
+  id [number]
+
+    An opaque ID for the area, unique within this file.
+
   kana [string?]
 
     Hiragana representation of area name, if known.
