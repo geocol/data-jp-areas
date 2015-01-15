@@ -12,3 +12,4 @@
 - "../../bin/modules/mediawiki-parser" tests web
 - "../../t_deps/modules/test-x1" tests
 - "../../t_deps/modules/testdataparser" tests
+- JSON::PS
