@@ -75,6 +75,59 @@ Values contain following name/value pairs:
     names are town or village names and values are boolean true
     values.
 
+  [FULL] area_symbols [object?]
+
+    Symbols of the area, such as flag, tree, song, and so on.  if
+    exists and known.  Names are symbol types, which are one of
+    followings:
+
+      animal   The animal of the area (獣).
+      bird     The bird of the area (鳥).
+      day      The memorial day of the area (記念日).
+      fish     The fish of the area (魚).
+      flag     The flag of the area (旗).
+      flower   The flower of the area (花).
+      mark     The symbol mark of the area (章).
+      tree     The tree of the area (木).
+      other    Other kinds of symbols.
+
+    Values are JSON arrays of JSON objects, containing following
+    name/value pairs:
+
+      color_value [string?]
+
+        The color, if the symbol can be represetned as a color.  The
+        color is represented as a CSS <color> value.
+
+      date [string?]
+
+        The date, month, or year the symbol has been established.  It
+        is either a valid date string, valid month string, or a four
+        or more ASCII digits, representing the year, where year is
+        greater than zero.  In any case, the value is to be
+        interpreted as defined by WHATWG HTML Standard.
+
+      date_value [string?]
+
+        The yearless date (as defined by WHATWG HTML Standard) of the
+        memorial day represented by the object, if it can be
+        represented as a day in year.
+
+      label [string?]
+
+        The type of the symbol, if known, in human-readable form.
+
+      name [string?]
+
+        The name of the symbol, if exists.
+
+      wref [string?]
+
+        If |type| is |mark| or |flag|, the Wikipedia reference of the
+        image data in Japanese Wikipedia.
+
+    Order of items might or might not be significant.
+
   [NON-FLATTEN] areas [object?]
 
     Subareas, if any, represented as a nested "area list" object.
@@ -213,61 +266,6 @@ Values contain following name/value pairs:
     list of subprefecture or branch office (振興局, 支庁), represented
     as a nested "area list" object.  Note that they are local
     government branches rather than areas.
-
-  [FULL] symbols
-
-    Symbols of the area, such as flag, tree, song, and so on.  if
-    exists and known.  If specified, it is a JSON array of JSON
-    objects, containing following name/value pairs:
-
-      color_value [string?]
-
-        The color, if the symbol can be represetned as a color.  The
-        color is represented as a CSS <color> value.
-
-      date [string?]
-
-        The date, month, or year the symbol has been established.  It
-        is either a valid date string, valid month string, or a four
-        or more ASCII digits, representing the year, where year is
-        greater than zero.  In any case, the value is to be
-        interpreted as defined by WHATWG HTML Standard.
-
-      date_value [string?]
-
-        The yearless date (as defined by WHATWG HTML Standard) of the
-        memorial day represented by the object, if it can be
-        represented as a day in year.
-
-      label [string?]
-
-        The type of the symbol, if known, in human-readable form.
-
-      name [string?]
-
-        The name of the symbol, if exists.
-
-      type [string?]
-
-        The type of the symbol, if known.  If specified, one of
-        following values:
-
-          bird     The bird of the area.
-          day      The memorial day of the area.
-          fish     The fish of the area.
-          flag     The flag of the area.
-          flower   The flower of the area.
-          mark     The symbol mark of the area.
-          tree     The tree of the area.
-
-      wref [string?]
-
-        If |type| is |mark| or |flag|, the Wikipedia reference of the
-        image data in Japanese Wikipedia.
-
-    Order of items with different |type| or |label| is irrelevant.
-    Order of items with same |type| and/or |label| might be
-    significant.
 
   type [string]
 
