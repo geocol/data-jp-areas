@@ -195,8 +195,8 @@ sub extract_from_data ($$$$) {
   } # $ip
   $cv1->end;
   $cv1->cb (sub {
-      if (defined $Data->{$target}->{symbol_wref}) {
-        my $d = {type => 'mark', wref => delete $Data->{$target}->{symbol_wref}};
+    if (defined $Data->{$target}->{symbol_wref}) {
+      my $d = {type => 'mark', wref => delete $Data->{$target}->{symbol_wref}};
         $d->{name} = delete $Data->{$target}->{symbol_label}
             if defined $Data->{$target}->{symbol_label};
         unshift @{$Data->{$target}->{symbols} ||= []}, $d;
@@ -215,7 +215,7 @@ sub extract_from_data ($$$$) {
           if ($value =~ /^([^:]+):(.+)$/) {
             my ($n, $v) = ($1, $2);
             push @v, {label => _n $n, name => _n $_} for split /、/, $v;
-        } elsif ($value =~ /^(.+) - (.+)$/) {
+          } elsif ($value =~ /^(.+) - (.+)$/) {
             my ($n, $v) = ($1, $2);
             push @v, {label => _n $n, name => _n $_} for split /、/, $v;
           } else {
@@ -236,7 +236,8 @@ sub extract_from_data ($$$$) {
                 $_->{name} =~ s/^(#[0-9A-Fa-f]{3,})\x{25A0}\s*//) {
               $_->{color_value} = uc $1;
             }
-            delete $_->{label} if $_->{label} eq '' or $_->{label} =~ /^[都道府県]の歌$/;
+            delete $_->{label} if $_->{label} eq '' or
+                $_->{label} =~ /^[都道府県市区町村]の[歌魚獣日鳥]$/;
           }
           push @{$Data->{$target}->{symbols} ||= []}, @v;
         }
@@ -257,6 +258,13 @@ sub extract_from_data ($$$$) {
       }
       delete $_->{name} if defined $_->{name} and not length $_->{name};
     }
+
+    my $symbols = delete $Data->{$target}->{symbols} || [];
+    for my $symbol (@$symbols) {
+      push @{$Data->{$target}->{area_symbols}->{$symbol->{type} // 'misc'} ||= []}, $symbol;
+      delete $symbol->{type};
+    }
+
     $Data->{$target}->{wref} = $target_wref;
     $Data->{$target}->{timestamp} = $data->{timestamp};
     print STDERR ".";
