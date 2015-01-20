@@ -68,6 +68,10 @@ my $Defs = {
     name => 'wikipedia_image_desc',
     type => 'text',
   },
+  位置画像 => {
+    name => 'wikipedia_location_image_wref',
+    type => 'file',
+  },
   都道府県旗 => {
     name => 'flag_wref',
     type => 'file',
@@ -190,6 +194,12 @@ sub extract_from_data ($$$$) {
         push @{$Data->{$target}->{symbols} ||= []},
             {type => {木 => 'tree', 花 => 'flower',
                       鳥 => 'bird'}->{$name}, name => _n $_};
+      }
+    } elsif ($name eq '隣接都道府県') {
+      for ($ip->children->to_list) {
+        if ($_->local_name eq 'l') {
+          $Data->{$target}->{neighbor_pref_names}->{$_->text_content} = 1;
+        }
       }
     }
   } # $ip

@@ -205,6 +205,15 @@ Values contain following name/value pairs:
 
     The area name (same as JSON object's name in non-flatten files).
 
+  [FLATTEN] neighbor_pref_ids [object?]
+
+    Names are IDs of neighbor prefectures and values are true values.
+
+  [NON-FLATTEN] neighbor_pref_names [object?]
+
+    Names are names of neighbor prefectures and values are true
+    values.
+
   office [object?]
 
     The location of the local government office (都道府県庁, 市区役所,
@@ -285,7 +294,7 @@ Values contain following name/value pairs:
 
   [FULL] wikipedia_image [object?]
 
-    The Wikipedia (Japanese) image data of the area, if any.  If
+    The (Japanese) Wikipedia image data of the area, if any.  If
     specified, the object contains following name/value pairs:
 
       desc [string?]
@@ -294,7 +303,12 @@ Values contain following name/value pairs:
 
       wref [string]
 
-        The Wikipedia reference of the the image file.
+        The (Japanese) Wikipedia reference of the the image file.
+
+  [FULL] wikipedia_location_image_wref [string?]
+
+    The (Japanese) Wikipedia reference of the image file for the
+    location of the region, if any.
 
   [FULL] wref [string?]
 
@@ -349,9 +363,9 @@ are available at <http://nlftp.mlit.go.jp/ksj/other/yakkan.html> (平成
 The JSON data partially derived from 日本の都道府県, which is licensed
 under CC0.
 
-[FULL] The |jp-regions-full.json| file contains data extracted from
-Wikipedia.  See the following document for the full license terms:
+[FULL] The |jp-regions-full.json| and |jp-regions-full-flatten.json|
+files contain data extracted from Wikipedia.  See the following
+document for the full license terms:
 
-  Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0
-Unported License
+  Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License
   <http://ja.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License>

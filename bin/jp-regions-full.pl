@@ -11,7 +11,8 @@ our $Data = file2perl $root_d->file ('data', 'jp-regions.json');
 
 sub copy ($$) {
   my ($f, $t) = @_;
-  for my $key (qw(url wref symbols)) {
+  for my $key (qw(url wref area_symbols neighbor_pref_names
+                  wikipedia_location_image_wref)) {
     $t->{$key} = $f->{$key} if defined $f->{$key};
   }
   $t->{wikipedia_image} = {
