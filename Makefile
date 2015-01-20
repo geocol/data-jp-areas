@@ -47,16 +47,14 @@ local/cache/xml/jawiki-latest-pages-meta-current.xml.bz2:
 	$(WGET) -O $@ http://download.wikimedia.org/jawiki/latest/jawiki-latest-pages-meta-current.xml.bz2
 
 wp-autoupdate: deps wp-clean wp-data
+	$(GIT) add intermediate
 
 wp-clean:
 	cd intermediate && make wp-clean
-
 wp-deps:
 	cd intermediate && make wp-deps
-
-wp-data: wp-deps
+wp-data:
 	cd intermediate && make wp-data
-	$(GIT) add intermediate
 
 ## ------ Data ------
 
