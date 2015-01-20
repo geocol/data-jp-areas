@@ -205,14 +205,13 @@ Values contain following name/value pairs:
 
     The area name (same as JSON object's name in non-flatten files).
 
-  [FLATTEN] neighbor_pref_ids [object?]
+  [FLATTEN] neighbor_region_ids [object?]
 
-    Names are IDs of neighbor prefectures and values are true values.
+    Names are IDs of neighbor regions and values are true values.
 
-  [NON-FLATTEN] neighbor_pref_names [object?]
+  [NON-FLATTEN] neighbor_region_names [object?]
 
-    Names are names of neighbor prefectures and values are true
-    values.
+    Names are names of neighbor regions and values are true values.
 
   office [object?]
 

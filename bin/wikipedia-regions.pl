@@ -32,6 +32,14 @@ sub _n ($) {
   return get_fwhw_normalized $s;
 } # _n
 
+sub _sp ($) {
+  my $s = shift;
+  $s =~ s/\A\s+//;
+  $s =~ s/\s+\z//;
+  $s =~ s/\s+/ /;
+  return $s;
+} # _sp
+
 sub _tc ($);
 sub _tc ($) {
   my $el = $_[0];
@@ -89,8 +97,9 @@ my $Defs = {
     type => 'text',
   },
   市章 => {
-    name => 'symbol_wref',
-    type => 'file',
+    name => 'symbol_list',
+    scalar_name => 'symbol_wref',
+    type => 'file_list',
   },
   市章の説明 => {
     name => 'symbol_label',
@@ -105,8 +114,9 @@ my $Defs = {
     type => 'text',
   },
   紋章 => {
-    name => 'symbol_wref',
-    type => 'file',
+    name => 'symbol_list',
+    scalar_name => 'symbol_wref',
+    type => 'file_list',
   },
   紋章の説明 => {
     name => 'symbol_label',
@@ -149,36 +159,71 @@ sub extract_from_data ($$$$) {
         my $fc = $ip->first_element_child;
         if ($fc and $fc->local_name eq 'l' and $fc->has_attribute ('embed')) {
           $value = $fc->get_attribute ('wref') || _tc $fc;
-        } elsif ($fc and $fc->local_name eq 'include' and
-                 (lc $fc->get_attribute ('wref')) eq 'flagicon') {
-          $cv1->begin;
-          $mw->get_source_text_by_name_as_cv ("Template:Country flag alias $target_wref")->cb (sub {
-            my $data = $_[0]->recv;
-            if (defined $data) {
-              my $doc = new Web::DOM::Document;
-              my $parser = Text::MediaWiki::Parser->new;
-              $parser->parse_char_string ($data => $doc);
-              my $n = _tc $doc->body;
-              $n =~ s/\A\s+//;
-              $n =~ s/\s+\z//;
-              $Data->{$target}->{$def->{name}} = "ファイル:$n" if length $n;
-            }
-            $cv1->end;
-          });
+        } elsif ($fc and $fc->local_name eq 'include') {
+          if ((lc $fc->get_attribute ('wref')) eq 'flagicon') {
+            $cv1->begin;
+            $mw->get_source_text_by_name_as_cv ("Template:Country flag alias $target_wref")->cb (sub {
+              my $data = $_[0]->recv;
+              if (defined $data) {
+                my $doc = new Web::DOM::Document;
+                my $parser = Text::MediaWiki::Parser->new;
+                $parser->parse_char_string ($data => $doc);
+                my $n = _tc $doc->body;
+                $n =~ s/\A\s+//;
+                $n =~ s/\s+\z//;
+                $Data->{$target}->{$def->{name}} = "ファイル:$n" if length $n;
+              }
+              $cv1->end;
+            });
+          }
         } else {
+          $value = _sp _tc $ip;
+          $value = 'File:' . $value unless $value =~ /:/;
+        }
+        $Data->{$target}->{$def->{name}} = $value
+            if defined $value and length $value;
+      } elsif ($def->{type} eq 'file_list') {
+        my $items = $Data->{$target}->{$def->{name}} ||= [];
+        my $item = {};
+        for my $node ($ip->child_nodes->to_list) {
+          if ($node->node_type == $node->ELEMENT_NODE) {
+            if ($node->local_name eq 'l' and $node->has_attribute ('embed')) {
+              if (defined $item->{name}) {
+                $item->{name} = _n $item->{name};
+                push @$items, $item;
+                $item = {};
+              }
+              $item->{wref} = _tc $node;
+              $item->{name} = '';
+            } elsif ($node->local_name eq 'ref') {
+              #
+            } else {
+              $item->{name} .= _tc $node if defined $item->{name};
+            }
+          } elsif ($node->node_type == $node->TEXT_NODE) {
+            $item->{name} .= _tc $node if defined $item->{name};
+          }
+        }
+        if (defined $item->{name}) {
+          $item->{name} = _n $item->{name};
+          push @$items, $item;
+        }
+        if (not @$items and defined $def->{scalar_name}) {
           $value = _n _tc $ip;
+          $Data->{$target}->{$def->{scalar_name}} = $value
+              if defined $value and length $value;
         }
       } else {
         $value = _n _tc $ip;
+        $Data->{$target}->{$def->{name}} = $value
+            if defined $value and length $value;
       }
-      $Data->{$target}->{$def->{name}} = $value
-          if defined $value and length $value;
     } elsif ($name eq 'シンボル名') {
-      $symbols_label = [split /\x0A/, _tc $ip];
+      $symbols_label = [split /[\x0A、]/, _tc $ip];
     } elsif ($name eq '歌など' or $name eq '鳥など') {
       my $value = _tc $ip;
       $value =~ s{\x0A\s*([\(\（])}{ $1}g;
-      $symbols_value = [split /\x0A/, $value];
+      $symbols_value = [split /[\x0A、]/, $value];
     } elsif ($name eq '外部リンク') {
       my $fc = $ip->first_element_child;
       if ($fc and $fc->local_name eq 'xl') {
@@ -191,6 +236,7 @@ sub extract_from_data ($$$$) {
       my $value = _tc $ip;
       $value =~ s{\x0A\s*([\(\（])}{ $1}g;
       for (split /[、\x0A]/, $value) {
+        next if $_ eq 'なし';
         push @{$Data->{$target}->{symbols} ||= []},
             {type => {木 => 'tree', 花 => 'flower',
                       鳥 => 'bird'}->{$name}, name => _n $_};
@@ -198,19 +244,41 @@ sub extract_from_data ($$$$) {
     } elsif ($name eq '隣接都道府県') {
       for ($ip->children->to_list) {
         if ($_->local_name eq 'l') {
-          $Data->{$target}->{neighbor_pref_names}->{$_->text_content} = 1;
+          $Data->{$target}->{neighbor_region_names}->{$_->text_content} = $_->text_content;
+        }
+      }
+    } elsif ($name eq '隣接自治体') {
+      for ($ip->children->to_list) {
+        if ($_->local_name eq 'l') {
+          my $name = $_->text_content;
+          next unless $name =~ /[市区町村]$/;
+          $Data->{$target}->{neighbor_region_names}->{$name} = $_->get_attribute ('wref') // $name;
         }
       }
     }
   } # $ip
   $cv1->end;
   $cv1->cb (sub {
+    for (@{delete $Data->{$target}->{symbol_list} or []}) {
+      if (defined $Data->{$target}->{symbol_label} and
+          (not defined $_->{name} or not length $_->{name})) {
+        $_->{name} = $Data->{$target}->{symbol_label};
+      }
+      if ($_->{name} =~ /旗/) {
+        $_->{type} = 'flag';
+      } else {
+        $_->{type} = 'symbol';
+      }
+      push @{$Data->{$target}->{symbols} ||= []}, $_;
+    }
+
     if (defined $Data->{$target}->{symbol_wref}) {
       my $d = {type => 'mark', wref => delete $Data->{$target}->{symbol_wref}};
-        $d->{name} = delete $Data->{$target}->{symbol_label}
-            if defined $Data->{$target}->{symbol_label};
-        unshift @{$Data->{$target}->{symbols} ||= []}, $d;
-      }
+      $d->{name} = delete $Data->{$target}->{symbol_label}
+          if defined $Data->{$target}->{symbol_label};
+      $d->{type} = 'flag' if defined $d->{name} and $d->{name} =~ /旗/;
+      unshift @{$Data->{$target}->{symbols} ||= []}, $d;
+    }
       if (defined $Data->{$target}->{flag_wref}) {
         my $d = {type => 'flag', wref => delete $Data->{$target}->{flag_wref}};
         $d->{name} = delete $Data->{$target}->{flag_label}
@@ -247,7 +315,7 @@ sub extract_from_data ($$$$) {
               $_->{color_value} = uc $1;
             }
             delete $_->{label} if $_->{label} eq '' or
-                $_->{label} =~ /^[都道府県市区町村]の[歌魚獣日鳥]$/;
+                $_->{label} =~ /^(?:[都道府県市区町村]の|)[歌魚獣日鳥]$/;
           }
           push @{$Data->{$target}->{symbols} ||= []}, @v;
         }
@@ -271,8 +339,12 @@ sub extract_from_data ($$$$) {
 
     my $symbols = delete $Data->{$target}->{symbols} || [];
     for my $symbol (@$symbols) {
+      next if ($symbol->{label} // '') eq '他のシンボル' and
+              ($symbol->{name} // '') eq 'なし';
+
       push @{$Data->{$target}->{area_symbols}->{$symbol->{type} // 'misc'} ||= []}, $symbol;
       delete $symbol->{type};
+      delete $symbol->{name} if defined $symbol->{name} and not length $symbol->{name};
     }
 
     $Data->{$target}->{wref} = $target_wref;
