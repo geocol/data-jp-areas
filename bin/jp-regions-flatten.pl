@@ -8,6 +8,7 @@ my $Input = json_bytes2perl path (__FILE__)->parent->parent->child ('data/jp-reg
 
 my $Data = {};
 
+my $pref_name_to_id = {};
 my $subpref_name_to_id = {};
 my $hokkaidou_district_name_to_id = {};
 
@@ -36,6 +37,9 @@ sub copy_data ($$;%) {
     $Data->{regions}->{$in->{id}} = $data;
     $data->{qualified_name} = $path . $key;
     $data->{name} = $key;
+    if ($in->{type} eq 'pref') {
+      $pref_name_to_id->{$key} = $in->{id};
+    }
     if ($in->{type} eq 'subpref') {
       $subpref_name_to_id->{$key} = $in->{id};
     }
@@ -74,6 +78,9 @@ for my $data (values %{$Data->{regions}}) {
     $data->{district_id} = $hokkaidou_district_name_to_id->{$data->{district_name}} // die $data->{name};
     set_descendant_data $data => $data->{district_id};
     delete $data->{district_name};
+  }
+  for (keys %{delete $data->{neighbor_pref_names} or {}}) {
+    $data->{neighbor_pref_names}->{$pref_name_to_id->{$_}} = 1;
   }
 }
 
