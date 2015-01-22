@@ -39,12 +39,12 @@ local/perl-latest/pm/lib/perl5/JSON/PS.pm:
 
 ## ------ Wikipedia dumps ------
 
-wikipedia-dumps: local/xml/jawiki-latest-pages-meta-current.xml
+wikipedia-dumps: local/xml/ja.xml
 
 %.xml: %.xml.bz2
 	bzcat $< > $@
 
-local/xml/jawiki-latest-pages-meta-current.xml.bz2:
+local/xml/ja.xml.bz2:
 	mkdir -p local/xml
 	$(WGET) -O $@ http://download.wikimedia.org/jawiki/latest/jawiki-latest-pages-meta-current.xml.bz2
 
