@@ -22,8 +22,7 @@ our $Data = file2perl $data_f;
 
 my $wp_d = dir ($ENV{WP_DATA_DIR} // $root_d->subdir ('local'));
 my $mw = AnyEvent::MediaWiki::Source->new_from_dump_f_and_cache_d
-    ($wp_d->file ('xml', 'jawiki-latest-pages-meta-current.xml'),
-     $wp_d->subdir ('cache'));
+    ($wp_d->file ('xml', 'ja.xml'), $wp_d->subdir ('cache'));
 
 sub _n ($) {
   my $s = shift;
