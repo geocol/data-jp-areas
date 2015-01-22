@@ -7,6 +7,8 @@ GIT = git
 updatenightly: clean deps all
 	$(GIT) add data/* intermediate/*
 
+updatenightlywp: wp-autoupdate
+
 ## ------ Setup ------
 
 WGET = wget
