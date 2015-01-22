@@ -37,13 +37,13 @@ local/perl-latest/pm/lib/perl5/JSON/PS.pm:
 
 ## ------ Wikipedia dumps ------
 
-wikipedia-dumps: local/cache/xml/jawiki-latest-pages-meta-current.xml
+wikipedia-dumps: local/xml/jawiki-latest-pages-meta-current.xml
 
 %.xml: %.xml.bz2
 	bzcat $< > $@
 
-local/cache/xml/jawiki-latest-pages-meta-current.xml.bz2:
-	mkdir -p local/cache/xml
+local/xml/jawiki-latest-pages-meta-current.xml.bz2:
+	mkdir -p local/xml
 	$(WGET) -O $@ http://download.wikimedia.org/jawiki/latest/jawiki-latest-pages-meta-current.xml.bz2
 
 wp-autoupdate: deps wp-clean wp-data
