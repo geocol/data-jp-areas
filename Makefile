@@ -48,13 +48,15 @@ local/xml/ja.xml.bz2:
 	mkdir -p local/xml
 	$(WGET) -O $@ http://download.wikimedia.org/jawiki/latest/jawiki-latest-pages-meta-current.xml.bz2
 
-wp-autoupdate: deps wp-clean wp-data
+wp-autoupdate: deps wp-clean wp-deps wp-pre-touch wp-data
 	$(GIT) add intermediate
 
 wp-clean:
 	cd intermediate && make wp-clean
 wp-deps:
 	cd intermediate && make wp-deps
+wp-pre-touch:
+	cd intermediate && make wp-pre-touch
 wp-data:
 	cd intermediate && make wp-data
 

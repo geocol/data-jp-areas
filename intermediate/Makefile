@@ -4,8 +4,11 @@ PERL = ../perl
 WGET = wget
 
 ## requires Wikipedia database
-wp-deps: ../bin/prepare-wikipedia-cache.pl
+wp-deps: ../bin/prepare-wikipedia-cache.pl ../local/jp-regions-for-wp.json
 	$(PERL) ../bin/prepare-wikipedia-cache.pl
+
+wp-pre-touch: ../local/jp-regions-for-wp.json
+	touch ../local/jp-regions-for-wp.json
 
 wp-clean:
 
