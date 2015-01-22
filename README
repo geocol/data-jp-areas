@@ -12,6 +12,8 @@ There are following data files:
       Prefectures, cities, towns, and villages in Japan.
   jp-regions-full.json
       Ditto, with additional data.
+  jp-regions-full-flatten.json
+      Ditto, with additional data, flatten view.
   jp-regions-suffix-mixed-names.json
       Regions in Japan, whose name contains region suffix (within name).
   jp-zip.json

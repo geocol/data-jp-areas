@@ -1,12 +1,16 @@
-jp-regions.json, jp-regions-full.json
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+jp-regions.json, jp-regions-full.json, jp-regions-flatten.json
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 These files contain the list of administrative divisions (行政区画) in
 Japan.  File |jp-regions-full.json| contain more properties than file
-|jp-regions.json|.  Data contained only in |jp-regions-full.json| are
-marked as "[FULL]" in this document.
+|jp-regions.json|.  File |jp-regions-full-flatten.json| has different
+data structure from the other files.  Data contained only in
+|jp-regions-full.json| and |jp-regions-full-flatten.json| are marked
+as "[FULL]" in this document.  Data contained only in
+|jp-regions-full-flatten.json| are marked as "[FLATTEN]" and data not
+contained in the file are marked as "[NON-FLATTEN]" in this document.
 
-* Structure
+* Structure of non-flatten files
 
 These files contain an "area list" JSON object containing 47
 prefectures (都道府県) in Japan.
@@ -25,6 +29,15 @@ The |areas| fields of the "area list" object of districts (郡) contain
 Note that districts (郡) in Hokkaidou prefecture (北海道) are not
 contained in |areas| field, but in |districts| field of the
 prefecture's area object.
+
+* Structure of flatten file
+
+The file contains a JSON object with a name |regions|, whose value is
+a JSON object where names are region IDs (value of |id| fields of area
+objects as described later) and values are corresponding area objects.
+
+Area objects in this file does not contain nested |areas| list.
+Instead, they contain region IDs of ancestor and descendant regions.
 
 * The "area list" JSON object structure
 
@@ -53,7 +66,7 @@ Tomari-mura (泊村) in Furuu district, Hokkaidou (北海道古宇郡):
 
 Values contain following name/value pairs:
 
-  area_names [object?]
+  [NON-FLATTEN] area_names [object?]
 
     If the area is a district (郡) in Hokkaidou prefecture (北海道),
     or is a subprefecture or branch office (振興局, 支庁) in Hokkaidou
@@ -62,84 +75,24 @@ Values contain following name/value pairs:
     names are town or village names and values are boolean true
     values.
 
-  areas [object?]
-
-    Subareas, if any, represented as a nested "area list" object.
-
-  code [string?]
-
-    The two or five digit code (i.e. without check digit) of the local
-    government of the area (全国地方公共団体コード - JIS X 0401, JIS X
-    0402), if any.
-
-  district_name [string?]
-
-    For towns and villages in Hokkaidou prefecture (北海道) only, the
-    name of the district (郡) to which it belongs.  As noted in the
-    previous section, some district names contain country (国) name
-    annotation.
-
-  districts [object?]
-
-    If the area is Hokkaidou prefecture (北海道), districts (郡) in
-    the prefecture, represented as a nested "area list" object.  (For
-    other prefectures, they are contained in |areas| field.)
-
-  kana [string?]
-
-    Hiragana representation of area name, if known.
-
-  latin [string?]
-
-    Latin (roman) representation of area name, if known.
-
-  office [object?]
-
-    The location of the local government office (都道府県庁, 市区役所,
-    町村役場) of the area, if exists and known.  This is a JSON object
-    with following name/value pairs:
-
-      address [string?]
-
-        The string representation of the address of the office, within
-        the area (i.e. the area name prefix is omitted), except when
-        |not_in_area| is true, in such case, the address string in
-        Japan (i.e. the prefecture and the city are not omitted).
-
-      not_in_area [boolean]
-
-        If true, the office is located outside of the area.
-
-      position
-
-        The WGS84 geographical location of the office, represented as
-        a JSON array of latitude and longitude number values.
-
-  position
-
-    The WGS84 geographical location of somewhere in the area,
-    represented as a JSON array of latitude and longitude number
-    values.  This name/value pair is only specified when |office|'s
-    |not_in_area| is true at the moment.
-
-  subpref_name [string?]
-
-    If the area is a city, town, or village in Hokkaidou (北海道) or
-    Tokyo (東京都) prefecture, the name of the subprefecture or branch
-    office by which the area is administrated.
-
-  subprefs [object?]
-
-    If the area is Hokkaidou (北海道) or Tokyo (東京都) prefecture,
-    list of subprefecture or branch office (振興局, 支庁), represented
-    as a nested "area list" object.  Note that they are local
-    government branches rather than areas.
-
-  [FULL] symbols
+  [FULL] area_symbols [object?]
 
     Symbols of the area, such as flag, tree, song, and so on.  if
-    exists and known.  If specified, it is a JSON array of JSON
-    objects, containing following name/value pairs:
+    exists and known.  Names are symbol types, which are one of
+    followings:
+
+      animal   The animal of the area (獣).
+      bird     The bird of the area (鳥).
+      day      The memorial day of the area (記念日).
+      fish     The fish of the area (魚).
+      flag     The flag of the area (旗).
+      flower   The flower of the area (花).
+      mark     The symbol mark of the area (章).
+      tree     The tree of the area (木).
+      other    Other kinds of symbols.
+
+    Values are JSON arrays of JSON objects, containing following
+    name/value pairs:
 
       color_value [string?]
 
@@ -168,27 +121,159 @@ Values contain following name/value pairs:
 
         The name of the symbol, if exists.
 
-      type [string?]
-
-        The type of the symbol, if known.  If specified, one of
-        following values:
-
-          bird     The bird of the area.
-          day      The memorial day of the area.
-          fish     The fish of the area.
-          flag     The flag of the area.
-          flower   The flower of the area.
-          mark     The symbol mark of the area.
-          tree     The tree of the area.
-
       wref [string?]
 
         If |type| is |mark| or |flag|, the Wikipedia reference of the
         image data in Japanese Wikipedia.
 
-    Order of items with different |type| or |label| is irrelevant.
-    Order of items with same |type| and/or |label| might be
-    significant.
+    Order of items might or might not be significant.
+
+  [NON-FLATTEN] areas [object?]
+
+    Subareas, if any, represented as a nested "area list" object.
+
+  [FLATTEN] city_id [integer?]
+
+    The region ID of the city to which the region belongs, if any.
+
+  code [string?]
+
+    The two or five digit code (i.e. without check digit) of the local
+    government of the area (全国地方公共団体コード - JIS X 0401, JIS X
+    0402), if any.
+
+  [FLATTEN] descendant_city_ids [object?]
+
+    Names are region IDs of the cities in the region and values are
+    true values.
+
+  [FLATTEN] descendant_district_ids [object?]
+
+    Names are region IDs of the districts in the region and values are
+    true values.
+
+  [FLATTEN] descendant_subprefs_ids [object?]
+
+    Names are region IDs of the subprefectures in the region and
+    values are true values.
+
+  [FLATTEN] descendant_town_ids [object?]
+
+    Names are region IDs of the towns in the region and values are
+    true values.
+
+  [FLATTEN] descendant_village_ids [object?]
+
+    Names are region IDs of the villages in the region and values are
+    true values.
+
+  [FLATTEN] descendant_ward_ids [object?]
+
+    Names are region IDs of the wards in the region and values are
+    true values.
+
+  [FLATTEN] district_id [integer?]
+
+    The region ID of the district to which the region belongs, if any.
+
+  [NON-FLATTEN] district_name [string?]
+
+    For towns and villages in Hokkaidou prefecture (北海道) only, the
+    name of the district (郡) to which it belongs.  As noted in the
+    previous section, some district names contain country (国) name
+    annotation.
+
+  districts [object?]
+
+    If the area is Hokkaidou prefecture (北海道), districts (郡) in
+    the prefecture, represented as a nested "area list" object.  (For
+    other prefectures, they are contained in |areas| field.)
+
+  id [number]
+
+    An opaque ID for the area, unique within this file.
+
+  kana [string?]
+
+    Hiragana representation of area name, if known.
+
+  latin [string?]
+
+    Latin (roman) representation of area name, if known.
+
+  [FLATTEN] name [string]
+
+    The area name (same as JSON object's name in non-flatten files).
+
+  [FLATTEN] neighbor_region_ids [object?]
+
+    Names are IDs of neighbor regions and values are true values.
+
+  [NON-FLATTEN] neighbor_region_names [object?]
+
+    Names are names of neighbor regions and values are true values.
+
+  office [object?]
+
+    The location of the local government office (都道府県庁, 市区役所,
+    町村役場) of the area, if exists and known.  This is a JSON object
+    with following name/value pairs:
+
+      address [string?]
+
+        The string representation of the address of the office, within
+        the area (i.e. the area name prefix is omitted), except when
+        |not_in_area| is true, in such case, the address string in
+        Japan (i.e. the prefecture and the city are not omitted).
+
+      not_in_area [boolean]
+
+        If true, the office is located outside of the area.
+
+      position
+
+        The WGS84 geographical location of the office, represented as
+        a JSON array of latitude and longitude number values.
+
+  [FLATTEN] parent_region_id [integer?]
+
+    The region ID of the region to which the region directly belongs,
+    if any.
+
+  position
+
+    The WGS84 geographical location of somewhere in the area,
+    represented as a JSON array of latitude and longitude number
+    values.  This name/value pair is only specified when |office|'s
+    |not_in_area| is true at the moment.
+
+  [FLATTEN] pref_id [integer?]
+
+    The region ID of the prefecture to which the region belongs
+    directly or indirectly, if any.
+
+  [FLATTEN] qualified_name [string]
+
+    The qualified name of the parent region, if any, followed by the
+    area name.
+
+  [FLATTEN] subpref_id [integer?]
+
+    The region ID of the subprefecture by which the region is
+    administrated, if any.
+
+  [NON-FLATTEN] subpref_name [string?]
+
+    If the area is a city, town, or village in Hokkaidou (北海道) or
+    Tokyo (東京都) prefecture, the name of the subprefecture or branch
+    office by which the area is administrated.
+
+  [NON-FLATTEN] subprefs [object?]
+
+    If the area is Hokkaidou (北海道) or Tokyo (東京都) prefecture,
+    list of subprefecture or branch office (振興局, 支庁), represented
+    as a nested "area list" object.  Note that they are local
+    government branches rather than areas.
 
   type [string]
 
@@ -208,7 +293,7 @@ Values contain following name/value pairs:
 
   [FULL] wikipedia_image [object?]
 
-    The Wikipedia (Japanese) image data of the area, if any.  If
+    The (Japanese) Wikipedia image data of the area, if any.  If
     specified, the object contains following name/value pairs:
 
       desc [string?]
@@ -217,7 +302,12 @@ Values contain following name/value pairs:
 
       wref [string]
 
-        The Wikipedia reference of the the image file.
+        The (Japanese) Wikipedia reference of the the image file.
+
+  [FULL] wikipedia_location_image_wref [string?]
+
+    The (Japanese) Wikipedia reference of the image file for the
+    location of the region, if any.
 
   [FULL] wref [string?]
 
@@ -272,9 +362,9 @@ are available at <http://nlftp.mlit.go.jp/ksj/other/yakkan.html> (平成
 The JSON data partially derived from 日本の都道府県, which is licensed
 under CC0.
 
-[FULL] The |jp-regions-full.json| file contains data extracted from
-Wikipedia.  See the following document for the full license terms:
+[FULL] The |jp-regions-full.json| and |jp-regions-full-flatten.json|
+files contain data extracted from Wikipedia.  See the following
+document for the full license terms:
 
-  Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0
-Unported License
+  Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License
   <http://ja.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License>

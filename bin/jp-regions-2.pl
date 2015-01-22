@@ -17,7 +17,8 @@ for (@$map) {
     my $subpref = $_->[1] or next;
     $Data->{$region->[0]}->{areas}->{$region->[1]}->{subpref_name} = $subpref
         if $region->[0] eq '北海道';
-    $Data->{$region->[0]}->{subprefs}->{$subpref}->{area_names}->{$region->[1]} = 1;
+    $Data->{$region->[0]}->{subprefs}->{$subpref}->{area_names}->{$region->[1]} = 1
+        if $region->[0] eq '北海道' or $region->[0] eq '東京都';
 }
 
 print perl2json_bytes_for_record $Data;

@@ -1,11 +1,11 @@
 all: deps all-jpregions all-jpzip
 
-clean: clean-jpregions clean-jpzip
+clean: clean-jpregions clean-jpzip clean-json-ps
 
 GIT = git
 
 updatenightly: clean deps all
-	$(GIT) add data/*
+	$(GIT) add data/* intermediate/*
 
 ## ------ Setup ------
 
@@ -13,7 +13,7 @@ WGET = wget
 GIT = git
 PERL = ./perl
 
-deps: git-submodules pmbp-install
+deps: git-submodules pmbp-install json-ps
 
 git-submodules:
 	$(GIT) submodule update --init
@@ -28,6 +28,13 @@ pmbp-update: git-submodules pmbp-upgrade
 pmbp-install: pmbp-upgrade
 	perl local/bin/pmbp.pl --install
 
+json-ps: local/perl-latest/pm/lib/perl5/JSON/PS.pm
+clean-json-ps:
+	rm -fr local/perl-latest/pm/lib/perl5/JSON/PS.pm
+local/perl-latest/pm/lib/perl5/JSON/PS.pm:
+	mkdir -p local/perl-latest/pm/lib/perl5/JSON
+	$(WGET) -O $@ https://raw.githubusercontent.com/wakaba/perl-json-ps/master/lib/JSON/PS.pm
+
 ## ------ Wikipedia dumps ------
 
 wikipedia-dumps: local/cache/xml/jawiki-latest-pages-meta-current.xml
@@ -40,21 +47,19 @@ local/cache/xml/jawiki-latest-pages-meta-current.xml.bz2:
 	$(WGET) -O $@ http://download.wikimedia.org/jawiki/latest/jawiki-latest-pages-meta-current.xml.bz2
 
 wp-autoupdate: deps wp-clean wp-data
+	$(GIT) add intermediate
 
 wp-clean:
 	cd intermediate && make wp-clean
-
 wp-deps:
 	cd intermediate && make wp-deps
-
-wp-data: wp-deps
+wp-data:
 	cd intermediate && make wp-data
-	$(GIT) add intermediate
 
 ## ------ Data ------
 
 all-jpregions: data/jp-regions.json data/jp-regions-full.json \
-    data/jp-regions-suffix-mixed-names.json
+    data/jp-regions-suffix-mixed-names.json data/jp-regions-full-flatten.json
 clean-jpregions: clean-jpzip
 	rm -fr local/soumu-jp-regions.csv
 
@@ -73,13 +78,18 @@ local/jp-regions.json: local/japanpost-jp-regions.json bin/jp-regions.pl \
     local/soumu-jp-regions.json
 	$(PERL) bin/jp-regions.pl > $@
 
-data/jp-regions.json: local/jp-regions.json local/hokkaidou-subprefs.json \
+local/jp-regions-2.json: local/jp-regions.json local/hokkaidou-subprefs.json \
     bin/jp-regions-2.pl
 	$(PERL) bin/jp-regions-2.pl > $@
 
+data/jp-regions.json: local/jp-regions-2.json bin/jp-regions-3.pl
+	$(PERL) bin/jp-regions-3.pl > $@
 data/jp-regions-full.json: data/jp-regions.json bin/jp-regions-full.pl \
     intermediate/wikipedia-regions.json
 	$(PERL) bin/jp-regions-full.pl > $@
+data/jp-regions-full-flatten.json: data/jp-regions-full.json \
+    bin/jp-regions-flatten.pl
+	$(PERL) bin/jp-regions-flatten.pl > $@
 
 all-jpzip: data/jp-zip.json
 clean-jpzip:
@@ -147,7 +157,7 @@ PROVE = ./prove
 
 test: test-deps test-main
 
-test-deps: deps
+test-deps: deps local/bin/jq
 
 test-main:
-	#$(PROVE) t/*.t
+	$(PROVE) t/*.t
