@@ -20,9 +20,10 @@ my $data_f = $root_d->file ('intermediate', 'wikipedia-regions.json');
 
 our $Data = file2perl $data_f;
 
+my $wp_d = dir ($ENV{WP_DATA_DIR} // $root_d->subdir ('local'));
 my $mw = AnyEvent::MediaWiki::Source->new_from_dump_f_and_cache_d
-    ($root_d->file ('local', 'cache', 'xml', 'jawiki-latest-pages-meta-current.xml'),
-     $root_d->subdir ('local', 'cache'));
+    ($wp_d->file ('xml', 'jawiki-latest-pages-meta-current.xml'),
+     $wp_d->subdir ('cache'));
 
 sub _n ($) {
   my $s = shift;
