@@ -9,7 +9,7 @@ use JSON::Functions::XS qw(perl2json_bytes_for_record file2perl);
 my $root_d = file (__FILE__)->dir->parent;
 
 my $regions = do {
-  my $f = $root_d->file ('local', 'jp-regions.json');
+  my $f = $root_d->file ('local', 'jp-regions-for-wp.json');
   [keys %{file2perl $f}];
 };
 
