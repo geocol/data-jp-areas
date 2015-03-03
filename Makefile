@@ -97,34 +97,24 @@ data/jp-regions-full-flatten.json: data/jp-regions-full.json \
 
 all-jpzip: data/jp-zip.json
 clean-jpzip:
-	rm -fr local/ken_all.lzh local/ken_all_rome.lzh
+	rm -fr local/ken_all.zip local/ken_all_rome.zip
 
 data/jp-zip.json: local/ken_all.csv bin/jp-zip.pl
 	$(PERL) bin/jp-zip.pl > $@
 
-local/ken_all.csv: local/ken_all.lzh local/bin/lhasa
-	cd local && bin/lhasa xf ken_all.lzh
+local/ken_all.csv: local/ken_all.zip
+	cd local && unzip ken_all.zip
 	touch $@
-local/ken_all_rome.csv: local/ken_all_rome.lzh local/bin/lhasa
-	cd local && bin/lhasa xf ken_all_rome.lzh
+local/ken_all_rome.csv: local/ken_all_rome.zip
+	cd local && unzip ken_all_rome.zip
 	touch $@
 
-local/ken_all.lzh:
+local/ken_all.zip:
 	mkdir -p local
-	$(WGET) -O $@ http://www.post.japanpost.jp/zipcode/dl/kogaki/lzh/ken_all.lzh
-local/ken_all_rome.lzh:
+	$(WGET) -O $@ http://www.post.japanpost.jp/zipcode/dl/kogaki/zip/ken_all.zip
+local/ken_all_rome.zip:
 	mkdir -p local
-	$(WGET) -O $@ http://www.post.japanpost.jp/zipcode/dl/roman/ken_all_rome.lzh
-
-local/bin/lhasa: local/lhasa-0.2.0.tar.gz
-	mkdir -p local/bin
-	cd local && tar zxf lhasa-0.2.0.tar.gz
-	cd local/lhasa-0.2.0 && ./configure && make
-	cp local/lhasa-0.2.0/src/lha local/bin/lhasa
-
-local/lhasa-0.2.0.tar.gz:
-	mkdir -p local
-	$(WGET) -O $@ --no-check-certificate https://soulsphere.org/projects/lhasa/lhasa-0.2.0.tar.gz
+	$(WGET) -O $@ http://www.post.japanpost.jp/zipcode/dl/roman/ken_all_rome.zip
 
 intermediate/lg-offices.json: bin/extract-offices.pl
 	$(PERL) bin/extract-offices.pl > $@
