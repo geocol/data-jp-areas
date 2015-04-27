@@ -940,8 +940,8 @@
             "type" : "city",
             "url" : "http://www.city.owase.lg.jp/",
             "wikipedia_image" : {
-               "desc" : "尾鷲市街地",
-               "wref" : "File:Nakamurayama.jpg"
+               "desc" : "天狗倉山から見下ろす尾鷲市の中心市街地と尾鷲港",
+               "wref" : "File:Owase, Mie.JPG"
             },
             "wref" : "尾鷲市"
          },
@@ -1854,7 +1854,7 @@
                ]
             },
             "type" : "city",
-            "url" : "http://www.city.kyotango.kyoto.jp/",
+            "url" : "http://www.city.kyotango.lg.jp/",
             "wref" : "京丹後市"
          },
          "京田辺市" : {
@@ -3533,9 +3533,22 @@
                },
                "江北町" : {
                   "area_symbols" : {
+                     "flag" : [
+                        {
+                           "name" : "江北町旗",
+                           "wref" : "File:Flag of Kohoku Saga.JPG"
+                        }
+                     ],
                      "flower" : [
                         {
                            "name" : "水仙"
+                        }
+                     ],
+                     "symbol" : [
+                        {
+                           "date" : "1972-06-21",
+                           "name" : "江北町章",
+                           "wref" : "File:Symbol of Kohoku Saga.svg"
                         }
                      ],
                      "tree" : [
@@ -6648,12 +6661,6 @@
                      "name" : "アカゲラ"
                   }
                ],
-               "flag" : [
-                  {
-                     "name" : "ニセコ町旗",
-                     "wref" : "ファイル:Flag of Niseko, Hokkaido.svg"
-                  }
-               ],
                "flower" : [
                   {
                      "name" : "ラベンダー"
@@ -6662,7 +6669,7 @@
                "symbol" : [
                   {
                      "name" : "ニセコ町章",
-                     "wref" : "ファイル:Niseko Hokkaido chapter.JPG"
+                     "wref" : "File:Niseko Hokkaido chapter.JPG"
                   }
                ],
                "tree" : [
@@ -7535,6 +7542,12 @@
                      "name" : "キバナシャクナゲ"
                   }
                ],
+               "symbol" : [
+                  {
+                     "name" : "倶知安町章",
+                     "wref" : "File:Kutchan Hokkaido chapter.JPG"
+                  }
+               ],
                "tree" : [
                   {
                      "name" : "イタヤカエデ"
@@ -7563,6 +7576,10 @@
             "subpref_name" : "後志総合振興局",
             "type" : "town",
             "url" : "http://www.town.kutchan.hokkaido.jp/",
+            "wikipedia_image" : {
+               "desc" : "旭ヶ丘総合公園から眺めた倶知安市街(2006年)",
+               "wref" : "File:Kutchan town from Asahigaoka.JPG"
+            },
             "wref" : "倶知安町"
          },
          "八雲町" : {
@@ -7659,7 +7676,7 @@
                "flag" : [
                   {
                      "name" : "函館市旗",
-                     "wref" : "ファイル:Flag of Hakodate, Hokkaido.svg"
+                     "wref" : "File:Flag of Hakodate, Hokkaido.svg"
                   }
                ],
                "flower" : [
@@ -7670,7 +7687,7 @@
                "symbol" : [
                   {
                      "name" : "函館市章",
-                     "wref" : "ファイル:Hakodate Hokkaido chapter.JPG"
+                     "wref" : "File:Hakodate Hokkaido chapter.JPG"
                   }
                ],
                "tree" : [
@@ -10583,7 +10600,7 @@
                "symbol" : [
                   {
                      "date" : "1911-08",
-                     "name" : "札幌市徽章",
+                     "name" : "札幌徽章",
                      "wref" : "File:Sapporo Hokkaido chapter.JPG"
                   }
                ],
@@ -10867,7 +10884,7 @@
             "type" : "city",
             "url" : "http://www.city.sapporo.jp/",
             "wikipedia_image" : {
-               "desc" : "\u003Ctable style=\"width:300px;margin:2px auto;border-collapse:collapse\">\n\u003Ctr>\u003Ctd colspan=\"2\">札幌市街と藻岩山\u003C/tr>\n\u003Ctr>\u003Ctd>夜のすすきの繁華街\u003Ctd>札幌ドーム\u003C/tr>\n\u003Ctr>\u003Ctd rowspan=\"2\" style=\"vertical-align:middle;\">さっぽろテレビ塔\u003Ctd>北海道庁旧本庁舎\n(赤れんが庁舎)\u003C/tr>\n\u003Ctr>\u003Ctd>さっぽろ羊ヶ丘展望台\n(クラーク像)\u003C/tr>\n\u003C/table>",
+               "desc" : "\u003Ctable style=\"width:300px;margin:2px auto;border-collapse:collapse\">\n\u003Ctr>\u003Ctd colspan=\"2\">札幌街と藻岩山\u003C/tr>\n\u003Ctr>\u003Ctd>夜のすすきの繁華街\u003Ctd>札幌ドーム\u003C/tr>\n\u003Ctr>\u003Ctd rowspan=\"2\" style=\"vertical-align:middle;\">さっぽろテレビ塔\u003Ctd>北海道庁旧本庁舎\n(赤れんが庁舎)\u003C/tr>\n\u003Ctr>\u003Ctd>さっぽろ羊ヶ丘展望台\n(クラーク像)\u003C/tr>\n\u003C/table>",
                "wref" : "File:Sapporo montage.JPG"
             },
             "wref" : "札幌市"
@@ -12315,6 +12332,13 @@
                      "name" : "ツツジ"
                   }
                ],
+               "symbol" : [
+                  {
+                     "date" : "1964-12-16",
+                     "name" : "留萌市章",
+                     "wref" : "File:Rumoi Hokkaido chapter.svg"
+                  }
+               ],
                "tree" : [
                   {
                      "name" : "アカシア"
@@ -12341,6 +12365,10 @@
             "subpref_name" : "留萌振興局",
             "type" : "city",
             "url" : "http://www.e-rumoi.jp/",
+            "wikipedia_image" : {
+               "desc" : "上空から望む留萌市街",
+               "wref" : "File:Rumoi city from the sky.jpg"
+            },
             "wref" : "留萌市"
          },
          "登別市" : {
@@ -13537,6 +13565,12 @@
                      "name" : "コブシ"
                   }
                ],
+               "symbol" : [
+                  {
+                     "name" : "蘭越町章",
+                     "wref" : "File:Rankoshi Hokkaido chapter.JPG"
+                  }
+               ],
                "tree" : [
                   {
                      "name" : "コブシ"
@@ -13565,6 +13599,10 @@
             "subpref_name" : "後志総合振興局",
             "type" : "town",
             "url" : "http://www.town.rankoshi.hokkaido.jp/",
+            "wikipedia_image" : {
+               "desc" : null,
+               "wref" : "File:"
+            },
             "wref" : "蘭越町"
          },
          "西興部村" : {
@@ -15527,10 +15565,40 @@
          "印旛郡" : {
             "areas" : {
                "栄町" : {
+                  "area_symbols" : {
+                     "flag" : [
+                        {
+                           "name" : "栄町旗",
+                           "wref" : "ファイル:Flag of Sakae Chiba.JPG"
+                        }
+                     ],
+                     "flower" : [
+                        {
+                           "name" : "リンドウ"
+                        }
+                     ],
+                     "symbol" : [
+                        {
+                           "name" : "栄町章",
+                           "wref" : "ファイル:千葉県栄町町章.svg"
+                        }
+                     ],
+                     "tree" : [
+                        {
+                           "name" : "サザンカ"
+                        }
+                     ]
+                  },
                   "code" : "12329",
                   "id" : 1668,
                   "kana" : "さかえまち",
                   "latin" : null,
+                  "neighbor_region_names" : {
+                     "利根町" : "利根町",
+                     "印西市" : "印西市",
+                     "成田市" : "成田市",
+                     "河内町" : "河内町"
+                  },
                   "office" : {
                      "address" : "安食台1-2",
                      "position" : [
@@ -15542,7 +15610,7 @@
                   "url" : "http://www.town.sakae.chiba.jp/",
                   "wikipedia_image" : {
                      "desc" : "龍角寺岩屋古墳",
-                     "wref" : "Iwaya-kofun-zenkei.jpg"
+                     "wref" : "File:Iwaya-kofun-zenkei.jpg"
                   },
                   "wref" : "栄町"
                },
@@ -17220,7 +17288,7 @@
             "url" : "http://www.city.noda.chiba.jp/",
             "wikipedia_image" : {
                "desc" : "清水公園",
-               "wref" : "File:Chiba Noda Shimizu Park 1.JPG"
+               "wref" : "File:Noda Chiba Simizu Kouen 1.jpg"
             },
             "wref" : "野田市"
          },
@@ -19304,7 +19372,7 @@
          "day" : [
             {
                "date_value" : "11-14",
-               "label" : "県民の日"
+               "label" : "埼玉県民の日"
             }
          ],
          "fish" : [
@@ -19485,6 +19553,10 @@
                   },
                   "type" : "ward",
                   "url" : "http://www.city.saitama.jp/index_minamiku.html",
+                  "wikipedia_image" : {
+                     "desc" : null,
+                     "wref" : "ファイル:Lamza Tower and Proud Tower Terrace.jpg"
+                  },
                   "wref" : "南区 (さいたま市)"
                },
                "大宮区" : {
@@ -19515,6 +19587,10 @@
                   },
                   "type" : "ward",
                   "url" : "http://www.city.saitama.jp/index_omiyaku.html",
+                  "wikipedia_image" : {
+                     "desc" : null,
+                     "wref" : "File:Omiyapark-pond.jpg"
+                  },
                   "wref" : "大宮区"
                },
                "岩槻区" : {
@@ -30187,7 +30263,7 @@
             "type" : "city",
             "url" : "http://www.kuriharacity.jp/",
             "wikipedia_image" : {
-               "desc" : "JR新幹線も東北本線も通る栗原市「有壁駅」",
+               "desc" : "有壁駅",
                "wref" : "File:栗原市.jpg"
             },
             "wref" : "栗原市"
@@ -34470,7 +34546,7 @@
                      ]
                   },
                   "type" : "town",
-                  "url" : "http://www.town.mamurogawa.yamagata.jp/",
+                  "url" : "http://www.yume-net.org/",
                   "wref" : "真室川町"
                },
                "舟形町" : {
@@ -35141,10 +35217,45 @@
                   "wref" : "河北町"
                },
                "西川町" : {
+                  "area_symbols" : {
+                     "flower" : [
+                        {
+                           "name" : "ミズバショウ"
+                        },
+                        {
+                           "name" : "キク"
+                        }
+                     ],
+                     "misc" : [
+                        {
+                           "label" : "町の動物",
+                           "name" : "カモシカ"
+                        },
+                        {
+                           "label" : "町の色",
+                           "name" : "緑"
+                        }
+                     ],
+                     "tree" : [
+                        {
+                           "name" : "ブナ"
+                        }
+                     ]
+                  },
                   "code" : "06322",
                   "id" : 912,
                   "kana" : "にしかわまち",
                   "latin" : null,
+                  "neighbor_region_names" : {
+                     "大江町" : "大江町",
+                     "大蔵村" : "大蔵村",
+                     "寒河江市" : "寒河江市",
+                     "小国町" : "小国町 (山形県)",
+                     "庄内町" : "庄内町",
+                     "朝日町" : "朝日町 (山形県)",
+                     "村上市" : "村上市",
+                     "鶴岡市" : "鶴岡市"
+                  },
                   "office" : {
                      "address" : "海味510",
                      "position" : [
@@ -41536,10 +41647,26 @@
          },
          "滝沢市" : {
             "area_symbols" : {
+               "bird" : [
+                  {
+                     "name" : "カッコウ"
+                  }
+               ],
+               "flower" : [
+                  {
+                     "name" : "ヤマユリ"
+                  }
+               ],
                "symbol" : [
                   {
+                     "date" : "1965-10-25",
                      "name" : "滝沢市章",
                      "wref" : "File:Symbol of Takizawa Iwate.svg"
+                  }
+               ],
+               "tree" : [
+                  {
+                     "name" : "ベニヤマザクラ"
                   }
                ]
             },
@@ -41547,7 +41674,13 @@
             "id" : 778,
             "kana" : "たきざわし",
             "latin" : "Takizawa-shi",
+            "neighbor_region_names" : {
+               "八幡平市" : "八幡平市",
+               "盛岡市" : "盛岡市",
+               "雫石町" : "雫石町"
+            },
             "type" : "city",
+            "url" : "http://www.city.takizawa.iwate.jp",
             "wikipedia_image" : {
                "desc" : "\u003Ctable style=\"width:280px;margin:2px auto; border-collapse: collapse\">\n\u003Ctr>\u003Ctd colspan=\"2\">岩手山\u003C/tr>\n\u003Ctr>\u003Ctd>岩手県立大学\u003Ctd>滝沢駅\u003C/tr>\n\u003Ctr>\u003Ctd colspan=\"2\">滝沢インターチェンジ\u003C/tr>\n\u003C/table>",
                "wref" : "File:Takizawa montage.JPG"
@@ -43992,10 +44125,32 @@
             "wref" : "東広島市"
          },
          "江田島市" : {
+            "area_symbols" : {
+               "flag" : [
+                  {
+                     "name" : "江田島市旗",
+                     "wref" : "ファイル:Flag of Etajima Hiroshima.JPG"
+                  }
+               ],
+               "symbol" : [
+                  {
+                     "name" : "江田島市章",
+                     "wref" : "ファイル:Symbol of Etajima Hiroshima chapter.svg"
+                  }
+               ]
+            },
             "code" : "34215",
             "id" : 816,
             "kana" : "えたじまし",
             "latin" : null,
+            "neighbor_region_names" : {
+               "呉市" : "呉市",
+               "坂町" : "坂町",
+               "大竹市" : "大竹市",
+               "岩国市" : "岩国市",
+               "広島市" : "広島市",
+               "廿日市市" : "廿日市市"
+            },
             "office" : {
                "address" : "能美町中町4859-9",
                "position" : [
@@ -44007,7 +44162,7 @@
             "url" : "http://www.city.etajima.hiroshima.jp/",
             "wikipedia_image" : {
                "desc" : "海上自衛隊幹部候補生学校(旧海軍兵学校)",
-               "wref" : "Japanesenavalacademy001.JPG"
+               "wref" : "File:Japanesenavalacademy001.JPG"
             },
             "wref" : "江田島市"
          },
@@ -50050,7 +50205,7 @@
             "url" : "http://www.city.sanjo.niigata.jp/",
             "wikipedia_image" : {
                "desc" : null,
-               "wref" : "File:"
+               "wref" : "File:Signboard_of_Sanjo_City.JPG"
             },
             "wref" : "三条市"
          },
@@ -50805,8 +50960,8 @@
                   "type" : "ward",
                   "url" : "http://www.city.niigata.lg.jp/minami/",
                   "wikipedia_image" : {
-                     "desc" : "南区は果樹栽培が盛ん 特産品ル・レクチェ",
-                     "wref" : "ファイル:LeLectier.jpg"
+                     "desc" : "白根大凧合戦",
+                     "wref" : "ファイル:白根大凧合戦５.JPG"
                   },
                   "wikipedia_location_image_wref" : "File:Minami-ku in Niigata City.svg",
                   "wref" : "南区 (新潟市)"
@@ -50925,6 +51080,10 @@
                   },
                   "type" : "ward",
                   "url" : "http://www.city.niigata.lg.jp/nishi/",
+                  "wikipedia_image" : {
+                     "desc" : "佐潟",
+                     "wref" : "File:佐潟（新潟市）１.JPG"
+                  },
                   "wikipedia_location_image_wref" : "File:Nishi-ku in Niigata City.svg",
                   "wref" : "西区 (新潟市)"
                },
@@ -51878,7 +52037,6 @@
                ]
             },
             "type" : "ward",
-            "url" : "http://www.city.chuo.lg.jp/",
             "wikipedia_image" : {
                "desc" : "銀座四丁目交差点",
                "wref" : "File:Ginza01s3872.jpg"
@@ -63299,6 +63457,10 @@
                   },
                   "type" : "ward",
                   "url" : "http://www.city.yokohama.lg.jp/asahi/",
+                  "wikipedia_image" : {
+                     "desc" : "ズーラシア",
+                     "wref" : "File:Zoorasia.jpg"
+                  },
                   "wikipedia_location_image_wref" : "ファイル:地図-神奈川県横浜市旭区-2006.png",
                   "wref" : "旭区 (横浜市)"
                },
@@ -63323,6 +63485,10 @@
                   },
                   "type" : "ward",
                   "url" : "http://www.city.yokohama.lg.jp/sakae/",
+                  "wikipedia_image" : {
+                     "desc" : "いたち川(城山橋から)",
+                     "wref" : "ファイル:Itachigawa.jpg"
+                  },
                   "wikipedia_location_image_wref" : "ファイル:地図-神奈川県横浜市栄区-2006.png",
                   "wref" : "栄区"
                },
@@ -63601,6 +63767,10 @@
                   },
                   "type" : "ward",
                   "url" : "http://www.city.yokohama.lg.jp/midori/",
+                  "wikipedia_image" : {
+                     "desc" : "長津田駅",
+                     "wref" : "File:NagatsutaStminami.jpg"
+                  },
                   "wikipedia_location_image_wref" : "ファイル:地図-神奈川県横浜市緑区-2006.png",
                   "wref" : "緑区 (横浜市)"
                },
@@ -63678,6 +63848,10 @@
                   },
                   "type" : "ward",
                   "url" : "http://www.city.yokohama.lg.jp/tsuzuki/",
+                  "wikipedia_image" : {
+                     "desc" : "港北ニュータウン",
+                     "wref" : "File:Kohoku New Town -02.jpg"
+                  },
                   "wikipedia_location_image_wref" : "ファイル:地図-神奈川県横浜市都筑区-2006.png",
                   "wref" : "都筑区"
                },
@@ -63740,6 +63914,10 @@
                   },
                   "type" : "ward",
                   "url" : "http://www.city.yokohama.lg.jp/aoba/",
+                  "wikipedia_image" : {
+                     "desc" : "こどもの国",
+                     "wref" : "File:Kodomonokuni3.JPG"
+                  },
                   "wikipedia_location_image_wref" : "ファイル:地図-神奈川県横浜市青葉区-2006.png",
                   "wref" : "青葉区 (横浜市)"
                },
@@ -67700,12 +67878,6 @@
          },
          "筑紫野市" : {
             "area_symbols" : {
-               "flag" : [
-                  {
-                     "name" : "筑紫野市旗",
-                     "wref" : "ファイル:Flag of Chikushino, Fukuoka.svg"
-                  }
-               ],
                "flower" : [
                   {
                      "name" : "サルビア"
@@ -67713,8 +67885,8 @@
                ],
                "symbol" : [
                   {
-                     "name" : "筑紫野市章",
-                     "wref" : "ファイル:Symbol of Chikushino Fukuoka.svg"
+                     "date" : "1958-10-06",
+                     "wref" : "筑紫野市章"
                   }
                ],
                "tree" : [
@@ -67748,8 +67920,8 @@
             "type" : "city",
             "url" : "http://www.city.chikushino.fukuoka.jp/",
             "wikipedia_image" : {
-               "desc" : null,
-               "wref" : "File:"
+               "desc" : "二日市温泉の中心宿である御前湯",
+               "wref" : "File:Gozenyu.JPG"
             },
             "wref" : "筑紫野市"
          },
@@ -68729,7 +68901,7 @@
             "type" : "city",
             "url" : "http://www.city.iwaki.fukushima.jp/",
             "wikipedia_image" : {
-               "desc" : "左上から:いわき湯本温泉、アクアマリンふくしま、いわき平競輪場、いわきグリーンスタジアム、スパリゾートハワイアンズ、いわきマリンタワー",
+               "desc" : "\u003Ctable style=\"width:280px;margin:2px auto; border-collapse: collapse\">\n\u003Ctr>\u003Ctd>いわき湯本温泉\u003Ctd>アクアマリンふくしま\u003C/tr>\n\u003Ctr>\u003Ctd>いわき平競輪場\u003Ctd>いわきグリーンスタジアム\u003C/tr>\n\u003Ctr>\u003Ctd>スパリゾートハワイアンズ\u003Ctd>いわきマリンタワー\u003C/tr>\n\u003C/table>",
                "wref" : "File:City of Iwaki.jpg"
             },
             "wref" : "いわき市"
@@ -71513,8 +71685,8 @@
       "type" : "pref",
       "url" : "http://www.pref.fukushima.jp/",
       "wikipedia_image" : {
-         "desc" : "大内宿",
-         "wref" : "File:Ja-fukushima-ohuchijuku-7.jpg"
+         "desc" : "三春滝桜",
+         "wref" : "File:Miharu Miharu-Takizakura Front 1.JPG"
       },
       "wikipedia_location_image_wref" : "File:Map of Japan with highlight on 07 Fukushima prefecture.svg",
       "wref" : "福島県"
@@ -73181,6 +73353,10 @@
                   },
                   "type" : "village",
                   "url" : "http://www.vill.showa.gunma.jp/",
+                  "wikipedia_image" : {
+                     "desc" : "赤城高原サービスエリア",
+                     "wref" : "File:Akagikougen SA.JPG"
+                  },
                   "wref" : "昭和村 (群馬県)"
                },
                "片品村" : {
@@ -73592,10 +73768,33 @@
                   "wref" : "長野原町"
                },
                "高山村" : {
+                  "area_symbols" : {
+                     "bird" : [
+                        {
+                           "name" : "ヤマドリ"
+                        }
+                     ],
+                     "flower" : [
+                        {
+                           "name" : "リンドウ"
+                        }
+                     ],
+                     "tree" : [
+                        {
+                           "name" : "ナラ"
+                        }
+                     ]
+                  },
                   "code" : "10428",
                   "id" : 1637,
                   "kana" : "たかやまむら",
                   "latin" : null,
+                  "neighbor_region_names" : {
+                     "みなかみ町" : "みなかみ町",
+                     "中之条町" : "中之条町",
+                     "沼田市" : "沼田市",
+                     "渋川市" : "渋川市"
+                  },
                   "office" : {
                      "address" : "大字中山2856-1",
                      "position" : [
@@ -73605,6 +73804,10 @@
                   },
                   "type" : "village",
                   "url" : "http://www.vill.takayama.gunma.jp/",
+                  "wikipedia_image" : {
+                     "desc" : "大理石村ロックハート城",
+                     "wref" : "File:Marble Village Lockheart Castle, Lockheart Castle front exterior.jpg"
+                  },
                   "wref" : "高山村 (群馬県)"
                }
             },
@@ -76406,7 +76609,7 @@
                      ]
                   },
                   "type" : "town",
-                  "url" : "http://www.town.ami.ibaraki.jp/",
+                  "url" : "http://www.town.ami.lg.jp/",
                   "wikipedia_image" : {
                      "desc" : null,
                      "wref" : "File:"
@@ -79753,8 +79956,8 @@
                   "type" : "town",
                   "url" : "http://www.town.karuizawa.nagano.jp/",
                   "wikipedia_image" : {
-                     "desc" : null,
-                     "wref" : "File:"
+                     "desc" : "旧軽井沢メインストリート",
+                     "wref" : "File:Old Karuizawa ginza06n3872.jpg"
                   },
                   "wref" : "軽井沢町"
                }
