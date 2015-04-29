@@ -1,4 +1,6 @@
-all: deps all-jpregions all-jpzip
+all: deps data
+
+data: all-jpregions all-jpzip
 
 clean: clean-jpregions clean-jpzip clean-json-ps
 
@@ -89,7 +91,7 @@ local/jp-regions-2.json: local/jp-regions.json local/hokkaidou-subprefs.json \
 data/jp-regions.json: local/jp-regions-2.json bin/jp-regions-3.pl
 	$(PERL) bin/jp-regions-3.pl > $@
 data/jp-regions-full.json: data/jp-regions.json bin/jp-regions-full.pl \
-    intermediate/wikipedia-regions.json
+    intermediate/wikipedia-regions.json src/additional-wp-regions.json
 	$(PERL) bin/jp-regions-full.pl > $@
 data/jp-regions-full-flatten.json: data/jp-regions-full.json \
     bin/jp-regions-flatten.pl

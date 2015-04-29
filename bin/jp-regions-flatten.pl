@@ -78,6 +78,10 @@ for my $data (values %{$Data->{regions}}) {
     delete $data->{district_name};
   }
   for (keys %{delete $data->{neighbor_region_names} or {}}) {
+    unless (defined $wref_to_id->{$_}) {
+      warn "id for wref |$_| is not defined";
+      next;
+    }
     $data->{neighbor_region_names}->{$wref_to_id->{$_}} = 1;
   }
 }
