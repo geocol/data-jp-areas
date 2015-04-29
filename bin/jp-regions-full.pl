@@ -21,8 +21,10 @@ sub copy ($$) {
   } if defined $f->{wikipedia_image_wref};
 } # copy
 
-{
-  my $f = file (__FILE__)->dir->parent->file ('intermediate', 'wikipedia-regions.json');
+for my $f (
+  file (__FILE__)->dir->parent->file ('intermediate', 'wikipedia-regions.json'),
+  file (__FILE__)->dir->parent->file ('src', 'additional-wp-regions.json'),
+) {
   my $json = file2perl $f;
   for my $pref (keys %$Data) {
     copy $json->{$pref} => $Data->{$pref};

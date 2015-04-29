@@ -380,7 +380,8 @@ for my $target (@target) {
   $cv->begin;
   my $target_key = join ',', @$target;
   my @wref;
-  push @wref, '泊村 (北海道根室支庁)' if @$target >= 3 and $target->[-1] eq '泊村' and $target->[-2] eq '国後郡';
+  push @wref, '泊村 (北海道根室振興局)'
+      if @$target >= 3 and $target->[-1] eq '泊村' and $target->[-2] eq '国後郡';
   push @wref, sprintf '%s (%s)', $target->[-1], $target->[-2] if @$target >= 2;
   push @wref, sprintf '%s (%s)', $target->[-1], $target->[-3] if @$target >= 3;
   push @wref, $target->[-1];

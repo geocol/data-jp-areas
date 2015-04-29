@@ -11,36 +11,44 @@ our $Data = {};
 
 my $Areas = {};
 
+my $ZipToRome = {};
+{
+  my $f = file (__FILE__)->dir->parent->file ('local', 'ken_all_rome.csv');
+  my $prev;
+  for (split /\x0D?\x0A/, decode 'shift_jis', $f->slurp) {
+    my $data = [map { my $c = $_; $c =~ s/^\"//; $c =~ s/"$//; $c } split /\s*,\s*/, $_];
+    $ZipToRome->{$data->[0]} = $data;
+  }
+}
+
 {
     my $f = file (__FILE__)->dir->parent->file ('local', 'ken_all.csv');
     my $prev;
     for (split /\x0D?\x0A/, decode 'shift_jis', $f->slurp) {
         my $data = [map { my $c = $_; $c =~ s/^\"//; $c =~ s/"$//; $c } split /\s*,\s*/, $_];
+        my $rome = $ZipToRome->{$data->[2]};
         $Areas->{prefs}->{substr $data->[0], 0, 2} = {
             name => $data->[6],
             kana => $data->[3],
+            (defined $rome->[4] ? (latin => ucfirst lc $rome->[4]) : ()),
         };
         $Areas->{cities}->{$data->[0]} = {
             name => $data->[7],
             kana => $data->[4],
+            (defined $rome->[5] ? (latin => ucfirst lc $rome->[5]) : ()),
         };
     }
 }
 
-{
-    my $f = file (__FILE__)->dir->parent->file ('local', 'ken_all_rome.csv');
-    my $prev;
-    for (split /\x0D?\x0A/, decode 'shift_jis', $f->slurp) {
-        my $data = [map { my $c = $_; $c =~ s/^\"//; $c =~ s/"$//; $c } split /\s*,\s*/, $_];
-        $Areas->{prefs}->{substr $data->[0], 0, 2}->{latin} = ucfirst lc $data->[4];
-        $Areas->{cities}->{$data->[0]}->{latin} = ucfirst lc $data->[3];
-    }
-}
 delete $Areas->{cities}->{'03305'};
 
 for my $data (values %{$Areas->{cities}}, values %{$Areas->{prefs}}) {
-    normalize_width \$_, combine_voiced_sound_marks \$_, tr/\x{FF5E}\x{2212}/\x{301C}-/
-        for $data->{name}, $data->{kana};
+  normalize_width \$_, combine_voiced_sound_marks \$_, tr/\x{FF5E}\x{2212}/\x{301C}-/
+      for $data->{name}, $data->{kana};
+  if (defined $data->{latin}) {
+    $data->{latin} =~ s/ (to|do|fu|ken|shi|cho|machi|son|mura|gun|ku)$/-$1/;
+    $data->{latin} =~ s/^Hokkaido$/Hokkai-do/;
+  }
 
     if ($data->{name} =~ /^(.+市)(.+区)$/) {
         $data->{city} = $1;
@@ -48,18 +56,19 @@ for my $data (values %{$Areas->{cities}}, values %{$Areas->{prefs}}) {
         $data->{kana} =~ /^(キョウトシ|シズオカシ|コウベシ|オオサカシ|ニイガタシ|.+シ)(.+ク)$/;
         $data->{city_kana} = $1;
         $data->{kana} = $2;
-        $data->{latin} =~ /^(.+-ku) (.+-shi)$/;
-        $data->{city_latin} = ucfirst $2;
-        $data->{latin} = $1;
+        $data->{latin} =~ /^(.+) shi (.+-ku)$/;
+        $data->{city_latin} = ucfirst "$1-shi";
+        $data->{latin} = ucfirst $2;
     } elsif ($data->{name} =~ /^(.+郡)(.+[町村])$/) {
         $data->{district} = $1;
         $data->{name} = $2;
         $data->{kana} =~ /^(.+グン)(.+)$/;
         $data->{district_kana} = $1;
         $data->{kana} = $2;
-        $data->{latin} =~ /^(.+) (.+-gun)$/;
-        $data->{district_latin} = ucfirst $2;
-        $data->{latin} = $1;
+        $data->{latin} =~ /^(.+) gun (.+)$/;
+        $data->{district_latin} = ucfirst "$1-gun";
+        $data->{latin} = ucfirst $2;
+        $data->{latin} =~ s/ (cho|machi|son|mura)$/-$1/;
     } elsif ($data->{name} =~ /^(?:三宅島|八丈島)(.+)$/) {
         $data->{name} = $1;
         $data->{kana} =~ s{^(ミヤケジマ|ハチジョウジマ)}{}g;
