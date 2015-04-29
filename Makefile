@@ -106,9 +106,11 @@ data/jp-zip.json: local/ken_all.csv bin/jp-zip.pl
 
 local/ken_all.csv: local/ken_all.zip
 	cd local && unzip ken_all.zip
+	mv local/KEN_ALL.CSV $@
 	touch $@
 local/ken_all_rome.csv: local/ken_all_rome.zip
 	cd local && unzip ken_all_rome.zip
+	mv local/ken_all_rome/KEN_ALL_ROME.CSV $@
 	touch $@
 
 local/ken_all.zip:
