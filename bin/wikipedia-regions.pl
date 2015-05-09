@@ -267,7 +267,7 @@ sub extract_from_data ($$$$) {
       if ($_->{name} =~ /旗/) {
         $_->{type} = 'flag';
       } else {
-        $_->{type} = 'symbol';
+        $_->{type} = 'mark';
       }
       push @{$Data->{$target}->{symbols} ||= []}, $_;
     }
