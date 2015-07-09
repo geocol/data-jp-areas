@@ -1,0 +1,62 @@
+@include Navbox
+=top_level
+
+@include Navbox
+@@include Navbox subgroup
+=is_structure
+
+filters+
+  navbox-lists
+
+$param title
+parsing_rules+
+  linked-text-with-optional-image-prefix
+
+$param group1
+$$param group2
+$$param group3
+$$param group4
+$$param group5
+$$param group6
+$$param group7
+$$param group8
+$$param group9
+$$param group10
+$$param group11
+$$param group12
+$$param group13
+$$param group14
+$$param group15
+$$param group16
+$$param group17
+$$param group18
+$$param group19
+parsing_rules+
+  linked-text-with-optional-image-prefix
+
+$param list1
+$$param list2
+$$param list3
+$$param list4
+$$param list5
+$$param list6
+$$param list7
+$$param list8
+$$param list9
+$$param list10
+$$param list11
+$$param list12
+$$param list13
+$$param list14
+$$param list15
+$$param list16
+$$param list17
+$$param list18
+$$param list19
+parsing_rules+
+  nested-list
+  nested-navbox-list
+  plain-link-list
+item_parsing_rules+
+  linked-text-with-optional-image-prefix
+

@@ -17,7 +17,7 @@ WGET = wget
 GIT = git
 PERL = ./perl
 
-deps: git-submodules pmbp-install json-ps
+deps: git-submodules pmbp-install json-ps deps-mwx
 
 git-submodules:
 	$(GIT) submodule update --init
@@ -39,6 +39,12 @@ local/perl-latest/pm/lib/perl5/JSON/PS.pm:
 	mkdir -p local/perl-latest/pm/lib/perl5/JSON
 	$(WGET) -O $@ https://raw.githubusercontent.com/wakaba/perl-json-ps/master/lib/JSON/PS.pm
 
+deps-mwx: local/bin/pmbp.pl
+	perl local/bin/pmbp.pl \
+	    --install-perl-app git://github.com/geocol/mwx
+	cd local/mwx && perl local/bin/pmbp.pl \
+	    --create-perl-command-shortcut plackup=perl\ modules/twiggy-packed/script/plackup
+
 ## ------ Wikipedia dumps ------
 
 wikipedia-dumps: local/xml/ja.xml
@@ -55,11 +61,12 @@ wp-autoupdate: deps wp-clean wp-deps wp-pre-touch wp-data
 
 wp-clean:
 	cd intermediate && make wp-clean
+	rm -fr local/wp-*
 wp-deps:
 	cd intermediate && make wp-deps
 wp-pre-touch:
 	cd intermediate && make wp-pre-touch
-wp-data:
+wp-data: intermediate/wikipedia-city-areas.json
 	cd intermediate && make wp-data
 
 ## ------ Data ------
@@ -148,6 +155,14 @@ data/jp-regions-suffix-mixed-names.json: bin/suffix-mixed-names.pl \
 
 local/hokkaidou-subprefs.json: intermediate/wikipedia-regions.json local/bin/jq
 	cat intermediate/wikipedia-regions.json | local/bin/jq 'to_entries | map(select(.value.subpref)) | map([.key, .value.subpref])' > $@
+
+CATEGORYMEMBERS = local/mwx/perl local/mwx/bin/get-pages-in-category.pl
+
+local/wp-city-areas.json:
+	$(CATEGORYMEMBERS) "Category:日本の町・字のテンプレート" > $@
+intermediate/wikipedia-city-areas.json: local/wp-city-areas.json \
+    bin/wikipedia-city-areas.pl
+	local/mwx/perl bin/wikipedia-city-areas.pl > $@
 
 ## ------ Tests ------
 
