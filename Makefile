@@ -162,7 +162,7 @@ local/wp-city-areas.json:
 	$(CATEGORYMEMBERS) "Category:日本の町・字のテンプレート" > $@
 intermediate/wikipedia-city-areas.json: local/wp-city-areas.json \
     bin/wikipedia-city-areas.pl
-	local/mwx/perl bin/wikipedia-city-areas.pl > $@
+	WEBUA_DEBUG=1 local/mwx/perl bin/wikipedia-city-areas.pl > $@
 
 ## ------ Tests ------
 
