@@ -3,6 +3,10 @@
       "Category:札幌市の地名テンプレート" : {
       }
    },
+   "Template:あきる野市の町名" : {
+      "Template:あきる野市の町名" : {
+      }
+   },
    "Template:さいたま市の町名" : {
       "Template:さいたま市の町名" : {
          "includes" : {
@@ -20583,6 +20587,10 @@
                               "wref" : "大和田 (君津市)"
                            },
                            {
+                              "value" : "上湯江",
+                              "wref" : "上湯江"
+                           },
+                           {
                               "value" : "久保",
                               "wref" : "久保 (君津市)"
                            },
@@ -20593,6 +20601,10 @@
                            {
                               "value" : "貞元",
                               "wref" : "貞元 (君津市)"
+                           },
+                           {
+                              "value" : "下湯江",
+                              "wref" : "下湯江"
                            },
                            {
                               "value" : "台",
@@ -22067,32 +22079,25 @@
                      {
                         "items" : [
                            {
-                              "title" : "本丸",
-                              "wref" : "本丸 (壬生町)"
+                              "title" : "本丸"
                            },
                            {
-                              "title" : "中央町",
-                              "wref" : "中央町 (壬生町)"
+                              "title" : "中央町"
                            },
                            {
-                              "title" : "通町",
-                              "wref" : "通町 (壬生町)"
+                              "title" : "通町"
                            },
                            {
-                              "title" : "元町",
-                              "wref" : "元町 (壬生町)"
+                              "title" : "元町"
                            },
                            {
-                              "title" : "表町",
-                              "wref" : "表町 (壬生町)"
+                              "title" : "表町"
                            },
                            {
-                              "title" : "大師町",
-                              "wref" : "大師町 (壬生町)"
+                              "title" : "大師町"
                            },
                            {
-                              "title" : "駅東町",
-                              "wref" : "駅東町 (壬生町)"
+                              "title" : "駅東町"
                            },
                            {
                               "title" : "壬生（壬生甲・壬生乙・壬生丙・壬生丁）",
@@ -22116,12 +22121,10 @@
                               "wref" : "下稲葉 (壬生町)"
                            },
                            {
-                              "title" : "羽生田",
-                              "wref" : "羽生田 (壬生町)"
+                              "title" : "羽生田"
                            },
                            {
-                              "title" : "福和田",
-                              "wref" : "福和田 (壬生町)"
+                              "title" : "福和田"
                            },
                            {
                               "title" : "七ツ石",
@@ -22138,64 +22141,52 @@
                      {
                         "items" : [
                            {
-                              "title" : "あけぼの町",
-                              "wref" : "あけぼの町 (壬生町)"
+                              "title" : "あけぼの町"
                            },
                            {
-                              "title" : "寿町",
-                              "wref" : "寿町 (壬生町)"
+                              "title" : "寿町"
                            },
                            {
-                              "title" : "幸町",
-                              "wref" : "おもちゃのまち"
+                              "title" : "幸町"
                            },
                            {
-                              "title" : "緑町",
-                              "wref" : "おもちゃのまち"
+                              "title" : "緑町"
                            },
                            {
                               "title" : "いずみ町",
                               "wref" : "いずみ町 (壬生町)"
                            },
                            {
-                              "title" : "若草町",
-                              "wref" : "おもちゃのまち"
+                              "title" : "若草町"
                            },
                            {
-                              "title" : "落合",
-                              "wref" : "落合 (壬生町)"
+                              "title" : "落合"
                            },
                            {
-                              "title" : "至宝",
-                              "wref" : "至宝"
+                              "title" : "至宝"
                            },
                            {
                               "title" : "おもちゃのまち",
                               "wref" : "おもちゃのまち"
                            },
                            {
-                              "title" : "安塚",
-                              "wref" : "安塚 (壬生町)"
+                              "title" : "安塚"
                            },
                            {
-                              "title" : "北小林",
-                              "wref" : "北小林 (壬生町)"
+                              "title" : "北小林"
                            },
                            {
-                              "title" : "上田",
-                              "wref" : "上田 (壬生町)"
+                              "title" : "上田"
                            },
                            {
                               "title" : "中泉",
                               "wref" : "中泉 (壬生町)"
                            },
                            {
-                              "title" : "助谷",
-                              "wref" : "助谷 (壬生町)"
+                              "title" : "助谷"
                            },
                            {
-                              "title" : "国谷",
-                              "wref" : "国谷 (壬生町)"
+                              "title" : "国谷"
                            }
                         ],
                         "title" : "南犬飼地区",
@@ -25245,7 +25236,7 @@
                                     "items" : [
                                        {
                                           "value" : "愛宕町",
-                                          "wref" : "愛宕町"
+                                          "wref" : "愛宕町 (さいたま市)"
                                        },
                                        {
                                           "value" : "岩槻",
@@ -34423,10 +34414,6 @@
                               "wref" : "霞ヶ丘町"
                            },
                            {
-                              "value" : "坂町",
-                              "wref" : "坂町 (新宿区)"
-                           },
-                           {
                               "value" : "左門町",
                               "wref" : "左門町"
                            },
@@ -34465,6 +34452,10 @@
                            {
                               "value" : "四谷",
                               "wref" : "四谷#四谷（地名）"
+                           },
+                           {
+                              "value" : "四谷坂町",
+                              "wref" : "四谷坂町"
                            },
                            {
                               "value" : "若葉",
@@ -35156,6 +35147,10 @@
          }
       }
    },
+   "Template:日進市の町名" : {
+      "Template:日進市の町名" : {
+      }
+   },
    "Template:日野市の町・字" : {
       "Template:日野市の町・字" : {
          "includes" : {
@@ -35255,7 +35250,7 @@
                         "items" : [
                            {
                               "value" : "落川",
-                              "wref" : "落川"
+                              "wref" : "落川 (日野市)"
                            },
                            {
                               "value" : "高幡",
@@ -36866,12 +36861,8 @@
                               "wref" : "藻岩下"
                            },
                            {
-                              "value" : "川沿",
+                              "value" : "川沿・川沿町",
                               "wref" : "川沿"
-                           },
-                           {
-                              "value" : "川沿町",
-                              "wref" : "川沿町"
                            },
                            {
                               "value" : "北ノ沢",
@@ -44706,6 +44697,10 @@
                      {
                         "items" : [
                            {
+                              "value" : "扇町",
+                              "wref" : "扇町 (海老名市)"
+                           },
+                           {
                               "value" : "大谷",
                               "wref" : "大谷 (海老名市)"
                            },
@@ -44964,28 +44959,8 @@
                               "wref" : "旭が丘 (清瀬市)"
                            },
                            {
-                              "value" : "梅園",
-                              "wref" : "梅園 (清瀬市)"
-                           },
-                           {
-                              "value" : "上清戸",
-                              "wref" : "上清戸"
-                           },
-                           {
                               "value" : "下宿",
                               "wref" : "下宿 (清瀬市)"
-                           },
-                           {
-                              "value" : "下清戸",
-                              "wref" : "下清戸"
-                           },
-                           {
-                              "value" : "竹丘",
-                              "wref" : "竹丘"
-                           },
-                           {
-                              "value" : "中清戸",
-                              "wref" : "中清戸"
                            },
                            {
                               "value" : "中里",
@@ -44994,14 +44969,6 @@
                            {
                               "value" : "野塩",
                               "wref" : "野塩"
-                           },
-                           {
-                              "value" : "松山",
-                              "wref" : "松山 (清瀬市)"
-                           },
-                           {
-                              "value" : "元町",
-                              "wref" : "元町 (清瀬市)"
                            }
                         ]
                      }
@@ -50810,40 +50777,8 @@
                      {
                         "items" : [
                            {
-                              "value" : "大丸",
-                              "wref" : "大丸 (稲城市)"
-                           },
-                           {
-                              "value" : "押立",
-                              "wref" : "押立 (稲城市)"
-                           },
-                           {
                               "value" : "向陽台",
                               "wref" : "向陽台 (稲城市)"
-                           },
-                           {
-                              "value" : "坂浜",
-                              "wref" : "坂浜"
-                           },
-                           {
-                              "value" : "長峰",
-                              "wref" : "長峰 (稲城市)"
-                           },
-                           {
-                              "value" : "東長沼",
-                              "wref" : "東長沼 (稲城市)"
-                           },
-                           {
-                              "value" : "平尾",
-                              "wref" : "平尾 (稲城市)"
-                           },
-                           {
-                              "value" : "百村",
-                              "wref" : "百村 (稲城市)"
-                           },
-                           {
-                              "value" : "矢野口",
-                              "wref" : "矢野口 (稲城市)"
                            },
                            {
                               "value" : "若葉台",
@@ -51713,6 +51648,10 @@
                }
             ]
          }
+      }
+   },
+   "Template:羽村市の町名" : {
+      "Template:羽村市の町名" : {
       }
    },
    "Template:習志野市の町名" : {
@@ -53533,7 +53472,7 @@
                   "_errors" : {
                      "list10" : [
                         "unparsed",
-                        "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>湘南台\u003C/mw:l>  |  \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022今田 (藤沢市)\u0022>今田\u003C/mw:l> \u003Csub xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>(一部)\u003C/sub>  | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022円行 (藤沢市)\u0022>円行\u003C/mw:l> \u003Csub xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>(一部)\u003C/sub> | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022石川 (藤沢市)\u0022>石川\u003C/mw:l> \u003Csub xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>(一部)\u003C/sub>  | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022桐原町 (藤沢市)\u0022>桐原町\u003C/mw:l> | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022土棚 (藤沢市)\u0022>土棚\u003C/mw:l>| \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022高倉 (藤沢市)\u0022>高倉\u003C/mw:l> \u003Csub xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>(一部)\u003C/sub> | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>下土棚\u003C/mw:l>\u003Csub xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>(一部)\u003C/sub>\u000A"
+                        "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>湘南台\u003C/mw:l>  |  \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022今田 (藤沢市)\u0022>今田\u003C/mw:l> \u003Csub xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>(一部)\u003C/sub>  | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022円行 (藤沢市)\u0022>円行\u003C/mw:l> \u003Csub xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>(一部)\u003C/sub> | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022石川 (藤沢市)\u0022>石川\u003C/mw:l> \u003Csub xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>(一部)\u003C/sub>  | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022桐原町 (藤沢市)\u0022>桐原町\u003C/mw:l> | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022土棚 (藤沢市)\u0022>土棚\u003C/mw:l> | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022高倉 (藤沢市)\u0022>高倉\u003C/mw:l> \u003Csub xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>(一部)\u003C/sub> | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>下土棚\u003C/mw:l>\u003Csub xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>(一部)\u003C/sub>\u000A"
                      ],
                      "list11" : [
                         "unparsed",
@@ -55534,866 +55473,706 @@
                      {
                         "items" : [
                            {
-                              "lists" : [
-                                 {
-                                    "items" : [
-                                       {
-                                          "title" : "赤代町",
-                                          "wref" : "赤代町"
-                                       },
-                                       {
-                                          "title" : "明野町",
-                                          "wref" : "明野町 (豊川市)"
-                                       },
-                                       {
-                                          "title" : "曙町",
-                                          "wref" : "曙町 (豊川市)"
-                                       },
-                                       {
-                                          "title" : "旭町",
-                                          "wref" : "旭町 (豊川市)"
-                                       },
-                                       {
-                                          "title" : "足山田町",
-                                          "wref" : "足山田町"
-                                       },
-                                       {
-                                          "title" : "麻生田町",
-                                          "wref" : "麻生田町 (豊川市)"
-                                       },
-                                       {
-                                          "title" : "市田町",
-                                          "wref" : "市田町 (豊川市)"
-                                       },
-                                       {
-                                          "title" : "一宮町",
-                                          "wref" : "一宮町 (豊川市)"
-                                       },
-                                       {
-                                          "title" : "稲荷通",
-                                          "wref" : "稲荷通"
-                                       },
-                                       {
-                                          "title" : "院之子町",
-                                          "wref" : "院之子町"
-                                       },
-                                       {
-                                          "title" : "上野",
-                                          "wref" : "上野 (豊川市)"
-                                       },
-                                       {
-                                          "title" : "牛久保駅通",
-                                          "wref" : "牛久保駅通 (豊川市の町名)"
-                                       },
-                                       {
-                                          "title" : "牛久保町",
-                                          "wref" : "牛久保町 (豊川市)"
-                                       },
-                                       {
-                                          "title" : "駅前通",
-                                          "wref" : "駅前通 (豊川市の町名)"
-                                       },
-                                       {
-                                          "title" : "江島町",
-                                          "wref" : "江島町 (豊川市)"
-                                       },
-                                       {
-                                          "title" : "大木町",
-                                          "wref" : "大木町 (豊川市)"
-                                       },
-                                       {
-                                          "title" : "大崎町",
-                                          "wref" : "大崎町 (豊川市)"
-                                       },
-                                       {
-                                          "title" : "大橋町",
-                                          "wref" : "大橋町 (豊川市)"
-                                       },
-                                       {
-                                          "title" : "大堀町",
-                                          "wref" : "大堀町 (豊川市)"
-                                       },
-                                       {
-                                          "title" : "小田渕町",
-                                          "wref" : "小田渕町"
-                                       }
-                                    ],
-                                    "title" : "あ行\u000A"
-                                 },
-                                 {
-                                    "items" : [
-                                       {
-                                          "title" : "開運通",
-                                          "wref" : "開運通 (豊川市の町名)"
-                                       },
-                                       {
-                                          "title" : "金沢町",
-                                          "wref" : "金沢町 (豊川市)"
-                                       },
-                                       {
-                                          "title" : "金塚町",
-                                          "wref" : "金塚町"
-                                       },
-                                       {
-                                          "title" : "金屋町",
-                                          "wref" : "金屋町 (豊川市)"
-                                       },
-                                       {
-                                          "title" : "金屋西町",
-                                          "wref" : "金屋西町"
-                                       },
-                                       {
-                                          "title" : "金屋橋町",
-                                          "wref" : "金屋橋町"
-                                       },
-                                       {
-                                          "title" : "金屋本町",
-                                          "wref" : "金屋本町"
-                                       },
-                                       {
-                                          "title" : "金屋元町",
-                                          "wref" : "金屋元町"
-                                       },
-                                       {
-                                          "title" : "上長山町",
-                                          "wref" : "上長山町"
-                                       },
-                                       {
-                                          "title" : "川花町",
-                                          "wref" : "川花町"
-                                       },
-                                       {
-                                          "title" : "北浦町",
-                                          "wref" : "北浦町 (豊川市)"
-                                       },
-                                       {
-                                          "title" : "行明町",
-                                          "wref" : "行明町"
-                                       },
-                                       {
-                                          "title" : "久保町",
-                                          "wref" : "久保町"
-                                       },
-                                       {
-                                          "title" : "光輝町",
-                                          "wref" : "光輝町"
-                                       },
-                                       {
-                                          "title" : "柑子町",
-                                          "wref" : "柑子町"
-                                       },
-                                       {
-                                          "title" : "国府町",
-                                          "wref" : "国府町 (豊川市)"
-                                       },
-                                       {
-                                          "title" : "国府南",
-                                          "wref" : "国府南"
-                                       },
-                                       {
-                                          "title" : "光明町",
-                                          "wref" : "光明町"
-                                       },
-                                       {
-                                          "title" : "光陽町",
-                                          "wref" : "光陽町"
-                                       },
-                                       {
-                                          "title" : "小桜町",
-                                          "wref" : "小桜町"
-                                       },
-                                       {
-                                          "title" : "寿通",
-                                          "wref" : "寿通"
-                                       },
-                                       {
-                                          "title" : "御油町",
-                                          "wref" : "御油町 (豊川市)"
-                                       }
-                                    ],
-                                    "title" : "か行\u000A"
-                                 },
-                                 {
-                                    "items" : [
-                                       {
-                                          "title" : "財賀町",
-                                          "wref" : "財賀町"
-                                       },
-                                       {
-                                          "title" : "幸町",
-                                          "wref" : "幸町 (豊川市)"
-                                       },
-                                       {
-                                          "title" : "堺町",
-                                          "wref" : "堺町 (豊川市)"
-                                       },
-                                       {
-                                          "title" : "桜ケ丘町",
-                                          "wref" : "桜ケ丘町"
-                                       },
-                                       {
-                                          "title" : "桜木町",
-                                          "wref" : "桜木通 (豊川市)"
-                                       },
-                                       {
-                                          "title" : "桜町",
-                                          "wref" : "桜町 (豊川市)"
-                                       },
-                                       {
-                                          "title" : "佐土町",
-                                          "wref" : "佐土町"
-                                       },
-                                       {
-                                          "title" : "佐奈川町",
-                                          "wref" : "佐奈川町"
-                                       },
-                                       {
-                                          "title" : "三蔵子町",
-                                          "wref" : "三蔵子町"
-                                       },
-                                       {
-                                          "title" : "篠田町",
-                                          "wref" : "篠田町 (豊川市)"
-                                       },
-                                       {
-                                          "title" : "下長山町",
-                                          "wref" : "下長山町"
-                                       },
-                                       {
-                                          "title" : "下野川町",
-                                          "wref" : "下野川町"
-                                       },
-                                       {
-                                          "title" : "白雲町",
-                                          "wref" : "白雲町"
-                                       },
-                                       {
-                                          "title" : "白鳥",
-                                          "wref" : "白鳥 (豊川市)"
-                                       },
-                                       {
-                                          "title" : "白鳥町"
-                                       },
-                                       {
-                                          "title" : "新青馬町",
-                                          "wref" : "新青馬町"
-                                       },
-                                       {
-                                          "title" : "新栄町",
-                                          "wref" : "新栄町 (豊川市)"
-                                       },
-                                       {
-                                          "title" : "新桜町通",
-                                          "wref" : "新桜町通"
-                                       },
-                                       {
-                                          "title" : "新宿町",
-                                          "wref" : "新宿町 (豊川市)"
-                                       },
-                                       {
-                                          "title" : "新道町",
-                                          "wref" : "新道町 (豊川市)"
-                                       },
-                                       {
-                                          "title" : "新豊町",
-                                          "wref" : "新豊町"
-                                       },
-                                       {
-                                          "title" : "末広通",
-                                          "wref" : "末広通 (豊川市の町名)"
-                                       },
-                                       {
-                                          "title" : "住吉町",
-                                          "wref" : "住吉町 (豊川市)"
-                                       },
-                                       {
-                                          "title" : "諏訪",
-                                          "wref" : "諏訪 (豊川市)"
-                                       },
-                                       {
-                                          "title" : "諏訪西町",
-                                          "wref" : "諏訪西町"
-                                       },
-                                       {
-                                          "title" : "瀬木町",
-                                          "wref" : "瀬木町"
-                                       },
-                                       {
-                                          "title" : "蔵子",
-                                          "wref" : "蔵子"
-                                       }
-                                    ],
-                                    "title" : "さ行\u000A"
-                                 },
-                                 {
-                                    "items" : [
-                                       {
-                                          "title" : "代田町",
-                                          "wref" : "代田町"
-                                       },
-                                       {
-                                          "title" : "高見町",
-                                          "wref" : "高見町 (豊川市)"
-                                       },
-                                       {
-                                          "title" : "為当町",
-                                          "wref" : "為当町"
-                                       },
-                                       {
-                                          "title" : "樽井町",
-                                          "wref" : "樽井町 (豊川市)"
-                                       },
-                                       {
-                                          "title" : "千両町",
-                                          "wref" : "千両町"
-                                       },
-                                       {
-                                          "title" : "千歳通",
-                                          "wref" : "千歳通 (豊川市)"
-                                       },
-                                       {
-                                          "title" : "中央通",
-                                          "wref" : "中央通 (豊川市)"
-                                       },
-                                       {
-                                          "title" : "中条町",
-                                          "wref" : "中条町 (豊川市)"
-                                       },
-                                       {
-                                          "title" : "中部町",
-                                          "wref" : "中部町"
-                                       },
-                                       {
-                                          "title" : "天神町",
-                                          "wref" : "天神町 (豊川市)"
-                                       },
-                                       {
-                                          "title" : "東光町",
-                                          "wref" : "東光町"
-                                       },
-                                       {
-                                          "title" : "当古町",
-                                          "wref" : "当古町"
-                                       },
-                                       {
-                                          "title" : "東上町",
-                                          "wref" : "東上町 (豊川市)"
-                                       },
-                                       {
-                                          "title" : "東新町",
-                                          "wref" : "東新町 (豊川市)"
-                                       },
-                                       {
-                                          "title" : "塔ノ木町",
-                                          "wref" : "塔ノ木町"
-                                       },
-                                       {
-                                          "title" : "東名町",
-                                          "wref" : "東名町"
-                                       },
-                                       {
-                                          "title" : "土筒町",
-                                          "wref" : "土筒町"
-                                       },
-                                       {
-                                          "title" : "豊川栄町",
-                                          "wref" : "豊川栄町"
-                                       },
-                                       {
-                                          "title" : "豊川町",
-                                          "wref" : "豊川町 (豊川市)"
-                                       },
-                                       {
-                                          "title" : "豊川仲町",
-                                          "wref" : "豊川仲町"
-                                       },
-                                       {
-                                          "title" : "豊川西町",
-                                          "wref" : "豊川西町"
-                                       },
-                                       {
-                                          "title" : "豊川元町",
-                                          "wref" : "豊川元町"
-                                       },
-                                       {
-                                          "title" : "豊津町",
-                                          "wref" : "豊津町 (豊川市)"
-                                       }
-                                    ],
-                                    "title" : "た行\u000A"
-                                 },
-                                 {
-                                    "items" : [
-                                       {
-                                          "title" : "長草町",
-                                          "wref" : "長草町"
-                                       },
-                                       {
-                                          "title" : "中野川町",
-                                          "wref" : "中野川町"
-                                       },
-                                       {
-                                          "title" : "西口町",
-                                          "wref" : "西口町 (豊川市)"
-                                       },
-                                       {
-                                          "title" : "西香ノ木町",
-                                          "wref" : "西香ノ木町"
-                                       },
-                                       {
-                                          "title" : "西桜木町",
-                                          "wref" : "西桜木町"
-                                       },
-                                       {
-                                          "title" : "西島町",
-                                          "wref" : "西島町 (豊川市)"
-                                       },
-                                       {
-                                          "title" : "西塚町",
-                                          "wref" : "西塚町 (豊川市)"
-                                       },
-                                       {
-                                          "title" : "西原町",
-                                          "wref" : "西原町 (豊川市)"
-                                       },
-                                       {
-                                          "title" : "西本町",
-                                          "wref" : "西本町 (豊川市)"
-                                       },
-                                       {
-                                          "title" : "西豊町",
-                                          "wref" : "西豊町"
-                                       },
-                                       {
-                                          "title" : "野口町",
-                                          "wref" : "野口町 (豊川市)"
-                                       }
-                                    ],
-                                    "title" : "な行\u000A"
-                                 },
-                                 {
-                                    "items" : [
-                                       {
-                                          "title" : "萩山町",
-                                          "wref" : "萩山町"
-                                       },
-                                       {
-                                          "title" : "橋尾町",
-                                          "wref" : "橋尾町"
-                                       },
-                                       {
-                                          "title" : "花井町",
-                                          "wref" : "花井町 (豊川市)"
-                                       },
-                                       {
-                                          "title" : "馬場町",
-                                          "wref" : "馬場町 (豊川市)"
-                                       },
-                                       {
-                                          "title" : "東曙町",
-                                          "wref" : "東曙町"
-                                       },
-                                       {
-                                          "title" : "東桜木町",
-                                          "wref" : "東桜木町"
-                                       },
-                                       {
-                                          "title" : "東豊町",
-                                          "wref" : "東豊町"
-                                       },
-                                       {
-                                          "title" : "平尾町",
-                                          "wref" : "平尾町 (豊川市)"
-                                       },
-                                       {
-                                          "title" : "双葉町",
-                                          "wref" : "二葉町 (豊川市)"
-                                       },
-                                       {
-                                          "title" : "二見町",
-                                          "wref" : "二見町 (豊川市)"
-                                       },
-                                       {
-                                          "title" : "古宿",
-                                          "wref" : "古宿"
-                                       },
-                                       {
-                                          "title" : "豊栄町",
-                                          "wref" : "豊栄町 (豊川市)"
-                                       },
-                                       {
-                                          "title" : "穂ノ原",
-                                          "wref" : "穂ノ原"
-                                       },
-                                       {
-                                          "title" : "本野ケ原",
-                                          "wref" : "本野ケ原"
-                                       },
-                                       {
-                                          "title" : "本野町",
-                                          "wref" : "本野町 (豊川市)"
-                                       }
-                                    ],
-                                    "title" : "は行\u000A"
-                                 },
-                                 {
-                                    "items" : [
-                                       {
-                                          "title" : "牧野町",
-                                          "wref" : "牧野町 (豊川市)"
-                                       },
-                                       {
-                                          "title" : "正岡町",
-                                          "wref" : "正岡町"
-                                       },
-                                       {
-                                          "title" : "松風町",
-                                          "wref" : "松風町 (豊川市)"
-                                       },
-                                       {
-                                          "title" : "松原町",
-                                          "wref" : "松原町 (豊川市)"
-                                       },
-                                       {
-                                          "title" : "松久町",
-                                          "wref" : "松久町"
-                                       },
-                                       {
-                                          "title" : "三上町",
-                                          "wref" : "三上町"
-                                       },
-                                       {
-                                          "title" : "緑町",
-                                          "wref" : "緑町 (豊川市)"
-                                       },
-                                       {
-                                          "title" : "南大通",
-                                          "wref" : "南大通 (豊川市の町名)"
-                                       },
-                                       {
-                                          "title" : "南千両",
-                                          "wref" : "南千両"
-                                       },
-                                       {
-                                          "title" : "三谷原町",
-                                          "wref" : "三谷原町"
-                                       },
-                                       {
-                                          "title" : "美幸町",
-                                          "wref" : "美幸町 (豊川市)"
-                                       },
-                                       {
-                                          "title" : "美和通",
-                                          "wref" : "美和通"
-                                       },
-                                       {
-                                          "title" : "向河原町",
-                                          "wref" : "向河原町"
-                                       },
-                                       {
-                                          "title" : "森",
-                                          "wref" : "森 (豊川市)"
-                                       },
-                                       {
-                                          "title" : "門町",
-                                          "wref" : "門前町 (豊川市)"
-                                       }
-                                    ],
-                                    "title" : "ま行\u000A"
-                                 },
-                                 {
-                                    "items" : [
-                                       {
-                                          "title" : "谷川町",
-                                          "wref" : "谷川町 (豊川市)"
-                                       },
-                                       {
-                                          "title" : "山道町",
-                                          "wref" : "山道町 (豊川市)"
-                                       },
-                                       {
-                                          "title" : "弥生町",
-                                          "wref" : "弥生町 (豊川市)"
-                                       },
-                                       {
-                                          "title" : "八幡町",
-                                          "wref" : "八幡町 (豊川市)"
-                                       },
-                                       {
-                                          "title" : "豊が丘町",
-                                          "wref" : "豊が丘町"
-                                       },
-                                       {
-                                          "title" : "四ツ谷町",
-                                          "wref" : "四ツ谷町 (豊川市)"
-                                       },
-                                       {
-                                          "title" : "六角町",
-                                          "wref" : "六角町 (豊川市)"
-                                       },
-                                       {
-                                          "title" : "若鳩町",
-                                          "wref" : "若鳩町"
-                                       },
-                                       {
-                                          "title" : "若宮町",
-                                          "wref" : "若宮町 (豊川市)"
-                                       }
-                                    ],
-                                    "title" : "や～わ行\u000A"
-                                 }
-                              ],
-                              "title" : "旧豊川市\u000A"
+                              "title" : "赤坂町",
+                              "wref" : "赤坂町 (豊川市)"
                            },
                            {
-                              "lists" : [
-                                 {
-                                    "items" : [
-                                       {
-                                          "title" : "赤根",
-                                          "wref" : "御津町赤根"
-                                       },
-                                       {
-                                          "title" : "安礼の崎",
-                                          "wref" : "御津町安礼の崎"
-                                       },
-                                       {
-                                          "title" : "大草",
-                                          "wref" : "御津町大草"
-                                       },
-                                       {
-                                          "title" : "御馬",
-                                          "wref" : "御津町御馬"
-                                       },
-                                       {
-                                          "title" : "金野",
-                                          "wref" : "御津町金野"
-                                       },
-                                       {
-                                          "title" : "上佐脇",
-                                          "wref" : "御津町上佐脇"
-                                       },
-                                       {
-                                          "title" : "佐脇浜",
-                                          "wref" : "御津町佐脇浜"
-                                       },
-                                       {
-                                          "title" : "下佐脇",
-                                          "wref" : "御津町下佐脇"
-                                       },
-                                       {
-                                          "title" : "新田",
-                                          "wref" : "御津町新田"
-                                       },
-                                       {
-                                          "title" : "豊沢",
-                                          "wref" : "御津町豊沢"
-                                       },
-                                       {
-                                          "title" : "泙野",
-                                          "wref" : "御津町泙野"
-                                       },
-                                       {
-                                          "title" : "西方",
-                                          "wref" : "御津町西方"
-                                       },
-                                       {
-                                          "title" : "広石",
-                                          "wref" : "御津町広石"
-                                       },
-                                       {
-                                          "title" : "御幸浜",
-                                          "wref" : "御津町御幸浜"
-                                       }
-                                    ],
-                                    "title" : "御津地区",
-                                    "wref" : "御津地区"
-                                 }
-                              ],
-                              "title" : "旧御津町",
-                              "wref" : "御津町"
+                              "title" : "赤坂台",
+                              "wref" : "赤坂台 (豊川市)"
                            },
                            {
-                              "lists" : [
-                                 {
-                                    "items" : [
-                                       {
-                                          "title" : "赤坂町",
-                                          "wref" : "赤坂町 (豊川市)"
-                                       },
-                                       {
-                                          "title" : "赤坂台",
-                                          "wref" : "赤坂台 (豊川市)"
-                                       },
-                                       {
-                                          "title" : "萩町",
-                                          "wref" : "萩町 (豊川市)"
-                                       },
-                                       {
-                                          "title" : "長沢町",
-                                          "wref" : "長沢町 (豊川市)"
-                                       }
-                                    ],
-                                    "title" : "音羽地区",
-                                    "wref" : "音羽地区"
-                                 }
-                              ],
-                              "title" : "旧音羽町",
-                              "wref" : "音羽町"
+                              "title" : "赤代町",
+                              "wref" : "赤代町"
                            },
                            {
-                              "lists" : [
-                                 {
-                                    "items" : [
-                                       {
-                                          "title" : "伊奈町",
-                                          "wref" : "伊奈町 (豊川市)"
-                                       },
-                                       {
-                                          "title" : "小坂井町",
-                                          "wref" : "小坂井町 (豊川市)"
-                                       },
-                                       {
-                                          "title" : "篠束町",
-                                          "wref" : "篠束町"
-                                       },
-                                       {
-                                          "title" : "宿町",
-                                          "wref" : "宿町"
-                                       },
-                                       {
-                                          "title" : "平井町",
-                                          "wref" : "平井町 (豊川市)"
-                                       },
-                                       {
-                                          "title" : "美園",
-                                          "wref" : "美園 (豊川市)"
-                                       }
-                                    ],
-                                    "title" : "小坂井地区",
-                                    "wref" : "小坂井地区"
-                                 }
-                              ],
-                              "title" : "旧小坂井町",
-                              "wref" : "小坂井町"
+                              "title" : "明野町",
+                              "wref" : "明野町 (豊川市)"
+                           },
+                           {
+                              "title" : "曙町",
+                              "wref" : "曙町 (豊川市)"
+                           },
+                           {
+                              "title" : "旭町",
+                              "wref" : "旭町 (豊川市)"
+                           },
+                           {
+                              "title" : "足山田町",
+                              "wref" : "足山田町"
+                           },
+                           {
+                              "title" : "麻生田町",
+                              "wref" : "麻生田町 (豊川市)"
+                           },
+                           {
+                              "title" : "市田町",
+                              "wref" : "市田町 (豊川市)"
+                           },
+                           {
+                              "title" : "一宮町",
+                              "wref" : "一宮町 (豊川市)"
+                           },
+                           {
+                              "title" : "伊奈町",
+                              "wref" : "伊奈町 (豊川市)"
+                           },
+                           {
+                              "title" : "稲荷通",
+                              "wref" : "稲荷通"
+                           },
+                           {
+                              "title" : "院之子町",
+                              "wref" : "院之子町"
+                           },
+                           {
+                              "title" : "上野",
+                              "wref" : "上野 (豊川市)"
+                           },
+                           {
+                              "title" : "牛久保駅通",
+                              "wref" : "牛久保駅通 (豊川市の町名)"
+                           },
+                           {
+                              "title" : "牛久保町",
+                              "wref" : "牛久保町 (豊川市)"
+                           },
+                           {
+                              "title" : "駅前通",
+                              "wref" : "駅前通 (豊川市の町名)"
+                           },
+                           {
+                              "title" : "江島町",
+                              "wref" : "江島町 (豊川市)"
+                           },
+                           {
+                              "title" : "大木町",
+                              "wref" : "大木町 (豊川市)"
+                           },
+                           {
+                              "title" : "大崎町",
+                              "wref" : "大崎町 (豊川市)"
+                           },
+                           {
+                              "title" : "大橋町",
+                              "wref" : "大橋町 (豊川市)"
+                           },
+                           {
+                              "title" : "大堀町",
+                              "wref" : "大堀町 (豊川市)"
+                           },
+                           {
+                              "title" : "小田渕町",
+                              "wref" : "小田渕町"
                            }
                         ],
-                        "title" : "豊川市\u000A"
+                        "title" : "あ行\u000A"
                      },
                      {
                         "items" : [
                            {
-                              "_errors" : {
-                                 "list1" : [
-                                    [
-                                       "unparsed",
-                                       "\u003Cb xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022三上村 (愛知県)\u0022>三上村\u003C/mw:l>\u003C/b>"
-                                    ],
-                                    [
-                                       "unparsed",
-                                       "\u003Cb xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022大和村 (愛知県)\u0022>大和村\u003C/mw:l>\u003C/b>（\u003Cb xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>豊津村\u003C/b> | \u003Cb xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>橋尾村\u003C/b>）"
-                                    ],
-                                    [
-                                       "unparsed",
-                                       "\u003Cb xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>双和村\u003C/mw:l>\u003C/b>）"
-                                    ]
-                                 ]
-                              },
-                              "lists" : [
-                                 {
-                                    "items" : [
-                                       {
-                                          "title" : "豊川町（麻生田村",
-                                          "wref" : "麻生田村"
-                                       },
-                                       {
-                                          "title" : "睦実村）",
-                                          "wref" : "睦実村"
-                                       },
-                                       {
-                                          "title" : "牛久保町（旧牛久保町",
-                                          "wref" : "牛久保町"
-                                       },
-                                       {
-                                          "title" : "睦実村"
-                                       },
-                                       {
-                                          "title" : "明子村）",
-                                          "wref" : "明子村"
-                                       },
-                                       {
-                                          "title" : "国府町（旧国府町",
-                                          "wref" : "国府町 (愛知県)"
-                                       },
-                                       {
-                                          "title" : "白鳥村）",
-                                          "wref" : "白鳥村 (愛知県)"
-                                       },
-                                       {
-                                          "title" : "八幡村（平幡村",
-                                          "wref" : "八幡村 (愛知県宝飯郡)"
-                                       },
-                                       {
-                                          "title" : "穂原村）",
-                                          "wref" : "穂原村 (愛知県)"
-                                       },
-                                       {
-                                          "title" : "御油町",
-                                          "wref" : "御油町"
-                                       },
-                                       {
-                                          "title" : "一宮町（旧一宮村（桑富村",
-                                          "wref" : "一宮町 (愛知県宝飯郡)"
-                                       },
-                                       {
-                                          "title" : "本茂村）",
-                                          "wref" : "本茂村"
-                                       },
-                                       {
-                                          "title" : "御津町（旧御津村",
-                                          "wref" : "御津町"
-                                       },
-                                       {
-                                          "title" : "御馬村",
-                                          "wref" : "御馬村"
-                                       },
-                                       {
-                                          "title" : "佐脇村",
-                                          "wref" : "佐脇村"
-                                       },
-                                       {
-                                          "title" : "大塚村）",
-                                          "wref" : "大塚村 (愛知県宝飯郡)"
-                                       },
-                                       {
-                                          "title" : "音羽町 （赤坂町",
-                                          "wref" : "音羽町"
-                                       },
-                                       {
-                                          "title" : "萩村",
-                                          "wref" : "萩村"
-                                       },
-                                       {
-                                          "title" : "長沢村）",
-                                          "wref" : "長沢村 (愛知県)"
-                                       },
-                                       {
-                                          "title" : "小坂井町（豊秋村",
-                                          "wref" : "小坂井町"
-                                       },
-                                       {
-                                          "title" : "伊奈村）",
-                                          "wref" : "伊奈村"
-                                       }
-                                    ],
-                                    "title" : "旧宝飯郡\u003CBR>旧八名郡",
-                                    "wref" : "宝飯郡"
-                                 }
-                              ],
-                              "title" : "旧町村\u000A"
+                              "title" : "開運通",
+                              "wref" : "開運通 (豊川市の町名)"
+                           },
+                           {
+                              "title" : "金沢町",
+                              "wref" : "金沢町 (豊川市)"
+                           },
+                           {
+                              "title" : "金塚町",
+                              "wref" : "金塚町"
+                           },
+                           {
+                              "title" : "金屋町",
+                              "wref" : "金屋町 (豊川市)"
+                           },
+                           {
+                              "title" : "金屋西町",
+                              "wref" : "金屋西町"
+                           },
+                           {
+                              "title" : "金屋橋町",
+                              "wref" : "金屋橋町"
+                           },
+                           {
+                              "title" : "金屋本町",
+                              "wref" : "金屋本町"
+                           },
+                           {
+                              "title" : "金屋元町",
+                              "wref" : "金屋元町"
+                           },
+                           {
+                              "title" : "上長山町",
+                              "wref" : "上長山町"
+                           },
+                           {
+                              "title" : "川花町",
+                              "wref" : "川花町"
+                           },
+                           {
+                              "title" : "北浦町",
+                              "wref" : "北浦町 (豊川市)"
+                           },
+                           {
+                              "title" : "行明町",
+                              "wref" : "行明町"
+                           },
+                           {
+                              "title" : "久保町",
+                              "wref" : "久保町"
+                           },
+                           {
+                              "title" : "光輝町",
+                              "wref" : "光輝町"
+                           },
+                           {
+                              "title" : "柑子町",
+                              "wref" : "柑子町"
+                           },
+                           {
+                              "title" : "国府町",
+                              "wref" : "国府町 (豊川市)"
+                           },
+                           {
+                              "title" : "国府南",
+                              "wref" : "国府南"
+                           },
+                           {
+                              "title" : "光明町",
+                              "wref" : "光明町"
+                           },
+                           {
+                              "title" : "光陽町",
+                              "wref" : "光陽町"
+                           },
+                           {
+                              "title" : "小坂井町",
+                              "wref" : "小坂井町 (豊川市)"
+                           },
+                           {
+                              "title" : "小桜町",
+                              "wref" : "小桜町"
+                           },
+                           {
+                              "title" : "寿通",
+                              "wref" : "寿通"
+                           },
+                           {
+                              "title" : "御油町",
+                              "wref" : "御油町 (豊川市)"
                            }
                         ],
-                        "title" : ""
+                        "title" : "か行\u000A"
+                     },
+                     {
+                        "items" : [
+                           {
+                              "title" : "財賀町",
+                              "wref" : "財賀町"
+                           },
+                           {
+                              "title" : "幸町",
+                              "wref" : "幸町 (豊川市)"
+                           },
+                           {
+                              "title" : "堺町",
+                              "wref" : "堺町 (豊川市)"
+                           },
+                           {
+                              "title" : "桜ケ丘町",
+                              "wref" : "桜ケ丘町"
+                           },
+                           {
+                              "title" : "桜木町",
+                              "wref" : "桜木通 (豊川市)"
+                           },
+                           {
+                              "title" : "桜町",
+                              "wref" : "桜町 (豊川市)"
+                           },
+                           {
+                              "title" : "佐土町",
+                              "wref" : "佐土町"
+                           },
+                           {
+                              "title" : "佐奈川町",
+                              "wref" : "佐奈川町"
+                           },
+                           {
+                              "title" : "三蔵子町",
+                              "wref" : "三蔵子町"
+                           },
+                           {
+                              "title" : "篠田町",
+                              "wref" : "篠田町 (豊川市)"
+                           },
+                           {
+                              "title" : "篠束町",
+                              "wref" : "篠束町"
+                           },
+                           {
+                              "title" : "下長山町",
+                              "wref" : "下長山町"
+                           },
+                           {
+                              "title" : "下野川町",
+                              "wref" : "下野川町"
+                           },
+                           {
+                              "title" : "宿町",
+                              "wref" : "宿町"
+                           },
+                           {
+                              "title" : "白雲町",
+                              "wref" : "白雲町"
+                           },
+                           {
+                              "title" : "白鳥",
+                              "wref" : "白鳥 (豊川市)"
+                           },
+                           {
+                              "title" : "白鳥町",
+                              "wref" : "白鳥町 (豊川市)"
+                           },
+                           {
+                              "title" : "新青馬町",
+                              "wref" : "新青馬町"
+                           },
+                           {
+                              "title" : "新栄町",
+                              "wref" : "新栄町 (豊川市)"
+                           },
+                           {
+                              "title" : "新桜町通",
+                              "wref" : "新桜町通"
+                           },
+                           {
+                              "title" : "新宿町",
+                              "wref" : "新宿町 (豊川市)"
+                           },
+                           {
+                              "title" : "新道町",
+                              "wref" : "新道町 (豊川市)"
+                           },
+                           {
+                              "title" : "新豊町",
+                              "wref" : "新豊町"
+                           },
+                           {
+                              "title" : "末広通",
+                              "wref" : "末広通 (豊川市の町名)"
+                           },
+                           {
+                              "title" : "住吉町",
+                              "wref" : "住吉町 (豊川市)"
+                           },
+                           {
+                              "title" : "諏訪",
+                              "wref" : "諏訪 (豊川市)"
+                           },
+                           {
+                              "title" : "諏訪西町",
+                              "wref" : "諏訪西町"
+                           },
+                           {
+                              "title" : "瀬木町",
+                              "wref" : "瀬木町"
+                           },
+                           {
+                              "title" : "蔵子",
+                              "wref" : "蔵子"
+                           }
+                        ],
+                        "title" : "さ行\u000A"
+                     },
+                     {
+                        "items" : [
+                           {
+                              "title" : "代田町",
+                              "wref" : "代田町"
+                           },
+                           {
+                              "title" : "高見町",
+                              "wref" : "高見町 (豊川市)"
+                           },
+                           {
+                              "title" : "為当町",
+                              "wref" : "為当町"
+                           },
+                           {
+                              "title" : "樽井町",
+                              "wref" : "樽井町 (豊川市)"
+                           },
+                           {
+                              "title" : "千両町",
+                              "wref" : "千両町"
+                           },
+                           {
+                              "title" : "千歳通",
+                              "wref" : "千歳通 (豊川市)"
+                           },
+                           {
+                              "title" : "中央通",
+                              "wref" : "中央通 (豊川市)"
+                           },
+                           {
+                              "title" : "中条町",
+                              "wref" : "中条町 (豊川市)"
+                           },
+                           {
+                              "title" : "中部町",
+                              "wref" : "中部町"
+                           },
+                           {
+                              "title" : "天神町",
+                              "wref" : "天神町 (豊川市)"
+                           },
+                           {
+                              "title" : "東光町",
+                              "wref" : "東光町"
+                           },
+                           {
+                              "title" : "当古町",
+                              "wref" : "当古町"
+                           },
+                           {
+                              "title" : "東上町",
+                              "wref" : "東上町 (豊川市)"
+                           },
+                           {
+                              "title" : "東新町",
+                              "wref" : "東新町 (豊川市)"
+                           },
+                           {
+                              "title" : "塔ノ木町",
+                              "wref" : "塔ノ木町"
+                           },
+                           {
+                              "title" : "東名町",
+                              "wref" : "東名町"
+                           },
+                           {
+                              "title" : "土筒町",
+                              "wref" : "土筒町"
+                           },
+                           {
+                              "title" : "豊川栄町",
+                              "wref" : "豊川栄町"
+                           },
+                           {
+                              "title" : "豊川町",
+                              "wref" : "豊川町 (豊川市)"
+                           },
+                           {
+                              "title" : "豊川仲町",
+                              "wref" : "豊川仲町"
+                           },
+                           {
+                              "title" : "豊川西町",
+                              "wref" : "豊川西町"
+                           },
+                           {
+                              "title" : "豊川元町",
+                              "wref" : "豊川元町"
+                           },
+                           {
+                              "title" : "豊津町",
+                              "wref" : "豊津町 (豊川市)"
+                           }
+                        ],
+                        "title" : "た行\u000A"
+                     },
+                     {
+                        "items" : [
+                           {
+                              "title" : "長草町",
+                              "wref" : "長草町"
+                           },
+                           {
+                              "title" : "長沢町",
+                              "wref" : "長沢町 (豊川市)"
+                           },
+                           {
+                              "title" : "中野川町",
+                              "wref" : "中野川町"
+                           },
+                           {
+                              "title" : "西口町",
+                              "wref" : "西口町 (豊川市)"
+                           },
+                           {
+                              "title" : "西香ノ木町",
+                              "wref" : "西香ノ木町"
+                           },
+                           {
+                              "title" : "西桜木町",
+                              "wref" : "西桜木町"
+                           },
+                           {
+                              "title" : "西島町",
+                              "wref" : "西島町 (豊川市)"
+                           },
+                           {
+                              "title" : "西塚町",
+                              "wref" : "西塚町 (豊川市)"
+                           },
+                           {
+                              "title" : "西原町",
+                              "wref" : "西原町 (豊川市)"
+                           },
+                           {
+                              "title" : "西本町",
+                              "wref" : "西本町 (豊川市)"
+                           },
+                           {
+                              "title" : "西豊町",
+                              "wref" : "西豊町"
+                           },
+                           {
+                              "title" : "野口町",
+                              "wref" : "野口町 (豊川市)"
+                           }
+                        ],
+                        "title" : "な行\u000A"
+                     },
+                     {
+                        "items" : [
+                           {
+                              "title" : "萩町",
+                              "wref" : "萩町 (豊川市)"
+                           },
+                           {
+                              "title" : "萩山町",
+                              "wref" : "萩山町"
+                           },
+                           {
+                              "title" : "橋尾町",
+                              "wref" : "橋尾町"
+                           },
+                           {
+                              "title" : "花井町",
+                              "wref" : "花井町 (豊川市)"
+                           },
+                           {
+                              "title" : "馬場町",
+                              "wref" : "馬場町 (豊川市)"
+                           },
+                           {
+                              "title" : "東曙町",
+                              "wref" : "東曙町"
+                           },
+                           {
+                              "title" : "東桜木町",
+                              "wref" : "東桜木町"
+                           },
+                           {
+                              "title" : "東豊町",
+                              "wref" : "東豊町"
+                           },
+                           {
+                              "title" : "平井町",
+                              "wref" : "平井町 (豊川市)"
+                           },
+                           {
+                              "title" : "平尾町",
+                              "wref" : "平尾町 (豊川市)"
+                           },
+                           {
+                              "title" : "双葉町",
+                              "wref" : "二葉町 (豊川市)"
+                           },
+                           {
+                              "title" : "二見町",
+                              "wref" : "二見町 (豊川市)"
+                           },
+                           {
+                              "title" : "古宿町",
+                              "wref" : "古宿町"
+                           },
+                           {
+                              "title" : "豊栄町",
+                              "wref" : "豊栄町 (豊川市)"
+                           },
+                           {
+                              "title" : "穂ノ原",
+                              "wref" : "穂ノ原"
+                           },
+                           {
+                              "title" : "本野ケ原",
+                              "wref" : "本野ケ原"
+                           },
+                           {
+                              "title" : "本野町",
+                              "wref" : "本野町 (豊川市)"
+                           }
+                        ],
+                        "title" : "は行\u000A"
+                     },
+                     {
+                        "items" : [
+                           {
+                              "title" : "牧野町",
+                              "wref" : "牧野町 (豊川市)"
+                           },
+                           {
+                              "title" : "正岡町",
+                              "wref" : "正岡町"
+                           },
+                           {
+                              "title" : "松風町",
+                              "wref" : "松風町 (豊川市)"
+                           },
+                           {
+                              "title" : "松原町",
+                              "wref" : "松原町 (豊川市)"
+                           },
+                           {
+                              "title" : "松久町",
+                              "wref" : "松久町"
+                           },
+                           {
+                              "title" : "三上町",
+                              "wref" : "三上町"
+                           },
+                           {
+                              "title" : "美園",
+                              "wref" : "美園 (豊川市)"
+                           },
+                           {
+                              "title" : "御津町赤根",
+                              "wref" : "御津町赤根"
+                           },
+                           {
+                              "title" : "御津町安礼の崎",
+                              "wref" : "御津町安礼の崎"
+                           },
+                           {
+                              "title" : "御津町大草",
+                              "wref" : "御津町大草"
+                           },
+                           {
+                              "title" : "御津町御馬",
+                              "wref" : "御津町御馬"
+                           },
+                           {
+                              "title" : "御津町金野",
+                              "wref" : "御津町金野"
+                           },
+                           {
+                              "title" : "御津町上佐脇",
+                              "wref" : "御津町上佐脇"
+                           },
+                           {
+                              "title" : "御津町佐脇浜",
+                              "wref" : "御津町佐脇浜"
+                           },
+                           {
+                              "title" : "御津町下佐脇",
+                              "wref" : "御津町下佐脇"
+                           },
+                           {
+                              "title" : "御津町新田",
+                              "wref" : "御津町新田"
+                           },
+                           {
+                              "title" : "御津町豊沢",
+                              "wref" : "御津町豊沢"
+                           },
+                           {
+                              "title" : "御津町泙野",
+                              "wref" : "御津町泙野"
+                           },
+                           {
+                              "title" : "御津町西方",
+                              "wref" : "御津町西方"
+                           },
+                           {
+                              "title" : "御津町広石",
+                              "wref" : "御津町広石"
+                           },
+                           {
+                              "title" : "御津町御幸浜",
+                              "wref" : "御津町御幸浜"
+                           },
+                           {
+                              "title" : "緑町",
+                              "wref" : "緑町 (豊川市)"
+                           },
+                           {
+                              "title" : "南大通",
+                              "wref" : "南大通 (豊川市の町名)"
+                           },
+                           {
+                              "title" : "南千両",
+                              "wref" : "南千両"
+                           },
+                           {
+                              "title" : "三谷原町",
+                              "wref" : "三谷原町"
+                           },
+                           {
+                              "title" : "美幸町",
+                              "wref" : "美幸町 (豊川市)"
+                           },
+                           {
+                              "title" : "美和通",
+                              "wref" : "美和通"
+                           },
+                           {
+                              "title" : "向河原町",
+                              "wref" : "向河原町"
+                           },
+                           {
+                              "title" : "森",
+                              "wref" : "森 (豊川市)"
+                           },
+                           {
+                              "title" : "門前町",
+                              "wref" : "門前町 (豊川市)"
+                           }
+                        ],
+                        "title" : "ま行\u000A"
+                     },
+                     {
+                        "items" : [
+                           {
+                              "title" : "谷川町",
+                              "wref" : "谷川町 (豊川市)"
+                           },
+                           {
+                              "title" : "山道町",
+                              "wref" : "山道町 (豊川市)"
+                           },
+                           {
+                              "title" : "弥生町",
+                              "wref" : "弥生町 (豊川市)"
+                           },
+                           {
+                              "title" : "八幡町",
+                              "wref" : "八幡町 (豊川市)"
+                           },
+                           {
+                              "title" : "豊が丘町",
+                              "wref" : "豊が丘町"
+                           },
+                           {
+                              "title" : "四ツ谷町",
+                              "wref" : "四ツ谷町 (豊川市)"
+                           },
+                           {
+                              "title" : "六角町",
+                              "wref" : "六角町 (豊川市)"
+                           },
+                           {
+                              "title" : "若鳩町",
+                              "wref" : "若鳩町"
+                           },
+                           {
+                              "title" : "若宮町",
+                              "wref" : "若宮町 (豊川市)"
+                           }
+                        ],
+                        "title" : "や～わ行\u000A"
                      }
                   ],
                   "title" : "豊川市の町・字",
@@ -59198,6 +58977,183 @@
    },
    "Template:野々市市の町・字" : {
       "Template:野々市市の町・字" : {
+         "includes" : {
+            "Navbox" : [
+               {
+                  "lists" : [
+                     {
+                        "items" : [
+                           {
+                              "value" : "本町",
+                              "wref" : "本町 (野々市市)"
+                           },
+                           {
+                              "value" : "若松町",
+                              "wref" : "若松町 (野々市市)"
+                           },
+                           {
+                              "value" : "横宮町",
+                              "wref" : "横宮町"
+                           },
+                           {
+                              "value" : "高橋町",
+                              "wref" : "高橋町 (野々市市)"
+                           },
+                           {
+                              "value" : "扇が丘",
+                              "wref" : "扇が丘"
+                           },
+                           {
+                              "value" : "住吉町",
+                              "wref" : "住吉町 (野々市市)"
+                           },
+                           {
+                              "value" : "菅原町",
+                              "wref" : "菅原町 (野々市市)"
+                           },
+                           {
+                              "value" : "白山町",
+                              "wref" : "白山町 (野々市市)"
+                           }
+                        ],
+                        "title" : "本町地区\u000A"
+                     },
+                     {
+                        "items" : [
+                           {
+                              "value" : "中林",
+                              "wref" : "中林 (石川県)"
+                           },
+                           {
+                              "value" : "上林",
+                              "wref" : "上林 (野々市市)"
+                           },
+                           {
+                              "value" : "新庄",
+                              "wref" : "新庄 (野々市市)"
+                           },
+                           {
+                              "value" : "粟田",
+                              "wref" : "粟田 (野々市市)"
+                           },
+                           {
+                              "value" : "矢作",
+                              "wref" : "矢作 (野々市市)"
+                           },
+                           {
+                              "value" : "三納",
+                              "wref" : "三納"
+                           },
+                           {
+                              "value" : "藤平",
+                              "wref" : "藤平"
+                           },
+                           {
+                              "value" : "藤平田",
+                              "wref" : "藤平田"
+                           },
+                           {
+                              "value" : "下林",
+                              "wref" : "下林 (野々市市)"
+                           },
+                           {
+                              "value" : "位川",
+                              "wref" : "位川"
+                           },
+                           {
+                              "value" : "太平寺",
+                              "wref" : "太平寺 (野々市市)"
+                           },
+                           {
+                              "value" : "清金",
+                              "wref" : "清金"
+                           },
+                           {
+                              "value" : "末松",
+                              "wref" : "末松"
+                           }
+                        ],
+                        "title" : "富奥地区\u000A",
+                        "wref" : "富奥村"
+                     },
+                     {
+                        "items" : [
+                           {
+                              "value" : "稲荷",
+                              "wref" : "稲荷 (野々市市)"
+                           },
+                           {
+                              "value" : "堀内",
+                              "wref" : "堀内 (野々市市)"
+                           },
+                           {
+                              "value" : "田尻町",
+                              "wref" : "田尻町 (野々市市)"
+                           },
+                           {
+                              "value" : "三日市町",
+                              "wref" : "三日市町 (野々市市)"
+                           },
+                           {
+                              "value" : "二日市町",
+                              "wref" : "二日市町 (野々市市)"
+                           },
+                           {
+                              "value" : "二日市",
+                              "wref" : "二日市 (野々市市)"
+                           },
+                           {
+                              "value" : "徳用町",
+                              "wref" : "徳用町"
+                           },
+                           {
+                              "value" : "郷町",
+                              "wref" : "郷町"
+                           },
+                           {
+                              "value" : "蓮花寺町",
+                              "wref" : "蓮花寺町 (野々市市)"
+                           },
+                           {
+                              "value" : "柳町",
+                              "wref" : "柳町 (野々市市)"
+                           },
+                           {
+                              "value" : "長池町",
+                              "wref" : "長池町 (野々市市)"
+                           }
+                        ],
+                        "title" : "郷地区\u000A",
+                        "wref" : "郷村 (石川県)"
+                     },
+                     {
+                        "items" : [
+                           {
+                              "value" : "押野",
+                              "wref" : "押野 (野々市市)"
+                           },
+                           {
+                              "value" : "押越",
+                              "wref" : "押越 (野々市市)"
+                           },
+                           {
+                              "value" : "野代",
+                              "wref" : "野代"
+                           },
+                           {
+                              "value" : "御経塚",
+                              "wref" : "御経塚"
+                           }
+                        ],
+                        "title" : "押野地区\u000A",
+                        "wref" : "押野村"
+                     }
+                  ],
+                  "title" : "野々市市の町・字",
+                  "wref" : "野々市市"
+               }
+            ]
+         }
       }
    },
    "Template:金沢区の町名" : {
@@ -61926,7 +61882,7 @@
                            },
                            {
                               "value" : "今泉台",
-                              "wref" : "今泉台 (鎌倉市)"
+                              "wref" : "今泉台"
                            },
                            {
                               "value" : "岩瀬",
@@ -62488,6 +62444,10 @@
          }
       }
    },
+   "Template:青梅市の町名" : {
+      "Template:青梅市の町名" : {
+      }
+   },
    "Template:青森市の大字" : {
       "Template:青森市の大字" : {
          "includes" : {
@@ -62497,752 +62457,692 @@
                      {
                         "items" : [
                            {
-                              "lists" : [
-                                 {
-                                    "items" : [
-                                       {
-                                          "value" : "岡造道",
-                                          "wref" : "岡造道"
-                                       },
-                                       {
-                                          "value" : "合浦",
-                                          "wref" : "合浦"
-                                       },
-                                       {
-                                          "value" : "桑原",
-                                          "wref" : "桑原 (青森市)"
-                                       },
-                                       {
-                                          "value" : "小柳",
-                                          "wref" : "小柳 (青森市)"
-                                       },
-                                       {
-                                          "value" : "はまなす",
-                                          "wref" : "はまなす (青森市)"
-                                       },
-                                       {
-                                          "value" : "栄町",
-                                          "wref" : "栄町 (青森市)"
-                                       },
-                                       {
-                                          "value" : "桜川",
-                                          "wref" : "桜川 (青森市)"
-                                       },
-                                       {
-                                          "value" : "自由ケ丘",
-                                          "wref" : "自由ケ丘 (青森市)"
-                                       },
-                                       {
-                                          "value" : "田屋敷",
-                                          "wref" : "田屋敷"
-                                       },
-                                       {
-                                          "value" : "佃",
-                                          "wref" : "佃 (青森市)"
-                                       },
-                                       {
-                                          "value" : "茶屋町",
-                                          "wref" : "茶屋町 (青森市)"
-                                       },
-                                       {
-                                          "value" : "造道",
-                                          "wref" : "造道"
-                                       },
-                                       {
-                                          "value" : "筒井",
-                                          "wref" : "筒井"
-                                       },
-                                       {
-                                          "value" : "中佃",
-                                          "wref" : "中佃"
-                                       },
-                                       {
-                                          "value" : "浪打",
-                                          "wref" : "浪打 (青森市)"
-                                       },
-                                       {
-                                          "value" : "虹ケ丘",
-                                          "wref" : "虹ケ丘"
-                                       },
-                                       {
-                                          "value" : "花園",
-                                          "wref" : "花園 (青森市)"
-                                       },
-                                       {
-                                          "value" : "浜館",
-                                          "wref" : "浜館"
-                                       },
-                                       {
-                                          "value" : "東造道",
-                                          "wref" : "東造道"
-                                       },
-                                       {
-                                          "value" : "港町",
-                                          "wref" : "港町 (青森市)"
-                                       },
-                                       {
-                                          "value" : "古館",
-                                          "wref" : "古館 (青森市)"
-                                       },
-                                       {
-                                          "value" : "松森",
-                                          "wref" : "松森 (青森市)"
-                                       },
-                                       {
-                                          "value" : "南佃",
-                                          "wref" : "南佃"
-                                       },
-                                       {
-                                          "value" : "本泉",
-                                          "wref" : "本泉"
-                                       },
-                                       {
-                                          "value" : "八重田",
-                                          "wref" : "八重田"
-                                       },
-                                       {
-                                          "value" : "けやき",
-                                          "wref" : "けやき (青森市)"
-                                       },
-                                       {
-                                          "value" : "矢作",
-                                          "wref" : "矢作 (青森市)"
-                                       },
-                                       {
-                                          "value" : "矢田前",
-                                          "wref" : "矢田前"
-                                       },
-                                       {
-                                          "value" : "原別",
-                                          "wref" : "原別"
-                                       },
-                                       {
-                                          "value" : "問屋町",
-                                          "wref" : "問屋町 (青森市)"
-                                       },
-                                       {
-                                          "value" : "妙見",
-                                          "wref" : "妙見 (青森市)"
-                                       },
-                                       {
-                                          "value" : "卸町",
-                                          "wref" : "卸町 (青森市)"
-                                       }
-                                    ],
-                                    "title" : ""
-                                 }
-                              ],
-                              "title" : "東地区\u000A   "
+                              "value" : "岡造道",
+                              "wref" : "岡造道"
                            },
                            {
-                              "lists" : [
-                                 {
-                                    "items" : [
-                                       {
-                                          "value" : "青柳",
-                                          "wref" : "青柳 (青森市)"
-                                       },
-                                       {
-                                          "value" : "奥野",
-                                          "wref" : "奥野 (青森市)"
-                                       },
-                                       {
-                                          "value" : "勝田",
-                                          "wref" : "勝田 (青森市)"
-                                       },
-                                       {
-                                          "value" : "新町",
-                                          "wref" : "新町 (青森市)"
-                                       },
-                                       {
-                                          "value" : "中央",
-                                          "wref" : "中央 (青森市)"
-                                       },
-                                       {
-                                          "value" : "堤町",
-                                          "wref" : "堤町 (青森市)"
-                                       },
-                                       {
-                                          "value" : "長島",
-                                          "wref" : "長島 (青森市)"
-                                       },
-                                       {
-                                          "value" : "橋本",
-                                          "wref" : "橋本 (青森市)"
-                                       },
-                                       {
-                                          "value" : "古川",
-                                          "wref" : "古川 (青森市)"
-                                       },
-                                       {
-                                          "value" : "本町",
-                                          "wref" : "本町 (青森市)"
-                                       },
-                                       {
-                                          "value" : "松原",
-                                          "wref" : "松原 (青森市)"
-                                       },
-                                       {
-                                          "value" : "安方",
-                                          "wref" : "安方"
-                                       },
-                                       {
-                                          "value" : "柳川",
-                                          "wref" : "柳川 (青森市)"
-                                       },
-                                       {
-                                          "value" : "篠田",
-                                          "wref" : "篠田 (青森市)"
-                                       },
-                                       {
-                                          "value" : "千刈",
-                                          "wref" : "千刈"
-                                       }
-                                    ],
-                                    "title" : ""
-                                 }
-                              ],
-                              "title" : "中心地区\u000A   "
+                              "value" : "合浦",
+                              "wref" : "合浦"
                            },
                            {
-                              "lists" : [
-                                 {
-                                    "items" : [
-                                       {
-                                          "value" : "青葉",
-                                          "wref" : "青葉 (青森市)"
-                                       },
-                                       {
-                                          "value" : "旭町",
-                                          "wref" : "旭町 (青森市)"
-                                       },
-                                       {
-                                          "value" : "浦町",
-                                          "wref" : "浦町"
-                                       },
-                                       {
-                                          "value" : "大野",
-                                          "wref" : "大野 (青森市)"
-                                       },
-                                       {
-                                          "value" : "西大野",
-                                          "wref" : "西大野"
-                                       },
-                                       {
-                                          "value" : "桂木",
-                                          "wref" : "桂木"
-                                       },
-                                       {
-                                          "value" : "金沢",
-                                          "wref" : "金沢 (青森市)"
-                                       },
-                                       {
-                                          "value" : "北金沢",
-                                          "wref" : "北金沢"
-                                       },
-                                       {
-                                          "value" : "久須志",
-                                          "wref" : "久須志"
-                                       },
-                                       {
-                                          "value" : "千富町",
-                                          "wref" : "千富町"
-                                       },
-                                       {
-                                          "value" : "第二問屋町",
-                                          "wref" : "第二問屋町"
-                                       },
-                                       {
-                                          "value" : "浪館前田",
-                                          "wref" : "浪館前田"
-                                       },
-                                       {
-                                          "value" : "浪館",
-                                          "wref" : "浪館"
-                                       },
-                                       {
-                                          "value" : "浜田",
-                                          "wref" : "浜田 (青森市)"
-                                       },
-                                       {
-                                          "value" : "東大野",
-                                          "wref" : "東大野"
-                                       },
-                                       {
-                                          "value" : "緑",
-                                          "wref" : "緑 (青森市)"
-                                       },
-                                       {
-                                          "value" : "安田",
-                                          "wref" : "安田 (青森市)"
-                                       },
-                                       {
-                                          "value" : "八ツ役",
-                                          "wref" : "八ツ役"
-                                       }
-                                    ],
-                                    "title" : ""
-                                 }
-                              ],
-                              "title" : "南地区\u000A   "
+                              "value" : "桑原",
+                              "wref" : "桑原 (青森市)"
                            },
                            {
-                              "lists" : [
-                                 {
-                                    "items" : [
-                                       {
-                                          "value" : "油川",
-                                          "wref" : "油川"
-                                       },
-                                       {
-                                          "value" : "石江",
-                                          "wref" : "石江"
-                                       },
-                                       {
-                                          "value" : "岡町",
-                                          "wref" : "岡町 (青森市)"
-                                       },
-                                       {
-                                          "value" : "沖館",
-                                          "wref" : "沖館 (青森市)"
-                                       },
-                                       {
-                                          "value" : "里見",
-                                          "wref" : "里見"
-                                       },
-                                       {
-                                          "value" : "三内",
-                                          "wref" : "三内"
-                                       },
-                                       {
-                                          "value" : "富田",
-                                          "wref" : "富田 (青森市)"
-                                       },
-                                       {
-                                          "value" : "西滝",
-                                          "wref" : "西滝"
-                                       },
-                                       {
-                                          "value" : "新田",
-                                          "wref" : "新田 (青森市)"
-                                       },
-                                       {
-                                          "value" : "羽白",
-                                          "wref" : "羽白"
-                                       },
-                                       {
-                                          "value" : "三好",
-                                          "wref" : "三好 (青森市)"
-                                       },
-                                       {
-                                          "value" : "新城",
-                                          "wref" : "新城 (青森市)"
-                                       }
-                                    ],
-                                    "title" : ""
-                                 }
-                              ],
-                              "title" : "西地区\u000A   "
+                              "value" : "小柳",
+                              "wref" : "小柳 (青森市)"
                            },
                            {
-                              "lists" : [
-                                 {
-                                    "items" : [
-                                       {
-                                          "value" : "浅虫",
-                                          "wref" : "浅虫"
-                                       },
-                                       {
-                                          "value" : "泉野",
-                                          "wref" : "泉野"
-                                       },
-                                       {
-                                          "value" : "後萢",
-                                          "wref" : "後萢"
-                                       },
-                                       {
-                                          "value" : "久栗坂",
-                                          "wref" : "久栗坂"
-                                       },
-                                       {
-                                          "value" : "三本木",
-                                          "wref" : "三本木"
-                                       },
-                                       {
-                                          "value" : "平新田",
-                                          "wref" : "平新田"
-                                       },
-                                       {
-                                          "value" : "滝沢",
-                                          "wref" : "滝沢 (青森市)"
-                                       },
-                                       {
-                                          "value" : "野内",
-                                          "wref" : "野内"
-                                       },
-                                       {
-                                          "value" : "馬屋尻",
-                                          "wref" : "馬屋尻"
-                                       },
-                                       {
-                                          "value" : "宮田",
-                                          "wref" : "宮田 (青森市)"
-                                       },
-                                       {
-                                          "value" : "矢田",
-                                          "wref" : "矢田"
-                                       },
-                                       {
-                                          "value" : "八幡林",
-                                          "wref" : "八幡林"
-                                       },
-                                       {
-                                          "value" : "桑原",
-                                          "wref" : "桑原 (青森市)"
-                                       },
-                                       {
-                                          "value" : "沢山",
-                                          "wref" : "沢山"
-                                       },
-                                       {
-                                          "value" : "諏訪沢",
-                                          "wref" : "諏訪沢"
-                                       },
-                                       {
-                                          "value" : "築木館",
-                                          "wref" : "築木館"
-                                       },
-                                       {
-                                          "value" : "戸崎",
-                                          "wref" : "戸崎"
-                                       },
-                                       {
-                                          "value" : "戸山",
-                                          "wref" : "戸山 (青森市)"
-                                       },
-                                       {
-                                          "value" : "赤坂",
-                                          "wref" : "赤坂 (青森市)"
-                                       },
-                                       {
-                                          "value" : "蛍沢",
-                                          "wref" : "蛍沢"
-                                       },
-                                       {
-                                          "value" : "月見野",
-                                          "wref" : "月見野"
-                                       }
-                                    ],
-                                    "title" : ""
-                                 }
-                              ],
-                              "title" : "東部地区\u000A   "
+                              "value" : "はまなす",
+                              "wref" : "はまなす (青森市)"
                            },
                            {
-                              "lists" : [
-                                 {
-                                    "items" : [
-                                       {
-                                          "value" : "牛館",
-                                          "wref" : "牛館"
-                                       },
-                                       {
-                                          "value" : "大矢沢",
-                                          "wref" : "大矢沢"
-                                       },
-                                       {
-                                          "value" : "幸畑",
-                                          "wref" : "幸畑"
-                                       },
-                                       {
-                                          "value" : "合子沢",
-                                          "wref" : "合子沢"
-                                       },
-                                       {
-                                          "value" : "新町野",
-                                          "wref" : "新町野"
-                                       },
-                                       {
-                                          "value" : "田茂木野",
-                                          "wref" : "田茂木野"
-                                       },
-                                       {
-                                          "value" : "野尻",
-                                          "wref" : "野尻"
-                                       },
-                                       {
-                                          "value" : "雲谷",
-                                          "wref" : "雲谷"
-                                       },
-                                       {
-                                          "value" : "横内",
-                                          "wref" : "横内 (青森市)"
-                                       },
-                                       {
-                                          "value" : "四ツ石",
-                                          "wref" : "四ツ石"
-                                       },
-                                       {
-                                          "value" : "駒込",
-                                          "wref" : "駒込 (青森市)"
-                                       }
-                                    ],
-                                    "title" : ""
-                                 }
-                              ],
-                              "title" : "南東部地区\u000A   "
+                              "value" : "栄町",
+                              "wref" : "栄町 (青森市)"
                            },
                            {
-                              "lists" : [
-                                 {
-                                    "items" : [
-                                       {
-                                          "value" : "岩渡",
-                                          "wref" : "岩渡"
-                                       },
-                                       {
-                                          "value" : "鶴ケ坂",
-                                          "wref" : "鶴ケ坂"
-                                       },
-                                       {
-                                          "value" : "戸門",
-                                          "wref" : "戸門"
-                                       },
-                                       {
-                                          "value" : "孫内",
-                                          "wref" : "孫内"
-                                       }
-                                    ],
-                                    "title" : ""
-                                 }
-                              ],
-                              "title" : "西部地区\u000A   "
+                              "value" : "桜川",
+                              "wref" : "桜川 (青森市)"
                            },
                            {
-                              "lists" : [
-                                 {
-                                    "items" : [
-                                       {
-                                          "value" : "荒川",
-                                          "wref" : "荒川 (青森市)"
-                                       },
-                                       {
-                                          "value" : "上野",
-                                          "wref" : "上野 (青森市)"
-                                       },
-                                       {
-                                          "value" : "大谷",
-                                          "wref" : "大谷 (青森市)"
-                                       },
-                                       {
-                                          "value" : "大別内",
-                                          "wref" : "大別内"
-                                       },
-                                       {
-                                          "value" : "小畑沢",
-                                          "wref" : "小畑沢"
-                                       },
-                                       {
-                                          "value" : "金浜",
-                                          "wref" : "金浜"
-                                       },
-                                       {
-                                          "value" : "小館",
-                                          "wref" : "小館"
-                                       },
-                                       {
-                                          "value" : "高田",
-                                          "wref" : "高田 (青森市)"
-                                       },
-                                       {
-                                          "value" : "入内",
-                                          "wref" : "入内"
-                                       },
-                                       {
-                                          "value" : "野木",
-                                          "wref" : "野木"
-                                       },
-                                       {
-                                          "value" : "野沢",
-                                          "wref" : "野沢 (青森市)"
-                                       },
-                                       {
-                                          "value" : "細越",
-                                          "wref" : "細越"
-                                       },
-                                       {
-                                          "value" : "八ツ役",
-                                          "wref" : "八ツ役"
-                                       }
-                                    ],
-                                    "title" : ""
-                                 }
-                              ],
-                              "title" : "南部地区\u000A   "
+                              "value" : "自由ケ丘",
+                              "wref" : "自由ケ丘 (青森市)"
                            },
                            {
-                              "lists" : [
-                                 {
-                                    "items" : [
-                                       {
-                                          "value" : "飛鳥",
-                                          "wref" : "飛鳥 (青森市)"
-                                       },
-                                       {
-                                          "value" : "後潟",
-                                          "wref" : "後潟"
-                                       },
-                                       {
-                                          "value" : "内真部",
-                                          "wref" : "内真部"
-                                       },
-                                       {
-                                          "value" : "奥内",
-                                          "wref" : "奥内"
-                                       },
-                                       {
-                                          "value" : "小橋",
-                                          "wref" : "小橋"
-                                       },
-                                       {
-                                          "value" : "四戸橋",
-                                          "wref" : "四戸橋"
-                                       },
-                                       {
-                                          "value" : "清水",
-                                          "wref" : "清水 (青森市)"
-                                       },
-                                       {
-                                          "value" : "瀬戸子",
-                                          "wref" : "瀬戸子"
-                                       },
-                                       {
-                                          "value" : "西田沢",
-                                          "wref" : "西田沢"
-                                       },
-                                       {
-                                          "value" : "左堰",
-                                          "wref" : "左堰"
-                                       },
-                                       {
-                                          "value" : "六枚橋",
-                                          "wref" : "六枚橋"
-                                       },
-                                       {
-                                          "value" : "前田",
-                                          "wref" : "前田 (青森市)"
-                                       }
-                                    ],
-                                    "title" : ""
-                                 }
-                              ],
-                              "title" : "北部地区\u000A   "
+                              "value" : "田屋敷",
+                              "wref" : "田屋敷"
+                           },
+                           {
+                              "value" : "佃",
+                              "wref" : "佃 (青森市)"
+                           },
+                           {
+                              "value" : "茶屋町",
+                              "wref" : "茶屋町 (青森市)"
+                           },
+                           {
+                              "value" : "造道",
+                              "wref" : "造道"
+                           },
+                           {
+                              "value" : "筒井",
+                              "wref" : "筒井"
+                           },
+                           {
+                              "value" : "中佃",
+                              "wref" : "中佃"
+                           },
+                           {
+                              "value" : "浪打",
+                              "wref" : "浪打 (青森市)"
+                           },
+                           {
+                              "value" : "虹ケ丘",
+                              "wref" : "虹ケ丘"
+                           },
+                           {
+                              "value" : "花園",
+                              "wref" : "花園 (青森市)"
+                           },
+                           {
+                              "value" : "浜館",
+                              "wref" : "浜館"
+                           },
+                           {
+                              "value" : "東造道",
+                              "wref" : "東造道"
+                           },
+                           {
+                              "value" : "港町",
+                              "wref" : "港町 (青森市)"
+                           },
+                           {
+                              "value" : "古館",
+                              "wref" : "古館 (青森市)"
+                           },
+                           {
+                              "value" : "松森",
+                              "wref" : "松森 (青森市)"
+                           },
+                           {
+                              "value" : "南佃",
+                              "wref" : "南佃"
+                           },
+                           {
+                              "value" : "本泉",
+                              "wref" : "本泉"
+                           },
+                           {
+                              "value" : "八重田",
+                              "wref" : "八重田"
+                           },
+                           {
+                              "value" : "けやき",
+                              "wref" : "けやき (青森市)"
+                           },
+                           {
+                              "value" : "矢作",
+                              "wref" : "矢作 (青森市)"
+                           },
+                           {
+                              "value" : "矢田前",
+                              "wref" : "矢田前"
+                           },
+                           {
+                              "value" : "原別",
+                              "wref" : "原別"
+                           },
+                           {
+                              "value" : "問屋町",
+                              "wref" : "問屋町 (青森市)"
+                           },
+                           {
+                              "value" : "妙見",
+                              "wref" : "妙見 (青森市)"
+                           },
+                           {
+                              "value" : "卸町",
+                              "wref" : "卸町 (青森市)"
                            }
                         ],
-                        "title" : "旧青森市\u000A"
+                        "title" : "東地区\u000A"
                      },
                      {
                         "items" : [
                            {
-                              "lists" : [
-                                 {
-                                    "items" : [
-                                       {
-                                          "value" : "相沢",
-                                          "wref" : "相沢"
-                                       },
-                                       {
-                                          "value" : "王余魚沢",
-                                          "wref" : "王余魚沢"
-                                       },
-                                       {
-                                          "value" : "北中野",
-                                          "wref" : "北中野"
-                                       },
-                                       {
-                                          "value" : "吉内",
-                                          "wref" : "吉内"
-                                       },
-                                       {
-                                          "value" : "郷山前",
-                                          "wref" : "郷山前"
-                                       },
-                                       {
-                                          "value" : "五本松",
-                                          "wref" : "五本松"
-                                       },
-                                       {
-                                          "value" : "下石川",
-                                          "wref" : "下石川"
-                                       },
-                                       {
-                                          "value" : "下十川",
-                                          "wref" : "下十川"
-                                       },
-                                       {
-                                          "value" : "銀",
-                                          "wref" : "銀 (青森市)"
-                                       },
-                                       {
-                                          "value" : "杉沢",
-                                          "wref" : "杉沢"
-                                       },
-                                       {
-                                          "value" : "大釈迦",
-                                          "wref" : "大釈迦"
-                                       },
-                                       {
-                                          "value" : "高屋敷",
-                                          "wref" : "高屋敷"
-                                       },
-                                       {
-                                          "value" : "樽沢",
-                                          "wref" : "樽沢"
-                                       },
-                                       {
-                                          "value" : "徳才子",
-                                          "wref" : "徳才子"
-                                       },
-                                       {
-                                          "value" : "長沼",
-                                          "wref" : "長沼"
-                                       },
-                                       {
-                                          "value" : "浪岡",
-                                          "wref" : "浪岡"
-                                       },
-                                       {
-                                          "value" : "細野",
-                                          "wref" : "細野 (青森市)"
-                                       },
-                                       {
-                                          "value" : "本郷",
-                                          "wref" : "本郷 (青森市)"
-                                       },
-                                       {
-                                          "value" : "増館",
-                                          "wref" : "増館"
-                                       },
-                                       {
-                                          "value" : "女鹿沢",
-                                          "wref" : "女鹿沢"
-                                       },
-                                       {
-                                          "value" : "吉野田",
-                                          "wref" : "吉野田"
-                                       },
-                                       {
-                                          "value" : "福田",
-                                          "wref" : "福田 (青森市)"
-                                       }
-                                    ],
-                                    "title" : ""
-                                 }
-                              ],
-                              "title" : "旧浪岡町",
-                              "wref" : "浪岡町"
+                              "value" : "青柳",
+                              "wref" : "青柳 (青森市)"
+                           },
+                           {
+                              "value" : "奥野",
+                              "wref" : "奥野 (青森市)"
+                           },
+                           {
+                              "value" : "勝田",
+                              "wref" : "勝田 (青森市)"
+                           },
+                           {
+                              "value" : "新町",
+                              "wref" : "新町 (青森市)"
+                           },
+                           {
+                              "value" : "中央",
+                              "wref" : "中央 (青森市)"
+                           },
+                           {
+                              "value" : "堤町",
+                              "wref" : "堤町 (青森市)"
+                           },
+                           {
+                              "value" : "長島",
+                              "wref" : "長島 (青森市)"
+                           },
+                           {
+                              "value" : "橋本",
+                              "wref" : "橋本 (青森市)"
+                           },
+                           {
+                              "value" : "古川",
+                              "wref" : "古川 (青森市)"
+                           },
+                           {
+                              "value" : "本町",
+                              "wref" : "本町 (青森市)"
+                           },
+                           {
+                              "value" : "松原",
+                              "wref" : "松原 (青森市)"
+                           },
+                           {
+                              "value" : "安方",
+                              "wref" : "安方"
+                           },
+                           {
+                              "value" : "柳川",
+                              "wref" : "柳川 (青森市)"
+                           },
+                           {
+                              "value" : "篠田",
+                              "wref" : "篠田 (青森市)"
+                           },
+                           {
+                              "value" : "千刈",
+                              "wref" : "千刈"
                            }
-                        ]
+                        ],
+                        "title" : "中心地区\u000A"
+                     },
+                     {
+                        "items" : [
+                           {
+                              "value" : "青葉",
+                              "wref" : "青葉 (青森市)"
+                           },
+                           {
+                              "value" : "旭町",
+                              "wref" : "旭町 (青森市)"
+                           },
+                           {
+                              "value" : "浦町",
+                              "wref" : "浦町"
+                           },
+                           {
+                              "value" : "大野",
+                              "wref" : "大野 (青森市)"
+                           },
+                           {
+                              "value" : "西大野",
+                              "wref" : "西大野"
+                           },
+                           {
+                              "value" : "桂木",
+                              "wref" : "桂木"
+                           },
+                           {
+                              "value" : "金沢",
+                              "wref" : "金沢 (青森市)"
+                           },
+                           {
+                              "value" : "北金沢",
+                              "wref" : "北金沢"
+                           },
+                           {
+                              "value" : "久須志",
+                              "wref" : "久須志"
+                           },
+                           {
+                              "value" : "千富町",
+                              "wref" : "千富町"
+                           },
+                           {
+                              "value" : "第二問屋町",
+                              "wref" : "第二問屋町"
+                           },
+                           {
+                              "value" : "浪館前田",
+                              "wref" : "浪館前田"
+                           },
+                           {
+                              "value" : "浪館",
+                              "wref" : "浪館"
+                           },
+                           {
+                              "value" : "浜田",
+                              "wref" : "浜田 (青森市)"
+                           },
+                           {
+                              "value" : "東大野",
+                              "wref" : "東大野"
+                           },
+                           {
+                              "value" : "緑",
+                              "wref" : "緑 (青森市)"
+                           },
+                           {
+                              "value" : "安田",
+                              "wref" : "安田 (青森市)"
+                           },
+                           {
+                              "value" : "八ツ役",
+                              "wref" : "八ツ役"
+                           }
+                        ],
+                        "title" : "南地区 \u000A"
+                     },
+                     {
+                        "items" : [
+                           {
+                              "value" : "油川",
+                              "wref" : "油川"
+                           },
+                           {
+                              "value" : "石江",
+                              "wref" : "石江"
+                           },
+                           {
+                              "value" : "岡町",
+                              "wref" : "岡町 (青森市)"
+                           },
+                           {
+                              "value" : "沖館",
+                              "wref" : "沖館 (青森市)"
+                           },
+                           {
+                              "value" : "里見",
+                              "wref" : "里見"
+                           },
+                           {
+                              "value" : "三内",
+                              "wref" : "三内"
+                           },
+                           {
+                              "value" : "富田",
+                              "wref" : "富田 (青森市)"
+                           },
+                           {
+                              "value" : "西滝",
+                              "wref" : "西滝"
+                           },
+                           {
+                              "value" : "新田",
+                              "wref" : "新田 (青森市)"
+                           },
+                           {
+                              "value" : "羽白",
+                              "wref" : "羽白"
+                           },
+                           {
+                              "value" : "三好",
+                              "wref" : "三好 (青森市)"
+                           },
+                           {
+                              "value" : "新城",
+                              "wref" : "新城 (青森市)"
+                           }
+                        ],
+                        "title" : "西地区 \u000A"
+                     },
+                     {
+                        "items" : [
+                           {
+                              "value" : "浅虫",
+                              "wref" : "浅虫"
+                           },
+                           {
+                              "value" : "泉野",
+                              "wref" : "泉野"
+                           },
+                           {
+                              "value" : "後萢",
+                              "wref" : "後萢"
+                           },
+                           {
+                              "value" : "久栗坂",
+                              "wref" : "久栗坂"
+                           },
+                           {
+                              "value" : "三本木",
+                              "wref" : "三本木"
+                           },
+                           {
+                              "value" : "平新田",
+                              "wref" : "平新田"
+                           },
+                           {
+                              "value" : "滝沢",
+                              "wref" : "滝沢 (青森市)"
+                           },
+                           {
+                              "value" : "野内",
+                              "wref" : "野内"
+                           },
+                           {
+                              "value" : "馬屋尻",
+                              "wref" : "馬屋尻"
+                           },
+                           {
+                              "value" : "宮田",
+                              "wref" : "宮田 (青森市)"
+                           },
+                           {
+                              "value" : "矢田",
+                              "wref" : "矢田"
+                           },
+                           {
+                              "value" : "八幡林",
+                              "wref" : "八幡林"
+                           },
+                           {
+                              "value" : "桑原",
+                              "wref" : "桑原 (青森市)"
+                           },
+                           {
+                              "value" : "沢山",
+                              "wref" : "沢山"
+                           },
+                           {
+                              "value" : "諏訪沢",
+                              "wref" : "諏訪沢"
+                           },
+                           {
+                              "value" : "築木館",
+                              "wref" : "築木館"
+                           },
+                           {
+                              "value" : "戸崎",
+                              "wref" : "戸崎"
+                           },
+                           {
+                              "value" : "戸山",
+                              "wref" : "戸山 (青森市)"
+                           },
+                           {
+                              "value" : "赤坂",
+                              "wref" : "赤坂 (青森市)"
+                           },
+                           {
+                              "value" : "蛍沢",
+                              "wref" : "蛍沢"
+                           },
+                           {
+                              "value" : "月見野",
+                              "wref" : "月見野"
+                           }
+                        ],
+                        "title" : "東部地区\u000A"
+                     },
+                     {
+                        "items" : [
+                           {
+                              "value" : "牛館",
+                              "wref" : "牛館"
+                           },
+                           {
+                              "value" : "大矢沢",
+                              "wref" : "大矢沢"
+                           },
+                           {
+                              "value" : "幸畑",
+                              "wref" : "幸畑"
+                           },
+                           {
+                              "value" : "合子沢",
+                              "wref" : "合子沢"
+                           },
+                           {
+                              "value" : "新町野",
+                              "wref" : "新町野"
+                           },
+                           {
+                              "value" : "田茂木野",
+                              "wref" : "田茂木野"
+                           },
+                           {
+                              "value" : "野尻",
+                              "wref" : "野尻"
+                           },
+                           {
+                              "value" : "雲谷",
+                              "wref" : "雲谷"
+                           },
+                           {
+                              "value" : "横内",
+                              "wref" : "横内 (青森市)"
+                           },
+                           {
+                              "value" : "四ツ石",
+                              "wref" : "四ツ石"
+                           },
+                           {
+                              "value" : "駒込",
+                              "wref" : "駒込 (青森市)"
+                           }
+                        ],
+                        "title" : "南東部地区 \u000A"
+                     },
+                     {
+                        "items" : [
+                           {
+                              "value" : "岩渡",
+                              "wref" : "岩渡"
+                           },
+                           {
+                              "value" : "鶴ケ坂",
+                              "wref" : "鶴ケ坂"
+                           },
+                           {
+                              "value" : "戸門",
+                              "wref" : "戸門"
+                           },
+                           {
+                              "value" : "孫内",
+                              "wref" : "孫内"
+                           }
+                        ],
+                        "title" : "西部地区 \u000A"
+                     },
+                     {
+                        "items" : [
+                           {
+                              "value" : "荒川",
+                              "wref" : "荒川 (青森市)"
+                           },
+                           {
+                              "value" : "上野",
+                              "wref" : "上野 (青森市)"
+                           },
+                           {
+                              "value" : "大谷",
+                              "wref" : "大谷 (青森市)"
+                           },
+                           {
+                              "value" : "大別内",
+                              "wref" : "大別内"
+                           },
+                           {
+                              "value" : "小畑沢",
+                              "wref" : "小畑沢"
+                           },
+                           {
+                              "value" : "金浜",
+                              "wref" : "金浜"
+                           },
+                           {
+                              "value" : "小館",
+                              "wref" : "小館"
+                           },
+                           {
+                              "value" : "高田",
+                              "wref" : "高田 (青森市)"
+                           },
+                           {
+                              "value" : "入内",
+                              "wref" : "入内"
+                           },
+                           {
+                              "value" : "野木",
+                              "wref" : "野木"
+                           },
+                           {
+                              "value" : "野沢",
+                              "wref" : "野沢 (青森市)"
+                           },
+                           {
+                              "value" : "細越",
+                              "wref" : "細越"
+                           },
+                           {
+                              "value" : "八ツ役",
+                              "wref" : "八ツ役"
+                           }
+                        ],
+                        "title" : "南部地区\u000A"
+                     },
+                     {
+                        "items" : [
+                           {
+                              "value" : "飛鳥",
+                              "wref" : "飛鳥 (青森市)"
+                           },
+                           {
+                              "value" : "後潟",
+                              "wref" : "後潟"
+                           },
+                           {
+                              "value" : "内真部",
+                              "wref" : "内真部"
+                           },
+                           {
+                              "value" : "奥内",
+                              "wref" : "奥内"
+                           },
+                           {
+                              "value" : "小橋",
+                              "wref" : "小橋"
+                           },
+                           {
+                              "value" : "四戸橋",
+                              "wref" : "四戸橋"
+                           },
+                           {
+                              "value" : "清水",
+                              "wref" : "清水 (青森市)"
+                           },
+                           {
+                              "value" : "瀬戸子",
+                              "wref" : "瀬戸子"
+                           },
+                           {
+                              "value" : "西田沢",
+                              "wref" : "西田沢"
+                           },
+                           {
+                              "value" : "左堰",
+                              "wref" : "左堰"
+                           },
+                           {
+                              "value" : "六枚橋",
+                              "wref" : "六枚橋"
+                           },
+                           {
+                              "value" : "前田",
+                              "wref" : "前田 (青森市)"
+                           }
+                        ],
+                        "title" : "北部地区\u000A"
+                     },
+                     {
+                        "items" : [
+                           {
+                              "value" : "相沢",
+                              "wref" : "相沢"
+                           },
+                           {
+                              "value" : "王余魚沢",
+                              "wref" : "王余魚沢"
+                           },
+                           {
+                              "value" : "北中野",
+                              "wref" : "北中野"
+                           },
+                           {
+                              "value" : "吉内",
+                              "wref" : "吉内"
+                           },
+                           {
+                              "value" : "郷山前",
+                              "wref" : "郷山前"
+                           },
+                           {
+                              "value" : "五本松",
+                              "wref" : "五本松"
+                           },
+                           {
+                              "value" : "下石川",
+                              "wref" : "下石川"
+                           },
+                           {
+                              "value" : "下十川",
+                              "wref" : "下十川"
+                           },
+                           {
+                              "value" : "銀",
+                              "wref" : "銀 (青森市)"
+                           },
+                           {
+                              "value" : "杉沢",
+                              "wref" : "杉沢"
+                           },
+                           {
+                              "value" : "大釈迦",
+                              "wref" : "大釈迦"
+                           },
+                           {
+                              "value" : "高屋敷",
+                              "wref" : "高屋敷"
+                           },
+                           {
+                              "value" : "樽沢",
+                              "wref" : "樽沢"
+                           },
+                           {
+                              "value" : "徳才子",
+                              "wref" : "徳才子"
+                           },
+                           {
+                              "value" : "長沼",
+                              "wref" : "長沼"
+                           },
+                           {
+                              "value" : "浪岡",
+                              "wref" : "浪岡"
+                           },
+                           {
+                              "value" : "細野",
+                              "wref" : "細野 (青森市)"
+                           },
+                           {
+                              "value" : "本郷",
+                              "wref" : "本郷 (青森市)"
+                           },
+                           {
+                              "value" : "増館",
+                              "wref" : "増館"
+                           },
+                           {
+                              "value" : "女鹿沢",
+                              "wref" : "女鹿沢"
+                           },
+                           {
+                              "value" : "吉野田",
+                              "wref" : "吉野田"
+                           },
+                           {
+                              "value" : "福田",
+                              "wref" : "福田 (青森市)"
+                           }
+                        ],
+                        "title" : "浪岡地区\u000A"
                      }
                   ],
                   "title" : "青森市の大字",
