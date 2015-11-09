@@ -52,7 +52,7 @@
          "愛知県" : "愛知県",
          "滋賀県" : "滋賀県"
       },
-      "timestamp" : 1445387107,
+      "timestamp" : 1446283616,
       "url" : "http://www.pref.mie.jp/",
       "wikipedia_image_desc" : "伊勢市にある皇大神宮(内宮)",
       "wikipedia_image_wref" : "File:Naiku 05.jpg",
@@ -321,7 +321,7 @@
          "甲賀市" : "甲賀市"
       },
       "symbol_label" : "伊賀市章(2004年11月1日制定)",
-      "timestamp" : 1443247522,
+      "timestamp" : 1445667582,
       "wikipedia_image_desc" : "伊賀上野城",
       "wikipedia_image_wref" : "File:Igauenozyo.jpg",
       "wref" : "伊賀市"
@@ -434,7 +434,7 @@
                "name" : "スイセン"
             }
          ],
-         "symbol" : [
+         "mark" : [
             {
                "name" : "紀宝町章",
                "wref" : "File:Symbol of Kiho Mie.svg"
@@ -451,8 +451,10 @@
          "新宮市" : "新宮市",
          "熊野市" : "熊野市"
       },
-      "timestamp" : 1421091784,
+      "timestamp" : 1446280840,
       "url" : "http://www.town.kiho.mie.jp/",
+      "wikipedia_image_desc" : "紀宝町鵜殿付近(2015年)",
+      "wikipedia_image_wref" : "File:Udono in Kiho from the sky in 2015.jpg",
       "wref" : "紀宝町"
    },
    "三重県,名張市" : {
@@ -492,7 +494,7 @@
          "曽爾村" : "曽爾村",
          "津市" : "津市"
       },
-      "timestamp" : 1443246972,
+      "timestamp" : 1446455530,
       "url" : "http://www.city.nabari.lg.jp/index.html",
       "wikipedia_image_desc" : "赤目四十八滝(荷担滝)",
       "wikipedia_image_wref" : "File:Akame48Taki NinaiTaki.jpg",
@@ -1065,7 +1067,7 @@
          "鈴鹿市" : "鈴鹿市"
       },
       "symbol_label" : "2006年(平成18年)1月1日制定",
-      "timestamp" : 1444771432,
+      "timestamp" : 1446278865,
       "url" : "http://www.info.city.tsu.mie.jp/",
       "wikipedia_image_desc" : "世界一短い駅名標(JR津駅)",
       "wikipedia_image_wref" : "File:TsuStekimeihyo.jpg",
@@ -1324,7 +1326,7 @@
          "宇治市" : "宇治市",
          "宇治田原町" : "宇治田原町"
       },
-      "timestamp" : 1445445611,
+      "timestamp" : 1445728746,
       "url" : "http://www.town.kumiyama.kyoto.jp/",
       "wikipedia_image_desc" : "上津屋橋",
       "wikipedia_image_wref" : "File:Nagarebashi-02.jpg",
@@ -1459,7 +1461,7 @@
          "精華町" : "精華町"
       },
       "symbol_label" : "1962年6月28日制定",
-      "timestamp" : 1444965505,
+      "timestamp" : 1445742176,
       "url" : "http://www.kyotanabe.jp/",
       "wikipedia_image_desc" : "上:同志社大学京田辺校地ラーネッド記念図書館 中左:酬恩庵\n中右:松井山手駅\n下:山城大橋",
       "wikipedia_image_wref" : "File:Kyotanabe Kyoto montage.JPG",
@@ -1520,29 +1522,29 @@
          "高島市" : "高島市",
          "高槻市" : "高槻市"
       },
-      "timestamp" : 1444965376,
+      "timestamp" : 1446006505,
       "url" : "http://www.city.kyoto.lg.jp/",
       "wikipedia_image_desc" : "東寺/祇園祭 伏見稲荷/京都御所/清水寺\n鹿苑寺金閣/祇園白川と舞妓/慈照寺銀閣\n東山から京都中心部/京都タワー",
       "wikipedia_image_wref" : "File:Kyoto montage.jpg",
       "wref" : "京都市"
    },
    "京都府,京都市,上京区" : {
-      "timestamp" : 1444968428,
+      "timestamp" : 1445569808,
       "url" : "http://www.city.kyoto.lg.jp/kamigyo/",
       "wref" : "上京区"
    },
    "京都府,京都市,下京区" : {
-      "timestamp" : 1443001839,
+      "timestamp" : 1445519579,
       "url" : "http://www.city.kyoto.jp/shimogyo/",
       "wref" : "下京区"
    },
    "京都府,京都市,中京区" : {
-      "timestamp" : 1445061545,
+      "timestamp" : 1445569680,
       "url" : "http://www.city.kyoto.jp/nakagyo/",
       "wref" : "中京区"
    },
    "京都府,京都市,伏見区" : {
-      "timestamp" : 1441731142,
+      "timestamp" : 1446107968,
       "url" : "http://www.city.kyoto.jp/fushimi/",
       "wref" : "伏見区"
    },
@@ -1552,7 +1554,7 @@
       "wref" : "北区 (京都市)"
    },
    "京都府,京都市,南区" : {
-      "timestamp" : 1440337054,
+      "timestamp" : 1445943049,
       "url" : "http://www.city.kyoto.jp/minami/",
       "wref" : "南区 (京都市)"
    },
@@ -1572,7 +1574,7 @@
       "wref" : "左京区"
    },
    "京都府,京都市,東山区" : {
-      "timestamp" : 1445396322,
+      "timestamp" : 1445519412,
       "url" : "http://www.city.kyoto.jp/higasiyama/",
       "wikipedia_image_wref" : "File:150124 At Yasakakamimachi Kyoto Japan02n.jpg",
       "wref" : "東山区"
@@ -1722,7 +1724,7 @@
          "宇治市" : "宇治市",
          "宇治田原町" : "宇治田原町"
       },
-      "timestamp" : 1444965470,
+      "timestamp" : 1446290840,
       "url" : "http://www.city.joyo.kyoto.jp/",
       "wikipedia_image_desc" : "正道官衙遺跡掘立柱建物群跡",
       "wikipedia_image_wref" : "File:Shoudoukanga iseki 1.jpg",
@@ -1880,7 +1882,7 @@
          "甲賀市" : "甲賀市",
          "笠置町" : "笠置町"
       },
-      "timestamp" : 1445147743,
+      "timestamp" : 1445667388,
       "url" : "http://www.vill.minamiyamashiro.lg.jp/",
       "wikipedia_image_wref" : "File:",
       "wref" : "南山城村"
@@ -1924,7 +1926,7 @@
          "笠置町" : "笠置町"
       },
       "symbol_label" : "町旗・町章共に1970年(昭和45年)3月20日制定",
-      "timestamp" : 1443085149,
+      "timestamp" : 1445666580,
       "url" : "http://www.town.wazuka.kyoto.jp/",
       "wikipedia_image_wref" : "File:",
       "wref" : "和束町"
@@ -1990,7 +1992,7 @@
          "生駒市" : "生駒市"
       },
       "symbol_label" : "1971年10月制定",
-      "timestamp" : 1445488071,
+      "timestamp" : 1446353387,
       "url" : "http://www.town.seika.kyoto.jp/",
       "wikipedia_image_desc" : "上:けいはんなプラザ 中左:国立国会図書館関西館\n中右:お千代・半兵衛の墓\u003Cbr/ >下:せいかガーデンシティ",
       "wikipedia_image_wref" : "File:Seika montage.JPG",
@@ -2436,7 +2438,7 @@
          "糸島市" : "糸島市"
       },
       "symbol_label" : "市旗・市章、共に2006年(平成18年)4月1日制定",
-      "timestamp" : 1443901227,
+      "timestamp" : 1445786521,
       "url" : "http://www.city.saga.lg.jp/",
       "wikipedia_image_desc" : "佐賀インターナショナルバルーンフェスタ",
       "wikipedia_image_wref" : "ファイル:La Montgorlfier Nocturne.JPG",
@@ -2851,7 +2853,7 @@
       "wref" : "有田町"
    },
    "佐賀県,鳥栖市" : {
-      "timestamp" : 1443621852,
+      "timestamp" : 1446475152,
       "wikipedia_image_desc" : "ベストアメニティスタジアム",
       "wikipedia_image_wref" : "File:Tosu Stadium 20110508.JPG",
       "wref" : "鳥栖市"
@@ -2875,7 +2877,7 @@
          "嬉野市" : "嬉野市",
          "白石町" : "白石町"
       },
-      "timestamp" : 1445435313,
+      "timestamp" : 1445786680,
       "url" : "http://www.city.kashima.saga.jp/",
       "wikipedia_image_desc" : "祐徳稲荷神社",
       "wikipedia_image_wref" : "File:Yutoku inari Shrine-b.jpg",
@@ -2964,7 +2966,7 @@
          "相生市" : "相生市"
       },
       "symbol_label" : "市旗・市章、共に2005年(平成17年)10月1日制定",
-      "timestamp" : 1435834223,
+      "timestamp" : 1446384923,
       "url" : "http://www.city.tatsuno.lg.jp/",
       "wikipedia_image_desc" : "1段目左:龍野城 1段目右:龍野公園\n2段目左:室津\n2段目右:粒坐天照神社\u003Cbr/ >3段目左:揖保川\u003Cbr/ >3段目右:龍野城の城下町",
       "wikipedia_image_wref" : "File:Tatsuno montage.JPG",
@@ -3106,14 +3108,14 @@
          "西脇市" : "西脇市"
       },
       "symbol_label" : "2004年(平成16年)11月1日制定",
-      "timestamp" : 1444807456,
+      "timestamp" : 1446002780,
       "url" : "http://www.city.tamba.hyogo.jp/",
       "wikipedia_image_desc" : "1段目左:水分れ公園 1段目右:妙見山\n2段目:柏原陣屋跡の柏原藩織田家旧邸長屋門 \n3段目左:旧氷上郡各町村組合立高等小学校\n3段目右: 興禅寺",
       "wikipedia_image_wref" : "File:Tanba montage.JPG",
       "wref" : "丹波市"
    },
    "兵庫県,伊丹市" : {
-      "timestamp" : 1444059999,
+      "timestamp" : 1446030847,
       "wref" : "伊丹市"
    },
    "兵庫県,佐用郡" : {
@@ -3361,7 +3363,7 @@
          "西脇市" : "西脇市"
       },
       "symbol_label" : "市章・市旗とも1967年5月6日制定、同年6月10日告示",
-      "timestamp" : 1444983786,
+      "timestamp" : 1446184424,
       "url" : "http://www.city.kasai.hyogo.jp/",
       "wikipedia_image_desc" : "国宝・一乗寺三重塔",
       "wikipedia_image_wref" : "File:Ichijoji Kasai13bs4272.jpg",
@@ -3467,7 +3469,7 @@
       "wref" : "多可町"
    },
    "兵庫県,姫路市" : {
-      "timestamp" : 1445325979,
+      "timestamp" : 1446108063,
       "wikipedia_image_desc" : "\u003Ctable style=\"width:280px;margin:2px auto; border-collapse: collapse\">\n\u003Ctr>\u003Ctd colspan=\"2\">姫路城\u003C/tr>\n\u003Ctr>\u003Ctd>灘のけんか祭り\u003Ctd>圓教寺\u003C/tr>\n\u003Ctr>\u003Ctd rowspan=\"2\" style=\"vertical-align:middle;width:50%;\">姫路城から望む\n姫路市街\u003Ctd>家島諸島\u003C/tr>\n\u003Ctr>\u003Ctd>雪彦山\u003C/tr>\n\u003C/table>",
       "wikipedia_image_wref" : "File:Himeji montage2.jpg",
       "wref" : "姫路市"
@@ -3509,7 +3511,7 @@
          "養父市" : "養父市"
       },
       "symbol_label" : "市旗・市章、共に2005年(平成17年)4月1日制定",
-      "timestamp" : 1440269396,
+      "timestamp" : 1446293670,
       "url" : "http://www.city.shiso.lg.jp/",
       "wikipedia_image_wref" : "File:",
       "wref" : "宍粟市"
@@ -3681,7 +3683,7 @@
          "豊能町" : "豊能町"
       },
       "symbol_label" : "1954年(昭和29年)8月1日制定",
-      "timestamp" : 1442797476,
+      "timestamp" : 1445694464,
       "url" : "http://www.city.kawanishi.hyogo.jp/",
       "wikipedia_image_desc" : "一庫ダム",
       "wikipedia_image_wref" : "File:Hitokura-1511-r1.jpg",
@@ -3729,7 +3731,7 @@
       "wref" : "猪名川町"
    },
    "兵庫県,揖保郡" : {
-      "timestamp" : 1440241787,
+      "timestamp" : 1445994469,
       "wref" : "揖保郡"
    },
    "兵庫県,揖保郡,太子町" : {
@@ -3805,7 +3807,7 @@
          "稲美町" : "稲美町"
       },
       "symbol_label" : "1911年(明治44年)3月30日制定",
-      "timestamp" : 1439780717,
+      "timestamp" : 1446010639,
       "url" : "http://www.city.akashi.lg.jp/",
       "wikipedia_image_desc" : "1段目:明石城 2段目左:明石市立天文科学館・2段目右:明石市街\n3段目左:魚の棚・3段目右:兵庫県自動車運転免許試験場\n4段目左:明石駅・4段目右:林崎漁港",
       "wikipedia_image_wref" : "File:Akashi montage.JPG",
@@ -3962,7 +3964,7 @@
                "name" : "コスモス"
             }
          ],
-         "symbol" : [
+         "mark" : [
             {
                "name" : "相生市章",
                "wref" : "ファイル:Symbol of Aioi, Hyogo.svg"
@@ -3981,7 +3983,7 @@
          "赤穂市" : "赤穂市"
       },
       "symbol_label" : "市旗1992年10月1日制定 市章1942年12月12日制定",
-      "timestamp" : 1429449596,
+      "timestamp" : 1446302024,
       "url" : "http://www.city.aioi.lg.jp/",
       "wikipedia_image_desc" : "相生駅",
       "wikipedia_image_wref" : "File:JR West Aioi Station South Gate.jpg",
@@ -4136,7 +4138,7 @@
          "西宮市" : "西宮市"
       },
       "symbol_label" : "神戸市章 (1907年5月24日制定)",
-      "timestamp" : 1444929009,
+      "timestamp" : 1446361861,
       "url" : "http://www.city.kobe.lg.jp/",
       "wikipedia_image_desc" : "神戸港 明石海峡大橋/風見鶏の館/神戸南京町\n摩耶山からの夜景/神戸ポートタワー",
       "wikipedia_image_wref" : "ファイル:Kobe montage1.jpg",
@@ -4183,7 +4185,7 @@
             }
          ]
       },
-      "timestamp" : 1444873920,
+      "timestamp" : 1446261562,
       "url" : "http://www.city.kobe.lg.jp/ward/kuyakusho/kita/",
       "wref" : "北区 (神戸市)"
    },
@@ -4195,7 +4197,7 @@
             }
          ]
       },
-      "timestamp" : 1436613137,
+      "timestamp" : 1446234997,
       "url" : "http://www.city.kobe.lg.jp/ward/kuyakusho/tarumi/",
       "wref" : "垂水区"
    },
@@ -4572,7 +4574,7 @@
          "香美町" : "香美町"
       },
       "symbol_label" : "市旗:2006年9月1日制定 市章2005年7月10日制定",
-      "timestamp" : 1444380182,
+      "timestamp" : 1446094227,
       "url" : "http://www.city.toyooka.hyogo.jp/",
       "wikipedia_image_desc" : "城崎温泉温泉街",
       "wikipedia_image_wref" : "File:Kinosaki onsen04 1920.jpg",
@@ -4610,7 +4612,7 @@
          "相生市" : "相生市"
       },
       "symbol_label" : "1951年(昭和26年)9月制定",
-      "timestamp" : 1445186221,
+      "timestamp" : 1446353076,
       "url" : "http://www.city.ako.lg.jp/",
       "wikipedia_image_desc" : "\u003Ctable style=\"width:280px;margin:2px auto; border-collapse: collapse\">\n\u003Ctr>\u003Ctd>赤穂義士祭\u003Ctd>坂越港\u003C/tr>\n\u003Ctr>\u003Ctd>赤穂城\u003Ctd>赤穂御崎\u003C/tr>\n\u003Ctr>\u003Ctd>千種川\u003Ctd>関西福祉大学\u003C/tr>\n\u003C/table>",
       "wikipedia_image_wref" : "File:Ako montage.JPG",
@@ -4783,7 +4785,7 @@
             }
          ]
       },
-      "timestamp" : 1445446458,
+      "timestamp" : 1446396243,
       "url" : "http://www.pref.hokkaido.lg.jp/",
       "wikipedia_image_desc" : "十勝平野の大規模農場",
       "wikipedia_image_wref" : "ファイル:Tokachi plain 01.jpg",
@@ -4874,7 +4876,7 @@
          "日高町" : "日高町 (北海道)"
       },
       "subpref" : "胆振総合振興局",
-      "timestamp" : 1445089635,
+      "timestamp" : 1445998786,
       "url" : "http://www.town.mukawa.lg.jp/",
       "wref" : "むかわ町"
    },
@@ -4910,7 +4912,7 @@
       },
       "subpref" : "後志総合振興局",
       "symbol_label" : "1968年(昭和43年)5月15日制定",
-      "timestamp" : 1445432093,
+      "timestamp" : 1445671836,
       "url" : "http://www.town.niseko.lg.jp/",
       "wikipedia_image_wref" : "File:",
       "wref" : "ニセコ町"
@@ -5319,7 +5321,7 @@
       },
       "subpref" : "根室振興局",
       "symbol_label" : "1950年(昭和25年)1月1日制定",
-      "timestamp" : 1440056042,
+      "timestamp" : 1445783825,
       "url" : "http://www.nakashibetsu.jp/",
       "wikipedia_image_desc" : "開陽台",
       "wikipedia_image_wref" : "File:Kaiyoudai 2009.JPG",
@@ -5503,7 +5505,7 @@
       },
       "subpref" : "胆振総合振興局",
       "symbol_label" : "伊達市章",
-      "timestamp" : 1439812747,
+      "timestamp" : 1445662828,
       "url" : "http://www.city.date.hokkaido.jp/",
       "wref" : "伊達市 (北海道)"
    },
@@ -5597,7 +5599,7 @@
          "赤井川村" : "赤井川村"
       },
       "subpref" : "後志総合振興局",
-      "timestamp" : 1437195629,
+      "timestamp" : 1445671832,
       "url" : "http://www.town.kutchan.hokkaido.jp/",
       "wikipedia_image_desc" : "旭ヶ丘総合公園から眺めた倶知安市街(2006年)",
       "wikipedia_image_wref" : "File:Kutchan town from Asahigaoka.JPG",
@@ -5698,7 +5700,7 @@
       },
       "subpref" : "渡島総合振興局",
       "symbol_label" : "函館市章(1935年(昭和10年)7月13日制定)",
-      "timestamp" : 1444303238,
+      "timestamp" : 1446477801,
       "url" : "http://www.city.hakodate.hokkaido.jp/",
       "wikipedia_image_desc" : "\u003Ctable style=\"width:300px;margin:2px auto;border-collapse:collapse\">\n\u003Ctr>\u003Ctd>五稜郭\u003Ctd>函館ハリストス正教会\u003C/tr>\n\u003Ctr>\u003Ctd colspan=\"2\">函館山の夜景\u003C/tr>\n\u003Ctr>\u003Ctd>新旧五稜郭タワー\u003Ctd>八幡坂から眺めた函館港\u003C/tr>\n\u003C/table>",
       "wikipedia_image_wref" : "File:Hakodate montage.jpg",
@@ -5989,7 +5991,7 @@
       },
       "subpref" : "オホーツク総合振興局",
       "symbol_label" : "2006年3月5日制定北見市紋章2006",
-      "timestamp" : 1444478906,
+      "timestamp" : 1446147403,
       "wikipedia_image_wref" : "File:",
       "wref" : "北見市"
    },
@@ -6035,7 +6037,7 @@
       },
       "subpref" : "石狩振興局",
       "symbol_label" : "千歳市章 1952年(昭和27年)5月1日制定",
-      "timestamp" : 1444358023,
+      "timestamp" : 1446332020,
       "wikipedia_image_wref" : "File:",
       "wref" : "千歳市"
    },
@@ -6863,7 +6865,7 @@
          "芦別市" : "芦別市"
       },
       "subpref" : "上川総合振興局",
-      "timestamp" : 1437623990,
+      "timestamp" : 1445786205,
       "url" : "http://www.city.furano.hokkaido.jp/",
       "wref" : "富良野市"
    },
@@ -6965,7 +6967,7 @@
       },
       "subpref" : "後志総合振興局",
       "symbol_label" : "1901年9月10日制定",
-      "timestamp" : 1444486616,
+      "timestamp" : 1446473368,
       "url" : "http://www.city.otaru.lg.jp/index.htm",
       "wikipedia_image_desc" : "\u003Ctable style=\"width:280px;margin:2px auto; border-collapse: collapse\">\n\u003Ctr>\u003Ctd rowspan=\"3\" style=\"vertical-align:middle;\">冬の小樽運河\u003Ctd>日本銀行旧小樽支店\u003C/br>金融資料館\u003C/tr>\n\u003Ctr>\u003Ctd>小樽ガラス細工\u003C/tr>\n\u003Ctr>\u003Ctd>手宮線跡\u003C/tr>\n\u003Ctr>\u003Ctd colspan=\"2\" style=\"vertical-align:middle;\">天狗山から望む小樽市街地と石狩湾\u003C/tr>\n\u003C/table>",
       "wikipedia_image_wref" : "File:Otaru Montage.jpg",
@@ -7675,7 +7677,7 @@
          "鹿追町" : "鹿追町"
       },
       "subpref" : "十勝総合振興局",
-      "timestamp" : 1425123426,
+      "timestamp" : 1446213915,
       "url" : "http://www.shintoku-town.jp/",
       "wikipedia_image_wref" : "File:Tokachi_river.JPG",
       "wref" : "新得町"
@@ -7771,7 +7773,7 @@
       },
       "subpref" : "上川総合振興局",
       "symbol_label" : "旭川市章 (1911年6月29日制定)",
-      "timestamp" : 1444546830,
+      "timestamp" : 1446172774,
       "url" : "http://www.city.asahikawa.hokkaido.jp/",
       "wikipedia_image_wref" : "File:",
       "wref" : "旭川市"
@@ -7930,7 +7932,7 @@
       },
       "subpref" : "石狩振興局",
       "symbol_label" : "札幌市徽章 (1911年8月制定)",
-      "timestamp" : 1444283328,
+      "timestamp" : 1446476289,
       "url" : "http://www.city.sapporo.jp/",
       "wikipedia_image_desc" : "札幌市街と藻岩山 夜のすすきの繁華街/札幌ドーム\nさっぽろテレビ塔/赤れんが庁舎/クラーク像",
       "wikipedia_image_wref" : "File:Sapporo montage.JPG",
@@ -7945,7 +7947,7 @@
    },
    "北海道,札幌市,北区" : {
       "subpref" : "石狩振興局",
-      "timestamp" : 1441939149,
+      "timestamp" : 1445912857,
       "url" : "http://www.city.sapporo.jp/kitaku/",
       "wikipedia_location_image_wref" : "ファイル:Hokkaido Sapporo Kita-ward.png",
       "wref" : "北区 (札幌市)"
@@ -8176,7 +8178,7 @@
          "音威子府村" : "音威子府村"
       },
       "subpref" : "宗谷総合振興局",
-      "timestamp" : 1432492682,
+      "timestamp" : 1446372597,
       "url" : "http://www.town.esashi.hokkaido.jp/",
       "wref" : "枝幸町"
    },
@@ -8502,7 +8504,7 @@
       },
       "subpref" : "石狩振興局",
       "symbol_label" : "市旗:1968年(昭和43年)5月25日制定 市章:1924年(大正13年)10月24日制定",
-      "timestamp" : 1443575778,
+      "timestamp" : 1446058553,
       "url" : "http://www.city.ebetsu.hokkaido.jp/",
       "wikipedia_image_desc" : "旧ヒダ工場(レンガ工場跡)",
       "wikipedia_image_wref" : "File:kyu-hida-factory.JPG",
@@ -8647,18 +8649,24 @@
       "area_symbols" : {
          "flower" : [
             {
-               "name" : "すみれ"
+               "name" : "スミレ"
             },
             {
-               "name" : "つつじ"
+               "name" : "ツツジ"
+            }
+         ],
+         "mark" : [
+            {
+               "name" : "洞爺湖町章",
+               "wref" : "File:Toyako Hokkaido chapter.JPG"
             }
          ],
          "tree" : [
             {
-               "name" : "さくら"
+               "name" : "サクラ"
             },
             {
-               "name" : "ななかまど"
+               "name" : "ナナカマド"
             }
          ]
       },
@@ -8670,10 +8678,11 @@
          "豊浦町" : "豊浦町"
       },
       "subpref" : "胆振総合振興局",
-      "timestamp" : 1434881092,
-      "url" : "http://www.town.toyako.hokkaido.jp",
-      "wikipedia_image_desc" : "手前は有珠山の金毘羅山火口。中央のビル群は洞爺湖温泉街。火口近くには放棄された被災建物と洞爺湖町立火山科学館、金比羅山麓災害遺構群散策路。沖合の島は中島。",
-      "wikipedia_image_wref" : "File:Lake touya and volcano usu.jpg",
+      "symbol_label" : "洞爺湖町章",
+      "timestamp" : 1445954420,
+      "url" : "http://www.town.toyako.hokkaido.jp/",
+      "wikipedia_image_desc" : "洞爺湖(2013年9月)",
+      "wikipedia_image_wref" : "File:130922 Toyako Onsen Toyako Hokkaido Japan01s3.jpg",
       "wref" : "洞爺湖町"
    },
    "北海道,津別町" : {
@@ -8755,7 +8764,7 @@
          "猿払村" : "猿払村"
       },
       "subpref" : "宗谷総合振興局",
-      "timestamp" : 1444789572,
+      "timestamp" : 1446372423,
       "url" : "http://www.town.hamatonbetsu.hokkaido.jp/",
       "wref" : "浜頓別町"
    },
@@ -8858,7 +8867,7 @@
          "美唄市" : "美唄市"
       },
       "subpref" : "空知総合振興局",
-      "timestamp" : 1435855308,
+      "timestamp" : 1446377027,
       "url" : "http://www.town.urausu.hokkaido.jp/",
       "wref" : "浦臼町"
    },
@@ -9096,7 +9105,7 @@
          "豊富町" : "豊富町"
       },
       "subpref" : "宗谷総合振興局",
-      "timestamp" : 1444785813,
+      "timestamp" : 1446372173,
       "url" : "http://www.vill.sarufutsu.hokkaido.jp/",
       "wref" : "猿払村"
    },
@@ -9182,7 +9191,7 @@
          "沼田町" : "沼田町"
       },
       "subpref" : "留萌振興局",
-      "timestamp" : 1432354609,
+      "timestamp" : 1446119878,
       "url" : "http://www.e-rumoi.jp/",
       "wikipedia_image_desc" : "上空から望む留萌市街",
       "wikipedia_image_wref" : "File:Rumoi city from the sky.jpg",
@@ -9549,7 +9558,7 @@
       },
       "subpref" : "宗谷総合振興局",
       "symbol_label" : "市旗:1968年4月1日制定 市章:1949年6月1日制定",
-      "timestamp" : 1444693209,
+      "timestamp" : 1446371950,
       "url" : "http://www.city.wakkanai.hokkaido.jp/",
       "wikipedia_image_desc" : "日本最北端の地の碑",
       "wikipedia_image_wref" : "File:The Most Northern Land of Japan Memorial.jpg",
@@ -9881,7 +9890,7 @@
       },
       "subpref" : "上川総合振興局",
       "symbol_label" : "町旗:1969年(昭和44年)8月11日制定 町章:1963年(昭和38年)2月25日制定",
-      "timestamp" : 1444632212,
+      "timestamp" : 1446096709,
       "url" : "http://town.biei.hokkaido.jp/",
       "wikipedia_image_desc" : "冬の美瑛",
       "wikipedia_image_wref" : "File:Wiki-kenmerry2.jpg",
@@ -9931,7 +9940,7 @@
          "雄武町" : "雄武町"
       },
       "subpref" : "オホーツク総合振興局",
-      "timestamp" : 1423228744,
+      "timestamp" : 1446373024,
       "url" : "http://www.town.okoppe.lg.jp/",
       "wref" : "興部町"
    },
@@ -9974,7 +9983,7 @@
          "赤平市" : "赤平市"
       },
       "subpref" : "空知総合振興局",
-      "timestamp" : 1445495030,
+      "timestamp" : 1446447668,
       "url" : "http://www.city.ashibetsu.hokkaido.jp/",
       "wref" : "芦別市"
    },
@@ -10133,7 +10142,7 @@
       },
       "subpref" : "後志総合振興局",
       "symbol_label" : "1954年(昭和29年)12月1日制定",
-      "timestamp" : 1430028599,
+      "timestamp" : 1446096547,
       "url" : "http://www.town.rankoshi.hokkaido.jp/",
       "wikipedia_image_wref" : "File:",
       "wref" : "蘭越町"
@@ -10455,6 +10464,12 @@
          "flower" : [
             {
                "name" : "キンレンカ"
+            },
+            {
+               "name" : "スズラン"
+            },
+            {
+               "name" : "エゾリンドウ"
             }
          ],
          "mark" : [
@@ -10466,6 +10481,12 @@
          "tree" : [
             {
                "name" : "ハシドイ"
+            },
+            {
+               "name" : "エゾヤマザクラ"
+            },
+            {
+               "name" : "ナナカマド"
             }
          ]
       },
@@ -10480,7 +10501,7 @@
       },
       "subpref" : "釧路総合振興局",
       "symbol_label" : "1920年制定",
-      "timestamp" : 1445039067,
+      "timestamp" : 1446451537,
       "url" : "http://www.city.kushiro.lg.jp/",
       "wikipedia_image_desc" : "1段目:釧路湿原 2段目左:阿寒湖\n2段目右:釧路港\n3段目:阿寒富士\n4段目左:釧路ラーメン\n4段目右:釧路フィッシャーマンズワーフMOO",
       "wikipedia_image_wref" : "File:Kushiro montages.JPG",
@@ -10637,7 +10658,7 @@
          "興部町" : "興部町"
       },
       "subpref" : "オホーツク総合振興局",
-      "timestamp" : 1437656669,
+      "timestamp" : 1446372859,
       "url" : "http://www.town.oumu.hokkaido.jp/",
       "wref" : "雄武町"
    },
@@ -10924,7 +10945,7 @@
          "東京都" : "東京都",
          "茨城県" : "茨城県"
       },
-      "timestamp" : 1445307774,
+      "timestamp" : 1446111827,
       "url" : "http://www.pref.chiba.lg.jp/",
       "wikipedia_image_desc" : "成田山新勝寺",
       "wikipedia_image_wref" : "ファイル:Naritasan-Shinshoji-Temple-2008.jpg",
@@ -11107,7 +11128,7 @@
          "鴨川市" : "鴨川市"
       },
       "symbol_label" : "1957年5月6日制定",
-      "timestamp" : 1438057712,
+      "timestamp" : 1446385811,
       "url" : "http://www.city.katsuura.chiba.jp/",
       "wikipedia_image_desc" : "ビッグひな祭り",
       "wikipedia_image_wref" : "ファイル:Katuura big hinamaturi kaidan-bina.jpg",
@@ -11198,7 +11219,7 @@
          "茂原市" : "茂原市"
       },
       "symbol_label" : "千葉市章",
-      "timestamp" : 1443137800,
+      "timestamp" : 1446478880,
       "url" : "http://www.city.chiba.jp/",
       "wikipedia_image_desc" : "JFEスチール東日本製鉄所/千葉市立郷土資料館 幕張メッセ/QVCマリンフィールド/千葉ポートタワー\n幕張新都心",
       "wikipedia_image_wref" : "ファイル:Chiba montage.jpg",
@@ -11227,7 +11248,7 @@
             }
          ]
       },
-      "timestamp" : 1421105990,
+      "timestamp" : 1445739383,
       "url" : "http://www.city.chiba.jp/inage/index.html",
       "wikipedia_location_image_wref" : "ファイル:地図-千葉県千葉市稲毛区-2006.png",
       "wref" : "稲毛区"
@@ -11241,7 +11262,7 @@
             }
          ]
       },
-      "timestamp" : 1442218941,
+      "timestamp" : 1446001096,
       "url" : "http://www.city.chiba.jp/midori/index.html",
       "wikipedia_location_image_wref" : "ファイル:地図-千葉県千葉市緑区-2006.png",
       "wref" : "緑区 (千葉市)"
@@ -11255,7 +11276,7 @@
             }
          ]
       },
-      "timestamp" : 1437963165,
+      "timestamp" : 1445940051,
       "url" : "http://www.city.chiba.jp/mihama/chiikishinko/mihamatop.html",
       "wikipedia_location_image_wref" : "ファイル:地図-千葉県千葉市美浜区-2006.png",
       "wref" : "美浜区"
@@ -11396,7 +11417,7 @@
          "成田市" : "成田市"
       },
       "symbol_label" : "1965年11月1日制定",
-      "timestamp" : 1434628104,
+      "timestamp" : 1445624891,
       "url" : "http://www.town.shisui.chiba.jp/",
       "wikipedia_image_desc" : "飯沼本家 酒々井まがり家",
       "wikipedia_image_wref" : "File:Iinumahonke magariya shisui.JPG",
@@ -11449,7 +11470,7 @@
          "酒々井町" : "酒々井町"
       },
       "symbol_label" : "1980年11月1日制定",
-      "timestamp" : 1445383878,
+      "timestamp" : 1445654231,
       "url" : "http://www.city.inzai.chiba.jp/",
       "wikipedia_image_desc" : "千葉ニュータウン中央駅周辺",
       "wikipedia_image_wref" : "File:千葉ニュータウン中央駅周辺.JPG",
@@ -11482,7 +11503,7 @@
          "鴨川市" : "鴨川市"
       },
       "symbol_label" : "君津市旗",
-      "timestamp" : 1444437440,
+      "timestamp" : 1445742107,
       "url" : "http://www.city.kimitsu.lg.jp/",
       "wikipedia_image_desc" : "新日鐵住金君津製鐵所",
       "wikipedia_image_wref" : "File:NipponSteelKimitsu-Westquay.JPG",
@@ -11556,7 +11577,7 @@
          "茂原市" : "茂原市"
       },
       "symbol_label" : "1955年(昭和30年)7月1日制定",
-      "timestamp" : 1441085792,
+      "timestamp" : 1446386095,
       "url" : "http://www.city.oamishirasato.lg.jp/",
       "wikipedia_image_wref" : "File:",
       "wref" : "大網白里市"
@@ -11653,7 +11674,7 @@
                "name" : "ツツジ"
             }
          ],
-         "symbol" : [
+         "mark" : [
             {
                "name" : "富津市章",
                "wref" : "ファイル:Symbol of Futtsu Chiba.svg"
@@ -11671,7 +11692,7 @@
          "鴨川市" : "鴨川市"
       },
       "symbol_label" : "市旗・市章、共に1971年(昭和46年)10月1日制定",
-      "timestamp" : 1429506711,
+      "timestamp" : 1446453449,
       "url" : "http://www.city.futtsu.lg.jp/",
       "wikipedia_image_desc" : "富津岬展望台",
       "wikipedia_image_wref" : "ファイル:Futtu misaki tenboudai.jpg",
@@ -11903,7 +11924,7 @@
          "長柄町" : "長柄町"
       },
       "symbol_label" : "市旗:1980年(昭和55年)2月22日制定 市章:1963年(昭和38年)9月27日制定",
-      "timestamp" : 1445324104,
+      "timestamp" : 1445707738,
       "url" : "http://www.city.ichihara.chiba.jp/",
       "wikipedia_image_desc" : "飯香岡八幡宮",
       "wikipedia_image_wref" : "ファイル:Iigaoka Hachimangū Haiden 2010.jpg",
@@ -12024,7 +12045,7 @@
          "香取市" : "香取市"
       },
       "symbol_label" : "2006年(平成18年)4月29日制定",
-      "timestamp" : 1445384260,
+      "timestamp" : 1445620464,
       "url" : "http://www.city.narita.chiba.jp/",
       "wikipedia_image_desc" : "(左上から) 成田山新勝寺 成田スカイアクセス線と印旛沼 東勝寺(宗吾霊堂)大本堂 成田国際空港 成田ニュータウン",
       "wikipedia_image_wref" : "File:Narita montage.jpg",
@@ -12067,7 +12088,7 @@
          "柏市" : "柏市"
       },
       "symbol_label" : "1955年(昭和30年)8月1日制定",
-      "timestamp" : 1443609658,
+      "timestamp" : 1445618856,
       "url" : "http://www.city.abiko.chiba.jp/",
       "wikipedia_image_desc" : "上:我孫子市側より見た手賀沼 左中:志賀直哉邸跡、右中:旧村上別荘\n左下:竹内神社祭礼、右下:我孫子市鳥の博物館",
       "wikipedia_image_wref" : "File:Motage abiko.jpg",
@@ -12105,7 +12126,7 @@
          "香取市" : "香取市"
       },
       "symbol_label" : "2005年(平成17年)10月29日制定",
-      "timestamp" : 1441202731,
+      "timestamp" : 1446331626,
       "url" : "http://www.city.asahi.lg.jp/",
       "wikipedia_image_desc" : "飯岡漁港",
       "wikipedia_image_wref" : "File:Iiokagyokou 2008.jpg",
@@ -12143,7 +12164,7 @@
          "袖ケ浦市" : "袖ケ浦市"
       },
       "symbol_label" : "1947年12月22日制定",
-      "timestamp" : 1442951254,
+      "timestamp" : 1445879777,
       "url" : "http://www.city.kisarazu.lg.jp/",
       "wikipedia_image_desc" : "海ほたるPAから木更津市街を臨む",
       "wikipedia_image_wref" : "File:Tokyo Aqua line bridge.jpg",
@@ -12249,7 +12270,7 @@
          "鎌ケ谷市" : "鎌ケ谷市"
       },
       "symbol_label" : "1949年12月27日制定",
-      "timestamp" : 1443684162,
+      "timestamp" : 1446462600,
       "url" : "http://www.city.matsudo.chiba.jp/",
       "wikipedia_image_desc" : "野菊の墓文学碑",
       "wikipedia_image_wref" : "ファイル:Nogikunohaka Bungakuhi 01.jpg",
@@ -12300,7 +12321,7 @@
          "野田市" : "野田市",
          "鎌ケ谷市" : "鎌ケ谷市"
       },
-      "timestamp" : 1444655722,
+      "timestamp" : 1446389283,
       "url" : "http://www.city.kashiwa.lg.jp/",
       "wikipedia_image_desc" : "日立柏サッカー場",
       "wikipedia_image_wref" : "ファイル:Kashiwa20120311-1.JPG",
@@ -12334,7 +12355,7 @@
          "柏市" : "柏市",
          "野田市" : "野田市"
       },
-      "timestamp" : 1444472984,
+      "timestamp" : 1446375558,
       "url" : "http://www.city.nagareyama.chiba.jp/",
       "wref" : "流山市"
    },
@@ -12368,7 +12389,7 @@
          "江戸川区" : "江戸川区"
       },
       "symbol_label" : "1991年(平成3年)4月1日制定",
-      "timestamp" : 1443928486,
+      "timestamp" : 1446473969,
       "url" : "http://www.city.urayasu.chiba.jp/",
       "wikipedia_image_desc" : "東京ディズニーリゾート",
       "wikipedia_image_wref" : "File:Tokyocinderella.jpg",
@@ -12447,7 +12468,7 @@
          "船橋市" : "船橋市"
       },
       "symbol_label" : "1955年8月1日制定",
-      "timestamp" : 1444187294,
+      "timestamp" : 1446451280,
       "url" : "http://www.city.narashino.lg.jp/",
       "wikipedia_image_desc" : "谷津干潟南側",
       "wikipedia_image_wref" : "File:Yatsu-Higata.jpg",
@@ -12489,7 +12510,7 @@
          "鎌ケ谷市" : "鎌ケ谷市"
       },
       "symbol_label" : "1937年8月6日議決",
-      "timestamp" : 1445426456,
+      "timestamp" : 1445832301,
       "url" : "http://www.city.funabashi.chiba.jp/",
       "wikipedia_image_desc" : "ふなばしアンデルセン公園",
       "wikipedia_image_wref" : "File:Hunabashi Andersen Park Fusha.JPG",
@@ -12627,7 +12648,7 @@
          "流山市" : "流山市"
       },
       "symbol_label" : "1950年11月3日制定",
-      "timestamp" : 1445422926,
+      "timestamp" : 1445846485,
       "url" : "http://www.city.noda.chiba.jp/",
       "wikipedia_image_desc" : "清水公園",
       "wikipedia_image_wref" : "File:Noda Chiba Simizu Kouen 1.jpg",
@@ -12669,7 +12690,7 @@
          "神栖市" : "神栖市"
       },
       "symbol_label" : "1934年1月15日告示",
-      "timestamp" : 1439918371,
+      "timestamp" : 1445610354,
       "url" : "http://www.city.choshi.chiba.jp/",
       "wikipedia_image_desc" : "犬吠埼",
       "wikipedia_image_wref" : "ファイル:Inubouzki lighthouse 2008.jpg",
@@ -12706,7 +12727,7 @@
          "船橋市" : "船橋市"
       },
       "symbol_label" : "鎌ケ谷市旗 1974年3月30日制定",
-      "timestamp" : 1445249031,
+      "timestamp" : 1446169153,
       "url" : "http://www.city.kamagaya.chiba.jp/",
       "wikipedia_image_desc" : "ファイターズスタジアム",
       "wikipedia_image_wref" : "File:Kamagaya Fighters Stadium 004.jpg",
@@ -13107,7 +13128,7 @@
          "大阪府" : "大阪府",
          "奈良県" : "奈良県"
       },
-      "timestamp" : 1444490239,
+      "timestamp" : 1446303420,
       "url" : "http://www.pref.wakayama.lg.jp/",
       "wikipedia_image_desc" : "高野山壇上伽藍",
       "wikipedia_image_wref" : "ファイル:Danjogaran Koyasan12n3200.jpg",
@@ -13714,7 +13735,7 @@
          "白浜町" : "白浜町",
          "那智勝浦町" : "那智勝浦町"
       },
-      "timestamp" : 1433962511,
+      "timestamp" : 1446353727,
       "url" : "http://www.town.kozagawa.wakayama.jp/",
       "wikipedia_image_wref" : "File:",
       "wref" : "古座川町"
@@ -14033,7 +14054,7 @@
          "白浜町" : "白浜町"
       },
       "symbol_label" : "1962年(昭和37年)10月1日制定",
-      "timestamp" : 1440918368,
+      "timestamp" : 1445523739,
       "url" : "http://www.town.susami.lg.jp/",
       "wikipedia_image_wref" : "File:",
       "wref" : "すさみ町"
@@ -14175,7 +14196,7 @@
          "茨城県" : "茨城県",
          "長野県" : "長野県"
       },
-      "timestamp" : 1443252639,
+      "timestamp" : 1445664340,
       "url" : "http://www.pref.saitama.lg.jp/",
       "wikipedia_image_desc" : "春の丸墓山古墳(埼玉古墳群)",
       "wikipedia_image_wref" : "ファイル:Gyoda Maruhakayama Tumulus In Spring 2.JPG",
@@ -14240,7 +14261,7 @@
          "越谷市" : "越谷市"
       },
       "symbol_label" : "さいたま市旗 2001年(平成13年)10月25日制定",
-      "timestamp" : 1445499823,
+      "timestamp" : 1446024142,
       "url" : "http://www.city.saitama.jp",
       "wikipedia_image_desc" : "埼玉スタジアム2002 さいたま新都心/さいたまスーパーアリーナ/岩槻城址\n氷川神社/浦和パルコ",
       "wikipedia_image_wref" : "ファイル:Saitama_montage.jpg",
@@ -14282,7 +14303,7 @@
             }
          ]
       },
-      "timestamp" : 1444462139,
+      "timestamp" : 1445604452,
       "url" : "http://www.city.saitama.jp/index_kitaku.html",
       "wikipedia_image_desc" : "宮原駅",
       "wikipedia_image_wref" : "File:JR Miyahara sta 002.jpg",
@@ -14303,7 +14324,7 @@
             }
          ]
       },
-      "timestamp" : 1441687808,
+      "timestamp" : 1446024095,
       "url" : "http://www.city.saitama.jp/index_minamiku.html",
       "wikipedia_image_desc" : "武蔵浦和駅周辺タワー群(2015年)",
       "wikipedia_image_wref" : "File:武蔵浦和駅周辺.JPG",
@@ -14324,7 +14345,7 @@
             }
          ]
       },
-      "timestamp" : 1445507363,
+      "timestamp" : 1446462113,
       "url" : "http://www.city.saitama.jp/index_omiyaku.html",
       "wikipedia_image_wref" : "File:Omiyapark-pond.jpg",
       "wref" : "大宮区"
@@ -14431,7 +14452,7 @@
             }
          ]
       },
-      "timestamp" : 1442992462,
+      "timestamp" : 1445604902,
       "url" : "http://www.city.saitama.jp/index_nishiku.html",
       "wikipedia_image_desc" : "水判土を流れる鴨川",
       "wikipedia_image_wref" : "File:Saitama Kamo River 1.JPG",
@@ -14452,7 +14473,7 @@
             }
          ]
       },
-      "timestamp" : 1440999446,
+      "timestamp" : 1446439792,
       "url" : "http://www.city.saitama.jp/index_minumaku.html",
       "wikipedia_image_desc" : "見沼田圃と加田屋川",
       "wikipedia_image_wref" : "File:Minuma1.jpg",
@@ -14473,7 +14494,7 @@
          "川越市" : "川越市"
       },
       "symbol_label" : "ふじみ野市旗",
-      "timestamp" : 1442724118,
+      "timestamp" : 1445599155,
       "url" : "http://www.city.fujimino.saitama.jp/",
       "wikipedia_image_desc" : "藤久保の松並木 (川越街道)",
       "wikipedia_image_wref" : "ファイル:Route 254 Saitama Pref Fujimino City 1.JPG",
@@ -14558,7 +14579,7 @@
          "蓮田市" : "蓮田市"
       },
       "symbol_label" : "上尾市章",
-      "timestamp" : 1445444874,
+      "timestamp" : 1446210823,
       "url" : "http://www.city.ageo.lg.jp/index.html",
       "wikipedia_image_desc" : "原市沼",
       "wikipedia_image_wref" : "ファイル:Ageo Haraichi Swamp 1.JPG",
@@ -14596,7 +14617,7 @@
          "鴻巣市" : "鴻巣市"
       },
       "symbol_label" : "久喜市旗",
-      "timestamp" : 1445056482,
+      "timestamp" : 1446282307,
       "url" : "http://www.city.kuki.lg.jp/index.html",
       "wikipedia_image_desc" : "鷲宮神社",
       "wikipedia_image_wref" : "ファイル:Washimiyajinja torii.jpg",
@@ -14710,7 +14731,7 @@
          "飯能市" : "飯能市"
       },
       "symbol_label" : "入間市旗",
-      "timestamp" : 1442292210,
+      "timestamp" : 1446195157,
       "url" : "http://www.city.iruma.saitama.jp/",
       "wikipedia_image_desc" : "狭山茶",
       "wikipedia_image_wref" : "ファイル:Iruma Sayama Tea Field 3.JPG",
@@ -14746,7 +14767,7 @@
          "所沢市" : "所沢市",
          "新座市" : "新座市"
       },
-      "timestamp" : 1445333945,
+      "timestamp" : 1446363258,
       "url" : "http://www.town.saitama-miyoshi.lg.jp/",
       "wref" : "三芳町"
    },
@@ -14804,7 +14825,7 @@
          "飯能市" : "飯能市",
          "鳩山町" : "鳩山町"
       },
-      "timestamp" : 1441700795,
+      "timestamp" : 1446022902,
       "url" : "http://www.town.ogose.saitama.jp/",
       "wikipedia_image_desc" : "黒山三滝",
       "wikipedia_image_wref" : "File:Kuroyama-santaki1.JPG",
@@ -14893,7 +14914,7 @@
          "鴻巣市" : "鴻巣市"
       },
       "symbol_label" : "市旗:2010年12月6日制定 市章:2010年11月21日制定",
-      "timestamp" : 1445056221,
+      "timestamp" : 1445685503,
       "url" : "http://www.city.kazo.lg.jp/",
       "wikipedia_image_desc" : "不動ヶ岡不動尊 總願寺",
       "wikipedia_image_wref" : "ファイル:Sogan-ji Kazo Saitama 01.jpg",
@@ -14936,7 +14957,7 @@
          "鴻巣市" : "鴻巣市"
       },
       "symbol_label" : "1965年(昭和40年)8月1日制定",
-      "timestamp" : 1440884871,
+      "timestamp" : 1446283068,
       "url" : "http://www.city.kitamoto.saitama.jp/",
       "wikipedia_image_desc" : "左上:石戸蒲ザクラ 右上:北本総合公園\n中:鴻巣宿\n左下:北本駅\n右下:解脱会の天神地祇太神社殿",
       "wikipedia_image_wref" : "File:Kitamoto montage.JPG",
@@ -15076,7 +15097,7 @@
          "杉戸町" : "杉戸町",
          "白岡市" : "白岡市"
       },
-      "timestamp" : 1442513715,
+      "timestamp" : 1446262989,
       "url" : "http://www.town.miyashiro.saitama.jp/",
       "wikipedia_image_desc" : "東武動物公園",
       "wikipedia_image_wref" : "File:Ferris wheel in Tobu Zoo Park 001.jpg",
@@ -15119,7 +15140,7 @@
          "野田市" : "野田市"
       },
       "symbol_label" : "市旗・市章、共に1955年(昭和30年)3月1日制定",
-      "timestamp" : 1442761551,
+      "timestamp" : 1446275025,
       "url" : "http://www.city.yoshikawa.saitama.jp/",
       "wikipedia_image_desc" : "なまずのオブジェ(吉川駅前)",
       "wikipedia_image_wref" : "ファイル:namazu obuje.jpg",
@@ -15157,7 +15178,7 @@
          "練馬区" : "練馬区"
       },
       "symbol_label" : "1970年10月31日制定",
-      "timestamp" : 1445422694,
+      "timestamp" : 1446392324,
       "url" : "http://www.city.wako.lg.jp/",
       "wikipedia_image_desc" : "理化学研究所",
       "wikipedia_image_wref" : "ファイル:Riken HQ Main Gate.jpg",
@@ -15203,7 +15224,7 @@
          "鶴ヶ島市" : "鶴ヶ島市"
       },
       "symbol_label" : "1963年(昭和38年)3月1日制定",
-      "timestamp" : 1444189176,
+      "timestamp" : 1446306730,
       "url" : "http://www.city.sakado.lg.jp/",
       "wikipedia_image_desc" : "聖天宮(道教寺院)",
       "wikipedia_image_wref" : "ファイル:Sakado Xientengong Honden 1.JPG",
@@ -15246,7 +15267,7 @@
          "美里町" : "美里町 (埼玉県)",
          "長瀞町" : "長瀞町"
       },
-      "timestamp" : 1431056717,
+      "timestamp" : 1446440199,
       "url" : "http://www.town.yorii.saitama.jp/",
       "wikipedia_image_desc" : "埼玉県立川の博物館",
       "wikipedia_image_wref" : "File:Yorii Saitama Museum Of River Large Water Wheel 1.JPG",
@@ -15326,7 +15347,7 @@
          "足立区" : "足立区"
       },
       "symbol_label" : "市章:1965年(昭和40年)7月16日制定 市章:1933年(昭和8年)9月18日制定",
-      "timestamp" : 1445436361,
+      "timestamp" : 1446206980,
       "url" : "http://www.city.kawaguchi.lg.jp/",
       "wikipedia_image_desc" : "鋳物の守護神・金山彦命を祀る川口神社",
       "wikipedia_image_wref" : "ファイル:Kawaguchi Jinja (Kawaguchi).JPG",
@@ -15381,7 +15402,7 @@
          "鶴ヶ島市" : "鶴ヶ島市"
       },
       "symbol_label" : "川越市紋章",
-      "timestamp" : 1445422791,
+      "timestamp" : 1446475631,
       "url" : "http://www.city.kawagoe.saitama.jp/",
       "wikipedia_image_desc" : "川越のシンボル時の鐘",
       "wikipedia_image_wref" : "ファイル:Tokinokane.jpg",
@@ -15452,7 +15473,7 @@
          "朝霞市" : "朝霞市"
       },
       "symbol_label" : "市旗・市章、共に1970年(昭和45年)10月26日制定",
-      "timestamp" : 1444661561,
+      "timestamp" : 1445683235,
       "url" : "http://www.city.shiki.lg.jp/",
       "wikipedia_image_desc" : "チョウショウインハタザクラ",
       "wikipedia_image_wref" : "ファイル:Shiki Choshoin-Hatazakura 1.JPG",
@@ -15499,7 +15520,7 @@
          "蕨市" : "蕨市"
       },
       "symbol_label" : "戸田市旗",
-      "timestamp" : 1444398599,
+      "timestamp" : 1445850638,
       "url" : "http://www.city.toda.saitama.jp/",
       "wikipedia_image_desc" : "戸田公園",
       "wikipedia_image_wref" : "ファイル:Saitama toda boat course.jpg",
@@ -15578,7 +15599,7 @@
          "西東京市" : "西東京市"
       },
       "symbol_label" : "新座市旗",
-      "timestamp" : 1445298696,
+      "timestamp" : 1446434406,
       "url" : "http://www.city.niiza.lg.jp/",
       "wikipedia_image_desc" : "平林寺",
       "wikipedia_image_wref" : "ファイル:Heirinji Sanmon 2009.jpg",
@@ -15664,7 +15685,7 @@
          "野田市" : "野田市"
       },
       "symbol_label" : "2006年(平成18年)3月17日制定",
-      "timestamp" : 1445149431,
+      "timestamp" : 1446393152,
       "url" : "http://www.city.kasukabe.lg.jp/index.html",
       "wikipedia_image_desc" : "牛島のフジ",
       "wikipedia_image_wref" : "ファイル:Kasukabe Wisteria Of Ushijima 1.JPG",
@@ -15875,7 +15896,7 @@
          "鴻巣市" : "鴻巣市"
       },
       "symbol_label" : "桶川市旗",
-      "timestamp" : 1438611752,
+      "timestamp" : 1446282957,
       "url" : "http://www.city.okegawa.lg.jp/index.html",
       "wikipedia_image_desc" : "べに花ふるさと館",
       "wikipedia_image_wref" : "ファイル:Benibana Furusatokan omoya.jpg",
@@ -15985,7 +16006,7 @@
          "嵐山町" : "嵐山町",
          "東秩父村" : "東秩父村"
       },
-      "timestamp" : 1436572913,
+      "timestamp" : 1445701343,
       "url" : "http://www.town.ogawa.saitama.jp/",
       "wikipedia_image_desc" : "小川町駅",
       "wikipedia_image_wref" : "File:Saitama Ogawamachi Station Entrance 1.JPG",
@@ -16053,7 +16074,7 @@
          "東松山市" : "東松山市",
          "桶川市" : "桶川市"
       },
-      "timestamp" : 1444599482,
+      "timestamp" : 1445701603,
       "url" : "http://www.town.kawajima.saitama.jp/",
       "wref" : "川島町"
    },
@@ -16165,7 +16186,7 @@
          "美里町" : "美里町 (埼玉県)"
       },
       "symbol_label" : "2006年3月5日制定",
-      "timestamp" : 1443961352,
+      "timestamp" : 1446002627,
       "url" : "http://www.city.fukaya.saitama.jp/",
       "wikipedia_image_desc" : "深谷駅",
       "wikipedia_image_wref" : "ファイル:Fukaya Station 20051228.jpg",
@@ -16215,7 +16236,7 @@
          "鴻巣市" : "鴻巣市"
       },
       "symbol_label" : "2005年(平成17年)10月1日制定",
-      "timestamp" : 1445367192,
+      "timestamp" : 1446435349,
       "url" : "http://www.city.kumagaya.lg.jp/index.html",
       "wikipedia_image_desc" : "歓喜院聖天堂(国宝)",
       "wikipedia_image_wref" : "ファイル:Menuma Shouden Kangi-in 01.JPG",
@@ -16252,7 +16273,7 @@
          "日高市" : "日高市",
          "飯能市" : "飯能市"
       },
-      "timestamp" : 1441771924,
+      "timestamp" : 1446476886,
       "url" : "http://www.city.sayama.saitama.jp/",
       "wikipedia_image_desc" : "狭山稲荷山公園",
       "wikipedia_image_wref" : "ファイル:Sayama-Inariyama-Park-200807.JPG",
@@ -16538,7 +16559,7 @@
          "行田市" : "行田市"
       },
       "symbol_label" : "1955年1月14日制定",
-      "timestamp" : 1442970646,
+      "timestamp" : 1445683593,
       "url" : "http://www.city.hanyu.lg.jp/",
       "wikipedia_image_desc" : "さいたま水族館",
       "wikipedia_image_wref" : "ファイル:Saitama Aquarium Entrance 1.JPG",
@@ -16577,7 +16598,7 @@
          "越谷市" : "越谷市",
          "足立区" : "足立区"
       },
-      "timestamp" : 1443826292,
+      "timestamp" : 1446028221,
       "url" : "http://www.city.soka.saitama.jp/",
       "wikipedia_image_desc" : "草加松原",
       "wikipedia_image_wref" : "ファイル:草加松原1.jpg",
@@ -16653,7 +16674,7 @@
          "川口市" : "川口市",
          "戸田市" : "戸田市"
       },
-      "timestamp" : 1445334055,
+      "timestamp" : 1446426042,
       "url" : "http://www.city.warabi.saitama.jp/index.htm",
       "wikipedia_image_desc" : "中仙道蕨宿",
       "wikipedia_image_wref" : "ファイル:和樂備神社例大祭 No2.jpg",
@@ -16838,7 +16859,7 @@
          "行田市" : "行田市"
       },
       "symbol_label" : "鴻巣市市旗",
-      "timestamp" : 1444725540,
+      "timestamp" : 1446025440,
       "url" : "http://www.city.kounosu.saitama.jp/",
       "wikipedia_image_desc" : "ピラミッドひな壇(鴻巣市役所)",
       "wikipedia_image_wref" : "ファイル:Konosu Doll Festival 1.JPG",
@@ -16917,7 +16938,7 @@
          "熊本県" : "熊本県",
          "福岡県" : "福岡県"
       },
-      "timestamp" : 1442167454,
+      "timestamp" : 1446363008,
       "url" : "http://www.pref.oita.lg.jp/",
       "wikipedia_image_desc" : "別府温泉(海地獄)",
       "wikipedia_image_wref" : "ファイル:Beppu Umi-jigoku04n4272.jpg",
@@ -17045,7 +17066,7 @@
          "由布市" : "由布市"
       },
       "symbol_label" : "市旗:1990年(平成2年)10月1日制定 市章:1924年(大正13年)4月1日制定",
-      "timestamp" : 1442392197,
+      "timestamp" : 1445669125,
       "url" : "http://www.city.beppu.oita.jp/",
       "wikipedia_image_desc" : "1段目左別府温泉街 1段目右・2段目右・3段目右:別府タワー\n2段目左:十文字原\n3段目左:鶴見岳\n4段目左:別府駅前通り商店街\n4段目右:別府湾",
       "wikipedia_image_wref" : "File:Beppu montage.JPG",
@@ -17107,7 +17128,7 @@
          "豊後大野市" : "豊後大野市"
       },
       "symbol_label" : "大分市章 1965年(昭和40年)6月11日制定",
-      "timestamp" : 1442319410,
+      "timestamp" : 1446472622,
       "url" : "http://www.city.oita.oita.jp/",
       "wikipedia_image_desc" : "上から: 府内城、高崎山自然動物園の野生猿、大分元町石仏、大分銀行ドーム、大分銀行赤レンガ館、ガレリア竹町",
       "wikipedia_image_wref" : "File:Oita_montage.jpg",
@@ -17330,7 +17351,7 @@
          "由布市" : "由布市",
          "竹田市" : "竹田市"
       },
-      "timestamp" : 1442167439,
+      "timestamp" : 1445992623,
       "url" : "http://www.town.kokonoe.oita.jp/",
       "wref" : "九重町"
    },
@@ -17580,7 +17601,7 @@
          "和歌山県" : "和歌山県",
          "奈良県" : "奈良県"
       },
-      "timestamp" : 1443965676,
+      "timestamp" : 1445659372,
       "url" : "http://www.pref.osaka.jp/",
       "wikipedia_image_desc" : "大坂城と大阪ビジネスパーク",
       "wikipedia_image_wref" : "ファイル:Osaka Castle 03bs3200.jpg",
@@ -17933,7 +17954,7 @@
          "生駒市" : "生駒市"
       },
       "symbol_label" : "1970年7月1日制定",
-      "timestamp" : 1445453112,
+      "timestamp" : 1445643123,
       "url" : "http://www.city.shijonawate.lg.jp/",
       "wikipedia_image_desc" : "左上:飯盛山城 右上:小楠公御墓所\n中:四條畷神社\n左下:忍岡古墳\n右下忍陵神社",
       "wikipedia_image_wref" : "File:Shijonawate montage.JPG",
@@ -17975,7 +17996,7 @@
          "高石市" : "高石市"
       },
       "symbol_label" : "堺市章",
-      "timestamp" : 1442920216,
+      "timestamp" : 1445863282,
       "wikipedia_image_desc" : "大仙陵古墳/旧堺燈台/千利休屋敷跡 大鳥大社拝殿/妙国寺\n堺市役所から望む大仙陵古墳",
       "wikipedia_image_wref" : "File:Sakai montage.jpg",
       "wref" : "堺市"
@@ -18017,7 +18038,7 @@
       "wref" : "美原区"
    },
    "大阪府,堺市,西区" : {
-      "timestamp" : 1434885082,
+      "timestamp" : 1445658845,
       "url" : "http://www.city.sakai.lg.jp/nishi/index.html",
       "wikipedia_location_image_wref" : "ファイル:Sakai-city_nishi.png",
       "wref" : "西区 (堺市)"
@@ -18106,7 +18127,7 @@
          "門真市" : "門真市"
       },
       "symbol_label" : "大阪市章",
-      "timestamp" : 1445252933,
+      "timestamp" : 1446284375,
       "url" : "http://www.city.osaka.lg.jp/index.html",
       "wikipedia_image_desc" : "梅田スカイビルから望む梅田の夜景 道頓堀/通天閣\n四天王寺/住吉大社/大坂城",
       "wikipedia_image_wref" : "File:Osaka montage.jpg",
@@ -18141,7 +18162,7 @@
             }
          ]
       },
-      "timestamp" : 1434112388,
+      "timestamp" : 1445569560,
       "url" : "http://www.city.osaka.lg.jp/suminoe/",
       "wikipedia_image_desc" : "地上256m、日本で4番目に高い超高層ビル、大阪府咲洲庁舎(旧称:大阪ワールドトレードセンタービルディング)",
       "wikipedia_image_wref" : "File:Osaka-WTC-01.jpg",
@@ -18288,7 +18309,7 @@
             }
          ]
       },
-      "timestamp" : 1439053916,
+      "timestamp" : 1446342968,
       "url" : "http://www.city.osaka.lg.jp/higashinari/",
       "wref" : "東成区"
    },
@@ -18398,7 +18419,7 @@
             }
          ]
       },
-      "timestamp" : 1445327161,
+      "timestamp" : 1445703285,
       "url" : "http://www.city.osaka.lg.jp/fukushima/",
       "wref" : "福島区"
    },
@@ -18546,7 +18567,7 @@
          "富田林市" : "富田林市",
          "河内長野市" : "河内長野市"
       },
-      "timestamp" : 1440899132,
+      "timestamp" : 1446266809,
       "url" : "http://www.city.osakasayama.osaka.jp/",
       "wikipedia_image_desc" : "狭山池",
       "wikipedia_image_wref" : "File:Sayamaike01.JPG",
@@ -18577,7 +18598,7 @@
          "摂津市" : "摂津市",
          "門真市" : "門真市"
       },
-      "timestamp" : 1438909150,
+      "timestamp" : 1445953914,
       "url" : "http://www.city.moriguchi.osaka.jp/contents/index.html",
       "wikipedia_image_wref" : "File:",
       "wref" : "守口市"
@@ -18617,7 +18638,7 @@
          "羽曳野市" : "羽曳野市"
       },
       "symbol_label" : "1942年10月1日制定",
-      "timestamp" : 1434477195,
+      "timestamp" : 1446266990,
       "url" : "http://www.city.tondabayashi.osaka.jp/",
       "wikipedia_image_desc" : "教祖祭PL花火芸術",
       "wikipedia_image_wref" : "File:PL Fireworks4.jpg",
@@ -18755,7 +18776,7 @@
          "茨木市" : "茨木市",
          "高槻市" : "高槻市"
       },
-      "timestamp" : 1441556196,
+      "timestamp" : 1445953237,
       "url" : "http://www.city.settsu.osaka.jp/",
       "wikipedia_image_desc" : "東海道新幹線鳥飼車両基地",
       "wikipedia_image_wref" : "File:Torikai-train-base.JPG",
@@ -18886,7 +18907,7 @@
          "生駒市" : "生駒市",
          "高槻市" : "高槻市"
       },
-      "timestamp" : 1445265496,
+      "timestamp" : 1446083669,
       "url" : "http://www.city.hirakata.osaka.jp/",
       "wikipedia_image_desc" : "ひらかたパーク大観覧車",
       "wikipedia_image_wref" : "File:Hirakata Park.jpg",
@@ -18968,7 +18989,7 @@
          "豊中市" : "豊中市"
       },
       "symbol_label" : "1940年(昭和15年)8月12日制定",
-      "timestamp" : 1441440208,
+      "timestamp" : 1445765451,
       "url" : "http://www.city.ikeda.osaka.jp/",
       "wikipedia_image_desc" : "池田市制定キャラクターの“ふくまる”くんと“ふくまる”ちゃん",
       "wikipedia_image_wref" : "File:Fukumaru.jpg",
@@ -19318,7 +19339,7 @@
          "高槻市" : "高槻市"
       },
       "symbol_label" : "1948年(昭和23年)8月31日制定",
-      "timestamp" : 1445361980,
+      "timestamp" : 1446184913,
       "url" : "http://www.city.ibaraki.osaka.jp/index.html",
       "wikipedia_image_desc" : "総持寺",
       "wikipedia_image_wref" : "File:Soujiji01s2010.jpg",
@@ -19478,7 +19499,7 @@
          "熊取町" : "熊取町",
          "紀の川市" : "紀の川市"
       },
-      "timestamp" : 1442810000,
+      "timestamp" : 1446104526,
       "url" : "http://www.city.kaizuka.lg.jp/",
       "wikipedia_image_desc" : "水間寺(水間観音)",
       "wikipedia_image_wref" : "File:Mizumadera Sanzyunotou.jpg",
@@ -19521,7 +19542,7 @@
          "守口市" : "守口市",
          "寝屋川市" : "寝屋川市"
       },
-      "timestamp" : 1440172555,
+      "timestamp" : 1446060821,
       "url" : "http://www.city.kadoma.osaka.jp",
       "wikipedia_image_wref" : "File:",
       "wref" : "門真市"
@@ -19597,7 +19618,7 @@
          "枚方市" : "枚方市",
          "茨木市" : "茨木市"
       },
-      "timestamp" : 1442553842,
+      "timestamp" : 1446307365,
       "url" : "http://www.city.takatsuki.osaka.jp/",
       "wikipedia_image_desc" : "摂津峡",
       "wikipedia_image_wref" : "ファイル:130928 Settsu-kyo Gorge Takatsuki Osaka pref Japan03s3.jpg",
@@ -19688,7 +19709,7 @@
          "和歌山県" : "和歌山県",
          "大阪府" : "大阪府"
       },
-      "timestamp" : 1440622555,
+      "timestamp" : 1446108656,
       "url" : "http://www.pref.nara.jp/",
       "wikipedia_image_desc" : "いかるがの里",
       "wikipedia_image_wref" : "File:Horyu-ji03s3200.jpg",
@@ -19729,7 +19750,7 @@
          "黒滝村" : "黒滝村"
       },
       "symbol_label" : "1958年(昭和33年)10月1日制定",
-      "timestamp" : 1441672624,
+      "timestamp" : 1445600249,
       "url" : "http://www.city.gojo.lg.jp/",
       "wikipedia_image_wref" : "File:",
       "wref" : "五條市"
@@ -20248,9 +20269,10 @@
          "生駒市" : "生駒市"
       },
       "symbol_label" : "市旗・市章、共に1974年(昭和49年)1月17日制定",
-      "timestamp" : 1445165623,
+      "timestamp" : 1445607447,
       "url" : "http://www.city.yamatokoriyama.nara.jp/",
-      "wikipedia_image_wref" : "File:",
+      "wikipedia_image_desc" : "郡山城跡",
+      "wikipedia_image_wref" : "File:Koriyama_Castle_Nara-b.jpg",
       "wref" : "大和郡山市"
    },
    "奈良県,大和高田市" : {
@@ -20280,7 +20302,7 @@
          "香芝市" : "香芝市"
       },
       "symbol_label" : "1932年制定",
-      "timestamp" : 1435890372,
+      "timestamp" : 1445951940,
       "url" : "http://www.city.yamatotakada.nara.jp/",
       "wikipedia_image_desc" : "長谷本寺の鐘楼",
       "wikipedia_image_wref" : "File:The bell tower of the Hase-hon-ji Temple.jpg",
@@ -20314,7 +20336,7 @@
          "田原本町" : "田原本町"
       },
       "symbol_label" : "1954年9月24日制定",
-      "timestamp" : 1442752507,
+      "timestamp" : 1445600635,
       "wikipedia_image_desc" : "左上:天理教本部 右上:天理高等学校\n中左:山の辺の道 中右:龍王山城石碑\n下:天理大学附属天理参考館",
       "wikipedia_image_wref" : "File:Tenri montage.JPG",
       "wref" : "天理市"
@@ -20502,7 +20524,7 @@
          "宇陀市" : "宇陀市"
       },
       "symbol_label" : "村旗・村章、共に1972年(昭和47年)4月1日制定",
-      "timestamp" : 1440587711,
+      "timestamp" : 1445667758,
       "url" : "http://www.vill.yamazoe.nara.jp/",
       "wikipedia_image_wref" : "File:",
       "wref" : "山添村"
@@ -20536,7 +20558,7 @@
          "高取町" : "高取町"
       },
       "symbol_label" : "1958年(昭和33年)3月31日制定",
-      "timestamp" : 1434476359,
+      "timestamp" : 1445598993,
       "url" : "http://www.city.gose.nara.jp/",
       "wikipedia_image_desc" : "上左:金剛山、上右:大和葛城山 中左:鴨都波神社、中右:高鴨神社\n下:近鉄御所駅",
       "wikipedia_image_wref" : "File:Gose montage.JPG",
@@ -20618,7 +20640,7 @@
          "高取町" : "高取町"
       },
       "symbol_label" : "市旗:1976年10月1日制定 市章1956年9月5日制定",
-      "timestamp" : 1442697999,
+      "timestamp" : 1445600421,
       "url" : "http://www.city.kashihara.nara.jp/",
       "wikipedia_image_desc" : "1段目左:畝傍山 1段目右:耳成山\n2段目左:天香具山\n2段目右:橿原神宮\n3段目左:今井町の街並み\n3段目右:奈良県橿原考古学研究所\n4段目左:おふさ観音\n4段目右:畝傍山口神社",
       "wikipedia_image_wref" : "File:Kashihara Nara montage.JPG",
@@ -21162,7 +21184,7 @@
          "角田市" : "角田市"
       },
       "symbol_label" : "町旗・町章共に昭和46年(1971年)10月2日制定",
-      "timestamp" : 1436681310,
+      "timestamp" : 1445852461,
       "url" : "http://www.town.watari.miyagi.jp/",
       "wikipedia_image_desc" : "亘理町(亘理から荒浜への道)",
       "wikipedia_image_wref" : "File:Wataricho.jpg",
@@ -21205,7 +21227,7 @@
          "角田市" : "角田市"
       },
       "symbol_label" : "町章:昭和39年(1964年)11月3日制定 町旗:昭和60年(1985年)11月1日制定",
-      "timestamp" : 1443703092,
+      "timestamp" : 1445852902,
       "url" : "http://www.town.yamamoto.miyagi.jp/",
       "wikipedia_image_desc" : "山元町・四方山",
       "wikipedia_image_wref" : "File:Shihozan 1.JPG",
@@ -21256,7 +21278,7 @@
          "色麻町" : "色麻町"
       },
       "symbol_label" : "仙台市章",
-      "timestamp" : 1444803471,
+      "timestamp" : 1446209450,
       "url" : "http://www.city.sendai.jp",
       "wikipedia_image_desc" : "仙台七夕まつり/SENDAI光のページェント 仙台牛タン/伊達政宗騎馬像/定禅寺通り\n仙台城址から見た仙台市都心部の夜景",
       "wikipedia_image_wref" : "File:SendaiTop.png",
@@ -21570,7 +21592,7 @@
          "多賀城市" : "多賀城市"
       },
       "symbol_label" : "1942年(昭和17年)4月1日制定",
-      "timestamp" : 1443101399,
+      "timestamp" : 1446382420,
       "url" : "http://www.city.shiogama.miyagi.jp/",
       "wikipedia_image_desc" : "1段目:浦戸諸島 2段目左:塩釜港\n2段目右:鹽竈神社\n3段目左:イオンタウン塩釜ショッピングセンター\n3段目右:塩竈みなと祭に使われる鳳凰丸",
       "wikipedia_image_wref" : "File:Shiogama montage.JPG",
@@ -21608,7 +21630,7 @@
          "塩竈市" : "塩竈市"
       },
       "symbol_label" : "1969年1月10日制定",
-      "timestamp" : 1442303695,
+      "timestamp" : 1446382315,
       "url" : "http://www.city.tagajo.miyagi.jp/",
       "wikipedia_image_desc" : "多賀城跡",
       "wikipedia_image_wref" : "File:Tagajo.jpg",
@@ -21658,8 +21680,8 @@
          "色麻町" : "色麻町"
       },
       "symbol_label" : "2006年3月31日制定",
-      "timestamp" : 1442680765,
-      "url" : "http://www.city.osaki.miyagi.jp/index.html",
+      "timestamp" : 1445571627,
+      "url" : "http://www.city.osaki.miyagi.jp/",
       "wikipedia_image_desc" : "大崎市 古川まつりの賑わい",
       "wikipedia_image_wref" : "File:OsakiCity.JPG",
       "wref" : "大崎市"
@@ -22408,7 +22430,7 @@
          "石巻市" : "石巻市",
          "美里町" : "美里町 (宮城県)"
       },
-      "timestamp" : 1437349020,
+      "timestamp" : 1446270676,
       "url" : "http://www.town.wakuya.miyagi.jp/",
       "wikipedia_image_desc" : "涌谷町、輓馬大会の準備",
       "wikipedia_image_wref" : "File:Wakuya banba.jpg",
@@ -22434,7 +22456,7 @@
          "涌谷町" : "涌谷町",
          "石巻市" : "石巻市"
       },
-      "timestamp" : 1437347939,
+      "timestamp" : 1446273259,
       "url" : "http://www.town.misato.miyagi.jp/",
       "wikipedia_image_desc" : "美里町の公園",
       "wikipedia_image_wref" : "File:Misatocho.jpg",
@@ -22647,7 +22669,7 @@
          "熊本県" : "熊本県",
          "鹿児島県" : "鹿児島県"
       },
-      "timestamp" : 1439849409,
+      "timestamp" : 1445741019,
       "url" : "http://www.pref.miyazaki.lg.jp/",
       "wikipedia_image_desc" : "高千穂峡",
       "wikipedia_image_wref" : "ファイル:Takachihokyou55.jpg",
@@ -22771,7 +22793,7 @@
          "高鍋町" : "高鍋町"
       },
       "symbol_label" : "1953年(昭和28年)2月11日制定",
-      "timestamp" : 1445342149,
+      "timestamp" : 1445870859,
       "url" : "http://www.town.kawaminami.miyazaki.jp/",
       "wikipedia_image_wref" : "File:",
       "wref" : "川南町"
@@ -23104,7 +23126,7 @@
          "都城市" : "都城市"
       },
       "symbol_label" : "市旗・市章、共に2009年(平成21年)11月2日制定",
-      "timestamp" : 1443699481,
+      "timestamp" : 1445855638,
       "url" : "http://www.city.nichinan.lg.jp",
       "wikipedia_image_wref" : "File:",
       "wref" : "日南市"
@@ -23116,7 +23138,7 @@
          "都農町" : "都農町",
          "門川町" : "門川町"
       },
-      "timestamp" : 1442628366,
+      "timestamp" : 1445742747,
       "wikipedia_image_desc" : "\u003Ctable style=\"width:280px;margin:2px auto; border-collapse: collapse\">\n\u003Ctr>\u003Ctd>馬ヶ背\u003Ctd>若山牧水像\u003C/tr>\n\u003Ctr>\u003Ctd>日向市駅\u003Ctd>日向ひょっとこ踊\u003C/tr>\n\u003Ctr>\u003Ctd colspan=\"2\">美々津の町並み\u003C/tr>\n\u003C/table>",
       "wikipedia_image_wref" : "File:Hyuga Montage.JPG",
       "wref" : "日向市"
@@ -23568,7 +23590,7 @@
          "高原町" : "高原町"
       },
       "symbol_label" : "市旗:2008年(平成20年)1月18日制定 市章:1933年8月5日制定。2006年(平成18年)1月1日再制定",
-      "timestamp" : 1445265046,
+      "timestamp" : 1445527350,
       "url" : "http://www.city.miyakonojo.miyazaki.jp/",
       "wikipedia_image_wref" : "File:",
       "wref" : "都城市"
@@ -23629,7 +23651,7 @@
          "石川県" : "石川県",
          "長野県" : "長野県"
       },
-      "timestamp" : 1444701984,
+      "timestamp" : 1446010744,
       "url" : "http://www.pref.toyama.lg.jp/",
       "wikipedia_image_desc" : "呉羽丘陵から望む立山連峰と富山市街",
       "wikipedia_image_wref" : "ファイル:Tsurugi-toyama 16-9.jpg",
@@ -23702,7 +23724,7 @@
          "黒部市" : "黒部市"
       },
       "symbol_label" : "1954年(昭和29年)11月3日制定",
-      "timestamp" : 1439570511,
+      "timestamp" : 1446472156,
       "url" : "http://www.town.asahi.toyama.jp/",
       "wikipedia_image_wref" : "File:",
       "wref" : "朝日町 (富山県)"
@@ -23959,7 +23981,7 @@
          "高岡市" : "高岡市"
       },
       "symbol_label" : "2005年(平成17年)11月1日制定",
-      "timestamp" : 1445270424,
+      "timestamp" : 1446365593,
       "url" : "http://www.city.imizu.toyama.jp",
       "wikipedia_image_wref" : "File:",
       "wref" : "射水市"
@@ -24003,7 +24025,7 @@
          "高岡市" : "高岡市"
       },
       "symbol_label" : "市旗・市章、共に1963年(昭和38年)4月1日制定",
-      "timestamp" : 1442745486,
+      "timestamp" : 1445785192,
       "url" : "http://www.city.oyabe.toyama.jp/",
       "wikipedia_image_wref" : "File:",
       "wref" : "小矢部市"
@@ -24040,7 +24062,7 @@
          "羽咋市" : "羽咋市",
          "高岡市" : "高岡市"
       },
-      "timestamp" : 1444833717,
+      "timestamp" : 1446001591,
       "url" : "http://www.city.himi.toyama.jp/",
       "wikipedia_image_wref" : "File:",
       "wref" : "氷見市"
@@ -24128,7 +24150,7 @@
          "高岡市" : "高岡市"
       },
       "symbol_label" : "市旗・市章、共に2004年(平成16年)11月1日制定",
-      "timestamp" : 1442745350,
+      "timestamp" : 1446090343,
       "url" : "http://www.city.tonami.toyama.jp/",
       "wref" : "砺波市"
    },
@@ -24453,7 +24475,7 @@
          "岩国市" : "岩国市",
          "防府市" : "防府市"
       },
-      "timestamp" : 1445073237,
+      "timestamp" : 1445645483,
       "url" : "http://www.city.shunan.lg.jp/",
       "wikipedia_image_desc" : "周南市徳山動物園",
       "wikipedia_image_wref" : "File:Tokuyamazoo.jpg",
@@ -24635,7 +24657,7 @@
          "益田市" : "益田市"
       },
       "symbol_label" : "1940年(昭和15年)9月18日制定",
-      "timestamp" : 1444873469,
+      "timestamp" : 1445602963,
       "url" : "http://www.city.iwakuni.yamaguchi.jp/",
       "wikipedia_image_desc" : "岩国城と錦帯橋",
       "wikipedia_image_wref" : "File:Kintai bridge.jpg",
@@ -24851,7 +24873,7 @@
          "阿武町" : "阿武町"
       },
       "symbol_label" : "市旗",
-      "timestamp" : 1444217370,
+      "timestamp" : 1446003544,
       "url" : "http://www.city.hagi.lg.jp/",
       "wikipedia_image_desc" : "萩市",
       "wikipedia_image_wref" : "File:Hagi city.jpg",
@@ -24940,7 +24962,7 @@
          "周南市" : "周南市",
          "山口市" : "山口市"
       },
-      "timestamp" : 1443887099,
+      "timestamp" : 1446002226,
       "url" : "http://www.city.hofu.yamaguchi.jp/",
       "wikipedia_image_desc" : "防府天満宮",
       "wikipedia_image_wref" : "File:Hofu-tenmangu1.JPG",
@@ -25341,7 +25363,7 @@
          "金山町" : "金山町 (山形県)",
          "鮭川村" : "鮭川村"
       },
-      "timestamp" : 1440828394,
+      "timestamp" : 1446223293,
       "url" : "http://www.city.shinjo.yamagata.jp/",
       "wikipedia_image_desc" : "鳥越八幡神社",
       "wikipedia_image_wref" : "ファイル:TorigoeHachimanJinja Shinjo.JPG",
@@ -25749,6 +25771,23 @@
       "wref" : "三川町"
    },
    "山形県,東田川郡,庄内町" : {
+      "area_symbols" : {
+         "bird" : [
+            {
+               "name" : "ヒバリ"
+            }
+         ],
+         "flower" : [
+            {
+               "name" : "クロユリ"
+            }
+         ],
+         "tree" : [
+            {
+               "name" : "ツバキ"
+            }
+         ]
+      },
       "neighbor_region_names" : {
          "三川町" : "三川町",
          "大蔵村" : "大蔵村",
@@ -25757,7 +25796,7 @@
          "酒田市" : "酒田市",
          "鶴岡市" : "鶴岡市"
       },
-      "timestamp" : 1417434158,
+      "timestamp" : 1446257304,
       "url" : "http://www.town.shonai.lg.jp/",
       "wikipedia_image_desc" : "ウィンドファーム立川",
       "wikipedia_image_wref" : "File:Wind Farm Tachikawa1.jpg",
@@ -25814,7 +25853,7 @@
          "福島市" : "福島市",
          "米沢市" : "米沢市"
       },
-      "timestamp" : 1441860134,
+      "timestamp" : 1446322345,
       "url" : "http://www.town.takahata.yamagata.jp/",
       "wikipedia_image_desc" : "高畠町の計画・グラウンドの広い中学校",
       "wikipedia_image_wref" : "File:Takahatamachi.JPG",
@@ -26098,7 +26137,7 @@
          "長井市" : "長井市"
       },
       "symbol_label" : "町旗・町章、共に1964年(昭和39年)9月22日制定",
-      "timestamp" : 1442655046,
+      "timestamp" : 1445844099,
       "url" : "http://www.town.iide.yamagata.jp/",
       "wikipedia_image_wref" : "File:",
       "wref" : "飯豊町"
@@ -26236,7 +26275,7 @@
          "酒田市" : "酒田市"
       },
       "symbol_label" : "2005年10月11日制定",
-      "timestamp" : 1438871480,
+      "timestamp" : 1446001878,
       "url" : "http://www.city.tsuruoka.lg.jp/",
       "wikipedia_image_desc" : "羽黒山五重塔",
       "wikipedia_image_wref" : "ファイル:Hagurosan Gojunto 2006-A.jpg",
@@ -26295,7 +26334,7 @@
          "長野県" : "長野県",
          "静岡県" : "静岡県"
       },
-      "timestamp" : 1445445338,
+      "timestamp" : 1445968815,
       "url" : "http://www.pref.yamanashi.jp/",
       "wikipedia_image_desc" : "春の河口湖と富士山",
       "wikipedia_image_wref" : "ファイル:Lake Kawaguchiko Sakura Mount Fuji 3.JPG",
@@ -26342,7 +26381,7 @@
          "都留市" : "都留市"
       },
       "symbol_label" : "2005年10月24日制定",
-      "timestamp" : 1439104887,
+      "timestamp" : 1446015325,
       "url" : "http://www.city.uenohara.yamanashi.jp/",
       "wikipedia_image_desc" : "棡原地区の河岸段丘",
       "wikipedia_image_wref" : "File:Uenohara.jpg",
@@ -26385,7 +26424,7 @@
          "甲府市" : "甲府市"
       },
       "symbol_label" : "2006年(平成18年)11月30日制定",
-      "timestamp" : 1445420621,
+      "timestamp" : 1446473687,
       "url" : "http://www.city.chuo.yamanashi.jp",
       "wikipedia_image_desc" : "山梨大学医学部",
       "wikipedia_image_wref" : "ファイル:University of Yamanashi Hospital.JPG",
@@ -26433,7 +26472,7 @@
          ]
       },
       "symbol_label" : "北杜市章",
-      "timestamp" : 1442678262,
+      "timestamp" : 1446094714,
       "wikipedia_image_desc" : "瑞牆山と八ヶ岳",
       "wikipedia_image_wref" : "File:Mt.Mizugaki and Mt.Yatsugatake 01.jpg",
       "wref" : "北杜市"
@@ -26699,7 +26738,7 @@
          "山中湖村" : "山中湖村",
          "都留市" : "都留市"
       },
-      "timestamp" : 1435715948,
+      "timestamp" : 1446445814,
       "url" : "http://www.vill.oshino.lg.jp/",
       "wikipedia_image_desc" : "忍野八海の一つ、濁池",
       "wikipedia_image_wref" : "File:Nigori04.jpg",
@@ -26800,7 +26839,7 @@
          "笛吹市" : "笛吹市",
          "都留市" : "都留市"
       },
-      "timestamp" : 1440749279,
+      "timestamp" : 1446259120,
       "url" : "http://www.city.otsuki.yamanashi.jp/",
       "wikipedia_image_desc" : "猿橋",
       "wikipedia_image_wref" : "File:SaruHashi2005-8a.jpg",
@@ -26852,7 +26891,7 @@
          "都留市" : "都留市",
          "鳴沢村" : "鳴沢村"
       },
-      "timestamp" : 1444330630,
+      "timestamp" : 1445965899,
       "url" : "http://www.city.fujiyoshida.yamanashi.jp/",
       "wikipedia_image_desc" : "吉田の火祭",
       "wikipedia_image_wref" : "ファイル:Ignition torches in the main street of Yoshida Fire Festival.JPG",
@@ -26896,7 +26935,7 @@
          "笛吹市" : "笛吹市"
       },
       "symbol_label" : "2005年3月22日制定",
-      "timestamp" : 1435227534,
+      "timestamp" : 1445919828,
       "url" : "http://www.city.yamanashi.yamanashi.jp/",
       "wikipedia_image_desc" : "清白寺",
       "wikipedia_image_wref" : "ファイル:清白寺仏殿.JPG",
@@ -26984,7 +27023,7 @@
          "身延町" : "身延町"
       },
       "symbol_label" : "甲府市章",
-      "timestamp" : 1445068103,
+      "timestamp" : 1446092772,
       "url" : "http://www.city.kofu.yamanashi.jp/",
       "wikipedia_image_desc" : "\u003Ctable style=\"width:280px;margin:2px auto; border-collapse: collapse\">\n\u003Ctr>\u003Ctd colspan=\"3\">愛宕山から甲府市街と南アルプスを臨む\u003C/tr>\n\u003Ctr>\u003Ctd>酒折宮\u003Ctd>甲斐善光寺\u003Ctd rowspan=\"2\" style=\"vertical-align:middle;\">昇仙峡\u003C/tr>\n\u003Ctr>\u003Ctd>躑躅ヶ崎館\u003Ctd>信玄公祭り\u003C/tr>\n\u003Ctr>\u003Ctd colspan=\"2\" rowspan=\"2\" style=\"vertical-align:middle;\">甲府盆地の夜景\u003Ctd>甲府鳥もつ煮\u003C/tr>\n\u003Ctr>\u003Ctd>中銀スタ\u003Ctr>\n\u003C/table>",
       "wikipedia_image_wref" : "ファイル:Kofu montage.jpg",
@@ -27230,7 +27269,7 @@
          "福井県" : "福井県",
          "長野県" : "長野県"
       },
-      "timestamp" : 1445233034,
+      "timestamp" : 1445694373,
       "url" : "http://www.pref.gifu.lg.jp/",
       "wikipedia_image_desc" : "白川郷",
       "wikipedia_image_wref" : "ファイル:Ogi Shirakawa02bs3200.jpg",
@@ -27698,7 +27737,7 @@
          "笠松町" : "笠松町",
          "関市" : "関市"
       },
-      "timestamp" : 1443203555,
+      "timestamp" : 1446333251,
       "url" : "http://www.city.kakamigahara.lg.jp/",
       "wikipedia_image_wref" : "File:",
       "wref" : "各務原市"
@@ -27736,7 +27775,7 @@
          "瑞浪市" : "瑞浪市",
          "豊田市" : "豊田市"
       },
-      "timestamp" : 1444387070,
+      "timestamp" : 1445662559,
       "url" : "http://www.city.toki.lg.jp/",
       "wikipedia_image_desc" : "美濃焼",
       "wikipedia_image_wref" : "File:Tokishi-minoyaki.jpg",
@@ -28072,20 +28111,29 @@
       "wref" : "揖斐川町"
    },
    "岐阜県,揖斐郡,池田町" : {
-      "symbols" : [
-         {
-            "name" : "お茶",
-            "type" : "tree"
-         },
-         {
-            "name" : "山ざくら",
-            "type" : "flower"
-         }
-      ],
-      "timestamp" : 1397388047,
+      "area_symbols" : {
+         "flower" : [
+            {
+               "name" : "山ざくら"
+            }
+         ],
+         "tree" : [
+            {
+               "name" : "お茶"
+            }
+         ]
+      },
+      "neighbor_region_names" : {
+         "垂井町" : "垂井町",
+         "大垣市" : "大垣市",
+         "大野町" : "大野町",
+         "揖斐川町" : "揖斐川町",
+         "神戸町" : "神戸町"
+      },
+      "timestamp" : 1445760461,
       "url" : "http://www.town.ikeda.gifu.jp/",
       "wikipedia_image_desc" : "池田山から望む池田町",
-      "wikipedia_image_wref" : "Ikeda Gifu from Mount Ikeda.jpg",
+      "wikipedia_image_wref" : "File:Ikeda Gifu from Mount Ikeda.jpg",
       "wref" : "池田町 (岐阜県)"
    },
    "岐阜県,本巣市" : {
@@ -28361,7 +28409,7 @@
          "笠松町" : "笠松町",
          "輪之内町" : "輪之内町"
       },
-      "timestamp" : 1444617076,
+      "timestamp" : 1446115163,
       "url" : "http://www.city.hashima.gifu.jp/",
       "wikipedia_image_desc" : "岐阜羽島駅",
       "wikipedia_image_wref" : "File:Gifu Hashima Station 01.JPG",
@@ -28630,7 +28678,7 @@
          "飛騨市" : "飛騨市"
       },
       "symbol_label" : "1906年(明治39年)2月11日制定",
-      "timestamp" : 1444617550,
+      "timestamp" : 1445770099,
       "url" : "http://www.city.takayama.lg.jp/",
       "wikipedia_image_wref" : "File:",
       "wref" : "高山市"
@@ -28891,7 +28939,7 @@
          "赤穂市" : "赤穂市"
       },
       "symbol_label" : "2005年(平成17年)6月16日制定",
-      "timestamp" : 1441271596,
+      "timestamp" : 1446370085,
       "url" : "http://www.city.bizen.okayama.jp/",
       "wikipedia_image_desc" : "備前焼の産地伊部町",
       "wikipedia_image_wref" : "File:Imbe Bizen Okayama pref Japan01n.jpg",
@@ -29093,7 +29141,7 @@
          "赤磐市" : "赤磐市"
       },
       "symbol_label" : "岡山市章",
-      "timestamp" : 1444617002,
+      "timestamp" : 1445955927,
       "url" : "http://www.city.okayama.jp/",
       "wikipedia_image_desc" : "桃太郎大通り 表町商店街 / 後楽園\n吉備津神社 / 桃太郎像",
       "wikipedia_image_wref" : "ファイル:Okayama montage.jpg",
@@ -29151,7 +29199,7 @@
          "高梁市" : "高梁市"
       },
       "symbol_label" : "2005年6月制定",
-      "timestamp" : 1443548246,
+      "timestamp" : 1445530407,
       "url" : "http://www.city.niimi.okayama.jp/",
       "wref" : "新見市"
    },
@@ -29273,7 +29321,7 @@
          "岡山市" : "岡山市"
       },
       "symbol_label" : "2004年11月1日制定",
-      "timestamp" : 1444549896,
+      "timestamp" : 1446365427,
       "url" : "http://www.city.setouchi.lg.jp/",
       "wikipedia_image_desc" : "牛窓港",
       "wikipedia_image_wref" : "File:Setouchi Ushimado Port01n4272.jpg",
@@ -29343,7 +29391,7 @@
          "鏡野町" : "鏡野町",
          "高梁市" : "高梁市"
       },
-      "timestamp" : 1436261326,
+      "timestamp" : 1446017722,
       "url" : "http://www.city.maniwa.lg.jp/",
       "wikipedia_image_desc" : "蒜山高原と上蒜山(中央)・中蒜山",
       "wikipedia_image_wref" : "File:Hiruzen 02.jpg",
@@ -29464,7 +29512,7 @@
          "矢掛町" : "矢掛町",
          "高梁市" : "高梁市"
       },
-      "timestamp" : 1444635585,
+      "timestamp" : 1446043522,
       "url" : "http://www.city.soja.okayama.jp/",
       "wikipedia_image_desc" : "備中国分寺",
       "wikipedia_image_wref" : "File:Bitchu Kokubunji 1.JPG",
@@ -29626,8 +29674,10 @@
          "岡山市" : "岡山市",
          "美咲町" : "美咲町"
       },
-      "timestamp" : 1439164037,
+      "timestamp" : 1446370227,
       "url" : "http://www.city.akaiwa.lg.jp/",
+      "wikipedia_image_desc" : "備前国分寺跡",
+      "wikipedia_image_wref" : "File:Bizen Kokubunji Dilapidated Temple Ruins 02.JPG",
       "wref" : "赤磐市"
    },
    "岡山県,都窪郡" : {
@@ -29759,7 +29809,7 @@
          "秋田県" : "秋田県",
          "青森県" : "青森県"
       },
-      "timestamp" : 1443714960,
+      "timestamp" : 1446187385,
       "url" : "http://www.pref.iwate.jp/",
       "wikipedia_image_desc" : "盛岡市の北上川畔から望む岩手山",
       "wikipedia_image_wref" : "ファイル:Mt. Iwate and Morioka.jpg",
@@ -29807,7 +29857,7 @@
          "陸前高田市" : "陸前高田市"
       },
       "symbol_label" : "2005年(平成17年)11月15日制定",
-      "timestamp" : 1445262538,
+      "timestamp" : 1446128756,
       "url" : "http://www.city.ichinoseki.iwate.jp/",
       "wikipedia_image_desc" : "厳美渓",
       "wikipedia_image_wref" : "ファイル:Genbi-kei.jpg",
@@ -29947,7 +29997,7 @@
                "name" : "ハマユリ"
             }
          ],
-         "symbol" : [
+         "mark" : [
             {
                "name" : "村章",
                "wref" : "ファイル:Fudai Iwate chapter.svg"
@@ -29965,7 +30015,7 @@
          "野田村" : "野田村"
       },
       "symbol_label" : "1964年(昭和39年)1月24日制定",
-      "timestamp" : 1428632378,
+      "timestamp" : 1446297040,
       "url" : "http://www.vill.fudai.iwate.jp/",
       "wikipedia_image_desc" : "普代浜",
       "wikipedia_image_wref" : "File:Fudaihama in Fudai, Iwate, Japan.jpg",
@@ -29993,7 +30043,7 @@
          "岩泉町" : "岩泉町",
          "普代村" : "普代村"
       },
-      "timestamp" : 1434271737,
+      "timestamp" : 1446468601,
       "url" : "http://www.vill.tanohata.iwate.jp/",
       "wikipedia_image_desc" : "北山崎断崖の絶景",
       "wikipedia_image_wref" : "File:Kitayamasaki.jpg",
@@ -30038,7 +30088,7 @@
          "野田村" : "野田村"
       },
       "symbol_label" : "2006年(平成18年)3月6日制定",
-      "timestamp" : 1445173405,
+      "timestamp" : 1446342742,
       "url" : "http://www.city.kuji.iwate.jp",
       "wikipedia_image_desc" : "つりがね洞",
       "wikipedia_image_wref" : "ファイル:Tsuriganedo.jpg",
@@ -30100,7 +30150,7 @@
          "軽米町" : "軽米町",
          "階上町" : "階上町"
       },
-      "timestamp" : 1429533006,
+      "timestamp" : 1446471724,
       "url" : "http://www.town.hirono.iwate.jp/",
       "wref" : "洋野町"
    },
@@ -30131,7 +30181,7 @@
          "洋野町" : "洋野町",
          "階上町" : "階上町"
       },
-      "timestamp" : 1440258608,
+      "timestamp" : 1446470924,
       "url" : "http://www.town.karumai.iwate.jp/",
       "wref" : "軽米町"
    },
@@ -30141,7 +30191,7 @@
          "岩泉町" : "岩泉町",
          "普代村" : "普代村"
       },
-      "timestamp" : 1442418676,
+      "timestamp" : 1446296847,
       "url" : "http://www.vill.noda.iwate.jp/",
       "wref" : "野田村"
    },
@@ -30185,7 +30235,7 @@
          "軽米町" : "軽米町"
       },
       "symbol_label" : "2006年(平成18年)1月1日制定",
-      "timestamp" : 1443102412,
+      "timestamp" : 1446374176,
       "url" : "http://www.city.ninohe.lg.jp//",
       "wikipedia_image_desc" : "天台寺",
       "wikipedia_image_wref" : "ファイル:091103tendai.jpg",
@@ -30220,7 +30270,7 @@
          "岩手町" : "岩手町",
          "葛巻町" : "葛巻町"
       },
-      "timestamp" : 1439642695,
+      "timestamp" : 1446472318,
       "url" : "http://www.town.ichinohe.iwate.jp/",
       "wref" : "一戸町"
    },
@@ -30266,7 +30316,7 @@
          "鹿角市" : "鹿角市"
       },
       "symbol_label" : "市旗・市章、共に2005年(平成17年)9月1日制定",
-      "timestamp" : 1445402885,
+      "timestamp" : 1446384939,
       "url" : "http://www.city.hachimantai.lg.jp",
       "wikipedia_image_desc" : "八幡平",
       "wikipedia_image_wref" : "ファイル:八幡平.jpg",
@@ -30451,7 +30501,7 @@
          "金ケ崎町" : "金ケ崎町"
       },
       "symbol_label" : "2006年(平成18年)2月20日制定",
-      "timestamp" : 1445128190,
+      "timestamp" : 1446129900,
       "url" : "http://www.city.oshu.iwate.jp/",
       "wikipedia_image_desc" : "1段目左:焼石岳 1段目右:えさし藤原の郷\n2段目左:種山\n2段目右:正法寺\n3段目::長者ヶ原廃寺跡\n4段目左:水沢競馬場\n4段目右:駒形神社",
       "wikipedia_image_wref" : "File:Oshu montage.JPG",
@@ -30491,7 +30541,7 @@
          "遠野市" : "遠野市"
       },
       "symbol_label" : "1942年6月20日制定",
-      "timestamp" : 1444546472,
+      "timestamp" : 1446258540,
       "wikipedia_image_desc" : "\u003Ctable style=\"width:280px;margin:2px auto; border-collapse: collapse\">\n\u003Ctr>\u003Ctd>とどヶ崎\u003Ctd>宮古湾\u003C/tr>\n\u003Ctr>\u003Ctd colspan=\"2\">早池峰山\u003C/tr>\n\u003Ctr>\u003Ctd>浄土ヶ浜\u003Ctd>三王岩\u003C/tr>\n\u003Ctr>\u003Ctd>田老港\u003Ctd>ローソク岩\u003C/tr>\n\u003C/table>",
       "wikipedia_image_wref" : "File:Miyako city montage.JPG",
       "wref" : "宮古市"
@@ -30524,7 +30574,7 @@
          "盛岡市" : "盛岡市",
          "葛巻町" : "葛巻町"
       },
-      "timestamp" : 1416220391,
+      "timestamp" : 1446425557,
       "url" : "http://www.town.iwate.iwate.jp/",
       "wref" : "岩手町"
    },
@@ -30641,7 +30691,7 @@
          "釜石市" : "釜石市",
          "陸前高田市" : "陸前高田市"
       },
-      "timestamp" : 1427212229,
+      "timestamp" : 1446459935,
       "url" : "http://www.town.sumita.iwate.jp/",
       "wref" : "住田町"
    },
@@ -30720,7 +30770,7 @@
          "雫石町" : "雫石町"
       },
       "symbol_label" : "盛岡市章 1889年制定",
-      "timestamp" : 1445067422,
+      "timestamp" : 1446307871,
       "url" : "http://www.city.morioka.iwate.jp/",
       "wikipedia_image_desc" : "盛岡市街地と岩手山",
       "wikipedia_image_wref" : "ファイル:Mt. Iwate and Morioka.jpg",
@@ -30884,7 +30934,7 @@
          "雫石町" : "雫石町"
       },
       "symbol_label" : "市旗・市章、共に2006年(平成18年)1月1日制定",
-      "timestamp" : 1434638748,
+      "timestamp" : 1446269451,
       "url" : "http://www.city.hanamaki.iwate.jp/",
       "wikipedia_image_desc" : "花巻空港",
       "wikipedia_image_wref" : "File:New-hanamaki-terminal.JPG",
@@ -30916,7 +30966,7 @@
          "一関市" : "一関市",
          "奥州市" : "奥州市"
       },
-      "timestamp" : 1443713157,
+      "timestamp" : 1445692496,
       "url" : "http://www.town.hiraizumi.iwate.jp/",
       "wikipedia_image_desc" : "中尊寺金色堂覆堂",
       "wikipedia_image_wref" : "ファイル:Konjikido-Ooido.jpg",
@@ -30955,7 +31005,7 @@
          "釜石市" : "釜石市"
       },
       "symbol_label" : "2006年6月1日告示",
-      "timestamp" : 1439632663,
+      "timestamp" : 1445600811,
       "url" : "http://www.city.tono.iwate.jp/",
       "wikipedia_image_desc" : "カッパ淵",
       "wikipedia_image_wref" : "ファイル:Kappa-buchi03s3872.jpg",
@@ -30998,7 +31048,7 @@
          "遠野市" : "遠野市"
       },
       "symbol_label" : "1937年(昭和12年)5月5日制定",
-      "timestamp" : 1440557637,
+      "timestamp" : 1445875625,
       "wikipedia_image_desc" : "橋野高炉跡",
       "wikipedia_image_wref" : "File:Hashino-sanbankouroato.jpg",
       "wref" : "釜石市"
@@ -31087,7 +31137,7 @@
          "広島県" : "広島県",
          "鳥取県" : "鳥取県"
       },
-      "timestamp" : 1444549955,
+      "timestamp" : 1446478024,
       "url" : "http://www.pref.shimane.lg.jp/",
       "wikipedia_image_desc" : "出雲大社(拝殿)",
       "wikipedia_image_wref" : "ファイル:Izumo-taisha16nt3200.jpg",
@@ -31304,7 +31354,7 @@
          "雲南市" : "雲南市"
       },
       "symbol_label" : "松江市章",
-      "timestamp" : 1445177825,
+      "timestamp" : 1446139768,
       "url" : "http://www.city.matsue.shimane.jp/",
       "wikipedia_image_desc" : "左上上:熊野大社、左上下:八重垣神社、右上:美保神社 左中:松江城、右中上:宍道湖・嫁ヶ島、右中下:玉造温泉\n左下:美保関灯台、右下:松江市中心部の夜景",
       "wikipedia_image_wref" : "ファイル:Matsue montage.jpg",
@@ -31417,7 +31467,7 @@
          "萩市" : "萩市"
       },
       "symbol_label" : "市旗:1981年(昭和56年)11月3日制定 市章:1953年(昭和28年)3月11日制定",
-      "timestamp" : 1444989044,
+      "timestamp" : 1445990007,
       "url" : "http://www.city.masuda.lg.jp/",
       "wikipedia_image_wref" : "File:",
       "wref" : "益田市"
@@ -31822,7 +31872,7 @@
       "wref" : "三次市"
    },
    "広島県,世羅郡" : {
-      "timestamp" : 1430144181,
+      "timestamp" : 1446130375,
       "wref" : "世羅郡"
    },
    "広島県,世羅郡,世羅町" : {
@@ -31845,7 +31895,7 @@
          "府中市" : "府中市 (広島県)",
          "東広島市" : "東広島市"
       },
-      "timestamp" : 1437349211,
+      "timestamp" : 1445836455,
       "url" : "http://www.town.sera.hiroshima.jp/",
       "wref" : "世羅町"
    },
@@ -31885,7 +31935,7 @@
          "熊野町" : "熊野町"
       },
       "symbol_label" : "1903年(明治36年)3月26日制定",
-      "timestamp" : 1444601847,
+      "timestamp" : 1446029445,
       "url" : "http://www.city.kure.lg.jp/",
       "wikipedia_image_wref" : "File:",
       "wref" : "呉市"
@@ -31919,7 +31969,7 @@
       "wref" : "大竹市"
    },
    "広島県,安芸郡" : {
-      "timestamp" : 1441501006,
+      "timestamp" : 1446479986,
       "wref" : "安芸郡 (広島県)"
    },
    "広島県,安芸郡,坂町" : {
@@ -31958,13 +32008,13 @@
          "海田町" : "海田町"
       },
       "symbol_label" : "町旗・町章、共に1980年(昭和55年)11月20日制定",
-      "timestamp" : 1441500882,
+      "timestamp" : 1446476170,
       "url" : "http://www.town.saka.hiroshima.jp/sakacho/",
       "wikipedia_image_wref" : "File:",
       "wref" : "坂町"
    },
    "広島県,安芸郡,府中町" : {
-      "timestamp" : 1444042753,
+      "timestamp" : 1446476203,
       "wikipedia_image_wref" : "File:",
       "wref" : "府中町"
    },
@@ -31986,7 +32036,7 @@
          "広島市" : "広島市",
          "熊野町" : "熊野町"
       },
-      "timestamp" : 1445397279,
+      "timestamp" : 1446476161,
       "url" : "http://www.town.kaita.lg.jp/",
       "wref" : "海田町"
    },
@@ -32015,7 +32065,7 @@
          "東広島市" : "東広島市",
          "海田町" : "海田町"
       },
-      "timestamp" : 1441500761,
+      "timestamp" : 1446476166,
       "url" : "http://www.town.kumano.hiroshima.jp/",
       "wikipedia_image_desc" : "巨大熊野筆",
       "wikipedia_image_wref" : "File:巨大熊野筆01.jpg",
@@ -32100,7 +32150,7 @@
          "福山市" : "福山市"
       },
       "symbol_label" : "1898年(明治31年)10月14日制定",
-      "timestamp" : 1445344816,
+      "timestamp" : 1446043802,
       "url" : "http://www.city.onomichi.hiroshima.jp/",
       "wikipedia_image_desc" : "千光寺",
       "wikipedia_image_wref" : "File:Senkoji Onomichi16s3872.jpg",
@@ -32134,30 +32184,46 @@
          "邑南町" : "邑南町"
       },
       "symbol_label" : "町旗・町章、共に2005年(平成17年)10月20日制定",
-      "timestamp" : 1445072153,
+      "timestamp" : 1446446133,
       "url" : "http://www.town.kitahiroshima.lg.jp/",
       "wikipedia_image_wref" : "File:",
       "wref" : "北広島町"
    },
    "広島県,山県郡,安芸太田町" : {
-      "symbols" : [
-         {
-            "date" : "2004-10-01",
-            "name" : "町旗・町章ともに",
-            "type" : "mark",
-            "wref" : "ファイル:Flag of Aki-Ota, Hiroshima.svg"
-         },
-         {
-            "name" : "もみじ",
-            "type" : "tree"
-         },
-         {
-            "name" : "やまゆり(ササユリ)",
-            "type" : "flower"
-         }
-      ],
-      "timestamp" : 1403429067,
+      "area_symbols" : {
+         "flag" : [
+            {
+               "name" : "安芸太田町旗",
+               "wref" : "ファイル:Flag of Aki-Ota, Hiroshima.svg"
+            }
+         ],
+         "flower" : [
+            {
+               "name" : "やまゆり(ササユリ)"
+            }
+         ],
+         "mark" : [
+            {
+               "name" : "安芸太田町章",
+               "wref" : "ファイル:Symbol of Akiota Hiroshima.svg"
+            }
+         ],
+         "tree" : [
+            {
+               "name" : "もみじ"
+            }
+         ]
+      },
+      "neighbor_region_names" : {
+         "北広島町" : "北広島町",
+         "広島市" : "広島市",
+         "廿日市市" : "廿日市市",
+         "益田市" : "益田市"
+      },
+      "symbol_label" : "町旗・町章ともに2004年10月1日制定",
+      "timestamp" : 1446446110,
       "url" : "http://www.akiota.jp/index.html",
+      "wikipedia_image_wref" : "File:",
       "wref" : "安芸太田町"
    },
    "広島県,広島市" : {
@@ -32199,7 +32265,7 @@
          "熊野町" : "熊野町"
       },
       "symbol_label" : "広島市章",
-      "timestamp" : 1444028124,
+      "timestamp" : 1446381966,
       "url" : "http://www.city.hiroshima.lg.jp/",
       "wikipedia_image_desc" : "広島城/マツダスタジアム 原爆ドーム\n八丁堀の夜景/縮景園",
       "wikipedia_image_wref" : "ファイル:Hiroshima montage2.jpg",
@@ -32216,7 +32282,7 @@
       "wref" : "佐伯区"
    },
    "広島県,広島市,南区" : {
-      "timestamp" : 1444389789,
+      "timestamp" : 1446109246,
       "url" : "http://www.city.hiroshima.lg.jp/www/genre/0000000000000/1000000002179/index.html",
       "wref" : "南区 (広島市)"
    },
@@ -32425,7 +32491,7 @@
       "wref" : "江田島市"
    },
    "広島県,神石郡" : {
-      "timestamp" : 1440948943,
+      "timestamp" : 1445821371,
       "wref" : "神石郡"
    },
    "広島県,神石郡,神石高原町" : {
@@ -32448,7 +32514,7 @@
          "福山市" : "福山市",
          "高梁市" : "高梁市"
       },
-      "timestamp" : 1441501560,
+      "timestamp" : 1445835678,
       "url" : "http://www.jinsekigun.jp/",
       "wref" : "神石高原町"
    },
@@ -32497,7 +32563,7 @@
          "観音寺市" : "観音寺市"
       },
       "symbol_label" : "1917年7月1日制定",
-      "timestamp" : 1444549327,
+      "timestamp" : 1446348303,
       "url" : "http://www.city.fukuyama.hiroshima.jp/",
       "wikipedia_image_desc" : "鞆の浦",
       "wikipedia_image_wref" : "File:Sensuizima.jpg",
@@ -32536,7 +32602,7 @@
       "wref" : "竹原市"
    },
    "広島県,豊田郡" : {
-      "timestamp" : 1436542587,
+      "timestamp" : 1446127466,
       "wref" : "豊田郡"
    },
    "広島県,豊田郡,大崎上島町" : {
@@ -32558,7 +32624,7 @@
          "東広島市" : "東広島市",
          "竹原市" : "竹原市"
       },
-      "timestamp" : 1442488704,
+      "timestamp" : 1446446020,
       "url" : "http://www.town.osakikamijima.hiroshima.jp/",
       "wref" : "大崎上島町"
    },
@@ -32602,7 +32668,7 @@
          "香川県" : "香川県",
          "高知県" : "高知県"
       },
-      "timestamp" : 1444947782,
+      "timestamp" : 1446085617,
       "url" : "http://www.pref.tokushima.jp/",
       "wikipedia_image_desc" : "鳴門海峡に架かる大鳴門橋",
       "wikipedia_image_wref" : "ファイル:Onaruto-bridge and Naruto Channel,Naruto-city,Japan.JPG",
@@ -32741,7 +32807,7 @@
          "那賀町" : "那賀町"
       },
       "symbol_label" : "1965年12月16日制定",
-      "timestamp" : 1438520366,
+      "timestamp" : 1446272528,
       "url" : "http://www.kamikatsu.jp/",
       "wikipedia_image_desc" : "慈眼寺",
       "wikipedia_image_wref" : "File:Gecchozan Jigenji 05.JPG",
@@ -33043,7 +33109,7 @@
          "藍住町" : "藍住町"
       },
       "symbol_label" : "徳島市章",
-      "timestamp" : 1444311342,
+      "timestamp" : 1446085074,
       "url" : "http://www.city.tokushima.tokushima.jp/",
       "wikipedia_image_desc" : "徳島市中心部",
       "wikipedia_image_wref" : "ファイル:Bizan Tokushima05s5.jpg",
@@ -33636,7 +33702,7 @@
          "藍住町" : "藍住町"
       },
       "symbol_label" : "1947年(昭和22年)11月7日制定",
-      "timestamp" : 1442753285,
+      "timestamp" : 1446085708,
       "url" : "http://www.city.naruto.tokushima.jp/",
       "wikipedia_image_desc" : "鳴門公園、神戸淡路鳴門自動車道、亀浦港",
       "wikipedia_image_wref" : "ファイル:Kameura port01s3872.jpg",
@@ -33795,7 +33861,7 @@
          "西条市" : "西条市"
       },
       "symbol_label" : "市旗・市章、共に2005年(平成17年)1月16日制定",
-      "timestamp" : 1440466444,
+      "timestamp" : 1445952254,
       "url" : "http://www.city.imabari.ehime.jp/",
       "wikipedia_image_desc" : "今治城",
       "wikipedia_image_wref" : "File:Imabari castle.JPG",
@@ -33838,7 +33904,7 @@
          "砥部町" : "砥部町"
       },
       "symbol_label" : "2005年7月15日制定",
-      "timestamp" : 1430465911,
+      "timestamp" : 1445951941,
       "url" : "http://www.city.iyo.lg.jp/",
       "wikipedia_image_desc" : "下灘駅",
       "wikipedia_image_wref" : "File:下灘駅と瀬戸内海.jpg",
@@ -33951,7 +34017,7 @@
          "西予市" : "西予市"
       },
       "symbol_label" : "2005年11月5日制定",
-      "timestamp" : 1442425960,
+      "timestamp" : 1445952171,
       "url" : "http://www.city.yawatahama.ehime.jp/",
       "wikipedia_image_wref" : "File:",
       "wref" : "八幡浜市"
@@ -34086,7 +34152,7 @@
          "観音寺市" : "観音寺市"
       },
       "symbol_label" : "2004年(平成16年)4月1日制定",
-      "timestamp" : 1442471722,
+      "timestamp" : 1445951824,
       "url" : "http://www.city.shikokuchuo.ehime.jp/",
       "wikipedia_image_desc" : "左上:道の駅霧の森 右上:塩塚高原\n中左:四国中央市街\n中右:東赤石山\n左下:川之江城\n下右:土居太鼓祭り",
       "wikipedia_image_wref" : "File:志免町旗.jpg",
@@ -34114,7 +34180,7 @@
          "西予市" : "西予市"
       },
       "symbol_label" : "2005年1月11日制定",
-      "timestamp" : 1442817300,
+      "timestamp" : 1445951983,
       "url" : "http://www.city.ozu.ehime.jp/",
       "wikipedia_image_wref" : "File:",
       "wref" : "大洲市"
@@ -34143,7 +34209,7 @@
          "鬼北町" : "鬼北町"
       },
       "symbol_label" : "市旗・市章、共に2005年(平成17年)8月1日制定",
-      "timestamp" : 1443090831,
+      "timestamp" : 1445952206,
       "url" : "http://www.city.uwajima.ehime.jp/",
       "wikipedia_image_wref" : "File:",
       "wref" : "宇和島市"
@@ -34179,7 +34245,7 @@
          "大川村" : "大川村",
          "西条市" : "西条市"
       },
-      "timestamp" : 1437592994,
+      "timestamp" : 1446470810,
       "url" : "http://www.city.niihama.lg.jp/",
       "wikipedia_image_desc" : "別子銅山記念館",
       "wikipedia_image_wref" : "File:Besshi dozan kinenkan museum.jpg",
@@ -34217,7 +34283,7 @@
          "西条市" : "西条市"
       },
       "symbol_label" : "市旗・市章、共に2004年(平成16年)9月21日制定",
-      "timestamp" : 1443864943,
+      "timestamp" : 1445951886,
       "url" : "http://www.city.toon.ehime.jp/",
       "wikipedia_image_wref" : "File:",
       "wref" : "東温市"
@@ -34252,7 +34318,7 @@
          "砥部町" : "砥部町"
       },
       "symbol_label" : "松山市章",
-      "timestamp" : 1444810418,
+      "timestamp" : 1445952609,
       "url" : "http://www.city.matsuyama.ehime.jp/",
       "wikipedia_image_desc" : "左上から: 道後温泉、正岡子規歌碑、松山城天守、坊っちゃん列車、石手寺、松山市駅、松山銀天街",
       "wikipedia_image_wref" : "ファイル:Matsuyama montage.jpg",
@@ -34384,7 +34450,7 @@
          "東温市" : "東温市"
       },
       "symbol_label" : "2004年(平成16年)11月1日制定",
-      "timestamp" : 1441172201,
+      "timestamp" : 1445952069,
       "url" : "http://www.city.saijo.ehime.jp/",
       "wikipedia_image_wref" : "File:",
       "wref" : "西条市"
@@ -34444,7 +34510,7 @@
          "flag" : [
             {
                "name" : "愛知県旗",
-               "wref" : "ファイル:Flag of Aichi Prefecture.svg"
+               "wref" : "File:Flag of Aichi Prefecture.svg"
             }
          ],
          "flower" : [
@@ -34455,7 +34521,7 @@
          "mark" : [
             {
                "name" : "愛知県章",
-               "wref" : "ファイル:Symbol of Aichi Prefecture.svg"
+               "wref" : "File:Symbol of Aichi Prefecture.svg"
             }
          ],
          "song" : [
@@ -34476,11 +34542,11 @@
          "長野県" : "長野県",
          "静岡県" : "静岡県"
       },
-      "timestamp" : 1444736186,
+      "timestamp" : 1446392249,
       "url" : "http://www.pref.aichi.jp/",
       "wikipedia_image_desc" : "名古屋城",
-      "wikipedia_image_wref" : "ファイル:080405_nagoya_csl_sakura.JPG",
-      "wikipedia_location_image_wref" : "ファイル:Map of Japan with highlight on 23 Aichi prefecture.svg",
+      "wikipedia_image_wref" : "File:080405_nagoya_csl_sakura.JPG",
+      "wikipedia_location_image_wref" : "File:Map of Japan with highlight on 23 Aichi prefecture.svg",
       "wref" : "愛知県"
    },
    "愛知県,あま市" : {
@@ -34501,7 +34567,7 @@
          "稲沢市" : "稲沢市",
          "蟹江町" : "蟹江町"
       },
-      "timestamp" : 1442224665,
+      "timestamp" : 1446186996,
       "url" : "http://www.city.ama.aichi.jp/index.html",
       "wikipedia_image_desc" : "甚目寺",
       "wikipedia_image_wref" : "File:Jimokuji 3.JPG",
@@ -34526,7 +34592,7 @@
          "東郷町" : "東郷町",
          "豊田市" : "豊田市"
       },
-      "timestamp" : 1445413844,
+      "timestamp" : 1445671984,
       "url" : "http://www.city.aichi-miyoshi.lg.jp/",
       "wref" : "みよし市"
    },
@@ -34567,7 +34633,7 @@
          "羽島市" : "羽島市"
       },
       "symbol_label" : "1922年10月2日制定",
-      "timestamp" : 1445503125,
+      "timestamp" : 1446108859,
       "url" : "http://www.city.ichinomiya.aichi.jp/",
       "wikipedia_image_desc" : "上段:ツインアーチ138 下段:真清田神社本殿",
       "wikipedia_image_wref" : "File:Twinarch138 from north.jpg",
@@ -34701,7 +34767,7 @@
          "清須市" : "清須市",
          "豊山町" : "豊山町"
       },
-      "timestamp" : 1444396923,
+      "timestamp" : 1446183910,
       "url" : "http://www.city.kitanagoya.lg.jp",
       "wref" : "北名古屋市"
    },
@@ -34733,8 +34799,10 @@
          "設楽町" : "設楽町",
          "豊根村" : "豊根村"
       },
-      "timestamp" : 1445403869,
+      "timestamp" : 1445764417,
       "url" : "http://www.town.toei.aichi.jp/",
+      "wikipedia_image_desc" : "東栄温泉",
+      "wikipedia_image_wref" : "File:東栄温泉.JPG",
       "wref" : "東栄町"
    },
    "愛知県,北設楽郡,設楽町" : {
@@ -34822,7 +34890,7 @@
          "阿久比町" : "阿久比町",
          "高浜市" : "高浜市"
       },
-      "timestamp" : 1445099661,
+      "timestamp" : 1445693991,
       "url" : "http://www.city.handa.lg.jp/",
       "wikipedia_image_desc" : "半田運河沿いにあるミツカンの倉庫",
       "wikipedia_image_wref" : "File:Warehouses of Mizkan along Handa canal.jpg",
@@ -34872,7 +34940,7 @@
          "飛島村" : "飛島村"
       },
       "symbol_label" : "名古屋市旗",
-      "timestamp" : 1445254450,
+      "timestamp" : 1446477353,
       "url" : "http://www.city.nagoya.jp/",
       "wikipedia_image_desc" : "名古屋港/東山動植物園 名古屋市中心部\n名古屋城/名古屋テレビ塔",
       "wikipedia_image_wref" : "ファイル:Japan Nagoya.png",
@@ -34896,7 +34964,7 @@
             }
          ]
       },
-      "timestamp" : 1445349048,
+      "timestamp" : 1445741394,
       "url" : "http://www.city.nagoya.jp/naka/",
       "wikipedia_image_desc" : "名古屋城天守",
       "wikipedia_image_wref" : "File:Nagoyajo1.JPG",
@@ -34976,7 +35044,7 @@
             }
          ]
       },
-      "timestamp" : 1444991408,
+      "timestamp" : 1446475700,
       "url" : "http://www.city.nagoya.jp/chikusa/",
       "wikipedia_image_desc" : "東山動植物園",
       "wikipedia_image_wref" : "File:Higashiyamashokubutu7.JPG",
@@ -35082,7 +35150,7 @@
             }
          ]
       },
-      "timestamp" : 1445045936,
+      "timestamp" : 1446368701,
       "url" : "http://www.city.nagoya.jp/showa/",
       "wikipedia_image_desc" : "興正寺 五重塔",
       "wikipedia_image_wref" : "File:Koushouji2.JPG",
@@ -35127,7 +35195,7 @@
             }
          ]
       },
-      "timestamp" : 1445404803,
+      "timestamp" : 1445697569,
       "url" : "http://www.city.nagoya.jp/minato/",
       "wikipedia_image_desc" : "リニア・鉄道館",
       "wikipedia_image_wref" : "File:Liniatetsudoukan.JPG",
@@ -35147,7 +35215,7 @@
             }
          ]
       },
-      "timestamp" : 1445046504,
+      "timestamp" : 1445835251,
       "url" : "http://www.city.nagoya.jp/atsuta/",
       "wikipedia_image_desc" : "熱田神宮本宮",
       "wikipedia_image_wref" : "File:Atsuta Shrine 11.jpg",
@@ -35167,7 +35235,7 @@
             }
          ]
       },
-      "timestamp" : 1445046287,
+      "timestamp" : 1445953446,
       "url" : "http://www.city.nagoya.jp/mizuho/",
       "wikipedia_image_desc" : "山崎川",
       "wikipedia_image_wref" : "File:Yamazakigawa.JPG",
@@ -35327,7 +35395,7 @@
          "豊山町" : "豊山町"
       },
       "symbol_label" : "1955年(昭和30年)4月1日制定",
-      "timestamp" : 1444903979,
+      "timestamp" : 1446453868,
       "url" : "http://www.city.komaki.aichi.jp/",
       "wikipedia_image_desc" : "上段:小牧山城 下段:桃花台ニュータウン",
       "wikipedia_image_wref" : "File:Komakiyama.JPG",
@@ -35403,7 +35471,7 @@
          "豊田市" : "豊田市"
       },
       "symbol_label" : "市旗・市章。共に1962年(昭和37年)4月1日制定",
-      "timestamp" : 1444907275,
+      "timestamp" : 1446465372,
       "url" : "http://www.city.okazaki.aichi.jp/index.htm",
       "wikipedia_image_wref" : "File:Okazakijo-1.jpg",
       "wref" : "岡崎市"
@@ -35413,7 +35481,7 @@
          "flag" : [
             {
                "name" : "岩倉市旗",
-               "wref" : "ファイル:Flag of Iwakura (Aichi).svg"
+               "wref" : "File:Flag of Iwakura (Aichi).svg"
             }
          ],
          "flower" : [
@@ -35424,7 +35492,7 @@
          "mark" : [
             {
                "name" : "岩倉市章",
-               "wref" : "ファイル:Mark of Iwakura (Aichi).svg"
+               "wref" : "File:Mark of Iwakura (Aichi).svg"
             }
          ],
          "misc" : [
@@ -35445,7 +35513,7 @@
          "小牧市" : "小牧市",
          "江南市" : "江南市"
       },
-      "timestamp" : 1442924315,
+      "timestamp" : 1445906334,
       "url" : "http://www.city.iwakura.aichi.jp/",
       "wikipedia_image_desc" : "五条川の桜",
       "wikipedia_image_wref" : "File:Gojo-gawa in Iwakura 04.JPG",
@@ -35484,7 +35552,7 @@
          "阿久比町" : "阿久比町"
       },
       "symbol_label" : "1955年(昭和30年)6月1日制定",
-      "timestamp" : 1444488355,
+      "timestamp" : 1445949585,
       "url" : "http://www.city.tokoname.aichi.jp/",
       "wikipedia_image_desc" : "土管坂",
       "wikipedia_image_wref" : "File:Yakimonosanpomichi1.JPG",
@@ -35520,7 +35588,7 @@
          "蟹江町" : "蟹江町",
          "飛島村" : "飛島村"
       },
-      "timestamp" : 1442611437,
+      "timestamp" : 1445847217,
       "url" : "http://www.city.yatomi.aichi.jp",
       "wikipedia_image_desc" : "愛知県弥富野鳥園",
       "wikipedia_image_wref" : "File:Yatomi Yachoen01.jpg",
@@ -35550,7 +35618,7 @@
          "日進市" : "日進市",
          "豊明市" : "豊明市"
       },
-      "timestamp" : 1444553867,
+      "timestamp" : 1445671746,
       "url" : "http://www.town.aichi-togo.lg.jp/",
       "wikipedia_image_desc" : "愛知池",
       "wikipedia_image_wref" : "File:Aichi-ike.jpg",
@@ -35591,7 +35659,7 @@
          "蟹江町" : "蟹江町"
       },
       "symbol_label" : "2005年(平成17年)4月1日制定",
-      "timestamp" : 1441372523,
+      "timestamp" : 1445696746,
       "url" : "http://www.city.aisai.lg.jp/",
       "wikipedia_image_wref" : "File:",
       "wref" : "愛西市"
@@ -35606,7 +35674,7 @@
          "flag" : [
             {
                "name" : "新城市旗",
-               "wref" : "ファイル:Flag of Shinshiro Aichi.svg"
+               "wref" : "File:Flag of Shinshiro Aichi.svg"
             }
          ],
          "flower" : [
@@ -35646,7 +35714,7 @@
          "豊田市" : "豊田市"
       },
       "symbol_label" : "市旗・市章、共に2005年(平成17年)10月1日制定",
-      "timestamp" : 1444412137,
+      "timestamp" : 1445772367,
       "url" : "http://www.city.shinshiro.lg.jp/",
       "wikipedia_image_desc" : "長篠合戦のぼりまつり",
       "wikipedia_image_wref" : "File:Nagashinofestival.JPG",
@@ -35672,7 +35740,7 @@
          "豊田市" : "豊田市",
          "長久手市" : "長久手市"
       },
-      "timestamp" : 1445426714,
+      "timestamp" : 1445675446,
       "url" : "http://www.city.nisshin.lg.jp/",
       "wikipedia_image_desc" : "岩崎城",
       "wikipedia_image_wref" : "File:Iwasakijou3.JPG",
@@ -35711,7 +35779,7 @@
          "犬山市" : "犬山市",
          "豊山町" : "豊山町"
       },
-      "timestamp" : 1444905605,
+      "timestamp" : 1446464923,
       "url" : "http://www.city.kasugai.lg.jp/",
       "wikipedia_image_desc" : "上段:道風記念館 下段:高蔵寺ニュータウン",
       "wikipedia_image_wref" : "File:Tofu Memorial Hall 20150109.JPG",
@@ -35781,7 +35849,7 @@
          "岩倉市" : "岩倉市",
          "扶桑町" : "扶桑町"
       },
-      "timestamp" : 1441977136,
+      "timestamp" : 1445663230,
       "url" : "http://www.city.konan.lg.jp/",
       "wikipedia_image_desc" : "上段:すいとぴあ江南 下段:曼陀羅寺の藤まつり",
       "wikipedia_image_wref" : "File:Suitopia Konan.jpg",
@@ -35805,7 +35873,7 @@
          "愛西市" : "愛西市",
          "蟹江町" : "蟹江町"
       },
-      "timestamp" : 1444918842,
+      "timestamp" : 1446305726,
       "url" : "http://www.city.tsushima.lg.jp/",
       "wikipedia_image_desc" : "尾張津島天王祭",
       "wikipedia_image_wref" : "File:Tsushimatennosai1.JPG",
@@ -35925,7 +35993,7 @@
          "名古屋市" : "名古屋市",
          "稲沢市" : "稲沢市"
       },
-      "timestamp" : 1444653685,
+      "timestamp" : 1446475817,
       "url" : "http://www.city.kiyosu.aichi.jp/",
       "wikipedia_image_desc" : "清洲城模擬天守と大手橋",
       "wikipedia_image_wref" : "File:Kiyosu-jo&ote-bashi.jpg",
@@ -36031,7 +36099,7 @@
          "豊橋市" : "豊橋市"
       },
       "symbol_label" : "2005年10月1日制定",
-      "timestamp" : 1441891207,
+      "timestamp" : 1446121053,
       "url" : "http://www.city.tahara.aichi.jp/",
       "wikipedia_image_desc" : "\u003Ctable style=\"width:280px;margin:2px auto; border-collapse: collapse\">\n\u003Ctr>\u003Ctd>伊良湖岬灯台\u003Ctd>伊良湖岬\u003C/tr>\n\u003Ctr>\u003Ctd>田原城跡\u003Ctd>蔵王山展望台\u003C/tr>\n\u003Ctr>\u003Ctd>崋山神社\u003Ctd>赤羽根海岸\u003C/tr>\n\u003C/table>",
       "wikipedia_image_wref" : "File:Tahara montage.jpg",
@@ -36378,7 +36446,7 @@
          "西尾市" : "西尾市",
          "豊川市" : "豊川市"
       },
-      "timestamp" : 1442852092,
+      "timestamp" : 1446229502,
       "url" : "http://www.city.gamagori.lg.jp/",
       "wikipedia_image_desc" : "竹島",
       "wikipedia_image_wref" : "File:Takeshima1.JPG",
@@ -36440,8 +36508,10 @@
          "小牧市" : "小牧市",
          "春日井市" : "春日井市"
       },
-      "timestamp" : 1443965938,
+      "timestamp" : 1445692841,
       "url" : "http://www.town.toyoyama.lg.jp/",
+      "wikipedia_image_desc" : "エアポートウォーク名古屋",
+      "wikipedia_image_wref" : "File:Airport Walk NAGOYA 01.JPG",
       "wref" : "豊山町"
    },
    "愛知県,豊川市" : {
@@ -36474,7 +36544,7 @@
          "蒲郡市" : "蒲郡市",
          "豊橋市" : "豊橋市"
       },
-      "timestamp" : 1444959507,
+      "timestamp" : 1445585862,
       "url" : "http://www.city.toyokawa.lg.jp/",
       "wikipedia_image_desc" : "豊川稲荷",
       "wikipedia_image_wref" : "File:Toyokawainari4.JPG",
@@ -36499,7 +36569,7 @@
          "大府市" : "大府市",
          "東郷町" : "東郷町"
       },
-      "timestamp" : 1445151226,
+      "timestamp" : 1446252428,
       "url" : "http://www.city.toyoake.lg.jp/",
       "wikipedia_image_desc" : "桶狭間古戦場伝説地",
       "wikipedia_image_wref" : "File:Okehazamakosenjou1.JPG",
@@ -36552,7 +36622,7 @@
          "豊川市" : "豊川市"
       },
       "symbol_label" : "1963年(昭和38年)7月1日制定 1909年(明治42年)6月6日制定",
-      "timestamp" : 1444041507,
+      "timestamp" : 1446083279,
       "url" : "http://www.city.toyohashi.aichi.jp/",
       "wikipedia_image_wref" : "ファイル:YoshidaJo Toyokawa.JPG",
       "wref" : "豊橋市"
@@ -36599,7 +36669,7 @@
          "長久手市" : "長久手市"
       },
       "symbol_label" : "1951年11月22日制定(挙母市のものを引継いでいる)",
-      "timestamp" : 1443812608,
+      "timestamp" : 1446378538,
       "url" : "http://www.city.toyota.aichi.jp/",
       "wikipedia_image_wref" : "File:Nagoya Grampus game in Toyota Stadium 100814.JPG",
       "wref" : "豊田市"
@@ -36631,7 +36701,7 @@
       "wref" : "長久手市"
    },
    "愛知県,額田郡" : {
-      "timestamp" : 1442226209,
+      "timestamp" : 1446030928,
       "wref" : "額田郡"
    },
    "愛知県,額田郡,幸田町" : {
@@ -36866,7 +36936,7 @@
          "飯山市" : "飯山市"
       },
       "symbol_label" : "市旗:1972年(昭和47年)12月23日制定 市章:1971年(昭和46年)12月10日制定",
-      "timestamp" : 1445335609,
+      "timestamp" : 1446448608,
       "url" : "http://www.city.joetsu.niigata.jp/",
       "wikipedia_image_desc" : "高田城百万人観桜会",
       "wikipedia_image_wref" : "File:Takada castle ruins.JPG",
@@ -37172,7 +37242,7 @@
          "栄村" : "栄村",
          "津南町" : "津南町"
       },
-      "timestamp" : 1440317047,
+      "timestamp" : 1446345182,
       "url" : "http://www.town.yuzawa.niigata.jp/",
       "wikipedia_image_desc" : "苗場スキー場",
       "wikipedia_image_wref" : "File:Naebatop.jpg",
@@ -37268,7 +37338,7 @@
       "wref" : "粟島浦村"
    },
    "新潟県,岩船郡,関川村" : {
-      "timestamp" : 1441766754,
+      "timestamp" : 1446092072,
       "wikipedia_image_desc" : "藁製の大蛇",
       "wikipedia_image_wref" : "ファイル:Taishitamonja.jpg",
       "wref" : "関川村"
@@ -37311,7 +37381,7 @@
          "阿賀野市" : "阿賀野市"
       },
       "symbol_label" : "新潟市章",
-      "timestamp" : 1445067421,
+      "timestamp" : 1445851512,
       "url" : "http://www.city.niigata.lg.jp/",
       "wikipedia_image_desc" : "NEXT21/萬代橋 朱鷺メッセ/新潟スタジアム\n朱鷺メッセから古町方面/レインボータワー",
       "wikipedia_image_wref" : "File:Niigata montage.jpg",
@@ -37344,7 +37414,7 @@
             }
          ]
       },
-      "timestamp" : 1445494228,
+      "timestamp" : 1446180474,
       "url" : "http://www.city.niigata.lg.jp/kita/",
       "wikipedia_image_desc" : "福島潟",
       "wikipedia_image_wref" : "ファイル:Fukushimagata-panorama.jpg",
@@ -37361,7 +37431,7 @@
             }
          ]
       },
-      "timestamp" : 1434166683,
+      "timestamp" : 1445858237,
       "url" : "http://www.city.niigata.lg.jp/minami/",
       "wikipedia_image_desc" : "白根大凧合戦",
       "wikipedia_image_wref" : "ファイル:白根大凧合戦５.JPG",
@@ -37400,7 +37470,7 @@
             }
          ]
       },
-      "timestamp" : 1440597186,
+      "timestamp" : 1445782947,
       "url" : "http://www.city.niigata.lg.jp/konan/",
       "wikipedia_image_desc" : "北方文化博物館",
       "wikipedia_image_wref" : "File:Itotei1.jpg",
@@ -37417,7 +37487,7 @@
             }
          ]
       },
-      "timestamp" : 1430749174,
+      "timestamp" : 1445779330,
       "url" : "http://www.city.niigata.lg.jp/akiha/",
       "wikipedia_image_desc" : "鉄道のまち新津(新潟市新津鉄道資料館)",
       "wikipedia_image_wref" : "File:NIIGATA-CITYNiitsuRailwayMuseum02.JPG",
@@ -37451,7 +37521,7 @@
             }
          ]
       },
-      "timestamp" : 1433783622,
+      "timestamp" : 1445851638,
       "url" : "http://www.city.niigata.lg.jp/nishikan/",
       "wikipedia_image_desc" : "越後七浦シーサイドライン",
       "wikipedia_image_wref" : "ファイル:EchigoNanaura_1.jpg",
@@ -37917,7 +37987,7 @@
          "山梨県" : "山梨県",
          "神奈川県" : "神奈川県"
       },
-      "timestamp" : 1444736800,
+      "timestamp" : 1446394501,
       "url" : "http://www.metro.tokyo.jp/",
       "wikipedia_image_wref" : "File:Skyscrapers of Shinjuku 2009 January.jpg",
       "wikipedia_location_image_wref" : "ファイル:Map of Japan with highlight on 13 Tokyo prefecture.svg",
@@ -37963,7 +38033,7 @@
          "青梅市" : "青梅市"
       },
       "symbol_label" : "1996年(平成8年)11月1日制定",
-      "timestamp" : 1445185462,
+      "timestamp" : 1446199961,
       "url" : "http://www.city.akiruno.tokyo.jp/",
       "wikipedia_image_desc" : "阿伎留神社",
       "wikipedia_image_wref" : "ファイル:阿伎留神社 正面.JPG",
@@ -38080,7 +38150,7 @@
          "目黒区" : "目黒区",
          "調布市" : "調布市"
       },
-      "timestamp" : 1444886848,
+      "timestamp" : 1446331401,
       "url" : "http://www.city.setagaya.lg.jp/",
       "wikipedia_image_desc" : "馬事公苑",
       "wikipedia_image_wref" : "File:JRA Baji Kouen.jpg",
@@ -38144,7 +38214,7 @@
          "練馬区" : "練馬区",
          "豊島区" : "豊島区"
       },
-      "timestamp" : 1445392992,
+      "timestamp" : 1446467559,
       "url" : "http://www.city.tokyo-nakano.lg.jp",
       "wikipedia_image_desc" : "中野区市街地",
       "wikipedia_image_wref" : "File:Nakano Oka1.jpg",
@@ -38233,7 +38303,7 @@
          "福生市" : "福生市"
       },
       "symbol_label" : "左:八王子市旗(2008年4月1日制定) 右:八王子市章(1917年12月22日制定)",
-      "timestamp" : 1445436915,
+      "timestamp" : 1446290176,
       "url" : "http://www.city.hachioji.tokyo.jp/",
       "wikipedia_image_desc" : "1段目:八王子市街地 2段目左:小宮公園\n2段目右:長沼公園\n3段目:高尾山\n4段目左:八王子城跡の曳橋と御主殿石垣\n4段目右:高尾山薬王院\n5段目左:八王子ラーメン\n5段目右:八王子まつり",
       "wikipedia_image_wref" : "File:Hachioji montage.JPG",
@@ -38289,13 +38359,13 @@
          "豊島区" : "豊島区",
          "足立区" : "足立区"
       },
-      "timestamp" : 1440242518,
+      "timestamp" : 1446395029,
       "url" : "http://www.city.kita.tokyo.jp/",
       "wikipedia_image_wref" : "File:",
       "wref" : "北区 (東京都)"
    },
    "東京都,千代田区" : {
-      "timestamp" : 1443636669,
+      "timestamp" : 1445959538,
       "wikipedia_image_desc" : "皇居の正門石橋",
       "wikipedia_image_wref" : "File:KokyoL0059.jpg",
       "wref" : "千代田区"
@@ -38327,7 +38397,7 @@
          "文京区" : "文京区",
          "荒川区" : "荒川区"
       },
-      "timestamp" : 1443398823,
+      "timestamp" : 1446476721,
       "url" : "http://www.city.taito.tokyo.jp/",
       "wikipedia_image_desc" : "浅草寺境内",
       "wikipedia_image_wref" : "File:Sensoji 2012.JPG",
@@ -38367,7 +38437,7 @@
          "港区" : "港区 (東京都)",
          "目黒区" : "目黒区"
       },
-      "timestamp" : 1445171162,
+      "timestamp" : 1445683472,
       "url" : "http://www.city.shinagawa.tokyo.jp/",
       "wikipedia_image_desc" : "東品川の夜景",
       "wikipedia_image_wref" : "File:Higashi-Shinagawa at night.JPG",
@@ -38595,7 +38665,7 @@
          "江東区" : "江東区",
          "目黒区" : "目黒区"
       },
-      "timestamp" : 1444932167,
+      "timestamp" : 1446109135,
       "url" : "http://www.city.ota.tokyo.jp/",
       "wikipedia_image_desc" : "東京国際空港国際線ターミナル",
       "wikipedia_image_wref" : "File:Haneda kokusaisen entrance.png",
@@ -38641,7 +38711,7 @@
          "西東京市" : "西東京市"
       },
       "symbol_label" : "「小平」を図案化したもので、小平の安定性を線の太さで表し、平和と協調、発展の一途を両翼で象徴している。",
-      "timestamp" : 1440809653,
+      "timestamp" : 1446173182,
       "url" : "http://www.city.kodaira.tokyo.jp/",
       "wikipedia_image_desc" : "GAS MUSEUM がす資料館",
       "wikipedia_image_wref" : "ファイル:GAS MUSEUM.JPG",
@@ -38769,7 +38839,7 @@
          "調布市" : "調布市"
       },
       "symbol_label" : "府中市旗",
-      "timestamp" : 1444711696,
+      "timestamp" : 1446128730,
       "url" : "http://www.city.fuchu.tokyo.jp/",
       "wikipedia_image_desc" : "大國魂神社",
       "wikipedia_image_wref" : "ファイル:Ookunitamajinnja haiden.jpg",
@@ -38855,7 +38925,7 @@
    },
    "東京都,新島村" : {
       "subpref" : "大島支庁",
-      "timestamp" : 1444903394,
+      "timestamp" : 1446327682,
       "url" : "http://www.niijima.com/",
       "wref" : "新島村"
    },
@@ -38935,7 +39005,7 @@
          "福生市" : "福生市",
          "立川市" : "立川市"
       },
-      "timestamp" : 1444535451,
+      "timestamp" : 1445779991,
       "url" : "http://www.city.akishima.lg.jp/",
       "wikipedia_image_desc" : "拝島大師",
       "wikipedia_image_wref" : "ファイル:拝島大師.jpg",
@@ -39083,7 +39153,7 @@
          "清瀬市" : "清瀬市"
       },
       "symbol_label" : "東村山市旗",
-      "timestamp" : 1440054827,
+      "timestamp" : 1446429748,
       "url" : "http://www.city.higashimurayama.tokyo.jp/",
       "wikipedia_image_desc" : "正福寺地蔵堂",
       "wikipedia_image_wref" : "ファイル:Syohukuji.JPG",
@@ -39157,7 +39227,7 @@
          "立川市" : "立川市"
       },
       "symbol_label" : "武蔵村山市旗",
-      "timestamp" : 1437033589,
+      "timestamp" : 1445522880,
       "url" : "http://www.city.musashimurayama.lg.jp/",
       "wikipedia_image_desc" : "野山北・六道山公園",
       "wikipedia_image_wref" : "ファイル:Satoyamaminkah.JPG",
@@ -39226,7 +39296,7 @@
          "西東京市" : "西東京市"
       },
       "symbol_label" : "1928年(昭和3年)11月制定",
-      "timestamp" : 1445218266,
+      "timestamp" : 1446389362,
       "url" : "http://www.city.musashino.lg.jp/",
       "wikipedia_image_desc" : "武蔵野中央公園",
       "wikipedia_image_wref" : "ファイル:Mushashino tyuo koen.jpg",
@@ -39259,7 +39329,7 @@
          "浦安市" : "浦安市",
          "葛飾区" : "葛飾区"
       },
-      "timestamp" : 1445219788,
+      "timestamp" : 1446479032,
       "url" : "http://www.city.edogawa.tokyo.jp/",
       "wikipedia_image_desc" : "葛西臨海公園",
       "wikipedia_image_wref" : "File:Kasai_Rinkai_Park_01.jpg",
@@ -39369,7 +39439,7 @@
          "港区" : "港区 (東京都)",
          "目黒区" : "目黒区"
       },
-      "timestamp" : 1443956903,
+      "timestamp" : 1445929086,
       "url" : "http://www.city.shibuya.tokyo.jp/",
       "wikipedia_image_desc" : "渋谷駅前のスクランブル交差点",
       "wikipedia_image_wref" : "File:Front_of_the_Shibuya_Station.jpg",
@@ -39441,7 +39511,7 @@
          "川崎市" : "川崎市",
          "調布市" : "調布市"
       },
-      "timestamp" : 1444652494,
+      "timestamp" : 1445782686,
       "url" : "http://www.city.komae.tokyo.jp/",
       "wikipedia_image_desc" : "前原公園(とんぼ池公園)",
       "wikipedia_image_wref" : "ファイル:Maehara koen nishinogawa komae.JPG",
@@ -39517,7 +39587,7 @@
          "大田区" : "大田区",
          "渋谷区" : "渋谷区"
       },
-      "timestamp" : 1442056580,
+      "timestamp" : 1446329383,
       "url" : "http://www.city.meguro.tokyo.jp/",
       "wikipedia_image_desc" : "目黒川の桜並木",
       "wikipedia_image_wref" : "File:Meguro Meguro River Cherry Trees 1.JPG",
@@ -39563,7 +39633,7 @@
          "羽村市" : "羽村市"
       },
       "symbol_label" : "福生町の町章として1960年10月1日に一般公募で決まる。 「ふっさ」の『ふ』を図案化したもので、\n市制施行後も市章として受け継がれ、雄飛と和合を表す。",
-      "timestamp" : 1445264747,
+      "timestamp" : 1445949047,
       "url" : "http://www.city.fussa.tokyo.jp/",
       "wikipedia_image_desc" : "米軍横田基地",
       "wikipedia_image_wref" : "ファイル:YokotaAirBaseGate2.jpg",
@@ -39681,7 +39751,7 @@
          "西東京市" : "西東京市",
          "豊島区" : "豊島区"
       },
-      "timestamp" : 1445172825,
+      "timestamp" : 1445692341,
       "url" : "http://www.city.nerima.tokyo.jp/",
       "wikipedia_image_wref" : "File:",
       "wref" : "練馬区"
@@ -39723,10 +39793,10 @@
          "青梅市" : "青梅市"
       },
       "symbol_label" : "1956年10月1日制定",
-      "timestamp" : 1445478772,
+      "timestamp" : 1445980424,
       "url" : "http://www.city.hamura.tokyo.jp/",
-      "wikipedia_image_desc" : "羽村市動物公園",
-      "wikipedia_image_wref" : "File:羽村市動物公園.jpg",
+      "wikipedia_image_desc" : "阿蘇神社",
+      "wikipedia_image_wref" : "File:Tamagawa cycling left-hamuraseki-asozinzya 3.jpg",
       "wref" : "羽村市"
    },
    "東京都,荒川区" : {
@@ -39755,7 +39825,7 @@
          "文京区" : "文京区",
          "足立区" : "足立区"
       },
-      "timestamp" : 1442465732,
+      "timestamp" : 1446368991,
       "url" : "http://www.city.arakawa.tokyo.jp/",
       "wref" : "荒川区"
    },
@@ -39786,7 +39856,7 @@
          "江戸川区" : "江戸川区",
          "足立区" : "足立区"
       },
-      "timestamp" : 1442802011,
+      "timestamp" : 1446476202,
       "url" : "http://www.city.katsushika.lg.jp/",
       "wikipedia_image_wref" : "File:",
       "wref" : "葛飾区"
@@ -39875,7 +39945,7 @@
          "青梅市" : "青梅市"
       },
       "symbol_label" : "日の出町旗",
-      "timestamp" : 1439887543,
+      "timestamp" : 1446212923,
       "url" : "http://www.town.hinode.tokyo.jp/",
       "wikipedia_image_desc" : "日の出山荘",
       "wikipedia_image_wref" : "File:Hinode_seiundo.jpg",
@@ -40107,7 +40177,7 @@
          "荒川区" : "荒川区",
          "葛飾区" : "葛飾区"
       },
-      "timestamp" : 1441945504,
+      "timestamp" : 1446476134,
       "url" : null,
       "wikipedia_image_wref" : "File:",
       "wref" : "足立区"
@@ -40379,7 +40449,7 @@
          "小山市" : "小山市",
          "栃木市" : "栃木市"
       },
-      "timestamp" : 1437403686,
+      "timestamp" : 1445688778,
       "url" : "http://www.town.nogi.tochigi.jp/",
       "wikipedia_image_desc" : "ひまわりフェスティバル",
       "wikipedia_image_wref" : "File:Tochigi Nogi Sunflower Field 1.JPG",
@@ -40418,7 +40488,7 @@
          "栃木市" : "栃木市",
          "真岡市" : "真岡市"
       },
-      "timestamp" : 1436280500,
+      "timestamp" : 1445691760,
       "url" : "http://www.city.shimotsuke.lg.jp",
       "wikipedia_image_desc" : "自治医科大学",
       "wikipedia_image_wref" : "ファイル:Jichi Medical University2009.jpg",
@@ -40623,7 +40693,7 @@
          "鹿沼市" : "鹿沼市"
       },
       "symbol_label" : "宇都宮市章 1911年2月14日制定",
-      "timestamp" : 1442157419,
+      "timestamp" : 1446014732,
       "url" : "http://www.city.utsunomiya.tochigi.jp/",
       "wikipedia_image_desc" : "左上から: 宇都宮城、餃子像、宇都宮二荒山神社、大谷資料館、宇都宮タワー、宇都宮タワーからの眺め",
       "wikipedia_image_wref" : "ファイル:Utsunomiya montage.jpg",
@@ -40674,7 +40744,7 @@
          "野木町" : "野木町"
       },
       "symbol_label" : "1954年9月18日制定",
-      "timestamp" : 1442553962,
+      "timestamp" : 1445919880,
       "url" : "http://www.city.oyama.tochigi.jp/",
       "wikipedia_image_desc" : "1段目思川 2段目左:おやまゆうえんハーヴェストウォーク\n2段目右:小山市まちの駅\n3段目左:白髭神社 \n3段目右:小山市文書館\n4段目:イオンモール小山",
       "wikipedia_image_wref" : "File:Oyama montage.JPG",
@@ -40707,7 +40777,7 @@
          "鹿沼市" : "鹿沼市"
       },
       "symbol_label" : "2006年3月20日制定",
-      "timestamp" : 1444616941,
+      "timestamp" : 1445783378,
       "url" : "http://www.city.nikko.lg.jp/",
       "wikipedia_image_desc" : "日光東照宮",
       "wikipedia_image_wref" : "File:NikkoYomeimon5005.jpg",
@@ -40740,7 +40810,7 @@
          "鹿沼市" : "鹿沼市"
       },
       "symbol_label" : "市旗:2010年10月2日制定 市章:市旗と同じ",
-      "timestamp" : 1445348635,
+      "timestamp" : 1446421997,
       "url" : "http://www.city.tochigi.tochigi.jp/",
       "wikipedia_image_desc" : "栃木・巴波川沿いに続く蔵",
       "wikipedia_image_wref" : "File:Tochigi City.JPG",
@@ -41331,7 +41401,7 @@
          "金武町" : "金武町"
       },
       "symbol_label" : "うるま市章 2006年3月1日制定",
-      "timestamp" : 1445219468,
+      "timestamp" : 1446017352,
       "url" : "http://www.city.uruma.lg.jp/",
       "wikipedia_image_desc" : "\u003Ctable style=\"width:280px;margin:2px auto; border-collapse: collapse\">\n\u003Ctr>\u003Ctd style=\"vertical-align:middle;\">仲原遺跡\u003Ctd>石川地区での\n闘牛試合\u003C/tr>\n\u003Ctr>\u003Ctd>勝連城跡\u003Ctd>海中道路\u003C/tr>\n\u003Ctr>\u003Ctd colspan=\"2\">与勝諸島\u003C/tr>\n\u003C/table>",
       "wikipedia_image_wref" : "File:Uruma Montage.jpg",
@@ -41500,7 +41570,7 @@
          "恩納村" : "恩納村",
          "沖縄市" : "沖縄市"
       },
-      "timestamp" : 1445156167,
+      "timestamp" : 1446165077,
       "url" : "http://www.vill.yomitan.okinawa.jp/",
       "wref" : "読谷村"
    },
@@ -42106,7 +42176,7 @@
             }
          ]
       },
-      "timestamp" : 1445219677,
+      "timestamp" : 1445841347,
       "url" : "http://www.vill.tarama.okinawa.jp/",
       "wikipedia_image_desc" : "多良間島(手前)と水納島(奥)",
       "wikipedia_image_wref" : "File:Tarama.JPG",
@@ -42658,7 +42728,7 @@
          "豊見城市" : "豊見城市"
       },
       "symbol_label" : "那覇市章 1921年12月19日制定",
-      "timestamp" : 1444671752,
+      "timestamp" : 1445645443,
       "url" : "http://www.city.naha.okinawa.jp/",
       "wikipedia_image_desc" : "\u003Ctable style=\"width:280px;margin:2px auto; border-collapse: collapse\">\n\u003Ctr>\u003Ctd>首里城\u003Ctd>守礼門\u003C/tr>\n\u003Ctr>\u003Ctd style=\"vertical-align:middle;\">国際通り\u003Ctd>首里金城町\n石畳道\u003C/tr>\n\u003Ctr>\u003Ctd colspan=\"2\">那覇の市街地\u003C/tr>\n\u003C/table>",
       "wikipedia_image_wref" : "ファイル:Naha montage.jpg",
@@ -42767,7 +42837,7 @@
          "高島市" : "高島市"
       },
       "symbol_label" : "大津市章",
-      "timestamp" : 1445249778,
+      "timestamp" : 1446049219,
       "url" : "http://www.city.otsu.lg.jp/",
       "wikipedia_image_desc" : "\u003Ctable style=\"width:280px;margin:2px auto; border-collapse: collapse\">\n\u003Ctr>\u003Ctd>比叡山延暦寺\u003Ctd>石山寺\u003C/tr>\n\u003Ctr>\u003Ctd>大津祭\u003Ctd>満月寺浮御堂\u003C/tr>\n\u003Ctr>\u003Ctd colspan=\"2\">大津市街\u003C/tr>\n\u003C/table>",
       "wikipedia_image_wref" : "ファイル:Otsu montage.jpg",
@@ -42836,7 +42906,7 @@
          "豊郷町" : "豊郷町"
       },
       "symbol_label" : "彦根市の中心にある金亀山(彦根山)の亀甲をかたどり、外枠右側に「ヒ」、左側に「コ」、中心に「ネ」を配して図案化したもの。 1938年(昭和13年)4月11日制定。",
-      "timestamp" : 1443338957,
+      "timestamp" : 1446007770,
       "url" : "http://www.city.hikone.shiga.jp/",
       "wikipedia_image_desc" : "彦根城",
       "wikipedia_image_wref" : "File:Hikone castle5537.JPG",
@@ -42913,7 +42983,7 @@
          "近江八幡市" : "近江八幡市"
       },
       "symbol_label" : "2005年(平成17年)2月11日制定",
-      "timestamp" : 1442312460,
+      "timestamp" : 1446043590,
       "url" : "http://www.city.higashiomi.shiga.jp/",
       "wikipedia_image_desc" : "延命公園から望む東近江市街",
       "wikipedia_image_wref" : "File:Yokaichi viewed from Enmei park.jpg",
@@ -42954,7 +43024,7 @@
          "草津市" : "草津市",
          "野洲市" : "野洲市"
       },
-      "timestamp" : 1443607349,
+      "timestamp" : 1446055897,
       "url" : "http://www.city.ritto.shiga.jp/",
       "wikipedia_image_desc" : "栗東駅西口の風景",
       "wikipedia_image_wref" : "File:Ritto ekimae.JPG",
@@ -43180,7 +43250,7 @@
          "長浜市" : "長浜市",
          "関ケ原町" : "関ケ原町"
       },
-      "timestamp" : 1442159909,
+      "timestamp" : 1446009927,
       "url" : "http://www.city.maibara.lg.jp/",
       "wikipedia_image_desc" : "伊吹山の脇を駆け抜け米原駅へ向かう新幹線",
       "wikipedia_image_wref" : "File:Mount Ibuki and N700 Series Shinkansen.jpg",
@@ -43455,7 +43525,7 @@
          "天草市" : "天草市",
          "宇城市" : "宇城市"
       },
-      "timestamp" : 1433952674,
+      "timestamp" : 1446093406,
       "url" : "http://www.city.kamiamakusa.kumamoto.jp//",
       "wref" : "上天草市"
    },
@@ -43612,7 +43682,7 @@
       "wref" : "益城町"
    },
    "熊本県,下益城郡" : {
-      "timestamp" : 1429702770,
+      "timestamp" : 1446447023,
       "wref" : "下益城郡"
    },
    "熊本県,下益城郡,美里町" : {
@@ -43729,7 +43799,7 @@
          "芦北町" : "芦北町"
       },
       "symbol_label" : "市旗・市章、共に2005年(平成17年)8月1日制定",
-      "timestamp" : 1441899282,
+      "timestamp" : 1446361296,
       "url" : "http://www.city.yatsushiro.kumamoto.jp/",
       "wikipedia_image_wref" : "File:",
       "wref" : "八代市"
@@ -43910,7 +43980,7 @@
          "宇城市" : "宇城市",
          "熊本市" : "熊本市"
       },
-      "timestamp" : 1445441995,
+      "timestamp" : 1446093366,
       "url" : "http://www.city.uto.kumamoto.jp/",
       "wikipedia_image_desc" : "宇土城",
       "wikipedia_image_wref" : "File:Utojyoushi.jpg",
@@ -43943,7 +44013,7 @@
          "甲佐町" : "甲佐町",
          "美里町" : "美里町 (熊本県)"
       },
-      "timestamp" : 1445442764,
+      "timestamp" : 1446093443,
       "url" : "http://www.city.uki.kumamoto.jp/",
       "wikipedia_image_desc" : "竹崎季長の菩提寺である塔福寺",
       "wikipedia_image_wref" : "File:Tofukuji.jpg",
@@ -43989,7 +44059,7 @@
          "菊池市" : "菊池市"
       },
       "symbol_label" : "市旗・市章、共に2005年(平成17年)1月15日制定",
-      "timestamp" : 1437995000,
+      "timestamp" : 1446093277,
       "url" : "http://www.city.yamaga.kumamoto.jp/",
       "wikipedia_image_wref" : "File:",
       "wref" : "山鹿市"
@@ -44021,7 +44091,7 @@
          "芦北町" : "芦北町"
       },
       "symbol_label" : "水俣市旗",
-      "timestamp" : 1445490012,
+      "timestamp" : 1445743993,
       "url" : "http://www.city.minamata.lg.jp/",
       "wikipedia_image_desc" : "商業施設「エムズシティ」5階から望む市役所方面。",
       "wikipedia_image_wref" : "File:Minamata city central area 01.jpg",
@@ -44071,7 +44141,7 @@
          "菊陽町" : "菊陽町"
       },
       "symbol_label" : "熊本市章 1969年8月1日制定",
-      "timestamp" : 1445217094,
+      "timestamp" : 1446121134,
       "url" : "http://www.city.kumamoto.jp/",
       "wikipedia_image_desc" : "熊本城から望む熊本市街 熊本城/熊本市電\n藤崎八幡宮/水前寺成趣園",
       "wikipedia_image_wref" : "ファイル:Kumamoto montage.jpg",
@@ -44085,7 +44155,7 @@
       "wref" : "中央区 (熊本市)"
    },
    "熊本県,熊本市,北区" : {
-      "timestamp" : 1442519533,
+      "timestamp" : 1446332270,
       "url" : "http://www.city.kumamoto.jp/kita/default.aspx",
       "wikipedia_image_wref" : "File:",
       "wikipedia_location_image_wref" : "File:",
@@ -44151,7 +44221,7 @@
          "長洲町" : "長洲町"
       },
       "symbol_label" : "2005年(平成17年)10月3日制定",
-      "timestamp" : 1444563853,
+      "timestamp" : 1446093228,
       "url" : "http://www.city.tamana.lg.jp/",
       "wikipedia_image_desc" : "登録有形文化財の県立玉名高校校舎",
       "wikipedia_image_wref" : "File:Kumamoto_prefectural_Tamana_high_school.jpg",
@@ -44603,7 +44673,7 @@
          "熊本市" : "熊本市",
          "阿蘇市" : "阿蘇市"
       },
-      "timestamp" : 1439313940,
+      "timestamp" : 1446383055,
       "url" : "http://www.city.kikuchi.lg.jp/",
       "wikipedia_image_desc" : "菊池渓谷",
       "wikipedia_image_wref" : "File:Kikuchi-Keikoku Hirogawara.JPG",
@@ -44683,7 +44753,7 @@
          "熊本市" : "熊本市",
          "益城町" : "益城町"
       },
-      "timestamp" : 1437739068,
+      "timestamp" : 1445519856,
       "url" : "http://www.town.kikuyo.lg.jp/",
       "wref" : "菊陽町"
    },
@@ -44785,7 +44855,7 @@
          "高森町" : "高森町 (熊本県)"
       },
       "symbol_label" : "市旗・市章、共に2005年(平成17年)2月11日制定",
-      "timestamp" : 1439563338,
+      "timestamp" : 1446093467,
       "url" : "http://www.city.aso.kumamoto.jp/",
       "wikipedia_image_desc" : "阿蘇山と阿蘇山ロープウェイ",
       "wikipedia_image_wref" : "File:MountAsoRopeway.jpg",
@@ -44965,7 +45035,7 @@
          "阿蘇市" : "阿蘇市",
          "高千穂町" : "高千穂町"
       },
-      "timestamp" : 1440751103,
+      "timestamp" : 1445920107,
       "url" : "http://www.town.takamori.kumamoto.jp/",
       "wref" : "高森町 (熊本県)"
    },
@@ -45073,7 +45143,7 @@
          "穴水町" : "穴水町"
       },
       "symbol_label" : "市旗・市章、共に2004年(平成16年)10月1日制定",
-      "timestamp" : 1445267519,
+      "timestamp" : 1446045009,
       "url" : "http://www.city.nanao.lg.jp/",
       "wikipedia_image_wref" : "File:",
       "wref" : "七尾市"
@@ -45102,7 +45172,7 @@
          "坂井市" : "坂井市",
          "小松市" : "小松市"
       },
-      "timestamp" : 1434644941,
+      "timestamp" : 1446436129,
       "url" : "http://www.city.kaga.ishikawa.jp/",
       "wref" : "加賀市"
    },
@@ -45314,7 +45384,7 @@
       "wref" : "羽咋市"
    },
    "石川県,羽咋郡" : {
-      "timestamp" : 1427726049,
+      "timestamp" : 1445932426,
       "wref" : "羽咋郡"
    },
    "石川県,羽咋郡,宝達志水町" : {
@@ -45509,7 +45579,7 @@
          "野々市市" : "野々市市"
       },
       "symbol_label" : "金沢市章",
-      "timestamp" : 1445067526,
+      "timestamp" : 1446305115,
       "url" : "http://www4.city.kanazawa.lg.jp/",
       "wikipedia_image_desc" : "\u003Ctable style=\"width:280px;margin:2px auto; border-collapse: collapse\">\n\u003Ctr>\u003Ctd>金沢城址\u003C/td>\u003Ctd>兼六園\u003C/td>\u003C/tr>\n\u003Ctr>\u003Ctd>近江町市場\u003C/td>\u003Ctd>ひがし茶屋街\u003C/td>\u003C/tr>\n\u003Ctr>\u003Ctd>金沢市街\u003C/td>\u003Ctd>尾山神社\u003C/td>\u003C/tr>\n\u003C/table>",
       "wikipedia_image_wref" : "ファイル:Kanazawa montage.jpg",
@@ -45694,7 +45764,7 @@
          "横須賀市" : "横須賀市"
       },
       "symbol_label" : "1956年1月20日制定",
-      "timestamp" : 1439106854,
+      "timestamp" : 1445770526,
       "url" : "http://www.city.miura.kanagawa.jp/",
       "wikipedia_image_desc" : "三浦市のランドマーク「城ヶ島大橋」",
       "wikipedia_image_wref" : "File:Jogashima ohashi bridge.jpg",
@@ -45813,7 +45883,7 @@
          "秦野市" : "秦野市"
       },
       "symbol_label" : "1957年9月1日制定",
-      "timestamp" : 1442219211,
+      "timestamp" : 1446091600,
       "url" : "http://www.city.isehara.kanagawa.jp/",
       "wikipedia_image_desc" : "大山阿夫利神社",
       "wikipedia_image_wref" : "File:大山阿夫利神社 下社拝殿.jpg",
@@ -45852,7 +45922,7 @@
          "開成町" : "開成町"
       },
       "symbol_label" : "1958年8月21日制定",
-      "timestamp" : 1443604355,
+      "timestamp" : 1446091683,
       "url" : "http://www.city.minamiashigara.kanagawa.jp/index.html",
       "wikipedia_image_desc" : "大雄山最乗寺の石段と杉林",
       "wikipedia_image_wref" : "File:Daiyuzan Saijoji Temple 12.jpg",
@@ -45899,7 +45969,7 @@
          "相模原市" : "相模原市",
          "秦野市" : "秦野市"
       },
-      "timestamp" : 1445443854,
+      "timestamp" : 1445770586,
       "url" : "http://www.city.atsugi.kanagawa.jp/",
       "wikipedia_image_desc" : "夜の相模川とあゆみ橋",
       "wikipedia_image_wref" : "ファイル:Atsugi-Ayumibashi-Nightview.jpg",
@@ -45950,7 +46020,7 @@
          "綾瀬市" : "綾瀬市",
          "藤沢市" : "藤沢市"
       },
-      "timestamp" : 1444102267,
+      "timestamp" : 1445770634,
       "url" : "http://www.city.yamato.lg.jp/",
       "wikipedia_image_desc" : "泉の森",
       "wikipedia_image_wref" : "ファイル:Izuminomori Park 01.jpg",
@@ -46008,7 +46078,7 @@
          "開成町" : "開成町"
       },
       "symbol_label" : "1941年(昭和16年)6月26日制定",
-      "timestamp" : 1443873100,
+      "timestamp" : 1446150638,
       "url" : "http://www.city.odawara.kanagawa.jp/",
       "wikipedia_image_desc" : "1段目左:小田原城 1段目右:小田原市中心部\n2段目左:小田原漁港\n2段目右:小田原駅\n3段目左:報徳二宮神社\n3段目右:石垣山城",
       "wikipedia_image_wref" : "File:Odawara montage.JPG",
@@ -46045,7 +46115,7 @@
          "調布市" : "調布市"
       },
       "symbol_label" : "1925年(大正14年)4月15日制定",
-      "timestamp" : 1443583416,
+      "timestamp" : 1446091834,
       "url" : "http://www.city.kawasaki.jp/",
       "wikipedia_image_desc" : "川崎大師/多摩川 ラゾーナ川崎プラザ/武蔵小杉の高層ビル群/等々力陸上競技場\n京浜工業地帯群",
       "wikipedia_image_wref" : "File:Kawasaki montage.jpg",
@@ -46107,7 +46177,7 @@
             }
          ]
       },
-      "timestamp" : 1442405442,
+      "timestamp" : 1446329797,
       "url" : "http://www.city.kawasaki.jp/miyamae/index.html",
       "wikipedia_location_image_wref" : "ファイル:地図-神奈川県川崎市宮前区-2006.png",
       "wref" : "宮前区"
@@ -46119,7 +46189,7 @@
       "wref" : "川崎区"
    },
    "神奈川県,川崎市,幸区" : {
-      "timestamp" : 1437884302,
+      "timestamp" : 1445786815,
       "url" : "http://www.city.kawasaki.jp/saiwai/index.html",
       "wikipedia_location_image_wref" : "画像:地図-神奈川県川崎市幸区-2006.png",
       "wref" : "幸区"
@@ -46188,7 +46258,7 @@
          "秦野市" : "秦野市",
          "茅ヶ崎市" : "茅ヶ崎市"
       },
-      "timestamp" : 1445006965,
+      "timestamp" : 1445598408,
       "url" : "http://www.city.hiratsuka.kanagawa.jp/",
       "wikipedia_image_desc" : "湘南ひらつか七夕まつり",
       "wikipedia_image_wref" : "ファイル:Hiratsuka Tanabata 2008 daytime-1.jpg",
@@ -46230,7 +46300,7 @@
          "海老名市" : "海老名市",
          "相模原市" : "相模原市"
       },
-      "timestamp" : 1444477651,
+      "timestamp" : 1446091657,
       "url" : "http://www.city.zama.kanagawa.jp/",
       "wikipedia_image_desc" : "座間谷戸山公園",
       "wikipedia_image_wref" : "ファイル:Pond in Yatoyama.jpg",
@@ -46350,7 +46420,7 @@
          "鎌倉市" : "鎌倉市"
       },
       "symbol_label" : "横浜市徽章",
-      "timestamp" : 1445004052,
+      "timestamp" : 1446300086,
       "url" : "http://www.city.yokohama.jp/",
       "wikipedia_image_desc" : "横浜みなとみらい21 横浜中華街/日本丸\n横浜駅西口前/横浜マリンタワー",
       "wikipedia_image_wref" : "ファイル:Japan Yokohama.png",
@@ -46428,7 +46498,7 @@
             }
          ]
       },
-      "timestamp" : 1441448987,
+      "timestamp" : 1445703730,
       "url" : "http://www.city.yokohama.lg.jp/totsuka/",
       "wikipedia_image_desc" : "舞岡公園",
       "wikipedia_image_wref" : "File:Maioka kominka t01.JPG",
@@ -46582,7 +46652,7 @@
             }
          ]
       },
-      "timestamp" : 1441640310,
+      "timestamp" : 1445761226,
       "url" : "http://www.city.yokohama.lg.jp/seya/",
       "wikipedia_location_image_wref" : "ファイル:地図-神奈川県横浜市瀬谷区-2006.png",
       "wref" : "瀬谷区"
@@ -46719,7 +46789,7 @@
             }
          ]
       },
-      "timestamp" : 1430899432,
+      "timestamp" : 1446442283,
       "url" : "http://www.city.yokohama.lg.jp/tsuzuki/",
       "wikipedia_image_desc" : "港北ニュータウン",
       "wikipedia_image_wref" : "File:Kohoku New Town -02.jpg",
@@ -46759,7 +46829,7 @@
             }
          ]
       },
-      "timestamp" : 1444363342,
+      "timestamp" : 1445555947,
       "url" : "http://www.city.yokohama.lg.jp/aoba/",
       "wikipedia_image_desc" : "こどもの国",
       "wikipedia_image_wref" : "File:Kodomonokuni3.JPG",
@@ -46818,7 +46888,7 @@
          "逗子市" : "逗子市"
       },
       "symbol_label" : "横須賀市旗",
-      "timestamp" : 1443804792,
+      "timestamp" : 1446333458,
       "url" : "http://www.city.yokosuka.kanagawa.jp/",
       "wikipedia_image_desc" : "ヴェルニー公園より本町、汐入駅方面を臨む。",
       "wikipedia_image_wref" : "File:Yokosuka-Shi, Kanagawa Prefecture, Japan.tif",
@@ -46863,7 +46933,7 @@
          "藤沢市" : "藤沢市"
       },
       "symbol_label" : "市旗:1993年(平成5年)2月22日制定 市章:1950年(昭和25年)12月22日制定",
-      "timestamp" : 1444428579,
+      "timestamp" : 1446091629,
       "url" : "http://www.city.ebina.kanagawa.jp/",
       "wikipedia_image_desc" : "相模国分寺",
       "wikipedia_image_wref" : "ファイル:Sagamikokubunzi-hondou.jpg",
@@ -46924,7 +46994,7 @@
          "町田市" : "町田市",
          "道志村" : "道志村"
       },
-      "timestamp" : 1444818224,
+      "timestamp" : 1446334335,
       "url" : "http://www.city.sagamihara.kanagawa.jp/",
       "wikipedia_image_desc" : "丹沢山地/相模総合補給廠/相模湖 橋本地区/小田急相模大野駅\nJAXA相模原キャンパス/市民桜祭り",
       "wikipedia_image_wref" : "File:Sagamihara montage.jpg",
@@ -47039,7 +47109,7 @@
          "藤沢市" : "藤沢市"
       },
       "symbol_label" : "市旗・市章共に1952年1月1日制定",
-      "timestamp" : 1443884004,
+      "timestamp" : 1446091712,
       "url" : "http://www.city.ayase.kanagawa.jp/",
       "wikipedia_image_desc" : "五社神社",
       "wikipedia_image_wref" : "File:Kanagawa prefectual road route 406 one-way traffic.jpg",
@@ -47120,7 +47190,7 @@
          "鎌倉市" : "鎌倉市"
       },
       "symbol_label" : "藤沢市旗",
-      "timestamp" : 1445041395,
+      "timestamp" : 1445598459,
       "url" : "http://www.city.fujisawa.kanagawa.jp/",
       "wikipedia_image_desc" : "早朝の鵠沼海岸。遠くに富士山を望む。",
       "wikipedia_image_wref" : "File:Enoshima west beach 02.jpg",
@@ -47389,7 +47459,7 @@
          "裾野市" : "裾野市"
       },
       "symbol_label" : "1958年(昭和33年)2月11日制定",
-      "timestamp" : 1440232208,
+      "timestamp" : 1446301872,
       "url" : "http://www.town.hakone.kanagawa.jp/",
       "wikipedia_image_desc" : "金時山山頂から見た仙石原と神山",
       "wikipedia_image_wref" : "File:Mt.Kami from Mt.Kintoki 04.jpg",
@@ -47427,7 +47497,7 @@
          "鎌倉市" : "鎌倉市"
       },
       "symbol_label" : "1950年12月30日制定",
-      "timestamp" : 1444370176,
+      "timestamp" : 1445598707,
       "url" : "http://www.city.zushi.kanagawa.jp/",
       "wikipedia_image_desc" : "逗子マリーナ",
       "wikipedia_image_wref" : "File:Zushi Marina 2 (1).jpg",
@@ -47677,7 +47747,7 @@
          "越前市" : "越前市",
          "鯖江市" : "鯖江市"
       },
-      "timestamp" : 1444399726,
+      "timestamp" : 1446439658,
       "url" : "http://www.town.echizen.fukui.jp/",
       "wref" : "越前町"
    },
@@ -47956,7 +48026,7 @@
          "高島市" : "高島市"
       },
       "symbol_label" : "1951年制定",
-      "timestamp" : 1442641170,
+      "timestamp" : 1445825045,
       "url" : "http://www1.city.obama.fukui.jp/index.asp",
       "wikipedia_image_desc" : "若狭国分寺",
       "wikipedia_image_wref" : "File:Wakasakokubunji.jpg",
@@ -47999,7 +48069,7 @@
          "高島市" : "高島市"
       },
       "symbol_label" : "1952年(昭和27年)3月28日制定",
-      "timestamp" : 1443963966,
+      "timestamp" : 1445824576,
       "url" : "http://www.city.tsuruga.lg.jp",
       "wikipedia_image_desc" : "気比松原",
       "wikipedia_image_wref" : "File:150228 Kehi-matsubara Tsuruga Fukui prefecture Japan02s3.jpg",
@@ -48036,7 +48106,7 @@
          "鯖江市" : "鯖江市"
       },
       "symbol_label" : "福井市章 1925年9月6日制定",
-      "timestamp" : 1444728671,
+      "timestamp" : 1446001188,
       "url" : "http://www.city.fukui.lg.jp/",
       "wikipedia_image_desc" : "1段目左:一乗谷朝倉氏遺跡 1段目右:北庄城内の柴田勝家像\n2段目:福井城趾と福井県庁\n3段目左:足羽川の桜並木\n3段目右:越前海岸国定公園に指定されている鉾島",
       "wikipedia_image_wref" : "ファイル:Fukui montage.jpg",
@@ -48062,7 +48132,7 @@
          "越前町" : "越前町",
          "鯖江市" : "鯖江市"
       },
-      "timestamp" : 1444812923,
+      "timestamp" : 1446439606,
       "url" : "http://www.city.echizen.lg.jp/",
       "wref" : "越前市"
    },
@@ -48143,7 +48213,7 @@
          "大分県" : "大分県",
          "熊本県" : "熊本県"
       },
-      "timestamp" : 1445445657,
+      "timestamp" : 1446127212,
       "url" : "http://www.pref.fukuoka.lg.jp/",
       "wikipedia_image_desc" : "太宰府天満宮",
       "wikipedia_image_wref" : "ファイル:20100719 Dazaifu Tenmangu Shrine 3328.jpg",
@@ -48295,7 +48365,7 @@
          "遠賀町" : "遠賀町",
          "鞍手町" : "鞍手町"
       },
-      "timestamp" : 1444994726,
+      "timestamp" : 1445603282,
       "url" : "http://www.city.nakama.lg.jp/",
       "wikipedia_image_desc" : "中間駅",
       "wikipedia_image_wref" : "File:NakamaSt.jpg",
@@ -48325,7 +48395,7 @@
          "鳥栖市" : "鳥栖市"
       },
       "symbol_label" : "久留米市章",
-      "timestamp" : 1443882801,
+      "timestamp" : 1445779772,
       "wikipedia_image_desc" : "\u003Ctable style=\"width:280px;margin:2px auto; border-collapse: collapse\">\n\u003Ctr>\u003Ctd colspan=\"3\">西鉄久留米駅\u003C/tr>\n\u003Ctr>\u003Ctd rowspan=\"2\" style=\"vertical-align:middle;\">久留米市役所\u003Ctd>水天宮総本宮\u003Ctd rowspan=\"2\" style=\"vertical-align:middle;\">久留米成田山\u003C/tr>\n\u003Ctr>\u003Ctd>高良大社\u003C/tr>\n\u003Ctr>\u003Ctd colspan=\"3\">石橋文化センター\u003C/tr>\n\u003Ctr>\u003Ctd colspan=\"3\">久留米駅\u003C/tr>\n\u003C/table>",
       "wikipedia_image_wref" : "File:Kurume montage.png",
       "wref" : "久留米市"
@@ -48434,7 +48504,7 @@
       "wref" : "広川町 (福岡県)"
    },
    "福岡県,北九州市" : {
-      "timestamp" : 1444238155,
+      "timestamp" : 1446475986,
       "wikipedia_image_desc" : "リバーウォーク北九州/小倉城 旦過市場/JR門司港駅\n小倉市街の夜景/東田第一高炉跡",
       "wikipedia_image_wref" : "File:Kitakyushu montage2.jpg",
       "wref" : "北九州市"
@@ -48686,9 +48756,10 @@
          "那珂川町" : "那珂川町 (福岡県)"
       },
       "symbol_label" : "市旗・市章、共に1970年(昭和45年)10月1日制定",
-      "timestamp" : 1436451329,
+      "timestamp" : 1446168779,
       "url" : "http://www.city.onojo.fukuoka.jp/",
-      "wikipedia_image_wref" : "File:",
+      "wikipedia_image_desc" : "大野城跡",
+      "wikipedia_image_wref" : "File:Hyakken-Ishigaki stone wall (one of the Onojo-Castle ruins).jpg",
       "wref" : "大野城市"
    },
    "福岡県,太宰府市" : {
@@ -48722,10 +48793,10 @@
          "筑紫野市" : "筑紫野市"
       },
       "symbol_label" : "1982年(昭和57年)4月1日制定",
-      "timestamp" : 1444724704,
+      "timestamp" : 1446381969,
       "url" : "http://www.city.dazaifu.lg.jp/",
       "wikipedia_image_desc" : "太宰府天満宮",
-      "wikipedia_image_wref" : "File:Dazaihu keinai.jpg",
+      "wikipedia_image_wref" : "File:20100719 Dazaifu Tenmangu Shrine 3328.jpg",
       "wref" : "太宰府市"
    },
    "福岡県,宗像市" : {
@@ -48804,8 +48875,8 @@
          ],
          "mark" : [
             {
-               "date" : "1959-10-15",
-               "wref" : "小郡市章"
+               "name" : "小郡市章",
+               "wref" : "ファイル:Symbol_of_Ogori_Fukuoka.svg"
             }
          ],
          "tree" : [
@@ -48824,7 +48895,7 @@
          "鳥栖市" : "鳥栖市"
       },
       "symbol_label" : "1959年(昭和34年)10月15日制定",
-      "timestamp" : 1444474425,
+      "timestamp" : 1445869170,
       "url" : "http://www.city.ogori.fukuoka.jp/",
       "wikipedia_image_desc" : "九州歴史資料館",
       "wikipedia_image_wref" : "File:Kyushu Historical Museum02.jpg",
@@ -48832,12 +48903,6 @@
    },
    "福岡県,春日市" : {
       "area_symbols" : {
-         "flag" : [
-            {
-               "name" : "春日市旗",
-               "wref" : "ファイル:Flag of Kasuga, Fukuoka.svg"
-            }
-         ],
          "flower" : [
             {
                "name" : "ユリ"
@@ -48860,10 +48925,11 @@
          "福岡市" : "福岡市",
          "那珂川町" : "那珂川町 (福岡県)"
       },
-      "symbol_label" : "市旗:1982年(昭和57年)1月7日制定 市章:1963年(昭和38年)1月20日制定",
-      "timestamp" : 1443711566,
+      "symbol_label" : "1963年(昭和38年)1月20日制定",
+      "timestamp" : 1446353689,
       "url" : "http://www.city.kasuga.fukuoka.jp/",
-      "wikipedia_image_wref" : "File:",
+      "wikipedia_image_desc" : "春日神社",
+      "wikipedia_image_wref" : "File:kasuga shrine Up200607292025.JPG",
       "wref" : "春日市"
    },
    "福岡県,朝倉市" : {
@@ -48973,7 +49039,7 @@
          "大木町" : "大木町",
          "筑後市" : "筑後市"
       },
-      "timestamp" : 1444899835,
+      "timestamp" : 1445809662,
       "url" : "http://www.city.yanagawa.fukuoka.jp/",
       "wikipedia_image_desc" : "柳川の川下り",
       "wikipedia_image_wref" : "ファイル:Yanagawa-kawakudari.jpg",
@@ -49320,7 +49386,7 @@
          "那珂川町" : "那珂川町 (福岡県)"
       },
       "symbol_label" : "福岡市章",
-      "timestamp" : 1445250632,
+      "timestamp" : 1446128790,
       "url" : "http://www.city.fukuoka.lg.jp/",
       "wikipedia_image_desc" : "シーサイドももち 天神/博多祇園山笠\n中洲の屋台街/筥崎宮\nJR博多シティ/福岡城址",
       "wikipedia_image_wref" : "ファイル:Fukuoka City - Montage - 01.JPG",
@@ -49369,7 +49435,7 @@
       "wref" : "東区 (福岡市)"
    },
    "福岡県,福岡市,西区" : {
-      "timestamp" : 1433405044,
+      "timestamp" : 1445917562,
       "url" : "http://www.city.fukuoka.lg.jp/nishi/index.html",
       "wref" : "西区 (福岡市)"
    },
@@ -49438,7 +49504,7 @@
       "wref" : "筑後市"
    },
    "福岡県,筑紫郡" : {
-      "timestamp" : 1429701902,
+      "timestamp" : 1445996034,
       "wref" : "筑紫郡"
    },
    "福岡県,筑紫郡,那珂川町" : {
@@ -49468,8 +49534,10 @@
          "筑紫野市" : "筑紫野市",
          "鳥栖市" : "鳥栖市"
       },
-      "timestamp" : 1443488570,
+      "timestamp" : 1446168810,
       "url" : "http://www.town.fukuoka-nakagawa.lg.jp/",
+      "wikipedia_image_desc" : "博多総合車両所",
+      "wikipedia_image_wref" : "File:Hakata-general-train-base.JPG",
       "wref" : "那珂川町 (福岡県)"
    },
    "福岡県,筑紫野市" : {
@@ -49481,8 +49549,8 @@
          ],
          "mark" : [
             {
-               "date" : "1958-10-06",
-               "wref" : "筑紫野市章"
+               "name" : "筑紫野市章",
+               "wref" : "ファイル:Symbol of Chikushino Fukuoka.svg"
             }
          ],
          "tree" : [
@@ -49503,7 +49571,7 @@
          "鳥栖市" : "鳥栖市"
       },
       "symbol_label" : "1958年(昭和33年)10月6日制定",
-      "timestamp" : 1444704692,
+      "timestamp" : 1446168731,
       "url" : "http://www.city.chikushino.fukuoka.jp/",
       "wikipedia_image_desc" : "二日市温泉の中心宿である御前湯",
       "wikipedia_image_wref" : "File:Gozenyu.JPG",
@@ -49813,7 +49881,7 @@
          "福岡市" : "福岡市"
       },
       "symbol_label" : "2010年(平成22年)1月1日制定",
-      "timestamp" : 1443519747,
+      "timestamp" : 1446475398,
       "url" : "http://www.city.itoshima.lg.jp/",
       "wref" : "糸島市"
    },
@@ -49945,7 +50013,7 @@
          "遠賀町" : "遠賀町"
       },
       "symbol_label" : "1950年(昭和25年)10月制定",
-      "timestamp" : 1445090232,
+      "timestamp" : 1445933320,
       "url" : "http://www.town.mizumaki.fukuoka.jp/",
       "wikipedia_image_wref" : "File:",
       "wref" : "水巻町"
@@ -49969,7 +50037,7 @@
          "水巻町" : "水巻町",
          "遠賀町" : "遠賀町"
       },
-      "timestamp" : 1443892211,
+      "timestamp" : 1445932853,
       "url" : "http://www.town.ashiya.lg.jp/",
       "wref" : "芦屋町"
    },
@@ -50203,7 +50271,7 @@
          "鮫川村" : "鮫川村"
       },
       "symbol_label" : "1967年(昭和42年)10月1日制定",
-      "timestamp" : 1445070301,
+      "timestamp" : 1446262877,
       "url" : "http://www.city.iwaki.fukushima.jp/",
       "wikipedia_image_desc" : "\u003Ctable style=\"width:280px;margin:2px auto; border-collapse: collapse\">\n\u003Ctr>\u003Ctd>いわき湯本温泉\u003Ctd>アクアマリンふくしま\u003C/tr>\n\u003Ctr>\u003Ctd>いわき平競輪場\u003Ctd>いわきグリーンスタジアム\u003C/tr>\n\u003Ctr>\u003Ctd>スパリゾートハワイアンズ\u003Ctd>いわきマリンタワー\u003C/tr>\n\u003C/table>",
       "wikipedia_image_wref" : "File:City of Iwaki.jpg",
@@ -50382,7 +50450,7 @@
          "白石市" : "白石市",
          "福島市" : "福島市"
       },
-      "timestamp" : 1442408784,
+      "timestamp" : 1446124652,
       "url" : "http://www.town.koori.fukushima.jp/",
       "wref" : "桑折町"
    },
@@ -50480,7 +50548,7 @@
          "檜枝岐村" : "檜枝岐村",
          "那須塩原市" : "那須塩原市"
       },
-      "timestamp" : 1435884853,
+      "timestamp" : 1446081992,
       "url" : "http://www.minamiaizu.org",
       "wref" : "南会津町"
    },
@@ -50637,7 +50705,7 @@
          "浪江町" : "浪江町"
       },
       "symbol_label" : "町旗:1985年(昭和60年)9月1日制定 町章:1972年(昭和44年)10月1日制定",
-      "timestamp" : 1443153662,
+      "timestamp" : 1446118769,
       "url" : "http://www.town.fukushima-futaba.lg.jp/",
       "wikipedia_image_wref" : "File:",
       "wref" : "双葉町"
@@ -50680,7 +50748,7 @@
          "田村市" : "田村市"
       },
       "symbol_label" : "1969年(昭和44年)11月10日制定",
-      "timestamp" : 1434180027,
+      "timestamp" : 1446118605,
       "url" : "http://www.town.okuma.fukushima.jp/",
       "wikipedia_image_desc" : "爆発前の福島第一原子力発電所 (2002年7月20日)",
       "wikipedia_image_wref" : "File:Fukushima-1.JPG",
@@ -50709,7 +50777,7 @@
          "川内村" : "川内村",
          "楢葉町" : "楢葉町"
       },
-      "timestamp" : 1440894995,
+      "timestamp" : 1446118427,
       "url" : "http://www.tomioka-town.jp/",
       "wref" : "富岡町"
    },
@@ -50738,7 +50806,7 @@
          "楢葉町" : "楢葉町",
          "田村市" : "田村市"
       },
-      "timestamp" : 1441890932,
+      "timestamp" : 1446118169,
       "url" : "http://www.kawauchimura.jp/",
       "wikipedia_image_wref" : "File:",
       "wref" : "川内村"
@@ -50765,7 +50833,7 @@
          "いわき市" : "いわき市",
          "楢葉町" : "楢葉町"
       },
-      "timestamp" : 1438457122,
+      "timestamp" : 1446114431,
       "url" : "http://www.town.hirono.fukushima.jp/",
       "wikipedia_image_desc" : "Jヴィレッジスタジアム (2010年8月9日)",
       "wikipedia_image_wref" : "File:J village stadium.jpg",
@@ -50795,7 +50863,7 @@
          "川内村" : "川内村",
          "広野町" : "広野町"
       },
-      "timestamp" : 1441603659,
+      "timestamp" : 1446117997,
       "url" : "http://www.town.naraha.lg.jp/index.html",
       "wref" : "楢葉町"
    },
@@ -50840,7 +50908,7 @@
          "飯舘村" : "飯舘村"
       },
       "symbol_label" : "1962年(昭和37年)7月1日制定",
-      "timestamp" : 1441513141,
+      "timestamp" : 1446118891,
       "url" : "http://www.town.namie.fukushima.jp/",
       "wikipedia_image_wref" : "File:",
       "wref" : "浪江町"
@@ -50868,7 +50936,7 @@
          "浪江町" : "浪江町",
          "田村市" : "田村市"
       },
-      "timestamp" : 1443702251,
+      "timestamp" : 1446119081,
       "url" : "http://www.katsurao.org/",
       "wref" : "葛尾村"
    },
@@ -51334,7 +51402,7 @@
          "湯川村" : "湯川村",
          "西会津町" : "西会津町"
       },
-      "timestamp" : 1423470707,
+      "timestamp" : 1446075426,
       "url" : "http://www.town.aizubange.fukushima.jp/index.html",
       "wref" : "会津坂下町"
    },
@@ -51364,7 +51432,7 @@
          "西会津町" : "西会津町",
          "金山町" : "金山町 (福島県)"
       },
-      "timestamp" : 1414165716,
+      "timestamp" : 1446075720,
       "url" : "http://www.town.yanaizu.fukushima.jp/",
       "wref" : "柳津町"
    },
@@ -51381,7 +51449,7 @@
          "会津若松市" : "会津若松市",
          "喜多方市" : "喜多方市"
       },
-      "timestamp" : 1411737019,
+      "timestamp" : 1446075601,
       "url" : "http://www.vill.yugawa.fukushima.jp/",
       "wref" : "湯川村"
    },
@@ -51458,7 +51526,7 @@
          "田村市" : "田村市",
          "郡山市" : "郡山市"
       },
-      "timestamp" : 1441713966,
+      "timestamp" : 1446067069,
       "url" : "http://www.town.miharu.fukushima.jp/",
       "wikipedia_image_desc" : "三春滝桜",
       "wikipedia_image_wref" : "File:Miharu Miharu-Takizakura Front 1.jpg",
@@ -51488,7 +51556,7 @@
          "田村市" : "田村市",
          "郡山市" : "郡山市"
       },
-      "timestamp" : 1438589327,
+      "timestamp" : 1446371577,
       "url" : "http://www.town.ono.fukushima.jp/",
       "wikipedia_image_desc" : "リカちゃんキャッスル",
       "wikipedia_image_wref" : "File:Liccacastle.JPG",
@@ -51850,7 +51918,7 @@
          "高畠町" : "高畠町"
       },
       "symbol_label" : "福島市旗(9つの「フ」と4つの「マ」でふくしまを図案化している)",
-      "timestamp" : 1445216029,
+      "timestamp" : 1446472205,
       "url" : "http://www.city.fukushima.fukushima.jp/",
       "wikipedia_image_desc" : "“桃源郷” 県都ふくしまの花見山",
       "wikipedia_image_wref" : "File:20100418花見山百花繚乱.jpg",
@@ -52153,7 +52221,7 @@
          "須賀川市" : "須賀川市"
       },
       "symbol_label" : "郡山市章",
-      "timestamp" : 1444044032,
+      "timestamp" : 1446262475,
       "url" : "http://www.city.koriyama.fukushima.jp/",
       "wikipedia_image_desc" : "郡山ビッグアイと郡山駅",
       "wikipedia_image_wref" : "File:郡山ビッグアイ201504.JPG",
@@ -52682,7 +52750,7 @@
          "鹿角市" : "鹿角市"
       },
       "symbol_label" : "大館市章",
-      "timestamp" : 1444884974,
+      "timestamp" : 1446393176,
       "wikipedia_image_wref" : "File:",
       "wref" : "大館市"
    },
@@ -52691,6 +52759,23 @@
       "wref" : "山本郡"
    },
    "秋田県,山本郡,三種町" : {
+      "area_symbols" : {
+         "bird" : [
+            {
+               "name" : "ハクチョウ"
+            }
+         ],
+         "flower" : [
+            {
+               "name" : "サクラ"
+            }
+         ],
+         "tree" : [
+            {
+               "name" : "スギ"
+            }
+         ]
+      },
       "neighbor_region_names" : {
          "上小阿仁村" : "上小阿仁村",
          "五城目町" : "五城目町",
@@ -52699,7 +52784,7 @@
          "男鹿市" : "男鹿市",
          "能代市" : "能代市"
       },
-      "timestamp" : 1437799573,
+      "timestamp" : 1446256221,
       "url" : "http://www.town.mitane.akita.jp/",
       "wref" : "三種町"
    },
@@ -52820,7 +52905,7 @@
          "西和賀町" : "西和賀町"
       },
       "symbol_label" : "2005年(平成17年)10月1日制定",
-      "timestamp" : 1442927574,
+      "timestamp" : 1446015834,
       "url" : "http://www.city.yokote.lg.jp",
       "wikipedia_image_desc" : "横手焼きそば",
       "wikipedia_image_wref" : "File:Yokote yakisoba by Hyougushi in Akita.jpg",
@@ -52978,7 +53063,7 @@
          "潟上市" : "潟上市"
       },
       "symbol_label" : "男鹿市章",
-      "timestamp" : 1445013905,
+      "timestamp" : 1445601279,
       "wikipedia_image_desc" : "なまはげ",
       "wikipedia_image_wref" : "File:Namahage Akita Japan.jpg",
       "wref" : "男鹿市"
@@ -53204,7 +53289,7 @@
          "鹿角市" : "鹿角市"
       },
       "symbol_label" : "小坂町旗",
-      "timestamp" : 1444266067,
+      "timestamp" : 1446090179,
       "wikipedia_image_desc" : "十和田湖",
       "wikipedia_image_wref" : "File:Towada-ko(lake) View 湖畔(こはん).jpg",
       "wref" : "小坂町"
@@ -53268,7 +53353,7 @@
          "福島県" : "福島県",
          "長野県" : "長野県"
       },
-      "timestamp" : 1445257540,
+      "timestamp" : 1446343542,
       "url" : "http://www.pref.gunma.lg.jp/",
       "wikipedia_image_desc" : "草津温泉 - 草津町",
       "wikipedia_image_wref" : "ファイル:Yumomi.jpg",
@@ -53422,7 +53507,7 @@
          "高山村" : "高山村 (群馬県)",
          "魚沼市" : "魚沼市"
       },
-      "timestamp" : 1431580129,
+      "timestamp" : 1445966433,
       "url" : "http://www.town.minakami.gunma.jp/",
       "wikipedia_image_desc" : "谷川岳",
       "wikipedia_image_wref" : "File:Tanigawa01.JPG",
@@ -53554,7 +53639,7 @@
          "高崎市" : "高崎市"
       },
       "symbol_label" : "前橋市章",
-      "timestamp" : 1445429397,
+      "timestamp" : 1445936160,
       "url" : "http://www.city.maebashi.gunma.jp/",
       "wikipedia_image_desc" : "上野総社神社",
       "wikipedia_image_wref" : "ファイル:Souja-jinja (Maebashi) keidai.JPG",
@@ -53653,7 +53738,7 @@
          "長野原町" : "長野原町",
          "高山村" : "高山村　(長野県)"
       },
-      "timestamp" : 1441200088,
+      "timestamp" : 1445786116,
       "url" : "http://www.town.nakanojo.gunma.jp/",
       "wikipedia_image_desc" : "四万温泉",
       "wikipedia_image_wref" : "File:四万温泉 中之条 2013 (9993444756).jpg",
@@ -53736,7 +53821,7 @@
          "長野原町" : "長野原町",
          "高山村" : "高山村 (長野県)"
       },
-      "timestamp" : 1435334892,
+      "timestamp" : 1446269604,
       "url" : "http://www.town.kusatsu.gunma.jp/",
       "wikipedia_image_desc" : "湯畑",
       "wikipedia_image_wref" : "File:Yubatake Heisei.jpg",
@@ -54043,7 +54128,7 @@
          "沼田市" : "沼田市",
          "足利市" : "足利市"
       },
-      "timestamp" : 1443628656,
+      "timestamp" : 1445703205,
       "url" : "http://www.city.kiryu.gunma.jp/",
       "wikipedia_image_desc" : "桐生天満宮",
       "wikipedia_image_wref" : "ファイル:Kiryutenmangu.jpg",
@@ -54140,7 +54225,7 @@
          "藤岡市" : "藤岡市",
          "軽井沢町" : "軽井沢町"
       },
-      "timestamp" : 1443090415,
+      "timestamp" : 1445517383,
       "url" : "http://www.town.shimonita.lg.jp/",
       "wikipedia_image_desc" : "下仁田ネギ",
       "wikipedia_image_wref" : "File:Shimonitanegi.jpg",
@@ -54496,7 +54581,7 @@
          "栃木県" : "栃木県",
          "福島県" : "福島県"
       },
-      "timestamp" : 1443830769,
+      "timestamp" : 1446009241,
       "url" : "http://www.pref.ibaraki.lg.jp/",
       "wikipedia_image_desc" : "袋田の滝",
       "wikipedia_image_wref" : "ファイル:Fukuroda Falls - 袋田の滝(ふくろだのたき).jpg",
@@ -54586,7 +54671,7 @@
          "龍ケ崎市" : "龍ケ崎市"
       },
       "symbol_label" : "2006年3月27日制定",
-      "timestamp" : 1444825319,
+      "timestamp" : 1445700771,
       "url" : "http://www.city.tsukubamirai.lg.jp/",
       "wikipedia_image_desc" : "福岡堰",
       "wikipedia_image_wref" : "File:Cherry blossom in Fukuokazeki sakura park.JPG",
@@ -54634,7 +54719,7 @@
          "龍ケ崎市" : "龍ケ崎市"
       },
       "symbol_label" : "1989年(平成元年)4月11日制定",
-      "timestamp" : 1443181005,
+      "timestamp" : 1445762885,
       "url" : "http://www.city.tsukuba.ibaraki.jp/",
       "wikipedia_image_desc" : "国土地理院",
       "wikipedia_image_wref" : "File:Kokudochiriin.jpg",
@@ -54671,7 +54756,7 @@
          "那珂市" : "那珂市"
       },
       "symbol_label" : "1994年11月1日制定",
-      "timestamp" : 1443323147,
+      "timestamp" : 1445611453,
       "url" : "http://www.city.hitachinaka.ibaraki.jp/",
       "wikipedia_image_desc" : "国営ひたち海浜公園",
       "wikipedia_image_wref" : "ファイル:Ferris wheel of the Hitachi beach park,hitachi-kaihin-koen,hitachinaka-city,japan.JPG",
@@ -54860,7 +54945,7 @@
          "鮫川村" : "鮫川村"
       },
       "symbol_label" : "1956年8月10日制定",
-      "timestamp" : 1435092365,
+      "timestamp" : 1446114134,
       "url" : "http://www.city-kitaibaraki.jp/",
       "wikipedia_image_desc" : "五浦海岸",
       "wikipedia_image_wref" : "File:Izura Beach with rebuilt Rokkakudo in 2012.jpg",
@@ -54914,7 +54999,7 @@
          "龍ケ崎市" : "龍ケ崎市"
       },
       "symbol_label" : "1963年(昭和38年)3月1日制定",
-      "timestamp" : 1445200516,
+      "timestamp" : 1445793194,
       "url" : "http://www.city.toride.ibaraki.jp/",
       "wikipedia_image_desc" : "小堀の渡し",
       "wikipedia_image_wref" : "ファイル:Oohorinowatashi 001.JPG",
@@ -54958,7 +55043,7 @@
          "野木町" : "野木町"
       },
       "symbol_label" : "2006年1月21日制定",
-      "timestamp" : 1443110484,
+      "timestamp" : 1445685716,
       "url" : "http://www.city.ibaraki-koga.lg.jp/",
       "wikipedia_image_desc" : "雀神社",
       "wikipedia_image_wref" : "ファイル:Suzume-jinja Shrine 01.JPG",
@@ -55002,7 +55087,7 @@
          "阿見町" : "阿見町"
       },
       "symbol_label" : "1942年(昭和17年)6月8日制定",
-      "timestamp" : 1443770647,
+      "timestamp" : 1445771051,
       "url" : "http://www.city.tsuchiura.lg.jp/",
       "wikipedia_image_desc" : "1段目左:上高津貝塚ふるさと歴史の広場 1段目右:亀城公園\n2段目左:土浦城\n2段目右:土浦駅\n3段目:土浦市街地",
       "wikipedia_image_wref" : "File:Tsuchiura montage.JPG",
@@ -55134,7 +55219,7 @@
          "鉾田市" : "鉾田市"
       },
       "symbol_label" : "2006年3月27日制定",
-      "timestamp" : 1440834555,
+      "timestamp" : 1446047005,
       "url" : "http://www.city.omitama.lg.jp",
       "wikipedia_image_desc" : "百里飛行場(茨城空港)",
       "wikipedia_image_wref" : "File:Ibaraki Airport 01.JPG",
@@ -55226,7 +55311,7 @@
          "那須烏山市" : "那須烏山市"
       },
       "symbol_label" : "2005年3月22日制定",
-      "timestamp" : 1445327767,
+      "timestamp" : 1445695538,
       "url" : "http://www.city.hitachiomiya.lg.jp/",
       "wikipedia_image_desc" : "久慈川",
       "wikipedia_image_wref" : "ファイル:Kujigawa Hitachiomiya.jpg",
@@ -55272,7 +55357,7 @@
          "高萩市" : "高萩市"
       },
       "symbol_label" : "1937年1月10日制定",
-      "timestamp" : 1444613712,
+      "timestamp" : 1446113461,
       "url" : "http://www.city.hitachiota.ibaraki.jp/",
       "wikipedia_image_desc" : "常陸太田市街地",
       "wikipedia_image_wref" : "File:Central Hitachiota.jpg",
@@ -55319,7 +55404,7 @@
          "那珂市" : "那珂市",
          "高萩市" : "高萩市"
       },
-      "timestamp" : 1443526627,
+      "timestamp" : 1446113769,
       "url" : "http://www.city.hitachi.lg.jp/",
       "wikipedia_image_desc" : "日立市かみね動物園",
       "wikipedia_image_wref" : "File:Kaminezoo.jpg",
@@ -55414,7 +55499,7 @@
          "鉾田市" : "鉾田市"
       },
       "symbol_label" : "大洗町旗",
-      "timestamp" : 1443716562,
+      "timestamp" : 1445611253,
       "url" : "http://www.town.oarai.lg.jp/index.html",
       "wikipedia_image_desc" : "アクアワールド・大洗",
       "wikipedia_image_wref" : "File:20100216 acaworld01.jpg",
@@ -55560,7 +55645,7 @@
          "那珂市" : "那珂市"
       },
       "symbol_label" : "水戸市章",
-      "timestamp" : 1445082309,
+      "timestamp" : 1446263441,
       "url" : "http://www.city.mito.lg.jp/",
       "wikipedia_image_desc" : "偕楽園",
       "wikipedia_image_wref" : "ファイル:Kairakuen bairin.jpg",
@@ -55648,7 +55733,7 @@
          "龍ケ崎市" : "龍ケ崎市"
       },
       "symbol_label" : "1960年7月1日制定",
-      "timestamp" : 1443854235,
+      "timestamp" : 1445576056,
       "url" : "http://www.city.ushiku.lg.jp/",
       "wikipedia_image_desc" : "シャトーカミヤ",
       "wikipedia_image_wref" : "File:Chateau Kamiya 2010.jpg",
@@ -55696,7 +55781,7 @@
          "野田市" : "野田市"
       },
       "symbol_label" : "五霞町旗",
-      "timestamp" : 1437113404,
+      "timestamp" : 1445955307,
       "url" : "http://www.town.goka.lg.jp/",
       "wikipedia_image_desc" : "中の島公園の大こぶし",
       "wikipedia_image_wref" : "File:Goka Magnolia Kobus Huge Tree 1.JPG",
@@ -55777,7 +55862,7 @@
          "笠間市" : "笠間市"
       },
       "symbol_label" : "2005年10月1日制定",
-      "timestamp" : 1443322603,
+      "timestamp" : 1445700922,
       "url" : "http://www.city.ishioka.lg.jp/",
       "wikipedia_image_desc" : "左上:霞ヶ浦 右上:筑波山\n左下:常陸國總社宮大祭の山車\n右中:加波山\n右下:石岡市の街並み",
       "wikipedia_image_wref" : "File:Ishioka montage.JPG",
@@ -55824,7 +55909,7 @@
          "鹿嶋市" : "鹿嶋市"
       },
       "symbol_label" : "市旗:1977年(昭和52年)12月26日制定 市章:1970年(昭和45年)3月24日制定",
-      "timestamp" : 1444584261,
+      "timestamp" : 1445953452,
       "url" : "http://www.city.kamisu.ibaraki.jp/",
       "wikipedia_image_desc" : "息栖神社",
       "wikipedia_image_wref" : "ファイル:Ikisu jinja sandou.JPG",
@@ -55997,7 +56082,7 @@
          "美浦村" : "美浦村"
       },
       "symbol_label" : "1962年(昭和37年)3月12日制定",
-      "timestamp" : 1443941011,
+      "timestamp" : 1446327329,
       "url" : "http://www.town.ami.lg.jp/",
       "wikipedia_image_wref" : "File:",
       "wref" : "阿見町"
@@ -56131,7 +56216,7 @@
          "筑西市" : "筑西市"
       },
       "symbol_label" : "1951年3月17日制定",
-      "timestamp" : 1443916221,
+      "timestamp" : 1446106398,
       "url" : "http://www.city.yuki.lg.jp/",
       "wikipedia_image_desc" : "結城紬亀甲柄",
       "wikipedia_image_wref" : "File:Yuki-kikko.JPG",
@@ -56218,7 +56303,7 @@
          "鹿嶋市" : "鹿嶋市"
       },
       "symbol_label" : "2005年(平成17年)9月2日制定",
-      "timestamp" : 1440478020,
+      "timestamp" : 1445701384,
       "url" : "http://www.city.namegata.ibaraki.jp/",
       "wikipedia_image_desc" : "霞ヶ浦ふれあいランドの「虹の塔」",
       "wikipedia_image_wref" : "ファイル:Kasumigaura Fureai Land Rainbow Tower.jpg",
@@ -56264,7 +56349,7 @@
          "水戸市" : "水戸市"
       },
       "symbol_label" : "1959年11月3日制定",
-      "timestamp" : 1434287512,
+      "timestamp" : 1446112792,
       "url" : "http://www.city.naka.ibaraki.jp/",
       "wikipedia_image_desc" : "一の関ため池親水公園",
       "wikipedia_image_wref" : "ファイル:NakaCO.jpg",
@@ -56310,7 +56395,7 @@
          "那珂市" : "那珂市"
       },
       "symbol_label" : "村旗:1995年(平成7年)2月28日 村章:1963年(昭和38年)4月1日制定",
-      "timestamp" : 1439914221,
+      "timestamp" : 1445611586,
       "url" : "http://www.vill.tokai.ibaraki.jp/",
       "wikipedia_image_wref" : "File:",
       "wref" : "東海村"
@@ -56353,7 +56438,7 @@
          "鹿嶋市" : "鹿嶋市"
       },
       "symbol_label" : "市旗・市章、共に2005年(平成17年)10月11日制定",
-      "timestamp" : 1444243611,
+      "timestamp" : 1445701288,
       "url" : "http://www.city.hokota.lg.jp/index.html",
       "wikipedia_image_wref" : "File:",
       "wref" : "鉾田市"
@@ -56395,7 +56480,7 @@
          "日立市" : "日立市"
       },
       "symbol_label" : "1955年(昭和30年)2月19日制定",
-      "timestamp" : 1432542624,
+      "timestamp" : 1446113901,
       "url" : "http://www.city.takahagi.ibaraki.jp/",
       "wikipedia_image_desc" : "花貫渓谷",
       "wikipedia_image_wref" : "File:Hananuki valley Shiomi-taki bridge.jpg",
@@ -56433,7 +56518,7 @@
          "鉾田市" : "鉾田市"
       },
       "symbol_label" : "鹿嶋市旗 (1980年7月10日制定)",
-      "timestamp" : 1444105243,
+      "timestamp" : 1445610821,
       "url" : "http://www.city.kashima.ibaraki.jp/",
       "wikipedia_image_desc" : "鹿島神宮",
       "wikipedia_image_wref" : "File:Kashima-jingu roumon.JPG",
@@ -56578,7 +56663,7 @@
       "neighbor_region_names" : {
          "佐賀県" : "佐賀県"
       },
-      "timestamp" : 1444140901,
+      "timestamp" : 1446377862,
       "url" : "http://www.pref.nagasaki.lg.jp/",
       "wikipedia_image_desc" : "グラバー園",
       "wikipedia_image_wref" : "ファイル:Nagasaki-Glover-Garden-5415.jpg",
@@ -56661,7 +56746,7 @@
          "西海市" : "西海市"
       },
       "symbol_label" : "佐世保市旗",
-      "timestamp" : 1444107522,
+      "timestamp" : 1446474042,
       "url" : "http://www.city.sasebo.nagasaki.jp/",
       "wikipedia_image_desc" : "1段目佐世保駅 2段目ハウステンボス、アルカスSASEBO\n3段目黒島天主堂、四ヶ町商店街、YOSAKOIさせぼ祭り",
       "wikipedia_image_wref" : "File:Sasebocity-ｆile.jpg",
@@ -56849,7 +56934,7 @@
          ]
       },
       "symbol_label" : "2004年(平成16年)3月1日制定",
-      "timestamp" : 1441359606,
+      "timestamp" : 1445646176,
       "url" : "http://www.city.iki.nagasaki.jp/",
       "wikipedia_image_wref" : "File:",
       "wref" : "壱岐市"
@@ -56981,7 +57066,7 @@
          "佐世保市" : "佐世保市",
          "松浦市" : "松浦市"
       },
-      "timestamp" : 1434133977,
+      "timestamp" : 1446475660,
       "url" : "http://www.city.hirado.nagasaki.jp/",
       "wikipedia_image_desc" : "平戸城天守閣",
       "wikipedia_image_wref" : "File:Hirado Castle Keep.jpg",
@@ -57112,7 +57197,7 @@
          "長与町" : "長与町",
          "長崎市" : "長崎市"
       },
-      "timestamp" : 1445475592,
+      "timestamp" : 1445867011,
       "url" : "http://www.town.togitsu.nagasaki.jp/",
       "wref" : "時津町"
    },
@@ -57221,7 +57306,7 @@
          "雲仙市" : "雲仙市"
       },
       "symbol_label" : "2005年(平成17年)3月1日制定",
-      "timestamp" : 1443889544,
+      "timestamp" : 1445917408,
       "url" : "http://www.city.isahaya.nagasaki.jp/",
       "wikipedia_image_wref" : "File:",
       "wref" : "諫早市"
@@ -57663,7 +57748,7 @@
          "須坂市" : "須坂市"
       },
       "symbol_label" : "市旗・市章、共に2006年(平成18年)3月6日制定",
-      "timestamp" : 1440346607,
+      "timestamp" : 1445845702,
       "url" : "http://www.city.ueda.nagano.jp/",
       "wikipedia_image_desc" : "上田城",
       "wikipedia_image_wref" : "ファイル:Ueda-jo.jpg",
@@ -58373,7 +58458,7 @@
          "静岡市" : "静岡市",
          "駒ヶ根市" : "駒ヶ根市"
       },
-      "timestamp" : 1441690713,
+      "timestamp" : 1446021358,
       "url" : "http://www.inacity.jp/",
       "wikipedia_image_desc" : "高遠城址公園の桜",
       "wikipedia_image_wref" : "File:TakatoCastle（高遠城）.JPG",
@@ -58414,7 +58499,7 @@
          "茅野市" : "茅野市",
          "軽井沢町" : "軽井沢町"
       },
-      "timestamp" : 1445433454,
+      "timestamp" : 1445563369,
       "url" : "http://www.city.saku.nagano.jp/",
       "wikipedia_image_desc" : "旧中込学校",
       "wikipedia_image_wref" : "ファイル:Old-Nakagomi-School-01.jpg",
@@ -58523,7 +58608,7 @@
          "高崎市" : "高崎市"
       },
       "symbol_label" : "1960年(昭和35年)12月22日制定",
-      "timestamp" : 1445377776,
+      "timestamp" : 1445538375,
       "url" : "http://www.town.karuizawa.nagano.jp/",
       "wikipedia_image_desc" : "旧軽井沢メインストリート",
       "wikipedia_image_wref" : "File:Old Karuizawa ginza06n3872.jpg",
@@ -59067,7 +59152,7 @@
          "生坂村" : "生坂村",
          "筑北村" : "筑北村"
       },
-      "timestamp" : 1442919971,
+      "timestamp" : 1446184173,
       "url" : "http://www.city.azumino.nagano.jp/",
       "wikipedia_image_desc" : "大王わさび農場",
       "wikipedia_image_wref" : "File:Daio wasabi farm02c.jpg",
@@ -59200,7 +59285,7 @@
          "辰野町" : "辰野町"
       },
       "symbol_label" : "1936年(昭和11年)10月9日制定",
-      "timestamp" : 1445061074,
+      "timestamp" : 1445697797,
       "url" : "http://www.city.okaya.lg.jp/",
       "wikipedia_image_desc" : "諏訪湖サービスエリアより望む 諏訪湖の向こうに岡谷市中心市街地が見える",
       "wikipedia_image_wref" : "File:Konan from Suwako SA2.jpg",
@@ -59567,7 +59652,7 @@
          "青木村" : "青木村",
          "高山市" : "高山市"
       },
-      "timestamp" : 1444734243,
+      "timestamp" : 1446295402,
       "url" : "http://www.city.matsumoto.nagano.jp/",
       "wikipedia_image_desc" : "松本城",
       "wikipedia_image_wref" : "File:130608 Matsumoto Castle Matsumoto Nagano pref Japan02bs4.jpg",
@@ -59612,7 +59697,7 @@
          "長和町" : "長和町"
       },
       "symbol_label" : "1958年9月20日制定",
-      "timestamp" : 1445069373,
+      "timestamp" : 1446003829,
       "url" : "http://www.city.chino.lg.jp/",
       "wikipedia_image_desc" : "蓼科高原",
       "wikipedia_image_wref" : "File:Tateshina kogen from Mt.Kitayokodake.JPG",
@@ -59659,7 +59744,7 @@
          "長和町" : "長和町"
       },
       "symbol_label" : "市旗・市章、共に1941年(昭和16年)8月10日制定",
-      "timestamp" : 1444836018,
+      "timestamp" : 1446029954,
       "url" : "http://www.city.suwa.lg.jp/",
       "wikipedia_image_desc" : "諏訪湖",
       "wikipedia_image_wref" : "File:Suwako.jpg",
@@ -60019,7 +60104,7 @@
          "岩手県" : "岩手県",
          "秋田県" : "秋田県"
       },
-      "timestamp" : 1442827022,
+      "timestamp" : 1446099560,
       "url" : "http://www.pref.aomori.lg.jp/",
       "wikipedia_image_desc" : "りんご畑と岩木山",
       "wikipedia_image_wref" : "ファイル:Iwakisan 02.jpg",
@@ -60064,7 +60149,7 @@
          "鶴田町" : "鶴田町"
       },
       "symbol_label" : "2005年(平成17年)2月11日制定",
-      "timestamp" : 1444542310,
+      "timestamp" : 1445606512,
       "url" : "http://www.city.tsugaru.aomori.jp/",
       "wikipedia_image_desc" : "木造駅",
       "wikipedia_image_wref" : "File:Kizukuri stn.jpg",
@@ -60101,7 +60186,7 @@
          "横浜町" : "横浜町",
          "風間浦村" : "風間浦村"
       },
-      "timestamp" : 1439625832,
+      "timestamp" : 1445604082,
       "url" : "http://www.city.mutsu.lg.jp/",
       "wikipedia_image_desc" : "釜臥山から見たむつ市街",
       "wikipedia_image_wref" : "File:mutsu-city.jpg",
@@ -60164,7 +60249,7 @@
          "南部町" : "南部町 (青森県)",
          "新郷村" : "新郷村"
       },
-      "timestamp" : 1428395457,
+      "timestamp" : 1445782957,
       "url" : "http://www.town.gonohe.aomori.jp/",
       "wref" : "五戸町"
    },
@@ -60194,7 +60279,7 @@
          "新郷村" : "新郷村",
          "軽米町" : "軽米町"
       },
-      "timestamp" : 1436626339,
+      "timestamp" : 1445783969,
       "url" : "http://www.town.aomori-nanbu.lg.jp/",
       "wref" : "南部町 (青森県)"
    },
@@ -60294,7 +60379,7 @@
          "洋野町" : "洋野町",
          "軽米町" : "軽米町"
       },
-      "timestamp" : 1429160664,
+      "timestamp" : 1446296178,
       "url" : "http://www.town.hashikami.aomori.jp/",
       "wref" : "階上町"
    },
@@ -60323,7 +60408,7 @@
          "六戸町" : "六戸町",
          "東北町" : "東北町"
       },
-      "timestamp" : 1441405379,
+      "timestamp" : 1445598261,
       "url" : "http://www.city.misawa.lg.jp/index.cfm/1,html",
       "wikipedia_image_desc" : "在日米軍三沢基地",
       "wikipedia_image_wref" : "File:US_Navy_010702-N-8726C-001_P-3C.jpg",
@@ -60386,7 +60471,7 @@
          "東北町" : "東北町",
          "青森市" : "青森市"
       },
-      "timestamp" : 1432813469,
+      "timestamp" : 1445690332,
       "url" : "http://www.town.shichinohe.lg.jp/",
       "wref" : "七戸町"
    },
@@ -60415,7 +60500,7 @@
          "横浜町" : "横浜町",
          "野辺地町" : "野辺地町"
       },
-      "timestamp" : 1445270050,
+      "timestamp" : 1445696581,
       "url" : "http://www.rokkasho.jp/",
       "wikipedia_image_desc" : "六ヶ所再処理工場",
       "wikipedia_image_wref" : "File:Rokkasho 1.JPG",
@@ -60446,7 +60531,7 @@
          "十和田市" : "十和田市",
          "東北町" : "東北町"
       },
-      "timestamp" : 1444785961,
+      "timestamp" : 1445692982,
       "url" : "http://www.town.rokunohe.aomori.jp/",
       "wref" : "六戸町"
    },
@@ -60477,7 +60562,7 @@
          "平内町" : "平内町",
          "野辺地町" : "野辺地町"
       },
-      "timestamp" : 1433685963,
+      "timestamp" : 1445693802,
       "url" : "http://www.town.tohoku.lg.jp/",
       "wref" : "東北町"
    },
@@ -60642,7 +60727,7 @@
          "横浜町" : "横浜町"
       },
       "symbol_label" : "村旗・村章、共に1973年(昭和48年)10月1日制定",
-      "timestamp" : 1440678579,
+      "timestamp" : 1446326858,
       "url" : "http://www.vill.higashidoori.lg.jp/",
       "wikipedia_image_desc" : "尻屋埼灯台と寒立馬",
       "wikipedia_image_wref" : "File:Cape Shiriya and Kandachime horses.jpg",
@@ -60702,7 +60787,7 @@
          "藤里町" : "藤里町",
          "鰺ヶ沢町" : "鰺ヶ沢町"
       },
-      "timestamp" : 1435356408,
+      "timestamp" : 1445662493,
       "url" : "http://www.nishimeya.jp/index.asp",
       "wref" : "西目屋村"
    },
@@ -60734,7 +60819,7 @@
          "青森市" : "青森市",
          "鶴田町" : "鶴田町"
       },
-      "timestamp" : 1445357751,
+      "timestamp" : 1446477705,
       "url" : "http://www.city.goshogawara.lg.jp/",
       "wikipedia_image_desc" : "五所川原立佞武多(2007年)",
       "wikipedia_image_wref" : "File:Tachineputa～2007 \"Mebukiurasaburu\".JPG",
@@ -60750,7 +60835,7 @@
          ]
       },
       "symbol_label" : "八戸市章",
-      "timestamp" : 1445173250,
+      "timestamp" : 1446390994,
       "wikipedia_image_desc" : "蕪島",
       "wikipedia_image_wref" : "File:Kabushima, -8 May 2010 a.jpg",
       "wref" : "八戸市"
@@ -60783,7 +60868,7 @@
          "外ヶ浜町" : "外ヶ浜町",
          "蓬田村" : "蓬田村"
       },
-      "timestamp" : 1422840596,
+      "timestamp" : 1445674106,
       "url" : "http://www.town.nakadomari.lg.jp/",
       "wref" : "中泊町"
    },
@@ -60807,7 +60892,7 @@
          "青森市" : "青森市",
          "鶴田町" : "鶴田町"
       },
-      "timestamp" : 1430979092,
+      "timestamp" : 1445671985,
       "url" : "http://www.town.itayanagi.aomori.jp/",
       "wref" : "板柳町"
    },
@@ -60890,7 +60975,7 @@
          "鹿角市" : "鹿角市"
       },
       "symbol_label" : "2005年(平成)3月14日制定",
-      "timestamp" : 1445280136,
+      "timestamp" : 1445594070,
       "url" : "http://www.city.towada.lg.jp/",
       "wikipedia_image_desc" : "十和田湖",
       "wikipedia_image_wref" : "File:Lake Towada from Ohanabe 2008.jpg",
@@ -60929,7 +61014,7 @@
          "平川市" : "平川市",
          "弘前市" : "弘前市"
       },
-      "timestamp" : 1444642747,
+      "timestamp" : 1445669057,
       "url" : "http://www.town.owani.lg.jp/",
       "wikipedia_image_desc" : "茶臼山公園から望む町並み",
       "wikipedia_image_wref" : "ファイル:Owani Onsen Owani Aomori pref Japan01s3.jpg",
@@ -60942,7 +61027,7 @@
          "藤崎町" : "藤崎町",
          "黒石市" : "黒石市"
       },
-      "timestamp" : 1442661866,
+      "timestamp" : 1445669383,
       "url" : "http://www.vill.inakadate.lg.jp/",
       "wikipedia_image_desc" : "田舎館村の村域と田んぼアート",
       "wikipedia_image_wref" : "File:Inakadate.jpg",
@@ -60973,7 +61058,7 @@
          "青森市" : "青森市",
          "黒石市" : "黒石市"
       },
-      "timestamp" : 1426138215,
+      "timestamp" : 1445667347,
       "url" : "http://www.town.fujisaki.lg.jp/",
       "wref" : "藤崎町"
    },
@@ -61012,7 +61097,7 @@
          "黒石市" : "黒石市"
       },
       "symbol_label" : "平川市旗",
-      "timestamp" : 1444873774,
+      "timestamp" : 1445607840,
       "url" : "http://www.city.hirakawa.lg.jp/index.html",
       "wikipedia_image_desc" : "盛美園",
       "wikipedia_image_wref" : "File:Seibien Hirakawa Aomori pref Japan02s3.jpg",
@@ -61101,7 +61186,7 @@
          "福島町" : "福島町",
          "蓬田村" : "蓬田村"
       },
-      "timestamp" : 1431788407,
+      "timestamp" : 1446239287,
       "url" : "http://www.town.sotogahama.lg.jp/",
       "wikipedia_image_desc" : "竜飛崎",
       "wikipedia_image_wref" : "File:Tappisaki.JPG",
@@ -61131,7 +61216,7 @@
          "野辺地町" : "野辺地町",
          "青森市" : "青森市"
       },
-      "timestamp" : 1441271618,
+      "timestamp" : 1445646373,
       "url" : "http://www.town.hiranai.aomori.jp/",
       "wref" : "平内町"
    },
@@ -61162,7 +61247,7 @@
          "外ヶ浜町" : "外ヶ浜町",
          "青森市" : "青森市"
       },
-      "timestamp" : 1433780805,
+      "timestamp" : 1445648744,
       "url" : "http://www.vill.yomogita.lg.jp/",
       "wref" : "蓬田村"
    },
@@ -61192,7 +61277,7 @@
          "八峰町" : "八峰町",
          "鰺ヶ沢町" : "鰺ヶ沢町"
       },
-      "timestamp" : 1441857042,
+      "timestamp" : 1445652454,
       "url" : "http://www.town.fukaura.lg.jp/",
       "wref" : "深浦町"
    },
@@ -61262,7 +61347,7 @@
          "黒石市" : "黒石市"
       },
       "symbol_label" : "青森市章",
-      "timestamp" : 1445435866,
+      "timestamp" : 1446279020,
       "url" : "http://www.city.aomori.aomori.jp",
       "wikipedia_image_desc" : "青森港・青森ウォーターフロントの夜景。青森県観光物産館アスパム(左)と青森ベイブリッジ(右)。",
       "wikipedia_image_wref" : "File:Aomori bay.jpg",
@@ -61491,7 +61576,7 @@
          ]
       },
       "symbol_label" : "伊豆市章",
-      "timestamp" : 1442511442,
+      "timestamp" : 1445608777,
       "wikipedia_image_desc" : "修禅寺",
       "wikipedia_image_wref" : "ファイル:Shuzenji(temple), Hondo, 20110919 a.jpg",
       "wref" : "伊豆市"
@@ -61580,7 +61665,7 @@
          "長泉町" : "長泉町",
          "静岡市" : "静岡市"
       },
-      "timestamp" : 1445450431,
+      "timestamp" : 1445706485,
       "url" : "http://www.city.fuji.shizuoka.jp/",
       "wikipedia_image_desc" : "手前から富士川、岩本山、富士山",
       "wikipedia_image_wref" : "File:Mt.Iwamoto.jpg",
@@ -61741,7 +61826,7 @@
          "長泉町" : "長泉町"
       },
       "symbol_label" : "沼津市章",
-      "timestamp" : 1441720503,
+      "timestamp" : 1446364464,
       "url" : "http://www.city.numazu.shizuoka.jp/",
       "wikipedia_image_desc" : "狩野川と御成橋",
       "wikipedia_image_wref" : "File:Kano rever and Onari bridge.jpg",
@@ -61791,43 +61876,43 @@
          "飯田市" : "飯田市"
       },
       "symbol_label" : "浜松市旗・浜松市章 市旗・市章、共に2005年(平成17年)6月28日制定",
-      "timestamp" : 1445031690,
+      "timestamp" : 1446464674,
       "url" : "http://www.city.hamamatsu.shizuoka.jp/",
       "wikipedia_image_desc" : "アクトシティ浜松/秋葉山本宮秋葉神社/遠州鉄道 浜松城模擬天守/浜名湖の夕景",
       "wikipedia_image_wref" : "File:Hamamatsu montage.jpg",
       "wref" : "浜松市"
    },
    "静岡県,浜松市,中区" : {
-      "timestamp" : 1439152877,
+      "timestamp" : 1446121870,
       "url" : "http://www.city.hamamatsu.shizuoka.jp/c-shinko/ward/nakaku/index.html",
       "wref" : "中区 (浜松市)"
    },
    "静岡県,浜松市,北区" : {
-      "timestamp" : 1439153036,
+      "timestamp" : 1446122505,
       "url" : "http://www.city.hamamatsu.shizuoka.jp/n-shinko/ward/kitaku/index.html",
       "wref" : "北区 (浜松市)"
    },
    "静岡県,浜松市,南区" : {
-      "timestamp" : 1440028258,
+      "timestamp" : 1446122378,
       "url" : "http://www.city.hamamatsu.shizuoka.jp/s-shinko/ward/minamiku/index.html",
       "wref" : "南区 (浜松市)"
    },
    "静岡県,浜松市,天竜区" : {
-      "timestamp" : 1429528244,
+      "timestamp" : 1446122775,
       "url" : "http://www.city.hamamatsu.shizuoka.jp/tn-shinko/ward/tenryuku/index.html",
       "wref" : "天竜区"
    },
    "静岡県,浜松市,東区" : {
-      "timestamp" : 1436796224,
+      "timestamp" : 1446366308,
       "wref" : "東区 (浜松市)"
    },
    "静岡県,浜松市,浜北区" : {
-      "timestamp" : 1439153173,
+      "timestamp" : 1446122619,
       "url" : "http://www.city.hamamatsu.shizuoka.jp/hk-shinko/ward/hamakitaku/index.html",
       "wref" : "浜北区"
    },
    "静岡県,浜松市,西区" : {
-      "timestamp" : 1443982813,
+      "timestamp" : 1446122168,
       "url" : "http://www.city.hamamatsu.shizuoka.jp/w-shinko/ward/nishiku/index.html",
       "wref" : "西区 (浜松市)"
    },
@@ -61881,7 +61966,7 @@
          ]
       },
       "symbol_label" : "焼津市章",
-      "timestamp" : 1444485763,
+      "timestamp" : 1445938087,
       "wikipedia_image_desc" : "焼津神社",
       "wikipedia_image_wref" : "File:Yaizu-jinja 02.jpg",
       "wref" : "焼津市"
@@ -61964,7 +62049,7 @@
          "熱海市" : "熱海市",
          "箱根町" : "箱根町"
       },
-      "timestamp" : 1442611744,
+      "timestamp" : 1445575213,
       "url" : "http://www.town.kannami.shizuoka.jp",
       "wikipedia_image_desc" : "函南町中心部",
       "wikipedia_image_wref" : "File:Kannami 20120910.jpg",
@@ -61995,7 +62080,7 @@
          ]
       },
       "symbol_label" : "菊川市章",
-      "timestamp" : 1444048276,
+      "timestamp" : 1445568238,
       "wikipedia_image_desc" : "七曲池",
       "wikipedia_image_wref" : "ファイル:Nanamagari Pond 1988.jpg",
       "wref" : "菊川市"
@@ -62168,7 +62253,7 @@
          "飯田市" : "飯田市"
       },
       "symbol_label" : "静岡市章 2003年(平成15年)5月29日制定",
-      "timestamp" : 1445249502,
+      "timestamp" : 1446125511,
       "url" : "http://www.city.shizuoka.jp",
       "wikipedia_image_desc" : "静岡浅間神社大拝殿/IAIスタジアム日本平 日本平より望む富士山と清水港\n茶畑/登呂遺跡/駿府城巽櫓",
       "wikipedia_image_wref" : "ファイル:Shizuoka montage.jpg",
@@ -62188,8 +62273,10 @@
             }
          ]
       },
-      "timestamp" : 1441891402,
+      "timestamp" : 1446187689,
       "url" : "http://www.city.shizuoka.jp/deps/simizu/shimizu-ku.html",
+      "wikipedia_image_desc" : "富士山と清水港",
+      "wikipedia_image_wref" : "File:Shimizu LNG Unloading Arm and Mt Fuji.jpg",
       "wref" : "清水区"
    },
    "静岡県,静岡市,葵区" : {
@@ -62201,8 +62288,10 @@
             }
          ]
       },
-      "timestamp" : 1430971501,
+      "timestamp" : 1446187314,
       "url" : "http://www.city.shizuoka.jp/deps/aoi/aoi-ku.html",
+      "wikipedia_image_desc" : "南アルプス",
+      "wikipedia_image_wref" : "File:Mt.Noutoridake from Mt.Shiomidake 02.jpg",
       "wref" : "葵区"
    },
    "静岡県,静岡市,駿河区" : {
@@ -62215,8 +62304,10 @@
             }
          ]
       },
-      "timestamp" : 1428228468,
+      "timestamp" : 1446187879,
       "url" : "http://www.city.shizuoka.jp/deps/suruga/suruga-ku.html",
+      "wikipedia_image_desc" : "久能山東照宮",
+      "wikipedia_image_wref" : "File:Haiden of Kunozan Toshogu.jpg",
       "wref" : "駿河区"
    },
    "静岡県,駿東郡" : {
@@ -62324,7 +62415,7 @@
          "徳島県" : "徳島県",
          "愛媛県" : "愛媛県"
       },
-      "timestamp" : 1444029943,
+      "timestamp" : 1445595360,
       "url" : "http://www.pref.kagawa.lg.jp/",
       "wikipedia_image_desc" : "高松市街と瀬戸内海の島々",
       "wikipedia_image_wref" : "File:香川県の風景.jpg",
@@ -62365,7 +62456,7 @@
          "高松市" : "高松市"
       },
       "symbol_label" : "さぬき市章",
-      "timestamp" : 1437410412,
+      "timestamp" : 1445952941,
       "url" : "http://www.city.sanuki.kagawa.jp/",
       "wikipedia_image_wref" : "File:",
       "wref" : "さぬき市"
@@ -62396,7 +62487,7 @@
          "観音寺市" : "観音寺市"
       },
       "symbol_label" : "三豊市章",
-      "timestamp" : 1432636947,
+      "timestamp" : 1445952773,
       "url" : "http://www.city.mitoyo.lg.jp/",
       "wikipedia_image_wref" : "File:",
       "wref" : "三豊市"
@@ -62431,7 +62522,7 @@
          "綾川町" : "綾川町"
       },
       "symbol_label" : "丸亀市章",
-      "timestamp" : 1441269745,
+      "timestamp" : 1445953077,
       "url" : "http://www.city.marugame.lg.jp/",
       "wikipedia_image_desc" : "丸亀城(国の史跡)",
       "wikipedia_image_wref" : "File:Marugame Castle01.jpg",
@@ -62468,7 +62559,7 @@
          "高松市" : "高松市"
       },
       "symbol_label" : "2006年(平成18年)3月20日制定",
-      "timestamp" : 1440681990,
+      "timestamp" : 1446277224,
       "url" : "http://www.town.manno.lg.jp/",
       "wikipedia_image_desc" : "満濃池",
       "wikipedia_image_wref" : "ファイル:Manoupark 201505 view seen.jpg",
@@ -62577,7 +62668,7 @@
          "琴平町" : "琴平町"
       },
       "symbol_label" : "善通寺市章",
-      "timestamp" : 1437392342,
+      "timestamp" : 1446296918,
       "url" : "http://www.city.zentsuji.kagawa.jp/",
       "wikipedia_image_desc" : "善通寺",
       "wikipedia_image_wref" : "File:Zentsu-ji in Zentsu-ji City Kagawa pref46n4350.jpg",
@@ -62610,7 +62701,7 @@
          "高松市" : "高松市"
       },
       "symbol_label" : "坂出市章",
-      "timestamp" : 1440145398,
+      "timestamp" : 1445595482,
       "url" : "http://www.city.sakaide.lg.jp/",
       "wikipedia_image_desc" : "雄山から見た坂出市内",
       "wikipedia_image_wref" : "File:Sakaide city.jpg",
@@ -62739,7 +62830,7 @@
          "高松市" : "高松市"
       },
       "symbol_label" : "1955年(昭和30年)10月1日制定",
-      "timestamp" : 1445421747,
+      "timestamp" : 1446124721,
       "url" : "http://www.town.miki.lg.jp/",
       "wikipedia_image_wref" : "File:",
       "wref" : "三木町"
@@ -62761,7 +62852,7 @@
          "鳴門市" : "鳴門市"
       },
       "symbol_label" : "東かがわ市章",
-      "timestamp" : 1430872702,
+      "timestamp" : 1445952893,
       "url" : "http://www.higashikagawa.jp/",
       "wikipedia_image_wref" : "File:",
       "wref" : "東かがわ市"
@@ -62800,7 +62891,7 @@
          "坂出市" : "坂出市"
       },
       "symbol_label" : "1964年(昭和39年)10月17日制定",
-      "timestamp" : 1441020319,
+      "timestamp" : 1446296964,
       "url" : "http://town.utazu.kagawa.jp/",
       "wikipedia_image_desc" : "瀬戸大橋線からみた宇多津市街 右端はゴールドタワー",
       "wikipedia_image_wref" : "File:Utazu town seen from Seto-Ohashi Line.JPG",
@@ -62849,7 +62940,7 @@
          "福山市" : "福山市"
       },
       "symbol_label" : "観音寺市章",
-      "timestamp" : 1442463511,
+      "timestamp" : 1445952983,
       "url" : "http://www.city.kanonji.kagawa.jp/",
       "wikipedia_image_desc" : "銭形砂絵",
       "wikipedia_image_wref" : "File:Zenigata sunae.jpg",
@@ -63023,7 +63114,7 @@
          "高知市" : "高知市"
       },
       "symbol_label" : "1961年(昭和36年)2月11日制定",
-      "timestamp" : 1442936435,
+      "timestamp" : 1445621841,
       "url" : "http://www.city.nankoku.lg.jp/",
       "wikipedia_image_desc" : "高知龍馬空港",
       "wikipedia_image_wref" : "File:Kochiryomaairport.jpg",
@@ -63644,7 +63735,7 @@
          "四万十町" : "四万十町"
       },
       "symbol_label" : "2006年(平成18年)9月6日制定",
-      "timestamp" : 1440681800,
+      "timestamp" : 1446374302,
       "url" : "http://www.town.kuroshio.lg.jp",
       "wikipedia_image_wref" : "File:",
       "wref" : "黒潮町"
@@ -64044,7 +64135,7 @@
          "島根県" : "島根県",
          "広島県" : "広島県"
       },
-      "timestamp" : 1445445111,
+      "timestamp" : 1446174240,
       "url" : "http://www.pref.tottori.lg.jp/",
       "wikipedia_image_desc" : "鳥取砂丘",
       "wikipedia_image_wref" : "ファイル:Tottori-Sakyu Tottori Japan.JPG",
@@ -64179,7 +64270,7 @@
          "香美町" : "香美町",
          "鳥取市" : "鳥取市"
       },
-      "timestamp" : 1445111615,
+      "timestamp" : 1446293504,
       "url" : "http://www.town.wakasa.tottori.jp/",
       "wikipedia_image_desc" : "若桜鬼ヶ城から望む若桜町",
       "wikipedia_image_wref" : "File:Wakasa Onigajo 13.JPG",
@@ -64429,7 +64520,7 @@
          "琴浦町" : "琴浦町"
       },
       "symbol_label" : "2005年(平成17年)10月1日制定",
-      "timestamp" : 1431331362,
+      "timestamp" : 1445744399,
       "url" : "http://www.e-hokuei.net/",
       "wikipedia_image_wref" : "File:",
       "wref" : "北栄町"
@@ -64535,7 +64626,7 @@
          "日吉津村" : "日吉津村"
       },
       "symbol_label" : "2005年12月1日制定",
-      "timestamp" : 1445171997,
+      "timestamp" : 1446278239,
       "url" : "http://www.city.yonago.lg.jp/",
       "wikipedia_image_desc" : "1段目:皆生温泉 2段目左:妻木晩田遺跡\n2段目右:米子城跡\n3段目左:孝霊山\n3段目右:米子市美術館\n4段目:米子市街地",
       "wikipedia_image_wref" : "File:Yonago montage.JPG",
@@ -64606,13 +64697,19 @@
          ],
          "flower" : [
             {
-               "name" : "サザンカ"
+               "name" : "ハマナス"
             }
          ],
-         "symbol" : [
+         "mark" : [
             {
                "name" : "大山町章",
                "wref" : "ファイル:Daisen Tottori chapter.svg"
+            }
+         ],
+         "song" : [
+            {
+               "date" : "2015",
+               "name" : "大山賛歌 わがこころの山"
             }
          ],
          "tree" : [
@@ -64628,7 +64725,7 @@
          "米子市" : "米子市"
       },
       "symbol_label" : "2005年(平成17年)10月1日制定",
-      "timestamp" : 1427204425,
+      "timestamp" : 1446113541,
       "url" : "http://www.daisen.jp/",
       "wikipedia_image_wref" : "File:",
       "wref" : "大山町"
@@ -64747,7 +64844,7 @@
          "宮崎県" : "宮崎県",
          "熊本県" : "熊本県"
       },
-      "timestamp" : 1444195108,
+      "timestamp" : 1445757846,
       "url" : "http://www.pref.kagoshima.jp/",
       "wikipedia_image_desc" : "桜島と鹿児島市街",
       "wikipedia_image_wref" : "ファイル:Kagoshima and Sakurajima.jpg",
@@ -64784,7 +64881,7 @@
          "薩摩川内市" : "薩摩川内市"
       },
       "symbol_label" : "2005年10月11日制定",
-      "timestamp" : 1439574845,
+      "timestamp" : 1445770323,
       "url" : "http://www.city.ichikikushikino.lg.jp/",
       "wikipedia_image_wref" : "File:",
       "wikipedia_location_image_wref" : "ファイル:Map Ichikikushikino en.png",
@@ -64812,7 +64909,7 @@
          "湧水町" : "湧水町",
          "球磨村" : "球磨村"
       },
-      "timestamp" : 1428071828,
+      "timestamp" : 1446093137,
       "url" : "http://www.city.isa.kagoshima.jp",
       "wikipedia_image_desc" : "曽木の滝",
       "wikipedia_image_wref" : "ファイル:RIMG0228.JPG",
@@ -64845,7 +64942,7 @@
          "阿久根市" : "阿久根市"
       },
       "symbol_label" : "出水市章",
-      "timestamp" : 1445133348,
+      "timestamp" : 1445868363,
       "url" : "http://www.city.izumi.kagoshima.jp/",
       "wikipedia_image_desc" : "ツル飛来の様子",
       "wikipedia_image_wref" : "File:Cranes in Izumi, Kagoshima.jpg",
@@ -64949,7 +65046,7 @@
          "鹿児島市" : "鹿児島市"
       },
       "symbol_label" : "2007年(平成19年)12月1日制定",
-      "timestamp" : 1442363323,
+      "timestamp" : 1445911567,
       "url" : "http://www.city.minamikyushu.lg.jp/cgi-bin/index.cgi",
       "wikipedia_image_desc" : "\u003Ctable style=\"width:280px;margin:2px auto; border-collapse: collapse\">\n\u003Ctr>\u003Ctd colspan=\"2\">大野岳\u003C/tr>\n\u003Ctr>\u003Ctd rowspan=\"2\" style=\"vertical-align:middle;\">清水岩屋公園の仏像\u003Ctd>南薩台地に広がる茶畑\u003C/tr>\n\u003Ctr>\u003Ctd>知覧特攻平和会館\u003C/tr>\n\u003C/table>",
       "wikipedia_image_wref" : "File:Minamikyushu montage.png",
@@ -64991,7 +65088,7 @@
          "鹿屋市" : "鹿屋市"
       },
       "symbol_label" : "1958年(昭和33年)10月1日制定",
-      "timestamp" : 1439367353,
+      "timestamp" : 1445770170,
       "url" : "http://www.city.tarumizu.lg.jp/",
       "wikipedia_image_desc" : "海潟漁港と桜島",
       "wikipedia_image_wref" : "File:Kaigata Tarumizu City Kagoshima Japan 2015.JPG",
@@ -65108,7 +65205,7 @@
          ]
       },
       "subpref" : "大島支庁",
-      "timestamp" : 1442166784,
+      "timestamp" : 1445530856,
       "url" : "http://www.town.kikai.lg.jp/",
       "wikipedia_image_desc" : "百之台展望台からの眺望",
       "wikipedia_image_wref" : "File:Hyakunodai, Kikai.jpg",
@@ -65131,7 +65228,7 @@
          "奄美市" : "奄美市",
          "宇検村" : "宇検村"
       },
-      "timestamp" : 1442167315,
+      "timestamp" : 1445950897,
       "url" : "http://www.vill.yamato.lg.jp/",
       "wref" : "大和村"
    },
@@ -65179,7 +65276,7 @@
          "奄美市" : "奄美市",
          "瀬戸内町" : "瀬戸内町"
       },
-      "timestamp" : 1433853803,
+      "timestamp" : 1445953860,
       "url" : "http://www.uken.net/",
       "wref" : "宇検村"
    },
@@ -65248,7 +65345,7 @@
          "宇検村" : "宇検村"
       },
       "symbol_label" : "1957年(昭和32年)12月制定",
-      "timestamp" : 1442166480,
+      "timestamp" : 1445955703,
       "url" : "http://www.amami-setouchi.org/",
       "wikipedia_image_wref" : "File:",
       "wref" : "瀬戸内町"
@@ -65266,7 +65363,7 @@
                "name" : "ハイビスカス"
             }
          ],
-         "symbol" : [
+         "mark" : [
             {
                "name" : "知名町章",
                "wref" : "ファイル:China Kagoshima chapter.JPG"
@@ -65281,7 +65378,7 @@
       "neighbor_region_names" : {
          "和泊町" : "和泊町"
       },
-      "timestamp" : 1418820626,
+      "timestamp" : 1445591348,
       "url" : "http://www.town.china.lg.jp/",
       "wikipedia_image_desc" : "屋子母海岸",
       "wikipedia_image_wref" : "File:Yakomo beach.jpg",
@@ -65303,7 +65400,7 @@
       "neighbor_region_names" : {
          "奄美市" : "奄美市"
       },
-      "timestamp" : 1438177759,
+      "timestamp" : 1445950396,
       "url" : "http://www.town.tatsugo.lg.jp/",
       "wref" : "龍郷町"
    },
@@ -65455,7 +65552,7 @@
          "都城市" : "都城市"
       },
       "symbol_label" : "2006年1月1日制定",
-      "timestamp" : 1436309814,
+      "timestamp" : 1445868403,
       "url" : "http://www.city.shibushi.lg.jp/",
       "wikipedia_image_wref" : "File:",
       "wref" : "志布志市"
@@ -65512,7 +65609,7 @@
          "鹿児島市" : "鹿児島市"
       },
       "symbol_label" : "市旗・市章、共に2006年(平成18年)8月1日制定",
-      "timestamp" : 1440845342,
+      "timestamp" : 1445770088,
       "url" : "http://www.city.ibusuki.lg.jp/",
       "wikipedia_image_desc" : "\u003Ctable style=\"width:280px;margin:2px auto; border-collapse: collapse\">\n\u003Ctr>\u003Ctd>西大山駅及び開聞岳\u003Ctd>指宿温泉の砂むし風呂\u003C/tr>\n\u003Ctr>\u003Ctd colspan=\"2\">知林ヶ島\u003C/tr>\n\u003Ctr>\u003Ctd>枚聞神社\u003Ctd>池田湖\u003C/tr>\n\u003C/table>",
       "wikipedia_image_wref" : "File:Ibusuki montage.png",
@@ -65550,7 +65647,7 @@
          "鹿児島市" : "鹿児島市"
       },
       "symbol_label" : "2005年5月1日制定",
-      "timestamp" : 1443617705,
+      "timestamp" : 1445868534,
       "url" : "http://www.city.hioki.lg.jp/",
       "wikipedia_image_desc" : "徳重神社",
       "wikipedia_image_wref" : "File:Tokushige Shrine.JPG",
@@ -65639,7 +65736,7 @@
          "南九州市" : "南九州市"
       },
       "symbol_label" : "枕崎市旗 (1949年9月制定)",
-      "timestamp" : 1443096352,
+      "timestamp" : 1445769978,
       "url" : "http://www.city.makurazaki.kagoshima.jp/",
       "wikipedia_image_desc" : "立神岩",
       "wikipedia_image_wref" : "File:Tategami-Rock6983.JPG",
@@ -65904,14 +66001,14 @@
          "鹿児島市" : "鹿児島市"
       },
       "symbol_label" : "市旗・市章、共に2005年(平成17年)1月1日制定",
-      "timestamp" : 1444137816,
+      "timestamp" : 1445770221,
       "url" : "http://www.city.satsumasendai.kagoshima.jp/",
       "wikipedia_image_desc" : "1段目:川内平野、新田神社 2段目:甑島商船のフェリーニューこしき\n3段目:なまこ池、可愛山陵、丸山\n3段目:菅原神社(藤川天神)境内にある臥龍梅、入来麓\n4段目:里のトンボロ、藺牟田池",
       "wikipedia_image_wref" : "File:Satsumasendai montage.png",
       "wref" : "薩摩川内市"
    },
    "鹿児島県,薩摩郡" : {
-      "timestamp" : 1429592210,
+      "timestamp" : 1446457270,
       "wref" : "薩摩郡"
    },
    "鹿児島県,薩摩郡,さつま町" : {
@@ -65988,7 +66085,7 @@
          "中種子町" : "中種子町"
       },
       "symbol_label" : "西之表市旗",
-      "timestamp" : 1440845499,
+      "timestamp" : 1445770130,
       "url" : "http://www.city.nishinoomote.kagoshima.jp/",
       "wikipedia_image_desc" : "西之表市街地",
       "wikipedia_image_wref" : "File:西之表市街地.JPG",
@@ -66030,7 +66127,7 @@
          "長島町" : "長島町"
       },
       "symbol_label" : "1952年(昭和27年)4月制定",
-      "timestamp" : 1443994690,
+      "timestamp" : 1445770010,
       "wikipedia_image_wref" : "File:",
       "wref" : "阿久根市"
    },
@@ -66085,7 +66182,7 @@
          "鹿屋市" : "鹿屋市"
       },
       "symbol_label" : "市旗・市章、共に2005年(平成17年)11月7日制定",
-      "timestamp" : 1441048046,
+      "timestamp" : 1446406887,
       "url" : "http://www.city-kirishima.jp/",
       "wikipedia_image_desc" : "\u003Ctable style=\"width:280px;margin:2px auto; border-collapse: collapse\">\n\u003Ctr>\u003Ctd>霧島神宮\u003Ctd>上野原遺跡\u003C/tr>\n\u003Ctr>\u003Ctd colspan=\"2\">霧島山\u003C/tr>\n\u003Ctr>\u003Ctd>福山酢の壺畑\u003Ctd rowspan=\"2\" style=\"vertical-align:middle;\">栄之尾温泉の緑渓湯苑\u003C/tr>\n\u003Ctr>\u003Ctd>鹿児島空港\u003C/tr>\n\u003C/table>",
       "wikipedia_image_wref" : "File:Kirishima montage.png",
@@ -66123,14 +66220,14 @@
          "薩摩川内市" : "薩摩川内市"
       },
       "symbol_label" : "鹿児島市章 1926年11月24日制定",
-      "timestamp" : 1444821708,
+      "timestamp" : 1446472969,
       "url" : "http://www.city.kagoshima.lg.jp/",
       "wikipedia_image_desc" : "\u003Ctable style=\"width:280px;margin:2px auto; border-collapse: collapse\">\n\u003Ctr>\u003Ctd>城山から望む鹿児島市街地\n鹿児島湾・桜島\u003Ctd style=\"vertical-align:middle;\">西郷隆盛像\u003C/tr>\n\u003Ctr>\u003Ctd>鹿児島城址\u003Ctd>仙巌園\u003C/tr>\n\u003Ctr>\u003Ctd>大久保利通像\u003Ctd>鹿児島市の夜景\u003C/tr>\n\u003C/table>",
       "wikipedia_image_wref" : "ファイル:Kagoshima montage.jpg",
       "wref" : "鹿児島市"
    },
    "鹿児島県,鹿児島郡" : {
-      "timestamp" : 1429592212,
+      "timestamp" : 1446449816,
       "wref" : "鹿児島郡"
    },
    "鹿児島県,鹿児島郡,三島村" : {
@@ -66159,7 +66256,7 @@
             }
          ]
       },
-      "timestamp" : 1439075559,
+      "timestamp" : 1446306765,
       "url" : "http://www.tokara.jp/index.html",
       "wikipedia_location_image_wref" : "ファイル:Kagoshima Satsunan-islands.png",
       "wref" : "十島村"
@@ -66200,7 +66297,7 @@
          "錦江町" : "錦江町",
          "霧島市" : "霧島市"
       },
-      "timestamp" : 1443698761,
+      "timestamp" : 1446444214,
       "url" : "http://www.e-kanoya.net/",
       "wikipedia_image_desc" : "1段目:かのやばら園、串良の慰霊塔 2段目:リナシティかのや、鹿屋体育大学、吾平山上陵\n3段目:笠野原台地、輝北天球館\n4段目:高隈山と肝属川、右下:かのや夏祭り",
       "wikipedia_image_wref" : "File:Kanoya Montage Beta.jpg",
