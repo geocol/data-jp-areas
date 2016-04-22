@@ -3923,165 +3923,1185 @@
                {
                   "_errors" : {
                      "list1" : [
-                        "unparsed",
-                        "\u000A\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022相生 (一宮市)\u0022>相生\u003C/mw:l>☆ | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>赤見\u003C/mw:l>☆ | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022浅野 (一宮市)\u0022>浅野\u003C/mw:l> | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022朝日 (一宮市)\u0022>朝日\u003C/mw:l>☆ | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>あずら\u003C/mw:l>☆ | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022一色町 (一宮市)\u0022>一色町\u003C/mw:l> | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022石山町 (一宮市)\u0022>石山町\u003C/mw:l> | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022泉 (一宮市)\u0022>泉\u003C/mw:l>☆ | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022一宮 (一宮市)\u0022>一宮\u003C/mw:l> | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022乾町 (一宮市)\u0022>乾町\u003C/mw:l> | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>印田通\u003C/mw:l> | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>牛野通\u003C/mw:l> | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>大赤見\u003C/mw:l> | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022大江 (一宮市)\u0022>大江\u003C/mw:l>☆ | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>大毛\u003C/mw:l> | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022大浜 (一宮市)\u0022>大浜\u003C/mw:l>☆ | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022大宮 (一宮市)\u0022>大宮\u003C/mw:l>☆ | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022奥町 (一宮市)\u0022>奥町\u003C/mw:l> | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022小栗町 (一宮市)\u0022>小栗町\u003C/mw:l> | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022音羽 (一宮市)\u0022>音羽\u003C/mw:l>☆ | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022小原町 (一宮市)\u0022>小原町\u003C/mw:l> | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022神山 (一宮市)\u0022>神山\u003C/mw:l>☆ | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>苅安賀\u003C/mw:l>☆ | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022川田町 (一宮市)\u0022>川田町\u003C/mw:l> | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022観音寺 (一宮市)\u0022>観音寺\u003C/mw:l>☆ | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022観音町 (一宮市)\u0022>観音町\u003C/mw:l> | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022神戸町 (一宮市)\u0022>神戸町\u003C/mw:l> | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022北浦町 (一宮市)\u0022>北浦町\u003C/mw:l> | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>北小渕\u003C/mw:l> | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022北神明町 (一宮市)\u0022>北神明町\u003C/mw:l> | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>北園通\u003C/mw:l> | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022貴船 (一宮市)\u0022>貴船\u003C/mw:l>☆ | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022貴船 (一宮市)\u0022>貴船町\u003C/mw:l> | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>九品町\u003C/mw:l> | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>小赤見\u003C/mw:l> | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022公園通 (一宮市)\u0022>公園通\u003C/mw:l> | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022光明寺 (一宮市)\u0022>光明寺\u003C/mw:l> | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022古金町 (一宮市)\u0022>古金町\u003C/mw:l> | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>古見町\u003C/mw:l> | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022栄 (一宮市)\u0022>栄\u003C/mw:l>☆ | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022桜 (一宮市)\u0022>桜\u003C/mw:l>☆ | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022笹野 (一宮市)\u0022>笹野\u003C/mw:l> | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>佐千原\u003C/mw:l> | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022更屋敷 (一宮市)\u0022>更屋敷\u003C/mw:l> | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>猿海道\u003C/mw:l>☆ | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022三条 (一宮市)\u0022>三条\u003C/mw:l> | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>三丹町\u003C/mw:l> | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>春明\u003C/mw:l> | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022昭和 (一宮市)\u0022>昭和\u003C/mw:l>☆ | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022島崎 (一宮市)\u0022>島崎\u003C/mw:l>☆ | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022島村 (一宮市)\u0022>島村\u003C/mw:l> | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>下川田町\u003C/mw:l> | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022下田 (一宮市)\u0022>下田\u003C/mw:l>☆ | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>下沼町\u003C/mw:l> | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>城崎通\u003C/mw:l> | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>白旗通\u003C/mw:l> | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022新生 (一宮市)\u0022>新生\u003C/mw:l>☆ | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>常願通\u003C/mw:l> | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>定水寺\u003C/mw:l> | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022末広 (一宮市)\u0022>末広\u003C/mw:l>☆ | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022杉山 (一宮市)\u0022>杉山\u003C/mw:l> | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022住吉 (一宮市)\u0022>住吉\u003C/mw:l>☆ | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>瀬部\u003C/mw:l> | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>せんい\u003C/mw:l>☆ | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022大正通 (一宮市)\u0022>大正通\u003C/mw:l> | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>多加木\u003C/mw:l>☆ | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022高田 (一宮市)\u0022>高田\u003C/mw:l> | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022高畑町 (一宮市)\u0022>高畑町\u003C/mw:l> | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022竹橋町 (一宮市)\u0022>竹橋町\u003C/mw:l> | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022田島町 (一宮市)\u0022>田島町\u003C/mw:l> | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022田所 (一宮市)\u0022>田所\u003C/mw:l> | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>大志\u003C/mw:l>☆ | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022寺島町 (一宮市)\u0022>寺島町\u003C/mw:l> | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022寺前町 (一宮市)\u0022>寺前町\u003C/mw:l> | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022天王 (一宮市)\u0022>天王\u003C/mw:l>☆ | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>時之島\u003C/mw:l> | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>殿町\u003C/mw:l> | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022富塚 (一宮市)\u0022>富塚\u003C/mw:l> | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>中島通\u003C/mw:l> | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022中町 (一宮市)\u0022>中町\u003C/mw:l>☆ | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022長島町 (一宮市)\u0022>長島町\u003C/mw:l> | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022日光町 (一宮市)\u0022>日光町\u003C/mw:l> | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>西五城\u003C/mw:l> | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>西大海道\u003C/mw:l> | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>西小原町\u003C/mw:l> | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022西島町 (一宮市)\u0022>西島町\u003C/mw:l> | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>西出町\u003C/mw:l> | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>西中野\u003C/mw:l> | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>西萩原\u003C/mw:l> | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022丹羽 (一宮市)\u0022>丹羽\u003C/mw:l> | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022野口 (一宮市)\u0022>野口\u003C/mw:l>☆ | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022八町通 (一宮市)\u0022>八町通\u003C/mw:l> | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022羽衣 (一宮市)\u0022>羽衣\u003C/mw:l>☆ | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022八幡 (一宮市)\u0022>八幡\u003C/mw:l>☆ | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>花池\u003C/mw:l>☆ | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022浜町 (一宮市)\u0022>浜町\u003C/mw:l> | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>東印田町\u003C/mw:l> | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>東島町\u003C/mw:l> | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>東出町\u003C/mw:l> | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>東両郷町\u003C/mw:l> | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022平島 (一宮市)\u0022>平島\u003C/mw:l>☆ | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022深坪町 (一宮市)\u0022>深坪町\u003C/mw:l> | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022富士 (一宮市)\u0022>富士\u003C/mw:l>☆ | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>藤塚町\u003C/mw:l> | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>文京\u003C/mw:l>☆ | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022平安 (一宮市)\u0022>平安\u003C/mw:l>☆ | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022平和 (一宮市)\u0022>平和\u003C/mw:l>☆ | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>別明町\u003C/mw:l> | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>北丹町\u003C/mw:l> | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022本町 (一宮市)\u0022>本町\u003C/mw:l>☆ | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022本町通 (一宮市)\u0022>本町通\u003C/mw:l> | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>真清田\u003C/mw:l>☆ | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022松島町 (一宮市)\u0022>松島町\u003C/mw:l> | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>松降\u003C/mw:l>☆ | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>松降通\u003C/mw:l> | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022松山町 (一宮市)\u0022>松山町\u003C/mw:l> | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>馬見塚\u003C/mw:l> | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022妙興寺 (地名)\u0022>妙興寺\u003C/mw:l>☆ | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>水落町\u003C/mw:l> | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>水附町\u003C/mw:l> | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>三ツ井\u003C/mw:l>☆ | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022緑 (一宮市)\u0022>緑\u003C/mw:l>☆ | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>南印田\u003C/mw:l>☆ | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>南小渕\u003C/mw:l> | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>南出町\u003C/mw:l> | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022宮地 (一宮市)\u0022>宮地\u003C/mw:l>☆ | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>宮西通\u003C/mw:l> | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022向山町 (一宮市)\u0022>向山町\u003C/mw:l> | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>向山南\u003C/mw:l>☆ | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022明治通 (一宮市)\u0022>明治通\u003C/mw:l> | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>森本\u003C/mw:l>☆ | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>柳戸町\u003C/mw:l> | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>柚木颪\u003C/mw:l> | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>両郷町\u003C/mw:l> | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022若竹 (一宮市)\u0022>若竹\u003C/mw:l>☆ | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>枠杁町\u003C/mw:l> | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022和光 (一宮市)\u0022>和光\u003C/mw:l>☆\u003Cmw:comment xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>http://www.yu-bin.net/pc/html/23203.htmlによる\u003C/mw:comment>\u000A\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022Navbox\u0022>\u003Cmw:iparam>child\u000A\u003C/mw:iparam>\u003Cmw:iparam name=\u0022groupstyle\u0022>background:#eee;width:5em;\u000A\u003C/mw:iparam>\u003Cmw:iparam name=\u0022liststyle\u0022>width:auto;\u000A\u003C/mw:iparam>\u003Cmw:iparam name=\u0022group1\u0022>旧\u003Cmw:l wref=\u0022浅井町 (愛知県)\u0022>浅井町\u003C/mw:l>\u000A\u003C/mw:iparam>\u003Cmw:iparam name=\u0022list1\u0022>\u000A\u003Cmw:l wref=\u0022浅井町江森\u0022>江森\u003C/mw:l> | \u003Cmw:l wref=\u0022浅井町大野\u0022>大野\u003C/mw:l> | \u003Cmw:l wref=\u0022浅井町大日比野\u0022>大日比野\u003C/mw:l> | \u003Cmw:l wref=\u0022浅井町尾関\u0022>尾関\u003C/mw:l> | \u003Cmw:l wref=\u0022浅井町黒岩\u0022>黒岩\u003C/mw:l> | \u003Cmw:l wref=\u0022浅井町河田\u0022>河田\u003C/mw:l> | \u003Cmw:l wref=\u0022浅井町河端\u0022>河端\u003C/mw:l> | \u003Cmw:l wref=\u0022浅井町小日比野\u0022>小日比野\u003C/mw:l> | \u003Cmw:l wref=\u0022浅井町極楽寺\u0022>極楽寺\u003C/mw:l> | \u003Cmw:l wref=\u0022浅井町西浅井\u0022>西浅井\u003C/mw:l> | \u003Cmw:l wref=\u0022浅井町西海戸\u0022>西海戸\u003C/mw:l> | \u003Cmw:l wref=\u0022浅井町東浅井\u0022>東浅井\u003C/mw:l> | \u003Cmw:l wref=\u0022浅井町前野\u0022>前野\u003C/mw:l>\u000A\u003C/mw:iparam>\u003Cmw:iparam name=\u0022group2\u0022>旧\u003Cmw:l>今伊勢町\u003C/mw:l>\u000A\u003C/mw:iparam>\u003Cmw:iparam name=\u0022list2\u0022>\u003Cmw:l wref=\u0022今伊勢町馬寄\u0022>馬寄\u003C/mw:l> | \u003Cmw:l wref=\u0022今伊勢町新神戸\u0022>新神戸\u003C/mw:l> | \u003Cmw:l wref=\u0022今伊勢町本神戸\u0022>本神戸\u003C/mw:l> | \u003Cmw:l wref=\u0022今伊勢町宮後\u0022>宮後\u003C/mw:l>\u000A\u003C/mw:iparam>\u003Cmw:iparam name=\u0022group3\u0022>旧\u003Cmw:l wref=\u0022北方村 (愛知県)\u0022>北方村\u003C/mw:l>（北方町）\u000A\u003C/mw:iparam>\u003Cmw:iparam name=\u0022list3\u0022>\u003Cmw:l wref=\u0022北方町北方\u0022>北方\u003C/mw:l> | \u003Cmw:l wref=\u0022北方町曽根\u0022>曽根\u003C/mw:l> | \u003Cmw:l wref=\u0022北方町中島\u0022>中島\u003C/mw:l>\u000A\u003C/mw:iparam>\u003Cmw:iparam name=\u0022group4\u0022>旧\u003Cmw:l>丹陽村\u003C/mw:l>（丹陽町）\u000A\u003C/mw:iparam>\u003Cmw:iparam name=\u0022list4\u0022>\u003Cmw:l wref=\u0022丹陽町五日市場\u0022>五日市場\u003C/mw:l> | \u003Cmw:l wref=\u0022丹陽町九日市場\u0022>九日市場\u003C/mw:l> | \u003Cmw:l wref=\u0022丹陽町猿海道\u0022>猿海道\u003C/mw:l> | \u003Cmw:l wref=\u0022丹陽町重吉\u0022>重吉\u003C/mw:l> | \u003Cmw:l wref=\u0022丹陽町多加木\u0022>多加木\u003C/mw:l> | \u003Cmw:l wref=\u0022丹陽町伝法寺\u0022>伝法寺\u003C/mw:l> | \u003Cmw:l wref=\u0022丹陽町外崎\u0022>外崎\u003C/mw:l> | \u003Cmw:l wref=\u0022丹陽町三ツ井\u0022>三ツ井\u003C/mw:l> | \u003Cmw:l wref=\u0022丹陽町森本\u0022>森本\u003C/mw:l>\u000A\u003C/mw:iparam>\u003Cmw:iparam name=\u0022group5\u0022>旧\u003Cmw:l wref=\u0022千秋村 (愛知県丹羽郡)\u0022>千秋村\u003C/mw:l>（千秋町）\u000A\u003C/mw:iparam>\u003Cmw:iparam name=\u0022list5\u0022>\u003Cmw:l wref=\u0022千秋町浅野羽根\u0022>浅野羽根\u003C/mw:l> | \u003Cmw:l wref=\u0022千秋町一色\u0022>一色\u003C/mw:l> | \u003Cmw:l wref=\u0022千秋町浮野\u0022>浮野\u003C/mw:l> | \u003Cmw:l wref=\u0022千秋町小山\u0022>小山\u003C/mw:l> | \u003Cmw:l wref=\u0022千秋町勝栗\u0022>勝栗\u003C/mw:l> | \u003Cmw:l wref=\u0022千秋町加納馬場\u0022>加納馬場\u003C/mw:l> | \u003Cmw:l wref=\u0022千秋町加茂\u0022>加茂\u003C/mw:l> | \u003Cmw:l wref=\u0022千秋町佐野\u0022>佐野\u003C/mw:l> | \u003Cmw:l wref=\u0022千秋町塩尻\u0022>塩尻\u003C/mw:l> | \u003Cmw:l wref=\u0022千秋町芝原\u0022>芝原\u003C/mw:l> | \u003Cmw:l wref=\u0022千秋町天摩\u0022>天摩\u003C/mw:l> | \u003Cmw:l wref=\u0022千秋町穂積塚本\u0022>穂積塚本\u003C/mw:l> | \u003Cmw:l wref=\u0022千秋町町屋\u0022>町屋\u003C/mw:l>\u000A\u003C/mw:iparam>\u003Cmw:iparam name=\u0022group6\u0022>旧\u003Cmw:l wref=\u0022萩原町 (愛知県)\u0022>萩原町\u003C/mw:l>\u000A\u003C/mw:iparam>\u003Cmw:iparam name=\u0022list6\u0022>\u003Cmw:l wref=\u0022萩原町朝宮\u0022>朝宮\u003C/mw:l> | \u003Cmw:l wref=\u0022萩原町河田方\u0022>河田方\u003C/mw:l> | \u003Cmw:l wref=\u0022萩原町串作\u0022>串作\u003C/mw:l> | \u003Cmw:l wref=\u0022萩原町高木\u0022>高木\u003C/mw:l> | \u003Cmw:l wref=\u0022萩原町高松\u0022>高松\u003C/mw:l> | \u003Cmw:l wref=\u0022萩原町滝\u0022>滝\u003C/mw:l> | \u003Cmw:l wref=\u0022萩原町築込\u0022>築込\u003C/mw:l> | \u003Cmw:l wref=\u0022萩原町戸苅\u0022>戸苅\u003C/mw:l> | \u003Cmw:l wref=\u0022萩原町富田方\u0022>富田方\u003C/mw:l> | \u003Cmw:l wref=\u0022萩原町中島\u0022>中島\u003C/mw:l> | \u003Cmw:l wref=\u0022萩原町西御堂\u0022>西御堂\u003C/mw:l> | \u003Cmw:l wref=\u0022萩原町西宮重\u0022>西宮重\u003C/mw:l> | \u003Cmw:l wref=\u0022萩原町萩原\u0022>萩原\u003C/mw:l> | \u003Cmw:l wref=\u0022萩原町花井方\u0022>花井方\u003C/mw:l> | \u003Cmw:l wref=\u0022萩原町林野\u0022>林野\u003C/mw:l> | \u003Cmw:l wref=\u0022萩原町東宮重\u0022>東宮重\u003C/mw:l>\u000A\u003C/mw:iparam>\u003Cmw:iparam name=\u0022group7\u0022>旧\u003Cmw:l wref=\u0022大和町 (愛知県)\u0022>大和町\u003C/mw:l>\u000A\u003C/mw:iparam>\u003Cmw:iparam name=\u0022list7\u0022>\u003Cmw:l wref=\u0022大和町氏永\u0022>氏永\u003C/mw:l> | \u003Cmw:l wref=\u0022大和町於保\u0022>於保\u003C/mw:l> | \u003Cmw:l wref=\u0022大和町苅安賀\u0022>苅安賀\u003C/mw:l> | \u003Cmw:l wref=\u0022大和町北高井\u0022>北高井\u003C/mw:l> | \u003Cmw:l wref=\u0022大和町戸塚\u0022>戸塚\u003C/mw:l> | \u003Cmw:l wref=\u0022大和町福森\u0022>福森\u003C/mw:l> | \u003Cmw:l wref=\u0022大和町馬引\u0022>馬引\u003C/mw:l> | \u003Cmw:l wref=\u0022大和町妙興寺\u0022>妙興寺\u003C/mw:l> | \u003Cmw:l wref=\u0022大和町南高井\u0022>南高井\u003C/mw:l> | \u003Cmw:l wref=\u0022大和町宮地花池\u0022>宮地花池\u003C/mw:l> | \u003Cmw:l wref=\u0022大和町毛受\u0022>毛受\u003C/mw:l> \u000A\u003C/mw:iparam>\u003C/mw:include>\u000A"
+                        [
+                           "unparsed",
+                           "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022一宮 (一宮市)\u0022>一宮\u003C/mw:l>\u003Csmall xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>（一部）\u003C/small>"
+                        ],
+                        [
+                           "unparsed",
+                           "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022小原町 (一宮市)\u0022>小原町\u003C/mw:l>\u003Csmall xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>（一部）\u003C/small>"
+                        ],
+                        [
+                           "unparsed",
+                           "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022北神明町 (一宮市)\u0022>北神明町\u003C/mw:l>\u003Csmall xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>（一部）\u003C/small>"
+                        ],
+                        [
+                           "unparsed",
+                           "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>九品町\u003C/mw:l>\u003Csmall xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>（一部）\u003C/small>"
+                        ],
+                        [
+                           "unparsed",
+                           "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022栄 (一宮市)\u0022>栄\u003C/mw:l>☆\u003Csmall xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>（一部）\u003C/small>"
+                        ],
+                        [
+                           "unparsed",
+                           "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>常願通\u003C/mw:l>\u003Csmall xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>（一部）\u003C/small>"
+                        ],
+                        [
+                           "unparsed",
+                           "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022杉戸町 (一宮市)\u0022>杉戸町\u003C/mw:l>\u003Csmall xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>（一部）\u003C/small>"
+                        ],
+                        [
+                           "unparsed",
+                           "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022高畑町 (一宮市)\u0022>高畑町\u003C/mw:l>\u003Csmall xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>（一部）\u003C/small>"
+                        ],
+                        [
+                           "unparsed",
+                           "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022寺島町 (一宮市)\u0022>寺島町\u003C/mw:l>\u003Csmall xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>（一部）\u003C/small>"
+                        ],
+                        [
+                           "unparsed",
+                           "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>中島通\u003C/mw:l>\u003Csmall xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>（一部）\u003C/small>"
+                        ],
+                        [
+                           "unparsed",
+                           "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022西島町 (一宮市)\u0022>西島町\u003C/mw:l>\u003Csmall xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>（一部）\u003C/small>"
+                        ],
+                        [
+                           "unparsed",
+                           "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022文京 (一宮市)\u0022>文京\u003C/mw:l>☆\u003Csmall xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>（一部）\u003C/small>"
+                        ],
+                        [
+                           "unparsed",
+                           "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022本町 (一宮市)\u0022>本町\u003C/mw:l>☆\u003Csmall xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>（一部）\u003C/small>"
+                        ],
+                        [
+                           "unparsed",
+                           "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>真清田\u003C/mw:l>☆\u003Csmall xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>（一部）\u003C/small>"
+                        ],
+                        [
+                           "unparsed",
+                           "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>松降\u003C/mw:l>☆\u003Csmall xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>（一部）\u003C/small>"
+                        ]
+                     ],
+                     "list10" : [
+                        [
+                           "unparsed",
+                           "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>浅井町大日比野\u003C/mw:l>\u003Csmall xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>（一部）\u003C/small>"
+                        ],
+                        [
+                           "unparsed",
+                           "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>瀬部\u003C/mw:l>\u003Csmall xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>（一部）\u003C/small>"
+                        ]
+                     ],
+                     "list11" : [
+                        [
+                           "unparsed",
+                           "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022更屋敷 (一宮市)\u0022>更屋敷\u003C/mw:l>\u003Csmall xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>（一部）\u003C/small>"
+                        ]
+                     ],
+                     "list12" : [
+                        [
+                           "unparsed",
+                           "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022昭和 (一宮市)\u0022>昭和\u003C/mw:l>☆\u003Csmall xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>（一部）\u003C/small>"
+                        ],
+                        [
+                           "unparsed",
+                           "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>大和町馬引\u003C/mw:l>\u003Csmall xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>（一部）\u003C/small>"
+                        ],
+                        [
+                           "unparsed",
+                           "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>大和町宮地花池\u003C/mw:l>\u003Csmall xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>（一部）\u003C/small>"
+                        ]
+                     ],
+                     "list16" : [
+                        [
+                           "unparsed",
+                           "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>千秋町加茂\u003C/mw:l>\u003Csmall xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>（一部）\u003C/small>"
+                        ]
+                     ],
+                     "list19" : [
+                        [
+                           "unparsed",
+                           "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022一宮 (一宮市)\u0022>一宮\u003C/mw:l>\u003Csmall xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>（一部）\u003C/small>"
+                        ]
                      ],
                      "list2" : [
-                        "with-comment",
                         [
-                           "list",
-                           [
-                              "l",
-                              "起",
-                              "起"
-                           ],
-                           [
-                              "l",
-                              "開明",
-                              "開明 (一宮市)"
-                           ],
-                           [
-                              "l",
-                              "篭屋",
-                              "篭屋"
-                           ],
-                           [
-                              "l",
-                              "上祖父江",
-                              "上祖父江"
-                           ],
-                           [
-                              "l",
-                              "北今",
-                              "北今"
-                           ],
-                           [
-                              "l",
-                              "小信中島",
-                              "小信中島"
-                           ],
-                           [
-                              "l",
-                              "三条",
-                              "三条 (一宮市)"
-                           ],
-                           [
-                              "l",
-                              "玉野",
-                              "玉野 (一宮市)"
-                           ],
-                           [
-                              "l",
-                              "冨田",
-                              "冨田 (一宮市)"
-                           ],
-                           [
-                              "l",
-                              "西五城",
-                              "西五城"
-                           ],
-                           [
-                              "l",
-                              "西中野",
-                              "西中野 (一宮市)"
-                           ],
-                           [
-                              "l",
-                              "西萩原",
-                              "西萩原"
-                           ],
-                           [
-                              "l",
-                              "蓮池",
-                              "蓮池 (一宮市)"
-                           ],
-                           [
-                              "l",
-                              "東五城",
-                              "東五城"
-                           ],
-                           [
-                              "l",
-                              "東加賀野井",
-                              "東加賀野井"
-                           ],
-                           [
-                              "l",
-                              "明地",
-                              "明地 (一宮市)"
-                           ],
-                           [
-                              "l",
-                              "祐久",
-                              "祐久"
-                           ]
+                           "unparsed",
+                           "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022一宮 (一宮市)\u0022>一宮\u003C/mw:l>\u003Csmall xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>（一部）\u003C/small>"
                         ],
-                        "-http://www.post.japanpost.jp/cgi-zip/zipcode.php?pref=23&city=1232181&cmp=1&mode=list&addr=によった"
+                        [
+                           "unparsed",
+                           "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022大江 (一宮市)\u0022>大江\u003C/mw:l>☆\u003Csmall xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>（一部）\u003C/small>"
+                        ],
+                        [
+                           "unparsed",
+                           "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022小原町 (一宮市)\u0022>小原町\u003C/mw:l>\u003Csmall xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>（一部）\u003C/small>"
+                        ],
+                        [
+                           "unparsed",
+                           "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022桜 (一宮市)\u0022>桜\u003C/mw:l>☆\u003Csmall xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>（一部）\u003C/small>"
+                        ],
+                        [
+                           "unparsed",
+                           "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>常願通\u003C/mw:l>\u003Csmall xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>（一部）\u003C/small>"
+                        ],
+                        [
+                           "unparsed",
+                           "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022高畑町 (一宮市)\u0022>高畑町\u003C/mw:l>\u003Csmall xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>（一部）\u003C/small>"
+                        ],
+                        [
+                           "unparsed",
+                           "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022寺島町 (一宮市)\u0022>寺島町\u003C/mw:l>\u003Csmall xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>（一部）\u003C/small>"
+                        ],
+                        [
+                           "unparsed",
+                           "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>中島通\u003C/mw:l>\u003Csmall xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>（一部）\u003C/small>"
+                        ],
+                        [
+                           "unparsed",
+                           "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>西小原町\u003C/mw:l>\u003Csmall xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>（一部）\u003C/small>"
+                        ],
+                        [
+                           "unparsed",
+                           "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022丹羽 (一宮市)\u0022>丹羽\u003C/mw:l>\u003Csmall xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>（一部）\u003C/small>"
+                        ],
+                        [
+                           "unparsed",
+                           "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022文京 (一宮市)\u0022>文京\u003C/mw:l>☆\u003Csmall xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>（一部）\u003C/small>"
+                        ],
+                        [
+                           "unparsed",
+                           "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022本町 (一宮市)\u0022>本町\u003C/mw:l>☆\u003Csmall xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>（一部）\u003C/small>"
+                        ],
+                        [
+                           "unparsed",
+                           "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>真清田\u003C/mw:l>☆\u003Csmall xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>（一部）\u003C/small>"
+                        ],
+                        [
+                           "unparsed",
+                           "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>松降\u003C/mw:l>☆\u003Csmall xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>（一部）\u003C/small>"
+                        ]
                      ],
                      "list3" : [
-                        "with-comment",
                         [
-                           "list",
-                           [
-                              "l",
-                              "内割田",
-                              "木曽川町内割田"
-                           ],
-                           [
-                              "l",
-                              "門間",
-                              "木曽川町門間"
-                           ],
-                           [
-                              "l",
-                              "黒田",
-                              "木曽川町黒田"
-                           ],
-                           [
-                              "l",
-                              "里小牧",
-                              "木曽川町里小牧"
-                           ],
-                           [
-                              "l",
-                              "外割田",
-                              "木曽川町外割田"
-                           ],
-                           [
-                              "l",
-                              "玉ノ井",
-                              "木曽川町玉ノ井"
-                           ],
-                           [
-                              "l",
-                              "三ツ法寺",
-                              "木曽川町三ツ法寺"
-                           ]
+                           "unparsed",
+                           "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022栄 (一宮市)\u0022>栄\u003C/mw:l>☆\u003Csmall xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>（一部）\u003C/small>"
                         ],
-                        "http://www.post.japanpost.jp/cgi-zip/zipcode.php?pref=23&city=1233811&cmp=1&mode=list&addr=によった"
+                        [
+                           "unparsed",
+                           "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022昭和 (一宮市)\u0022>昭和\u003C/mw:l>☆\u003Csmall xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>（一部）\u003C/small>"
+                        ],
+                        [
+                           "unparsed",
+                           "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022中町 (一宮市)\u0022>中町\u003C/mw:l>☆\u003Csmall xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>（一部）\u003C/small>"
+                        ],
+                        [
+                           "unparsed",
+                           "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>大和町馬引\u003C/mw:l>\u003Csmall xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>（一部）\u003C/small>"
+                        ]
                      ],
                      "list4" : [
-                        "with-comment",
                         [
-                           "list"
+                           "unparsed",
+                           "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022大江 (一宮市)\u0022>大江\u003C/mw:l>☆\u003Csmall xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>（一部）\u003C/small>"
                         ],
-                        "http://www.city.ichinomiya.aichi.jp/division/machi/kukaku/jukyo/doc/juukyohyoujiichiran.pdfによる"
+                        [
+                           "unparsed",
+                           "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022公園通 (一宮市)\u0022>公園通\u003C/mw:l>\u003Csmall xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>（一部）\u003C/small>"
+                        ],
+                        [
+                           "unparsed",
+                           "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022栄 (一宮市)\u0022>栄\u003C/mw:l>☆\u003Csmall xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>（一部）\u003C/small>"
+                        ],
+                        [
+                           "unparsed",
+                           "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022本町 (一宮市)\u0022>本町\u003C/mw:l>☆\u003Csmall xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>（一部）\u003C/small>"
+                        ]
+                     ],
+                     "list5" : [
+                        [
+                           "unparsed",
+                           "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022一宮 (一宮市)\u0022>一宮\u003C/mw:l>\u003Csmall xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>（一部）\u003C/small>"
+                        ],
+                        [
+                           "unparsed",
+                           "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>印田通\u003C/mw:l>\u003Csmall xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>（一部）\u003C/small>"
+                        ],
+                        [
+                           "unparsed",
+                           "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022公園通 (一宮市)\u0022>公園通\u003C/mw:l>\u003Csmall xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>（一部）\u003C/small>"
+                        ],
+                        [
+                           "unparsed",
+                           "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>大和町宮地花池\u003C/mw:l>\u003Csmall xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>（一部）\u003C/small>"
+                        ]
+                     ],
+                     "list6" : [
+                        [
+                           "unparsed",
+                           "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>赤見\u003C/mw:l>☆\u003Csmall xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>（一部）\u003C/small>"
+                        ],
+                        [
+                           "unparsed",
+                           "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>印田通\u003C/mw:l>\u003Csmall xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>（一部）\u003C/small>"
+                        ],
+                        [
+                           "unparsed",
+                           "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>大赤見\u003C/mw:l>\u003Csmall xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>（一部）\u003C/small>"
+                        ],
+                        [
+                           "unparsed",
+                           "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022桜 (一宮市)\u0022>桜\u003C/mw:l>☆\u003Csmall xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>（一部）\u003C/small>"
+                        ],
+                        [
+                           "unparsed",
+                           "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>城崎通\u003C/mw:l>\u003Csmall xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>（一部）\u003C/small>"
+                        ],
+                        [
+                           "unparsed",
+                           "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022緑 (一宮市)\u0022>緑\u003C/mw:l>☆\u003Csmall xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>（一部）\u003C/small>"
+                        ]
+                     ],
+                     "list7" : [
+                        [
+                           "unparsed",
+                           "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>浅井町大日比野\u003C/mw:l>\u003Csmall xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>（一部）\u003C/small>"
+                        ],
+                        [
+                           "unparsed",
+                           "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022北神明町 (一宮市)\u0022>北神明町\u003C/mw:l>\u003Csmall xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>（一部）\u003C/small>"
+                        ],
+                        [
+                           "unparsed",
+                           "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022更屋敷 (一宮市)\u0022>更屋敷\u003C/mw:l>\u003Csmall xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>（一部）\u003C/small>"
+                        ],
+                        [
+                           "unparsed",
+                           "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022西島町 (一宮市)\u0022>西島町\u003C/mw:l>\u003Csmall xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>（一部）\u003C/small>"
+                        ]
+                     ],
+                     "list8" : [
+                        [
+                           "unparsed",
+                           "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>赤見\u003C/mw:l>☆\u003Csmall xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>（一部）\u003C/small>"
+                        ],
+                        [
+                           "unparsed",
+                           "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>大赤見\u003C/mw:l>\u003Csmall xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>（一部）\u003C/small>"
+                        ],
+                        [
+                           "unparsed",
+                           "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022小原町 (一宮市)\u0022>小原町\u003C/mw:l>\u003Csmall xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>（一部）\u003C/small>"
+                        ],
+                        [
+                           "unparsed",
+                           "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>瀬部\u003C/mw:l>\u003Csmall xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>（一部）\u003C/small>"
+                        ],
+                        [
+                           "unparsed",
+                           "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>千秋町加茂\u003C/mw:l>\u003Csmall xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>（一部）\u003C/small>"
+                        ],
+                        [
+                           "unparsed",
+                           "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>西小原町\u003C/mw:l>\u003Csmall xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>（一部）\u003C/small>"
+                        ],
+                        [
+                           "unparsed",
+                           "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022丹羽 (一宮市)\u0022>丹羽\u003C/mw:l>\u003Csmall xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>（一部）\u003C/small>"
+                        ],
+                        [
+                           "unparsed",
+                           "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022緑 (一宮市)\u0022>緑\u003C/mw:l>☆\u003Csmall xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>（一部）\u003C/small>"
+                        ],
+                        [
+                           "unparsed",
+                           "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022若竹 (一宮市)\u0022>若竹\u003C/mw:l>☆\u003Csmall xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>（一部）\u003C/small>"
+                        ],
+                        [
+                           "unparsed",
+                           "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022森本 (一宮市)\u0022>森本\u003C/mw:l>☆\u003Csmall xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>（一部）\u003C/small>"
+                        ]
+                     ],
+                     "list9" : [
+                        [
+                           "unparsed",
+                           "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022若竹 (一宮市)\u0022>若竹\u003C/mw:l>☆\u003Csmall xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>（一部）\u003C/small>"
+                        ],
+                        [
+                           "unparsed",
+                           "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022森本 (一宮市)\u0022>森本\u003C/mw:l>☆\u003Csmall xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>（一部）\u003C/small>"
+                        ]
                      ]
                   },
                   "lists" : [
                      {
-                        "title" : "旧一宮市\u000A"
+                        "items" : [
+                           {
+                              "title" : "乾町",
+                              "wref" : "乾町 (一宮市)"
+                           },
+                           {
+                              "title" : "小栗町",
+                              "wref" : "小栗町 (一宮市)"
+                           },
+                           {
+                              "title" : "大宮☆",
+                              "wref" : "大宮 (一宮市)"
+                           },
+                           {
+                              "title" : "音羽☆",
+                              "wref" : "音羽 (一宮市)"
+                           },
+                           {
+                              "title" : "三丹町",
+                              "wref" : "三丹町"
+                           },
+                           {
+                              "title" : "長島町",
+                              "wref" : "長島町 (一宮市)"
+                           },
+                           {
+                              "title" : "北丹町",
+                              "wref" : "北丹町"
+                           },
+                           {
+                              "title" : "水落町",
+                              "wref" : "水落町"
+                           },
+                           {
+                              "title" : "宮西通",
+                              "wref" : "宮西通"
+                           }
+                        ],
+                        "title" : "宮西\u000A"
                      },
                      {
-                        "title" : "旧尾西市",
-                        "wref" : "尾西市"
+                        "items" : [
+                           {
+                              "title" : "大浜☆",
+                              "wref" : "大浜 (一宮市)"
+                           },
+                           {
+                              "title" : "観音町",
+                              "wref" : "観音町 (一宮市)"
+                           },
+                           {
+                              "title" : "貴船☆",
+                              "wref" : "貴船 (一宮市)"
+                           },
+                           {
+                              "title" : "貴船町",
+                              "wref" : "貴船 (一宮市)"
+                           },
+                           {
+                              "title" : "古見町",
+                              "wref" : "古見町"
+                           },
+                           {
+                              "title" : "下沼町",
+                              "wref" : "下沼町"
+                           },
+                           {
+                              "title" : "田島町",
+                              "wref" : "田島町 (一宮市)"
+                           },
+                           {
+                              "title" : "東島町",
+                              "wref" : "東島町"
+                           },
+                           {
+                              "title" : "別明町",
+                              "wref" : "別明町"
+                           },
+                           {
+                              "title" : "松降通",
+                              "wref" : "松降通"
+                           },
+                           {
+                              "title" : "松山町",
+                              "wref" : "松山町 (一宮市)"
+                           },
+                           {
+                              "title" : "両郷町",
+                              "wref" : "両郷町"
+                           },
+                           {
+                              "title" : "枠杁町",
+                              "wref" : "枠杁町"
+                           },
+                           {
+                              "title" : "東両郷町",
+                              "wref" : "東両郷町"
+                           }
+                        ],
+                        "title" : "貴船\u000A"
                      },
                      {
-                        "title" : "旧木曽川町",
-                        "wref" : "木曽川町"
+                        "items" : [
+                           {
+                              "title" : "一色町",
+                              "wref" : "一色町 (一宮市)"
+                           },
+                           {
+                              "title" : "神山",
+                              "wref" : "神山 (一宮市)"
+                           },
+                           {
+                              "title" : "神戸町",
+                              "wref" : "神戸町 (一宮市)"
+                           },
+                           {
+                              "title" : "北浦町",
+                              "wref" : "北浦町 (一宮市)"
+                           },
+                           {
+                              "title" : "新生☆",
+                              "wref" : "新生 (一宮市)"
+                           },
+                           {
+                              "title" : "天王☆",
+                              "wref" : "天王 (一宮市)"
+                           },
+                           {
+                              "title" : "西出町",
+                              "wref" : "西出町"
+                           },
+                           {
+                              "title" : "野口☆",
+                              "wref" : "野口 (一宮市)"
+                           },
+                           {
+                              "title" : "八幡☆",
+                              "wref" : "八幡 (一宮市)"
+                           },
+                           {
+                              "title" : "東出町",
+                              "wref" : "東出町"
+                           },
+                           {
+                              "title" : "深坪町",
+                              "wref" : "深坪町 (一宮市)"
+                           },
+                           {
+                              "title" : "平和☆",
+                              "wref" : "平和 (一宮市)"
+                           },
+                           {
+                              "title" : "南出町",
+                              "wref" : "南出町"
+                           }
+                        ],
+                        "title" : "神山\u000A"
                      },
                      {
-                        "title" : "註\u000A"
+                        "items" : [
+                           {
+                              "title" : "石山町",
+                              "wref" : "石山町 (一宮市)"
+                           },
+                           {
+                              "title" : "川田町",
+                              "wref" : "川田町 (一宮市)"
+                           },
+                           {
+                              "title" : "大志☆",
+                              "wref" : "大志"
+                           },
+                           {
+                              "title" : "本町通",
+                              "wref" : "本町通 (一宮市)"
+                           },
+                           {
+                              "title" : "明治通",
+                              "wref" : "明治通 (一宮市)"
+                           }
+                        ],
+                        "title" : "大志\u000A"
+                     },
+                     {
+                        "items" : [
+                           {
+                              "title" : "牛野通",
+                              "wref" : "牛野通"
+                           },
+                           {
+                              "title" : "北園通",
+                              "wref" : "北園通"
+                           },
+                           {
+                              "title" : "古金町",
+                              "wref" : "古金町 (一宮市)"
+                           },
+                           {
+                              "title" : "下川田町",
+                              "wref" : "下川田町"
+                           },
+                           {
+                              "title" : "殿町",
+                              "wref" : "殿町"
+                           },
+                           {
+                              "title" : "中町☆",
+                              "wref" : "中町 (一宮市)"
+                           },
+                           {
+                              "title" : "八町通",
+                              "wref" : "八町通 (一宮市)"
+                           },
+                           {
+                              "title" : "東印田町",
+                              "wref" : "東印田町"
+                           },
+                           {
+                              "title" : "松島町",
+                              "wref" : "松島町 (一宮市)"
+                           },
+                           {
+                              "title" : "水附町",
+                              "wref" : "水附町"
+                           },
+                           {
+                              "title" : "向山町",
+                              "wref" : "向山町 (一宮市)"
+                           },
+                           {
+                              "title" : "柳戸町",
+                              "wref" : "柳戸町"
+                           },
+                           {
+                              "title" : "向山南☆",
+                              "wref" : "向山南"
+                           },
+                           {
+                              "title" : "相生☆",
+                              "wref" : "相生 (一宮市)"
+                           },
+                           {
+                              "title" : "下田☆",
+                              "wref" : "下田 (一宮市)"
+                           },
+                           {
+                              "title" : "南印田☆",
+                              "wref" : "南印田"
+                           }
+                        ],
+                        "title" : "向山\u000A"
+                     },
+                     {
+                        "items" : [
+                           {
+                              "title" : "朝日☆",
+                              "wref" : "朝日 (一宮市)"
+                           },
+                           {
+                              "title" : "泉☆",
+                              "wref" : "泉 (一宮市)"
+                           },
+                           {
+                              "title" : "白旗通",
+                              "wref" : "白旗通"
+                           },
+                           {
+                              "title" : "羽衣☆",
+                              "wref" : "羽衣 (一宮市)"
+                           },
+                           {
+                              "title" : "浜町",
+                              "wref" : "浜町 (一宮市)"
+                           },
+                           {
+                              "title" : "富士☆",
+                              "wref" : "富士 (一宮市)"
+                           },
+                           {
+                              "title" : "藤塚町",
+                              "wref" : "藤塚町"
+                           },
+                           {
+                              "title" : "和光☆",
+                              "wref" : "和光 (一宮市)"
+                           }
+                        ],
+                        "title" : "富士\u000A"
+                     },
+                     {
+                        "items" : [
+                           {
+                              "title" : "大毛",
+                              "wref" : "大毛"
+                           },
+                           {
+                              "title" : "光明寺",
+                              "wref" : "光明寺 (一宮市)"
+                           },
+                           {
+                              "title" : "笹野",
+                              "wref" : "笹野 (一宮市)"
+                           },
+                           {
+                              "title" : "佐千原",
+                              "wref" : "佐千原"
+                           },
+                           {
+                              "title" : "島村",
+                              "wref" : "島村 (一宮市)"
+                           },
+                           {
+                              "title" : "杉山",
+                              "wref" : "杉山 (一宮市)"
+                           },
+                           {
+                              "title" : "高田",
+                              "wref" : "高田 (一宮市)"
+                           },
+                           {
+                              "title" : "田所",
+                              "wref" : "田所 (一宮市)"
+                           },
+                           {
+                              "title" : "富塚",
+                              "wref" : "富塚 (一宮市)"
+                           }
+                        ],
+                        "title" : "葉栗\u000A"
+                     },
+                     {
+                        "items" : [
+                           {
+                              "title" : "浅野",
+                              "wref" : "浅野 (一宮市)"
+                           },
+                           {
+                              "title" : "北小渕",
+                              "wref" : "北小渕"
+                           },
+                           {
+                              "title" : "小赤見",
+                              "wref" : "小赤見"
+                           },
+                           {
+                              "title" : "春明",
+                              "wref" : "春明"
+                           },
+                           {
+                              "title" : "定水寺",
+                              "wref" : "定水寺"
+                           },
+                           {
+                              "title" : "時之島",
+                              "wref" : "時之島"
+                           },
+                           {
+                              "title" : "西大海道",
+                              "wref" : "西大海道"
+                           },
+                           {
+                              "title" : "馬見塚",
+                              "wref" : "馬見塚"
+                           },
+                           {
+                              "title" : "南小渕",
+                              "wref" : "南小渕"
+                           },
+                           {
+                              "title" : "柚木颪",
+                              "wref" : "柚木颪"
+                           }
+                        ],
+                        "title" : "西成\u000A"
+                     },
+                     {
+                        "items" : [
+                           {
+                              "title" : "あずら☆",
+                              "wref" : "あずら"
+                           },
+                           {
+                              "title" : "島崎☆",
+                              "wref" : "島崎 (一宮市)"
+                           },
+                           {
+                              "title" : "せんい☆",
+                              "wref" : "せんい"
+                           },
+                           {
+                              "title" : "丹陽町五日市場",
+                              "wref" : "丹陽町五日市場"
+                           },
+                           {
+                              "title" : "丹陽町九日市場",
+                              "wref" : "丹陽町九日市場"
+                           },
+                           {
+                              "title" : "丹陽町重吉",
+                              "wref" : "丹陽町重吉"
+                           },
+                           {
+                              "title" : "丹陽町多加木",
+                              "wref" : "丹陽町多加木"
+                           },
+                           {
+                              "title" : "丹陽町伝法寺",
+                              "wref" : "丹陽町伝法寺"
+                           },
+                           {
+                              "title" : "丹陽町外崎",
+                              "wref" : "丹陽町外崎"
+                           },
+                           {
+                              "title" : "丹陽町三ツ井",
+                              "wref" : "丹陽町三ツ井"
+                           },
+                           {
+                              "title" : "丹陽町森本",
+                              "wref" : "丹陽町森本"
+                           },
+                           {
+                              "title" : "平島☆",
+                              "wref" : "平島 (一宮市)"
+                           },
+                           {
+                              "title" : "平安☆",
+                              "wref" : "平安 (一宮市)"
+                           },
+                           {
+                              "title" : "多加木☆",
+                              "wref" : "多加木"
+                           },
+                           {
+                              "title" : "三ツ井☆",
+                              "wref" : "三ツ井"
+                           },
+                           {
+                              "title" : "猿海道☆",
+                              "wref" : "猿海道"
+                           }
+                        ],
+                        "title" : "丹陽町\u000A"
+                     },
+                     {
+                        "items" : [
+                           {
+                              "title" : "浅井町江森",
+                              "wref" : "浅井町江森"
+                           },
+                           {
+                              "title" : "浅井町大野",
+                              "wref" : "浅井町大野"
+                           },
+                           {
+                              "title" : "浅井町尾関",
+                              "wref" : "浅井町尾関"
+                           },
+                           {
+                              "title" : "浅井町黒岩",
+                              "wref" : "浅井町黒岩"
+                           },
+                           {
+                              "title" : "浅井町河田",
+                              "wref" : "浅井町河田"
+                           },
+                           {
+                              "title" : "浅井町河端",
+                              "wref" : "浅井町河端"
+                           },
+                           {
+                              "title" : "浅井町小日比野",
+                              "wref" : "浅井町小日比野"
+                           },
+                           {
+                              "title" : "浅井町極楽寺",
+                              "wref" : "浅井町極楽寺"
+                           },
+                           {
+                              "title" : "浅井町西浅井",
+                              "wref" : "浅井町西浅井"
+                           },
+                           {
+                              "title" : "浅井町西海戸",
+                              "wref" : "浅井町西海戸"
+                           },
+                           {
+                              "title" : "浅井町東浅井",
+                              "wref" : "浅井町東浅井"
+                           },
+                           {
+                              "title" : "浅井町前野",
+                              "wref" : "浅井町前野"
+                           }
+                        ],
+                        "title" : "浅井町\u000A"
+                     },
+                     {
+                        "items" : [
+                           {
+                              "title" : "北方町北方",
+                              "wref" : "北方町北方"
+                           },
+                           {
+                              "title" : "北方町曽根",
+                              "wref" : "北方町曽根"
+                           },
+                           {
+                              "title" : "北方町中島",
+                              "wref" : "北方町中島"
+                           }
+                        ],
+                        "title" : "北方町\u000A"
+                     },
+                     {
+                        "items" : [
+                           {
+                              "title" : "苅安賀☆",
+                              "wref" : "苅安賀"
+                           },
+                           {
+                              "title" : "観音寺☆",
+                              "wref" : "観音寺 (一宮市)"
+                           },
+                           {
+                              "title" : "末広☆",
+                              "wref" : "末広 (一宮市)"
+                           },
+                           {
+                              "title" : "住吉☆",
+                              "wref" : "住吉 (一宮市)"
+                           },
+                           {
+                              "title" : "竹橋町",
+                              "wref" : "竹橋町 (一宮市)"
+                           },
+                           {
+                              "title" : "寺前町",
+                              "wref" : "寺前町 (一宮市)"
+                           },
+                           {
+                              "title" : "日光町",
+                              "wref" : "日光町 (一宮市)"
+                           },
+                           {
+                              "title" : "花池☆",
+                              "wref" : "花池"
+                           },
+                           {
+                              "title" : "宮地☆",
+                              "wref" : "宮地 (一宮市)"
+                           },
+                           {
+                              "title" : "妙興寺☆",
+                              "wref" : "妙興寺 (地名)"
+                           },
+                           {
+                              "title" : "大和町氏永",
+                              "wref" : "大和町氏永"
+                           },
+                           {
+                              "title" : "大和町於保",
+                              "wref" : "大和町於保"
+                           },
+                           {
+                              "title" : "大和町苅安賀",
+                              "wref" : "大和町苅安賀"
+                           },
+                           {
+                              "title" : "大和町北高井",
+                              "wref" : "大和町北高井"
+                           },
+                           {
+                              "title" : "大和町戸塚",
+                              "wref" : "大和町戸塚"
+                           },
+                           {
+                              "title" : "大和町福森",
+                              "wref" : "大和町福森"
+                           },
+                           {
+                              "title" : "大和町南高井",
+                              "wref" : "大和町南高井"
+                           },
+                           {
+                              "title" : "大和町妙興寺",
+                              "wref" : "大和町妙興寺"
+                           },
+                           {
+                              "title" : "大和町毛受",
+                              "wref" : "大和町毛受"
+                           }
+                        ],
+                        "title" : "大和町\u000A"
+                     },
+                     {
+                        "items" : [
+                           {
+                              "title" : "今伊勢町馬寄",
+                              "wref" : "今伊勢町馬寄"
+                           },
+                           {
+                              "title" : "今伊勢町新神戸",
+                              "wref" : "今伊勢町新神戸"
+                           },
+                           {
+                              "title" : "今伊勢町本神戸",
+                              "wref" : "今伊勢町本神戸"
+                           },
+                           {
+                              "title" : "今伊勢町宮後",
+                              "wref" : "今伊勢町宮後"
+                           }
+                        ],
+                        "title" : "今伊勢町\u000A"
+                     },
+                     {
+                        "items" : [
+                           {
+                              "value" : "奥町",
+                              "wref" : "奥町"
+                           }
+                        ],
+                        "title" : "奥町\u000A"
+                     },
+                     {
+                        "items" : [
+                           {
+                              "title" : "萩原町朝宮",
+                              "wref" : "萩原町朝宮"
+                           },
+                           {
+                              "title" : "萩原町河田方",
+                              "wref" : "萩原町河田方"
+                           },
+                           {
+                              "title" : "萩原町串作",
+                              "wref" : "萩原町串作"
+                           },
+                           {
+                              "title" : "萩原町高木",
+                              "wref" : "萩原町高木"
+                           },
+                           {
+                              "title" : "萩原町高松",
+                              "wref" : "萩原町高松"
+                           },
+                           {
+                              "title" : "萩原町滝",
+                              "wref" : "萩原町滝"
+                           },
+                           {
+                              "title" : "萩原町築込",
+                              "wref" : "萩原町築込"
+                           },
+                           {
+                              "title" : "萩原町戸苅",
+                              "wref" : "萩原町戸苅"
+                           },
+                           {
+                              "title" : "萩原町富田方",
+                              "wref" : "萩原町富田方"
+                           },
+                           {
+                              "title" : "萩原町中島",
+                              "wref" : "萩原町中島"
+                           },
+                           {
+                              "title" : "萩原町西御堂",
+                              "wref" : "萩原町西御堂"
+                           },
+                           {
+                              "title" : "萩原町西宮重",
+                              "wref" : "萩原町西宮重"
+                           },
+                           {
+                              "title" : "萩原町萩原",
+                              "wref" : "萩原町萩原 (一宮市)"
+                           },
+                           {
+                              "title" : "萩原町花井方",
+                              "wref" : "萩原町花井方"
+                           },
+                           {
+                              "title" : "萩原町林野",
+                              "wref" : "萩原町林野"
+                           },
+                           {
+                              "title" : "萩原町東宮重",
+                              "wref" : "萩原町東宮重"
+                           }
+                        ],
+                        "title" : "萩原町\u000A"
+                     },
+                     {
+                        "items" : [
+                           {
+                              "title" : "千秋町浅野羽根",
+                              "wref" : "千秋町浅野羽根"
+                           },
+                           {
+                              "title" : "千秋町一色",
+                              "wref" : "千秋町一色"
+                           },
+                           {
+                              "title" : "千秋町浮野",
+                              "wref" : "千秋町浮野"
+                           },
+                           {
+                              "title" : "千秋町小山",
+                              "wref" : "千秋町小山"
+                           },
+                           {
+                              "title" : "千秋町勝栗",
+                              "wref" : "千秋町勝栗"
+                           },
+                           {
+                              "title" : "千秋町加納馬場",
+                              "wref" : "千秋町加納馬場"
+                           },
+                           {
+                              "title" : "千秋町佐野",
+                              "wref" : "千秋町佐野"
+                           },
+                           {
+                              "title" : "千秋町塩尻",
+                              "wref" : "千秋町塩尻"
+                           },
+                           {
+                              "title" : "千秋町芝原",
+                              "wref" : "千秋町芝原"
+                           },
+                           {
+                              "title" : "千秋町天摩",
+                              "wref" : "千秋町天摩"
+                           },
+                           {
+                              "title" : "千秋町穂積塚本",
+                              "wref" : "千秋町穂積塚本"
+                           },
+                           {
+                              "title" : "千秋町町屋",
+                              "wref" : "千秋町町屋"
+                           }
+                        ],
+                        "title" : "千秋町\u000A"
+                     },
+                     {
+                        "items" : [
+                           {
+                              "title" : "起",
+                              "wref" : "起"
+                           },
+                           {
+                              "title" : "小信中島",
+                              "wref" : "小信中島"
+                           },
+                           {
+                              "title" : "開明",
+                              "wref" : "開明 (一宮市)"
+                           },
+                           {
+                              "title" : "三条",
+                              "wref" : "三条 (一宮市)"
+                           },
+                           {
+                              "title" : "東五城",
+                              "wref" : "東五城"
+                           },
+                           {
+                              "title" : "篭屋☆",
+                              "wref" : "篭屋"
+                           },
+                           {
+                              "title" : "西五城",
+                              "wref" : "西五城"
+                           },
+                           {
+                              "title" : "東五城",
+                              "wref" : "東五城"
+                           },
+                           {
+                              "title" : "北今",
+                              "wref" : "北今"
+                           },
+                           {
+                              "title" : "冨田",
+                              "wref" : "冨田 (一宮市)"
+                           },
+                           {
+                              "title" : "東加賀野井",
+                              "wref" : "東加賀野井"
+                           },
+                           {
+                              "title" : "上祖父江",
+                              "wref" : "上祖父江"
+                           },
+                           {
+                              "title" : "玉野",
+                              "wref" : "玉野 (一宮市)"
+                           },
+                           {
+                              "title" : "西中野",
+                              "wref" : "西中野 (一宮市)"
+                           },
+                           {
+                              "title" : "西萩原",
+                              "wref" : "西萩原"
+                           },
+                           {
+                              "title" : "蓮池",
+                              "wref" : "蓮池 (一宮市)"
+                           },
+                           {
+                              "title" : "明地",
+                              "wref" : "明地 (一宮市)"
+                           },
+                           {
+                              "title" : "祐久",
+                              "wref" : "祐久"
+                           }
+                        ],
+                        "title" : "起 外5地区"
+                     },
+                     {
+                        "items" : [
+                           {
+                              "title" : "木曽川町内割田",
+                              "wref" : "木曽川町内割田"
+                           },
+                           {
+                              "title" : "木曽川町門間",
+                              "wref" : "木曽川町門間"
+                           },
+                           {
+                              "title" : "木曽川町黒田",
+                              "wref" : "木曽川町黒田"
+                           },
+                           {
+                              "title" : "木曽川町里小牧",
+                              "wref" : "木曽川町里小牧"
+                           },
+                           {
+                              "title" : "木曽川町外割田",
+                              "wref" : "木曽川町外割田"
+                           },
+                           {
+                              "title" : "木曽川町玉ノ井",
+                              "wref" : "木曽川町玉ノ井"
+                           },
+                           {
+                              "title" : "木曽川町三ツ法寺",
+                              "wref" : "木曽川町三ツ法寺"
+                           }
+                        ],
+                        "title" : "木曽川町\u000A"
+                     },
+                     {
+                        "items" : [
+                           {
+                              "title" : "大正通",
+                              "wref" : "大正通 (一宮市)"
+                           }
+                        ],
+                        "title" : "その他\u000A"
                      }
                   ],
                   "title" : "一宮市の町・字\u000A",
@@ -9404,6 +10424,10 @@
                            {
                               "value" : "寺崎",
                               "wref" : "寺崎 (佐倉市)"
+                           },
+                           {
+                              "value" : "寺崎北",
+                              "wref" : "寺崎北"
                            },
                            {
                               "value" : "六崎",
@@ -21788,6 +22812,10 @@
                               "wref" : "北久保 (君津市)"
                            },
                            {
+                              "value" : "北子安",
+                              "wref" : "北子安"
+                           },
+                           {
                               "value" : "君津",
                               "wref" : "君津 (君津市)"
                            },
@@ -21866,6 +22894,10 @@
                            {
                               "value" : "八幡",
                               "wref" : "八幡 (君津市)"
+                           },
+                           {
+                              "value" : "陽光台",
+                              "wref" : "陽光台 (君津市)"
                            }
                         ]
                      },
@@ -24501,6 +25533,332 @@
    },
    "Template:安中市の町名" : {
       "Template:安中市の町名" : {
+         "includes" : {
+            "Navbox" : [
+               {
+                  "_errors" : {
+                     "group11" : [
+                        "list",
+                        {
+                           "value" : "松井田地域"
+                        },
+                        {
+                           "value" : " （旧松井田町）\u000A",
+                           "wref" : "松井田町"
+                        }
+                     ]
+                  },
+                  "lists" : [
+                     {
+                        "items" : [
+                           {
+                              "lists" : [
+                                 {
+                                    "items" : [
+                                       {
+                                          "title" : "中宿",
+                                          "wref" : "中宿"
+                                       },
+                                       {
+                                          "title" : "安中",
+                                          "wref" : "安中"
+                                       },
+                                       {
+                                          "title" : "高別当",
+                                          "wref" : "高別当"
+                                       },
+                                       {
+                                          "title" : "古屋",
+                                          "wref" : "古屋 (安中市)"
+                                       },
+                                       {
+                                          "title" : "小俣",
+                                          "wref" : "小俣"
+                                       }
+                                    ],
+                                    "title" : "安中地区\u000A"
+                                 },
+                                 {
+                                    "items" : [
+                                       {
+                                          "title" : "岩井",
+                                          "wref" : "岩井 (安中市)"
+                                       },
+                                       {
+                                          "title" : "野殿",
+                                          "wref" : "野殿"
+                                       },
+                                       {
+                                          "title" : "大谷",
+                                          "wref" : "大谷 (安中市)"
+                                       }
+                                    ],
+                                    "title" : "岩野谷地区\u000A"
+                                 },
+                                 {
+                                    "items" : [
+                                       {
+                                          "title" : "板鼻",
+                                          "wref" : "板鼻"
+                                       }
+                                    ],
+                                    "title" : "板鼻地区\u000A"
+                                 },
+                                 {
+                                    "items" : [
+                                       {
+                                          "title" : "西上秋間",
+                                          "wref" : "西上秋間"
+                                       },
+                                       {
+                                          "title" : "東上秋間",
+                                          "wref" : "東上秋間"
+                                       },
+                                       {
+                                          "title" : "中秋間",
+                                          "wref" : "中秋間"
+                                       },
+                                       {
+                                          "title" : "下秋間",
+                                          "wref" : "下秋間"
+                                       },
+                                       {
+                                          "title" : "秋間みのりが丘",
+                                          "wref" : "秋間みのりが丘"
+                                       }
+                                    ],
+                                    "title" : "秋間地区\u000A"
+                                 }
+                              ]
+                           }
+                        ],
+                        "title" : "安中・秋間地域\u000A"
+                     },
+                     {
+                        "items" : [
+                           {
+                              "lists" : [
+                                 {
+                                    "items" : [
+                                       {
+                                          "title" : "原市",
+                                          "wref" : "原市 (安中市)"
+                                       },
+                                       {
+                                          "title" : "郷原",
+                                          "wref" : "郷原"
+                                       },
+                                       {
+                                          "title" : "嶺",
+                                          "wref" : "嶺"
+                                       },
+                                       {
+                                          "title" : "簗瀬",
+                                          "wref" : "簗瀬"
+                                       }
+                                    ],
+                                    "title" : "原市地区\u000A"
+                                 },
+                                 {
+                                    "items" : [
+                                       {
+                                          "title" : "上磯部",
+                                          "wref" : "上磯部"
+                                       },
+                                       {
+                                          "title" : "磯部",
+                                          "wref" : "磯部 (安中市)"
+                                       },
+                                       {
+                                          "title" : "西上磯部",
+                                          "wref" : "西上磯部"
+                                       },
+                                       {
+                                          "title" : "東上磯部",
+                                          "wref" : "東上磯部"
+                                       },
+                                       {
+                                          "title" : "下磯部",
+                                          "wref" : "下磯部"
+                                       },
+                                       {
+                                          "title" : "大竹",
+                                          "wref" : "大竹 (安中市)"
+                                       }
+                                    ],
+                                    "title" : "磯部地区\u000A"
+                                 },
+                                 {
+                                    "items" : [
+                                       {
+                                          "title" : "中野谷",
+                                          "wref" : "中野谷"
+                                       },
+                                       {
+                                          "title" : "鶯宮",
+                                          "wref" : "鶯宮"
+                                       },
+                                       {
+                                          "title" : "上間仁田",
+                                          "wref" : "上間仁田"
+                                       },
+                                       {
+                                          "title" : "下間仁田",
+                                          "wref" : "下間仁田"
+                                       }
+                                    ],
+                                    "title" : "東横野地区\u000A"
+                                 },
+                                 {
+                                    "items" : [
+                                       {
+                                          "title" : "下後閑",
+                                          "wref" : "下後閑"
+                                       },
+                                       {
+                                          "title" : "中後閑",
+                                          "wref" : "中後閑"
+                                       },
+                                       {
+                                          "title" : "上後閑",
+                                          "wref" : "上後閑"
+                                       }
+                                    ],
+                                    "title" : "後閑地区\u000A"
+                                 }
+                              ]
+                           }
+                        ],
+                        "title" : "原市・磯部地域\u000A"
+                     },
+                     {
+                        "items" : [
+                           {
+                              "lists" : [
+                                 {
+                                    "items" : [
+                                       {
+                                          "title" : "松井田町新堀",
+                                          "wref" : "松井田町新堀"
+                                       },
+                                       {
+                                          "title" : "松井田町松井田",
+                                          "wref" : "松井田町松井田"
+                                       }
+                                    ],
+                                    "title" : "松井田地区\u000A"
+                                 },
+                                 {
+                                    "items" : [
+                                       {
+                                          "title" : "松井田町人見",
+                                          "wref" : "松井田町人見"
+                                       },
+                                       {
+                                          "title" : "松井田町二軒在家",
+                                          "wref" : "松井田町二軒在家"
+                                       },
+                                       {
+                                          "title" : "松井田町八城",
+                                          "wref" : "松井田町八城"
+                                       },
+                                       {
+                                          "title" : "松井田町行田",
+                                          "wref" : "松井田町行田"
+                                       }
+                                    ],
+                                    "title" : "西横野地区\u000A"
+                                 },
+                                 {
+                                    "items" : [
+                                       {
+                                          "title" : "松井田町横川",
+                                          "wref" : "松井田町横川"
+                                       },
+                                       {
+                                          "title" : "松井田町五料",
+                                          "wref" : "松井田町五料"
+                                       }
+                                    ],
+                                    "title" : "臼井地区\u000A"
+                                 },
+                                 {
+                                    "items" : [
+                                       {
+                                          "title" : "松井田町峠",
+                                          "wref" : "松井田町峠"
+                                       },
+                                       {
+                                          "title" : "松井田町坂本",
+                                          "wref" : "松井田町坂本"
+                                       },
+                                       {
+                                          "title" : "松井田町原",
+                                          "wref" : "松井田町原"
+                                       },
+                                       {
+                                          "title" : "松井田町入山",
+                                          "wref" : "松井田町入山"
+                                       },
+                                       {
+                                          "title" : "松井田町北野牧",
+                                          "wref" : "松井田町北野牧"
+                                       },
+                                       {
+                                          "title" : "松井田町西野牧",
+                                          "wref" : "松井田町西野牧"
+                                       }
+                                    ],
+                                    "title" : "坂本地区\u000A"
+                                 },
+                                 {
+                                    "items" : [
+                                       {
+                                          "title" : "松井田町下増田",
+                                          "wref" : "松井田町下増田"
+                                       },
+                                       {
+                                          "title" : "松井田町高梨子",
+                                          "wref" : "松井田町高梨子"
+                                       },
+                                       {
+                                          "title" : "松井田町国衙",
+                                          "wref" : "松井田町国衙"
+                                       },
+                                       {
+                                          "title" : "松井田町小日向",
+                                          "wref" : "松井田町小日向"
+                                       }
+                                    ],
+                                    "title" : "九十九地区\u000A"
+                                 },
+                                 {
+                                    "items" : [
+                                       {
+                                          "title" : "松井田町土塩",
+                                          "wref" : "松井田町土塩"
+                                       },
+                                       {
+                                          "title" : "松井田町新井",
+                                          "wref" : "松井田町新井"
+                                       },
+                                       {
+                                          "title" : "松井田町上増田",
+                                          "wref" : "松井田町上増田"
+                                       }
+                                    ],
+                                    "title" : "細野地区\u000A"
+                                 }
+                              ]
+                           }
+                        ]
+                     }
+                  ],
+                  "title" : "安中市の町名\u000A",
+                  "wref" : "安中市"
+               }
+            ]
+         }
       }
    },
    "Template:宜野湾市の大字" : {
@@ -27027,16 +28385,16 @@
                               "wref" : "西青木"
                            },
                            {
+                              "value" : "本前川",
+                              "wref" : "本前川"
+                           },
+                           {
                               "value" : "前上町",
                               "wref" : "前上町"
                            },
                            {
                               "value" : "前川",
                               "wref" : "前川 (川口市)"
-                           },
-                           {
-                              "value" : "前川町",
-                              "wref" : "前川町"
                            },
                            {
                               "value" : "南前川",
@@ -33369,8 +34727,7 @@
                               "wref" : "美郷台"
                            }
                         ],
-                        "title" : "成田地区",
-                        "wref" : "成田町"
+                        "title" : "成田地区\u000A"
                      },
                      {
                         "items" : [
@@ -33457,8 +34814,7 @@
                               "wref" : "はなのき台"
                            }
                         ],
-                        "title" : "公津地区",
-                        "wref" : "公津村"
+                        "title" : "公津地区\u000A"
                      },
                      {
                         "items" : [
@@ -33495,8 +34851,7 @@
                               "wref" : "米野"
                            }
                         ],
-                        "title" : "八生地区",
-                        "wref" : "八生村"
+                        "title" : "八生地区\u000A"
                      },
                      {
                         "items" : [
@@ -33541,8 +34896,7 @@
                               "wref" : "赤荻"
                            }
                         ],
-                        "title" : "中郷地区",
-                        "wref" : "中郷村 (千葉県印旛郡)"
+                        "title" : "中郷地区\u000A"
                      },
                      {
                         "items" : [
@@ -33599,8 +34953,7 @@
                               "wref" : "新泉 (成田市)"
                            }
                         ],
-                        "title" : "久住地区",
-                        "wref" : "久住村"
+                        "title" : "久住地区\u000A"
                      },
                      {
                         "items" : [
@@ -33637,8 +34990,7 @@
                               "wref" : "北部 (成田市)"
                            }
                         ],
-                        "title" : "豊住地区",
-                        "wref" : "豊住村"
+                        "title" : "豊住地区\u000A"
                      },
                      {
                         "items" : [
@@ -33767,8 +35119,7 @@
                               "wref" : "西三里塚"
                            }
                         ],
-                        "title" : "遠山地区",
-                        "wref" : "遠山村 (千葉県)"
+                        "title" : "遠山地区\u000A"
                      },
                      {
                         "items" : [
@@ -33865,8 +35216,7 @@
                               "wref" : "平川 (成田市)"
                            }
                         ],
-                        "title" : "下総地区",
-                        "wref" : "下総町"
+                        "title" : "下総地区\u000A"
                      },
                      {
                         "items" : [
@@ -33987,8 +35337,7 @@
                               "wref" : "一鍬田"
                            }
                         ],
-                        "title" : "大栄地区",
-                        "wref" : "大栄町"
+                        "title" : "大栄地区\u000A"
                      }
                   ],
                   "title" : "成田市の町・字",
@@ -37995,6 +39344,10 @@
                            {
                               "value" : "武蔵野",
                               "wref" : "武蔵野 (昭島市)"
+                           },
+                           {
+                              "value" : "もくせいの杜",
+                              "wref" : "もくせいの杜"
                            }
                         ]
                      }
@@ -39902,7 +41255,7 @@
                            },
                            {
                               "value" : "東平",
-                              "wref" : "東平"
+                              "wref" : "東平 (東松山市)"
                            },
                            {
                               "value" : "日吉町",
@@ -59952,6 +61305,10 @@
                               "wref" : "新川町 (越谷市)"
                            },
                            {
+                              "value" : "新越谷",
+                              "wref" : "新越谷"
+                           },
+                           {
                               "value" : "神明町",
                               "wref" : "神明町 (越谷市)"
                            },
@@ -64375,7 +65732,7 @@
                            },
                            {
                               "value" : "長淵",
-                              "wref" : "長淵"
+                              "wref" : "長淵 (青梅市)"
                            },
                            {
                               "value" : "成木",
