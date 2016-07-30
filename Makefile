@@ -117,7 +117,7 @@ local/ken_all.csv: local/ken_all.zip
 	touch $@
 local/ken_all_rome.csv: local/ken_all_rome.zip
 	cd local && unzip ken_all_rome.zip
-	mv local/ken_all_rome/KEN_ALL_ROME.CSV $@
+	mv local/KEN_ALL_ROME.CSV $@
 	touch $@
 
 local/ken_all.zip:
