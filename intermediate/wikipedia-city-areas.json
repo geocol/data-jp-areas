@@ -171,6 +171,86 @@
    },
    "Template:安八町の字" : {
       "Template:安八町の字" : {
+         "includes" : {
+            "Navbox" : [
+               {
+                  "_errors" : {
+                     "list1" : [
+                        "unparsed",
+                        "芝原 | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022東結村\u0022>東結\u003C/mw:l>（津村方 | 中組 | 町屋 | 上村 | 東蚊塚 |入方） | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022西結村\u0022>西結\u003C/mw:l>（西蚊塚 | 領家 | 板屋島 | 五和野） | \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022宝江村 (岐阜県)\u0022>宝江\u003C/mw:l>\u003Csmall xmlns=\u0022\u0022>（一部）\u003C/small>\u000A"
+                     ]
+                  },
+                  "lists" : [
+                     {
+                        "title" : "結地区\u000A",
+                        "wref" : "結村"
+                     },
+                     {
+                        "items" : [
+                           {
+                              "value" : "大野",
+                              "wref" : "大野村 (岐阜県安八郡)"
+                           },
+                           {
+                              "value" : "大森",
+                              "wref" : "大森村 (岐阜県安八郡)"
+                           },
+                           {
+                              "value" : "北今ヶ渕",
+                              "wref" : "北今ヶ淵村"
+                           },
+                           {
+                              "value" : "氷取",
+                              "wref" : "氷取村"
+                           },
+                           {
+                              "value" : "善光",
+                              "wref" : "善光村"
+                           },
+                           {
+                              "value" : "大明神",
+                              "wref" : "大明神村"
+                           },
+                           {
+                              "value" : "中",
+                              "wref" : "中村 (岐阜県安八郡)"
+                           },
+                           {
+                              "value" : "中須",
+                              "wref" : "中須村 (岐阜県)"
+                           },
+                           {
+                              "value" : "南今ヶ渕",
+                              "wref" : "南今ヶ淵村"
+                           },
+                           {
+                              "value" : "南條",
+                              "wref" : "南条村 (岐阜県)"
+                           },
+                           {
+                              "value" : "森部",
+                              "wref" : "森部村"
+                           }
+                        ],
+                        "title" : "名森地区\u000A",
+                        "wref" : "名森村"
+                     },
+                     {
+                        "items" : [
+                           {
+                              "value" : "牧",
+                              "wref" : "牧村 (岐阜県安八郡)"
+                           }
+                        ],
+                        "title" : "牧地区\u000A",
+                        "wref" : "牧村 (岐阜県安八郡)"
+                     }
+                  ],
+                  "title" : "安八町の町・字",
+                  "wref" : "安八町"
+               }
+            ]
+         }
       }
    }
 }
