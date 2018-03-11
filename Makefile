@@ -3,6 +3,8 @@ all: deps data
 data: all-jpregions all-jpzip
 
 clean: clean-jpregions clean-jpzip clean-json-ps
+	rm -fr local/*.csv local/*.CSV
+	rm -fr local/soumu-xlses local/soumu-jsons
 
 GIT = git
 
@@ -76,6 +78,7 @@ all-jpregions: data/jp-regions.json data/jp-regions-full.json \
 clean-jpregions: clean-jpzip
 	rm -fr local/soumu-jp-regions.csv
 
+# XXX this file is gone :-<
 local/soumu-jp-regions.csv:
 	$(WGET) -O $@ http://www.stat.go.jp/index/seido/csv/9-5.csv
 
@@ -95,14 +98,26 @@ local/jp-regions-2.json: local/jp-regions.json local/hokkaidou-subprefs.json \
     bin/jp-regions-2.pl
 	$(PERL) bin/jp-regions-2.pl > $@
 
+#XXX
 data/jp-regions.json: local/jp-regions-2.json bin/jp-regions-3.pl
-	$(PERL) bin/jp-regions-3.pl > $@
+#	$(PERL) bin/jp-regions-3.pl > $@
 data/jp-regions-full.json: data/jp-regions.json bin/jp-regions-full.pl \
     intermediate/wikipedia-regions.json src/additional-wp-regions.json
 	$(PERL) bin/jp-regions-full.pl > $@
 data/jp-regions-full-flatten.json: data/jp-regions-full.json \
     bin/jp-regions-flatten.pl
 	$(PERL) bin/jp-regions-flatten.pl > $@
+
+local/soumu-code.html:
+	$(WGET) -O $@ http://www.soumu.go.jp/denshijiti/code.html
+local/soumu-xls-url-list.txt: bin/soumu-xls-url-list.pl local/soumu-code.html
+	$(PERL) $< > $@
+local/soumu-xlses/xls: local/soumu-xls-url-list.txt
+	bash $<
+	touch $@
+local/soumu-jsons/json: bin/soumu-jsons-json.pl local/soumu-xlses/xls
+	$(PERL) $<
+	touch $@
 
 all-jpzip: data/jp-zip.json
 clean-jpzip:

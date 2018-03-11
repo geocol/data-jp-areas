@@ -1,0 +1,10 @@
+AnyEvent
+Encode
+Path::Class
+Path::Tiny
+Spreadsheet::Read
+Spreadsheet::ParseExcel
+
+#Spreadsheet::XLSX
+##Spreadsheet::ParseXLSX requires expat
+#Spreadsheet::ParseExcel::FmtJapan
