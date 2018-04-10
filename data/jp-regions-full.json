@@ -10965,6 +10965,13 @@
             },
             "areas" : {
                "中央区" : {
+                  "area_symbols" : {
+                     "mark" : [
+                        {
+                           "wref" : "File:"
+                        }
+                     ]
+                  },
                   "code" : "01101",
                   "id" : 153,
                   "kana" : "ちゅうおうく",
@@ -10979,13 +10986,20 @@
                   "type" : "ward",
                   "url" : "http://www.city.sapporo.jp/chuo/",
                   "wikipedia_image" : {
-                     "desc" : "札幌市時計台",
-                     "wref" : "File:札幌市時計台 - panoramio.jpg"
+                     "desc" : null,
+                     "wref" : "File:"
                   },
                   "wikipedia_location_image_wref" : "ファイル:Hokkaido_Sapporo_Chuo-ward.png",
                   "wref" : "中央区 (札幌市)"
                },
                "北区" : {
+                  "area_symbols" : {
+                     "mark" : [
+                        {
+                           "wref" : "File:"
+                        }
+                     ]
+                  },
                   "code" : "01102",
                   "id" : 151,
                   "kana" : "きたく",
@@ -11000,8 +11014,8 @@
                   "type" : "ward",
                   "url" : "http://www.city.sapporo.jp/kitaku/",
                   "wikipedia_image" : {
-                     "desc" : "北海道大学のポプラ並木",
-                     "wref" : "File:HokkaidoDaigakuPopuranamiki2004-5.jpg"
+                     "desc" : null,
+                     "wref" : "File:"
                   },
                   "wikipedia_location_image_wref" : "ファイル:Hokkaido Sapporo Kita-ward.png",
                   "wref" : "北区 (札幌市)"
@@ -11016,6 +11030,11 @@
                      "flower" : [
                         {
                            "name" : "コスモス"
+                        }
+                     ],
+                     "mark" : [
+                        {
+                           "wref" : "File:"
                         }
                      ],
                      "tree" : [
@@ -11038,13 +11057,20 @@
                   "type" : "ward",
                   "url" : "http://www.city.sapporo.jp/minami/",
                   "wikipedia_image" : {
-                     "desc" : "定山渓温泉と豊平川",
-                     "wref" : "File:豐平川 Toyohira River - panoramio.jpg"
+                     "desc" : null,
+                     "wref" : "File:"
                   },
                   "wikipedia_location_image_wref" : "ファイル:Hokkaido_Sapporo_Minami-ward.png",
                   "wref" : "南区 (札幌市)"
                },
                "厚別区" : {
+                  "area_symbols" : {
+                     "mark" : [
+                        {
+                           "wref" : "File:"
+                        }
+                     ]
+                  },
                   "code" : "01108",
                   "id" : 158,
                   "kana" : "あつべつく",
@@ -11058,15 +11084,18 @@
                   },
                   "type" : "ward",
                   "url" : "http://www.city.sapporo.jp/atsubetsu/",
+                  "wikipedia_image" : {
+                     "desc" : null,
+                     "wref" : "File:"
+                  },
                   "wikipedia_location_image_wref" : "ファイル:Hokkaido_Sapporo_Atsubetsu-ward.png",
                   "wref" : "厚別区"
                },
                "手稲区" : {
                   "area_symbols" : {
-                     "misc" : [
+                     "mark" : [
                         {
-                           "label" : "区のキャラクター",
-                           "name" : "ていぬ"
+                           "wref" : "File:"
                         }
                      ]
                   },
@@ -11082,20 +11111,19 @@
                      ]
                   },
                   "type" : "ward",
-                  "url" : "http://www.city.sapporo.jp/teine/",
+                  "url" : "https://www.city.sapporo.jp/teine/",
                   "wikipedia_image" : {
-                     "desc" : "手稲山",
-                     "wref" : "ファイル:Mt. Teine in Sapporo taken in March 2009.jpg"
+                     "desc" : null,
+                     "wref" : "File:"
                   },
                   "wikipedia_location_image_wref" : "ファイル:Hokkaido_Sapporo_Teine-ward.png",
                   "wref" : "手稲区"
                },
                "東区" : {
                   "area_symbols" : {
-                     "misc" : [
+                     "mark" : [
                         {
-                           "label" : "マスコット",
-                           "name" : "タッピー"
+                           "wref" : "File:"
                         }
                      ]
                   },
@@ -11112,15 +11140,18 @@
                   },
                   "type" : "ward",
                   "url" : "http://www.city.sapporo.jp/higashi/",
+                  "wikipedia_image" : {
+                     "desc" : null,
+                     "wref" : "File:"
+                  },
                   "wikipedia_location_image_wref" : "ファイル:Hokkaido_Sapporo_Chuo-ward.png",
                   "wref" : "東区 (札幌市)"
                },
                "清田区" : {
                   "area_symbols" : {
-                     "misc" : [
+                     "mark" : [
                         {
-                           "label" : "マスコットキャラクター",
-                           "name" : "きよっち"
+                           "wref" : "File:"
                         }
                      ]
                   },
@@ -11136,7 +11167,11 @@
                      ]
                   },
                   "type" : "ward",
-                  "url" : "http://www.city.sapporo.jp/kiyota/",
+                  "url" : "https://www.city.sapporo.jp/kiyota/",
+                  "wikipedia_image" : {
+                     "desc" : null,
+                     "wref" : "File:"
+                  },
                   "wikipedia_location_image_wref" : "ファイル:Hokkaido_Sapporo_Kiyota-ward.png",
                   "wref" : "清田区"
                },
@@ -11145,6 +11180,11 @@
                      "flower" : [
                         {
                            "name" : "バラ"
+                        }
+                     ],
+                     "mark" : [
+                        {
+                           "wref" : "File:"
                         }
                      ],
                      "tree" : [
@@ -11170,13 +11210,20 @@
                   "type" : "ward",
                   "url" : "http://www.city.sapporo.jp/shiroishi/",
                   "wikipedia_image" : {
-                     "desc" : "川下公園",
-                     "wref" : "File:川下公園 （Kawashimo Park） - panoramio (1).jpg"
+                     "desc" : null,
+                     "wref" : "File:"
                   },
                   "wikipedia_location_image_wref" : "ファイル:Hokkaido_Sapporo_Shiroishi-ward.png",
                   "wref" : "白石区"
                },
                "西区" : {
+                  "area_symbols" : {
+                     "mark" : [
+                        {
+                           "wref" : "File:"
+                        }
+                     ]
+                  },
                   "code" : "01107",
                   "id" : 156,
                   "kana" : "にしく",
@@ -11190,6 +11237,10 @@
                   },
                   "type" : "ward",
                   "url" : "http://www.city.sapporo.jp/nishi/",
+                  "wikipedia_image" : {
+                     "desc" : null,
+                     "wref" : "File:"
+                  },
                   "wikipedia_location_image_wref" : "ファイル:Hokkaido_Sapporo_Nishi-ward.png",
                   "wref" : "西区 (札幌市)"
                },
@@ -11197,17 +11248,12 @@
                   "area_symbols" : {
                      "flower" : [
                         {
-                           "name" : "ペチュニア(ツクバネアサガオ)"
+                           "name" : "ペチュニア"
                         }
                      ],
-                     "misc" : [
+                     "mark" : [
                         {
-                           "label" : "区のキャラクター",
-                           "name" : "こりん"
-                        },
-                        {
-                           "label" : "区のキャラクター",
-                           "name" : "めーたん"
+                           "wref" : "File:"
                         }
                      ]
                   },
@@ -11225,8 +11271,8 @@
                   "type" : "ward",
                   "url" : "http://www.city.sapporo.jp/toyohira/",
                   "wikipedia_image" : {
-                     "desc" : "羊ヶ丘",
-                     "wref" : "ファイル:Hitsujigaoka.jpg"
+                     "desc" : null,
+                     "wref" : "File:"
                   },
                   "wikipedia_location_image_wref" : "ファイル:Hokkaido_Sapporo_Toyohira-ward.png",
                   "wref" : "豊平区"
@@ -19884,7 +19930,7 @@
                      "mark" : [
                         {
                            "name" : "有田川町章",
-                           "wref" : "ファイル:Emblem of Aridagawa Wakayama chapter.svg"
+                           "wref" : "ファイル:Emblem of Aridagawa, Wakayama.svg"
                         }
                      ],
                      "tree" : [
@@ -22442,7 +22488,7 @@
                ]
             },
             "type" : "city",
-            "url" : "http://www.city.satte.lg.jp/index.htm",
+            "url" : "https://www.city.satte.lg.jp/sitetop/index.html",
             "wikipedia_image" : {
                "desc" : "権現堂堤",
                "wref" : "ファイル:Satte Gongendo Bank In Spling 2.JPG"
@@ -46292,7 +46338,7 @@
                ]
             },
             "type" : "city",
-            "url" : "http://www.city-miyoshi.jp/",
+            "url" : "https://www.miyoshi.i-tokushima.jp/",
             "wikipedia_image" : {
                "desc" : "大歩危",
                "wref" : "File:Ōboke_gorge_01.jpg"
@@ -49196,7 +49242,7 @@
                   "type" : "town",
                   "url" : "http://www.town.shitara.aichi.jp/",
                   "wikipedia_image" : {
-                     "desc" : "田峰城本丸御殿",
+                     "desc" : "田峯城本丸御殿",
                      "wref" : "File:田峰城本丸御殿.JPG"
                   },
                   "wref" : "設楽町"
@@ -54677,8 +54723,8 @@
             "type" : "city",
             "url" : "http://www.city.kunitachi.tokyo.jp/",
             "wikipedia_image" : {
-               "desc" : "一橋大学",
-               "wref" : "File:Kanematsu auditorium.jpg"
+               "desc" : "大学通りの桜並木 (2018年3月25日撮影)",
+               "wref" : "File:Kunitachi-1.jpg"
             },
             "wref" : "国立市"
          },
@@ -67875,7 +67921,7 @@
                ]
             },
             "type" : "city",
-            "url" : "http://www.city.sabae.fukui.jp/",
+            "url" : "https://www.city.sabae.fukui.jp/",
             "wikipedia_image" : {
                "desc" : "鯖江市西山動物園のレッサーパンダ",
                "wref" : "File:Red Panda01.JPG"
@@ -75696,7 +75742,7 @@
                      "湯沢町" : "湯沢町",
                      "草津町" : "草津町",
                      "長野原町" : "長野原町",
-                     "高山村" : "高山村　(長野県)"
+                     "高山村" : "高山村 (長野県)"
                   },
                   "office" : {
                      "address" : "大字中之条町1091",
@@ -87816,7 +87862,6 @@
          ]
       },
       "type" : "pref",
-      "url" : "https://www.pref.shizuoka.jp/",
       "wikipedia_image" : {
          "desc" : "富士山",
          "wref" : "ファイル:MtFuji FujiCity.jpg"
