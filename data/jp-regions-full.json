@@ -190,12 +190,6 @@
                            "name" : "ウグイス"
                         }
                      ],
-                     "flag" : [
-                        {
-                           "name" : "菰野町旗",
-                           "wref" : "ファイル:Flag of komono Mie.JPG"
-                        }
-                     ],
                      "flower" : [
                         {
                            "name" : "コモノギク"
@@ -203,8 +197,7 @@
                      ],
                      "mark" : [
                         {
-                           "name" : "菰野町章",
-                           "wref" : "File:Komono Mie chapter.JPG"
+                           "wref" : "Komono Mie chapter.JPG"
                         }
                      ],
                      "misc" : [
@@ -1706,7 +1699,7 @@
                      ],
                      "mark" : [
                         {
-                           "name" : "\u003Cbr / >伊根町章",
+                           "name" : "伊根町章",
                            "wref" : "ファイル:Symbol of Ine Kyoto chapter.svg"
                         }
                      ],
@@ -1899,9 +1892,21 @@
          },
          "京丹後市" : {
             "area_symbols" : {
+               "flag" : [
+                  {
+                     "name" : "京丹後市旗",
+                     "wref" : "File:Flag of Kyotango Kyoto.JPG"
+                  }
+               ],
                "flower" : [
                   {
                      "name" : "トウテイラン"
+                  }
+               ],
+               "mark" : [
+                  {
+                     "name" : "京丹後市章",
+                     "wref" : "File:Symbol of Kyotango Kyoto.svg"
                   }
                ],
                "tree" : [
@@ -1929,6 +1934,10 @@
             },
             "type" : "city",
             "url" : "http://www.city.kyotango.lg.jp/",
+            "wikipedia_image" : {
+               "desc" : "琴引浜",
+               "wref" : "File:Kotohiki Beach in Kyoto prefecture.jpg"
+            },
             "wref" : "京丹後市"
          },
          "京田辺市" : {
@@ -2580,8 +2589,8 @@
             "type" : "city",
             "url" : "http://www.city.miyazu.kyoto.jp/",
             "wikipedia_image" : {
-               "desc" : "天橋立",
-               "wref" : "File:Amanohashidate view from Kasamatsu Park01s3s4410.jpg"
+               "desc" : "日本三景の1つである天橋立",
+               "wref" : "File:Amanohashidate view from Mt Moju02s3s4592.jpg"
             },
             "wref" : "宮津市"
          },
@@ -2794,12 +2803,6 @@
                },
                "精華町" : {
                   "area_symbols" : {
-                     "flag" : [
-                        {
-                           "name" : "精華町旗",
-                           "wref" : "ファイル:Flag of Seika Kyoto.JPG"
-                        }
-                     ],
                      "flower" : [
                         {
                            "name" : "バラ"
@@ -2807,8 +2810,7 @@
                      ],
                      "mark" : [
                         {
-                           "name" : "精華町章",
-                           "wref" : "ファイル:Seika Kyoto chapter.JPG"
+                           "wref" : "Seika Kyoto chapter.JPG"
                         }
                      ],
                      "tree" : [
@@ -3232,8 +3234,8 @@
       "type" : "pref",
       "url" : "http://www.pref.kyoto.jp/",
       "wikipedia_image" : {
-         "desc" : "鹿苑寺(金閣寺)",
-         "wref" : "ファイル:Kinkaku3402CBcropped.jpg"
+         "desc" : "日本三景の1つである天橋立",
+         "wref" : "File:Amanohashidate view from Mt Moju02s3s4592.jpg"
       },
       "wikipedia_location_image_wref" : "ファイル:Map of Japan with highlight on 26 Kyoto prefecture.svg",
       "wref" : "京都府"
@@ -5679,7 +5681,7 @@
                      "flag" : [
                         {
                            "name" : "市川町旗",
-                           "wref" : "ファイル:Flag of Ichikawa Hyogo.JPG"
+                           "wref" : "ファイル:Flag of Ichikawa, Hyogo.svg"
                         }
                      ],
                      "flower" : [
@@ -5690,7 +5692,7 @@
                      "mark" : [
                         {
                            "name" : "市川町章",
-                           "wref" : "ファイル:Ichikawa Hyogo chapter.JPG"
+                           "wref" : "ファイル:Emblem of Ichikawa, Hyogo.svg"
                         }
                      ],
                      "tree" : [
@@ -6916,10 +6918,30 @@
          },
          "むかわ町" : {
             "area_symbols" : {
+               "fish" : [
+                  {
+                     "date" : "2006-03-27",
+                     "name" : "柳葉魚"
+                  }
+               ],
+               "flower" : [
+                  {
+                     "date" : "2006-03-27",
+                     "name" : "ツツジ"
+                  }
+               ],
                "mark" : [
                   {
-                     "name" : "むかわ町章",
-                     "wref" : "ファイル:Symbol_of_Mukawa,_Hokkaido.svg"
+                     "wref" : "Symbol of Mukawa, Hokkaido.svg"
+                  }
+               ],
+               "tree" : [
+                  {
+                     "name" : "イチイ"
+                  },
+                  {
+                     "date" : "2006-03-27",
+                     "name" : "アカエゾマツ"
                   }
                ]
             },
@@ -6928,6 +6950,13 @@
             "id" : 209,
             "kana" : "むかわちょう",
             "latin" : "Mukawa-cho",
+            "neighbor_region_names" : {
+               "占冠村" : "占冠村",
+               "厚真町" : "厚真町",
+               "夕張市" : "夕張市",
+               "平取町" : "平取町",
+               "日高町" : "日高町 (北海道)"
+            },
             "office" : {
                "address" : "美幸2-88",
                "position" : [
@@ -6937,6 +6966,7 @@
             },
             "subpref_name" : "胆振総合振興局",
             "type" : "town",
+            "url" : "http://www.town.mukawa.lg.jp/",
             "wikipedia_image" : {
                "desc" : "旧中村平八郎家住宅",
                "wref" : "File:Former Nakamura's house.jpg"
@@ -7883,8 +7913,7 @@
                ],
                "mark" : [
                   {
-                     "name" : "倶知安町章",
-                     "wref" : "File:Symbol of Kutchan, Hokkaido.svg"
+                     "wref" : "Symbol of Kutchan, Hokkaido.svg"
                   }
                ],
                "tree" : [
@@ -8882,9 +8911,7 @@
                ],
                "mark" : [
                   {
-                     "date" : "1965-08-24",
-                     "name" : "和寒町章",
-                     "wref" : "ファイル:Symbol of Wassamu, Hokkaido.svg"
+                     "wref" : "Symbol of Wassamu, Hokkaido.svg"
                   }
                ],
                "tree" : [
@@ -9481,16 +9508,11 @@
          },
          "安平町" : {
             "area_symbols" : {
-               "flag" : [
-                  {
-                     "name" : "安平町旗",
-                     "wref" : "ファイル:Flag of Abira, Hokkaido.svg"
-                  }
-               ],
                "mark" : [
                   {
+                     "date" : "2006-03-27",
                      "name" : "安平町章",
-                     "wref" : "ファイル:Abira Hokkaido chapter.JPG"
+                     "wref" : "ファイル:Emblem of Abira, Hokkaido.svg"
                   }
                ]
             },
@@ -11352,9 +11374,7 @@
                ],
                "mark" : [
                   {
-                     "date" : "0005-01-01",
-                     "name" : "東神楽町章 平成",
-                     "wref" : "File:Symbol of Higashikagura, Hokkaido.svg"
+                     "wref" : "Symbol of Higashikagura, Hokkaido.svg"
                   }
                ],
                "tree" : [
@@ -11433,6 +11453,12 @@
                "bird" : [
                   {
                      "name" : "カモメ"
+                  }
+               ],
+               "mark" : [
+                  {
+                     "name" : "枝幸町章",
+                     "wref" : "枝幸町章"
                   }
                ]
             },
@@ -11873,7 +11899,7 @@
             },
             "subpref_name" : "石狩振興局",
             "type" : "city",
-            "url" : "http://www.city.ebetsu.hokkaido.jp",
+            "url" : "http://www.city.ebetsu.hokkaido.jp/",
             "wikipedia_image" : {
                "desc" : null,
                "wref" : "File:"
@@ -12075,8 +12101,7 @@
                ],
                "mark" : [
                   {
-                     "name" : "洞爺湖町章",
-                     "wref" : "File:Symbol of Toyako, Hokkaido.svg"
+                     "wref" : "Symbol of Toyako, Hokkaido.svg"
                   }
                ],
                "tree" : [
@@ -13058,6 +13083,12 @@
                      "name" : "ハマナス"
                   }
                ],
+               "mark" : [
+                  {
+                     "name" : "石狩市章",
+                     "wref" : "File:Symbol of Ishikari, Hokkaido.svg"
+                  }
+               ],
                "tree" : [
                   {
                      "name" : "カシワ"
@@ -13087,7 +13118,7 @@
             "url" : "http://www.city.ishikari.hokkaido.jp/",
             "wikipedia_image" : {
                "desc" : "石狩灯台",
-               "wref" : "ファイル:Ishikari Lighthouse.jpg"
+               "wref" : "File:Ishikari Lighthouse.jpg"
             },
             "wref" : "石狩市"
          },
@@ -14952,7 +14983,8 @@
                ],
                "mark" : [
                   {
-                     "name" : "音更町章",
+                     "date" : "0045-04-10",
+                     "name" : "音更町章(昭和",
                      "wref" : "File:Symbol of Otofuke, Hokkaido.svg"
                   }
                ],
@@ -16539,13 +16571,13 @@
                "flag" : [
                   {
                      "name" : "勝浦市旗",
-                     "wref" : "ファイル:Flag of Katsura Chiba.JPG"
+                     "wref" : "ファイル:Flag of Katsuura, Chiba.svg"
                   }
                ],
                "mark" : [
                   {
                      "name" : "勝浦市章",
-                     "wref" : "ファイル:Katsuura Chiba chapter.JPG"
+                     "wref" : "ファイル:Emblem of Katsuura, Chiba.svg"
                   }
                ],
                "tree" : [
@@ -19621,6 +19653,12 @@
                            "name" : "梅"
                         }
                      ],
+                     "mark" : [
+                        {
+                           "name" : "みなべ町章",
+                           "wref" : "みなべ町章"
+                        }
+                     ],
                      "tree" : [
                         {
                            "name" : "ウバメガシ"
@@ -19698,6 +19736,11 @@
                      "flower" : [
                         {
                            "name" : "ふじ"
+                        }
+                     ],
+                     "mark" : [
+                        {
+                           "wref" : "Emblem of Hidakagawa, Wakayama.svg"
                         }
                      ],
                      "tree" : [
@@ -19919,7 +19962,7 @@
                      "flag" : [
                         {
                            "name" : "有田川町旗",
-                           "wref" : "ファイル:Flag of Aridagawa Wakayama.JPG"
+                           "wref" : "ファイル:Flag of Aridagawa, Wakayama.svg"
                         }
                      ],
                      "flower" : [
@@ -20019,12 +20062,6 @@
                            "name" : "トビウオ"
                         }
                      ],
-                     "flag" : [
-                        {
-                           "name" : "串本町旗",
-                           "wref" : "ファイル:Flag of Kushimoto Wakayama.JPG"
-                        }
-                     ],
                      "flower" : [
                         {
                            "name" : "モチノキ"
@@ -20032,8 +20069,7 @@
                      ],
                      "mark" : [
                         {
-                           "name" : "串本町章",
-                           "wref" : "ファイル:Kushimoto Wakayama chapter.JPG"
+                           "wref" : "Kushimoto Wakayama chapter.JPG"
                         }
                      ],
                      "tree" : [
@@ -20194,12 +20230,6 @@
                },
                "那智勝浦町" : {
                   "area_symbols" : {
-                     "flag" : [
-                        {
-                           "name" : "那智勝浦町旗",
-                           "wref" : "ファイル:Flag of Nachikatsuura, Wakayama.svg"
-                        }
-                     ],
                      "flower" : [
                         {
                            "name" : "ツツジ"
@@ -20207,8 +20237,7 @@
                      ],
                      "mark" : [
                         {
-                           "name" : "那智勝浦町章",
-                           "wref" : "ファイル:Nachikatsuura Wakayama chapter.svg"
+                           "wref" : "Emblem of Nachikatsuura, Wakayama.svg"
                         }
                      ],
                      "tree" : [
@@ -20370,7 +20399,7 @@
                      "mark" : [
                         {
                            "name" : "紀美野町章",
-                           "wref" : "ファイル:Kimino Wakayama chapter.JPG"
+                           "wref" : "ファイル:Emblem of Kimino, Wakayama.svg"
                         }
                      ],
                      "song" : [
@@ -20637,12 +20666,6 @@
                            "name" : "シラサギ"
                         }
                      ],
-                     "flag" : [
-                        {
-                           "name" : "白浜町旗",
-                           "wref" : "ファイル:Flag of Shirahama Wakayama.svg"
-                        }
-                     ],
                      "flower" : [
                         {
                            "name" : "はまゆう"
@@ -20650,8 +20673,7 @@
                      ],
                      "mark" : [
                         {
-                           "name" : "白浜町章",
-                           "wref" : "ファイル:Symbol_of_Shirahama_Wakayama.svg"
+                           "wref" : "Symbol of Shirahama Wakayama.svg"
                         }
                      ],
                      "tree" : [
@@ -20747,6 +20769,12 @@
          "flower" : [
             {
                "name" : "サクラソウ"
+            }
+         ],
+         "mark" : [
+            {
+               "name" : "埼玉県章",
+               "wref" : "ファイル:Emblem of Saitama Prefecture.svg"
             }
          ],
          "misc" : [
@@ -22548,15 +22576,15 @@
          },
          "戸田市" : {
             "area_symbols" : {
-               "flag" : [
-                  {
-                     "name" : "戸田市旗",
-                     "wref" : "ファイル:Flag of Toda Saitama.JPG"
-                  }
-               ],
                "flower" : [
                   {
                      "name" : "サクラソウ"
+                  }
+               ],
+               "mark" : [
+                  {
+                     "name" : "戸田市章",
+                     "wref" : "ファイル:Emblem of Toda, Saitama.svg"
                   }
                ],
                "misc" : [
@@ -22662,15 +22690,15 @@
          },
          "新座市" : {
             "area_symbols" : {
-               "flag" : [
-                  {
-                     "name" : "新座市旗",
-                     "wref" : "ファイル:Flag of Niiza Saitama.JPG"
-                  }
-               ],
                "flower" : [
                   {
                      "name" : "コブシ"
+                  }
+               ],
+               "mark" : [
+                  {
+                     "name" : "新座市章",
+                     "wref" : "ファイル:Emblem of Niiza, Saitama.svg"
                   }
                ],
                "tree" : [
@@ -23821,7 +23849,7 @@
                      "mark" : [
                         {
                            "name" : "皆野町章",
-                           "wref" : "ファイル:Minano Saitama chapter.JPG"
+                           "wref" : "ファイル:Emblem of Minano, Saitama.svg"
                         }
                      ],
                      "tree" : [
@@ -24121,7 +24149,7 @@
                "flag" : [
                   {
                      "name" : "行田市旗",
-                     "wref" : "ファイル:Flag of Gyoda Saitama.JPG"
+                     "wref" : "ファイル:Flag of Gyoda, Saitama.svg"
                   }
                ],
                "flower" : [
@@ -28311,7 +28339,7 @@
                "mark" : [
                   {
                      "name" : "五條市章",
-                     "wref" : "ファイル:Gojo Nara chapter.svg"
+                     "wref" : "ファイル:Emblem of Gojo, Nara.svg"
                   }
                ],
                "tree" : [
@@ -28588,12 +28616,6 @@
                            "name" : "カワセミ"
                         }
                      ],
-                     "flag" : [
-                        {
-                           "name" : "下北山村旗",
-                           "wref" : "ファイル:Flag of Shimokitayama Nara.svg"
-                        }
-                     ],
                      "flower" : [
                         {
                            "name" : "カワツツジ"
@@ -28601,8 +28623,7 @@
                      ],
                      "mark" : [
                         {
-                           "name" : "下北山村章",
-                           "wref" : "ファイル:Shimokitayama Nara chapter.JPG"
+                           "wref" : "Emblem of Shimokitayama, Nara.svg"
                         }
                      ],
                      "tree" : [
@@ -28688,12 +28709,6 @@
                },
                "十津川村" : {
                   "area_symbols" : {
-                     "flag" : [
-                        {
-                           "name" : "十津川村旗",
-                           "wref" : "ファイル:Flag of Totsukawa, Nara.svg"
-                        }
-                     ],
                      "flower" : [
                         {
                            "name" : "シャクナゲ"
@@ -28701,8 +28716,7 @@
                      ],
                      "mark" : [
                         {
-                           "name" : "十津川村章",
-                           "wref" : "ファイル:Totsukawa Nara chapter.svg"
+                           "wref" : "Totsukawa Nara chapter.svg"
                         }
                      ],
                      "misc" : [
@@ -28863,10 +28877,6 @@
                   },
                   "type" : "village",
                   "url" : "http://www.vill.tenkawa.nara.jp/",
-                  "wikipedia_image" : {
-                     "desc" : null,
-                     "wref" : "File:"
-                  },
                   "wref" : "天川村"
                },
                "川上村" : {
@@ -29098,7 +29108,7 @@
                "mark" : [
                   {
                      "name" : "大和高田市章",
-                     "wref" : "画像:Yamatotakada Nara chapter.svg"
+                     "wref" : "画像:Emblem of Yamatotakada, Nara.svg"
                   }
                ],
                "tree" : [
@@ -29746,19 +29756,14 @@
                },
                "平群町" : {
                   "area_symbols" : {
-                     "flag" : [
-                        {
-                           "name" : "平群町旗",
-                           "wref" : "ファイル:Flag of Heguri Nara.svg"
-                        },
-                        {
-                           "name" : "平群町旗平群町章",
-                           "wref" : "ファイル:Symbol of Heguri Nara.svg"
-                        }
-                     ],
                      "flower" : [
                         {
                            "name" : "菊"
+                        }
+                     ],
+                     "mark" : [
+                        {
+                           "wref" : "Symbol of Heguri Nara.svg"
                         }
                      ],
                      "tree" : [
@@ -29800,12 +29805,6 @@
                            "name" : "イカル"
                         }
                      ],
-                     "flag" : [
-                        {
-                           "name" : "斑鳩町旗",
-                           "wref" : "ファイル:Flag of Ikaruga Nara.JPG"
-                        }
-                     ],
                      "flower" : [
                         {
                            "name" : "サザンカ"
@@ -29816,8 +29815,7 @@
                      ],
                      "mark" : [
                         {
-                           "name" : "斑鳩町章",
-                           "wref" : "ファイル:Ikaruga nara chapter.JPG"
+                           "wref" : "Ikaruga nara chapter.JPG"
                         }
                      ],
                      "tree" : [
@@ -29950,7 +29948,7 @@
                      "mark" : [
                         {
                            "name" : "田原本町章",
-                           "wref" : "ファイル:Tahawamoto nara chapter.svg"
+                           "wref" : "ファイル:Emblem of Tahawamoto, Nara.svg"
                         }
                      ],
                      "tree" : [
@@ -30114,7 +30112,7 @@
                      "mark" : [
                         {
                            "name" : "明日香村章",
-                           "wref" : "画像:Asuka Nara chapter.svg"
+                           "wref" : "画像:Emblem of Asuka, Nara.svg"
                         }
                      ],
                      "tree" : [
@@ -30274,12 +30272,6 @@
             "areas" : {
                "亘理町" : {
                   "area_symbols" : {
-                     "flag" : [
-                        {
-                           "name" : "亘理町旗",
-                           "wref" : "ファイル:Flag of Watari, Miyagi.svg"
-                        }
-                     ],
                      "flower" : [
                         {
                            "name" : "サザンカ"
@@ -30287,8 +30279,7 @@
                      ],
                      "mark" : [
                         {
-                           "name" : "亘理町章",
-                           "wref" : "ファイル:Symbol of Watari Miyagi.svg"
+                           "wref" : "Symbol of Watari Miyagi.svg"
                         }
                      ],
                      "tree" : [
@@ -31343,7 +31334,7 @@
                      "mark" : [
                         {
                            "name" : "大河原町章",
-                           "wref" : "ファイル:Ogawara Miyagi chapter.JPG"
+                           "wref" : "File:Ogawara Miyagi chapter.JPG"
                         }
                      ],
                      "tree" : [
@@ -31374,7 +31365,7 @@
                   "url" : "http://www.town.ogawara.miyagi.jp/",
                   "wikipedia_image" : {
                      "desc" : "蔵王連峰、一目千本桜、白石川に映った逆さ蔵王",
-                     "wref" : "ファイル:Mount Zaō and Sakura 01.jpg"
+                     "wref" : "File:Mount Zaō and Sakura 01.jpg"
                   },
                   "wref" : "大河原町"
                },
@@ -31983,6 +31974,12 @@
                            "name" : "バラ"
                         }
                      ],
+                     "mark" : [
+                        {
+                           "name" : "美里町章",
+                           "wref" : "File:Misato Miyagi chapter.JPG"
+                        }
+                     ],
                      "tree" : [
                         {
                            "name" : "ハナミズキ"
@@ -32010,7 +32007,7 @@
                   "type" : "town",
                   "url" : "http://www.town.misato.miyagi.jp/",
                   "wikipedia_image" : {
-                     "desc" : "美里町の産直施設",
+                     "desc" : "花野果市場",
                      "wref" : "File:Hanayaka-ichiba.jpg"
                   },
                   "wref" : "美里町 (宮城県)"
@@ -32331,7 +32328,7 @@
                "mark" : [
                   {
                      "name" : "えびの市章",
-                     "wref" : "ファイル:Ebino Miyazaki chapter svg.svg"
+                     "wref" : "ファイル:Emblem of Ebino, Miyazaki.svg"
                   }
                ],
                "tree" : [
@@ -32651,7 +32648,7 @@
                      "mark" : [
                         {
                            "name" : "高鍋町章",
-                           "wref" : "ファイル:Takanabe Miyazaki chapter.svg"
+                           "wref" : "ファイル:Emblem of Takanabe, Miyazaki.svg"
                         }
                      ],
                      "tree" : [
@@ -32919,7 +32916,7 @@
                "mark" : [
                   {
                      "name" : "日南市章",
-                     "wref" : "ファイル:Nichinan Miyazaki chapter.svg"
+                     "wref" : "ファイル:Emblem of Nichinan, Miyazaki.svg"
                   }
                ],
                "tree" : [
@@ -33657,6 +33654,10 @@
             {
                "label" : "他のシンボル",
                "name" : "ホタルイカ"
+            },
+            {
+               "label" : "マスコット",
+               "name" : "きときと君"
             }
          ],
          "song" : [
@@ -35103,6 +35104,10 @@
                   },
                   "type" : "town",
                   "url" : "http://www.town.kaminoseki.lg.jp/",
+                  "wikipedia_image" : {
+                     "desc" : "四階楼",
+                     "wref" : "File:四階楼 01.jpg"
+                  },
                   "wref" : "上関町"
                },
                "平生町" : {
@@ -36559,6 +36564,12 @@
                            "name" : "クロユリ"
                         }
                      ],
+                     "mark" : [
+                        {
+                           "name" : "庄内町章",
+                           "wref" : "File:Shonai Yamagata chapter.JPG"
+                        }
+                     ],
                      "tree" : [
                         {
                            "name" : "ツバキ"
@@ -37822,12 +37833,6 @@
                            "name" : "やまがら"
                         }
                      ],
-                     "flag" : [
-                        {
-                           "name" : "富士河口湖町旗",
-                           "wref" : "File:Flag of Fujikawaguchiko Yamanashi.JPG"
-                        }
-                     ],
                      "flower" : [
                         {
                            "name" : "月見草"
@@ -37835,8 +37840,7 @@
                      ],
                      "mark" : [
                         {
-                           "name" : "富士河口湖町章",
-                           "wref" : "File:Fujikawaguchi Yamanashi chapter.JPG"
+                           "wref" : "Fujikawaguchi Yamanashi chapter.JPG"
                         }
                      ],
                      "tree" : [
@@ -38730,9 +38734,7 @@
                      ],
                      "mark" : [
                         {
-                           "date" : "1962-07-31",
-                           "name" : "垂井町章",
-                           "wref" : "ファイル:Symbol of Tarui Gifu.svg"
+                           "wref" : "Symbol of Tarui Gifu.svg"
                         }
                      ],
                      "tree" : [
@@ -38776,9 +38778,7 @@
                      ],
                      "mark" : [
                         {
-                           "date" : "1971-03-16",
-                           "name" : "関ケ原町章",
-                           "wref" : "ファイル:Sekigahara Gifu chapter.JPG"
+                           "wref" : "Sekigahara Gifu chapter.JPG"
                         }
                      ],
                      "misc" : [
@@ -38972,7 +38972,7 @@
                      "mark" : [
                         {
                            "name" : "坂祝町章",
-                           "wref" : "坂祝町章"
+                           "wref" : "File:Symbol of Sakahogi Gifu.svg"
                         }
                      ],
                      "misc" : [
@@ -41822,7 +41822,7 @@
                "mark" : [
                   {
                      "name" : "笠岡市章",
-                     "wref" : "File:Kasaoka Okayama seal.svg"
+                     "wref" : "File:Emblem of Kasaoka, Okayama.svg"
                   }
                ],
                "tree" : [
@@ -43344,12 +43344,6 @@
                            "name" : "ヤマドリ"
                         }
                      ],
-                     "flag" : [
-                        {
-                           "name" : "葛巻町旗",
-                           "wref" : "ファイル:Flag of Kuzumaki Iwate.svg"
-                        }
-                     ],
                      "flower" : [
                         {
                            "date" : "1975",
@@ -43358,8 +43352,8 @@
                      ],
                      "mark" : [
                         {
-                           "name" : "葛巻町章",
-                           "wref" : "ファイル:Emblem of Kuzumaki, Iwate.svg"
+                           "date" : "1978-12-15",
+                           "wref" : "Emblem of Kuzumaki, Iwate.svg"
                         }
                      ],
                      "tree" : [
@@ -44671,6 +44665,10 @@
                   "id" : 1107,
                   "kana" : "にしのしまちょう",
                   "latin" : "Nishinoshima-cho",
+                  "neighbor_region_names" : {
+                     "海士町" : "海士町",
+                     "知夫村" : "知夫村"
+                  },
                   "office" : {
                      "address" : "大字浦郷534",
                      "position" : [
@@ -44688,12 +44686,6 @@
                },
                "隠岐の島町" : {
                   "area_symbols" : {
-                     "flag" : [
-                        {
-                           "name" : "隠岐の島町旗",
-                           "wref" : "ファイル:Flag of Okinoshima, Shimane.svg"
-                        }
-                     ],
                      "flower" : [
                         {
                            "name" : "隠岐しゃくなげ"
@@ -44723,9 +44715,9 @@
                      ]
                   },
                   "type" : "town",
-                  "url" : "http://www.town.okinoshima.shimane.jp/index.php",
+                  "url" : "http://www.town.okinoshima.shimane.jp/www/index.html",
                   "wikipedia_image" : {
-                     "desc" : "ローソク島",
+                     "desc" : "ローソク島の夕日",
                      "wref" : "File:Rosoku-is.jpg"
                   },
                   "wref" : "隠岐の島町"
@@ -45307,10 +45299,30 @@
                   "wref" : "坂町"
                },
                "府中町" : {
+                  "area_symbols" : {
+                     "flower" : [
+                        {
+                           "name" : "ツバキ"
+                        }
+                     ],
+                     "mark" : [
+                        {
+                           "wref" : "Emblem of Fuchu, Hiroshima.svg"
+                        }
+                     ],
+                     "tree" : [
+                        {
+                           "name" : "クスノキ"
+                        }
+                     ]
+                  },
                   "code" : "34302",
                   "id" : 791,
                   "kana" : "ふちゅうちょう",
                   "latin" : "Fuchu-cho",
+                  "neighbor_region_names" : {
+                     "広島市" : "広島市"
+                  },
                   "office" : {
                      "address" : "大通3-5-1",
                      "position" : [
@@ -45319,6 +45331,7 @@
                      ]
                   },
                   "type" : "town",
+                  "url" : "http://www.town.fuchu.hiroshima.jp/",
                   "wikipedia_image" : {
                      "desc" : null,
                      "wref" : "File:"
@@ -46349,12 +46362,6 @@
             "areas" : {
                "東みよし町" : {
                   "area_symbols" : {
-                     "flag" : [
-                        {
-                           "name" : "東みよし町旗",
-                           "wref" : "ファイル:Flag of Higashimiyoshi Tokushima.JPG"
-                        }
-                     ],
                      "flower" : [
                         {
                            "name" : "サルビア(2008.4.1制定)"
@@ -46362,8 +46369,7 @@
                      ],
                      "mark" : [
                         {
-                           "name" : "東みよし町章",
-                           "wref" : "File:Emblem of Higashimiyoshi, Tokushima.svg"
+                           "wref" : "Emblem of Higashimiyoshi, Tokushima.svg"
                         }
                      ],
                      "tree" : [
@@ -47142,12 +47148,6 @@
             "areas" : {
                "海陽町" : {
                   "area_symbols" : {
-                     "flag" : [
-                        {
-                           "name" : "海陽町旗",
-                           "wref" : "ファイル:Flag of Kaiyo, Tokushima.svg"
-                        }
-                     ],
                      "flower" : [
                         {
                            "name" : "さつき"
@@ -47155,8 +47155,7 @@
                      ],
                      "mark" : [
                         {
-                           "name" : "海陽町章",
-                           "wref" : "ファイル:Kaiyo Tokushima chapter.JPG"
+                           "wref" : "Emblem of Kaiyo, Tokushima.svg"
                         }
                      ],
                      "tree" : [
@@ -47252,12 +47251,6 @@
                            "name" : "イワツバメ"
                         }
                      ],
-                     "flag" : [
-                        {
-                           "name" : "美波町旗",
-                           "wref" : "ファイル:Flag of Minami Tokushima.JPG"
-                        }
-                     ],
                      "flower" : [
                         {
                            "name" : "サクラ"
@@ -47265,8 +47258,7 @@
                      ],
                      "mark" : [
                         {
-                           "name" : "美波町章",
-                           "wref" : "ファイル:Minami Tokushima chapter.JPG"
+                           "wref" : "Minami Tokushima chapter.JPG"
                         }
                      ],
                      "tree" : [
@@ -47921,12 +47913,6 @@
             "areas" : {
                "松前町" : {
                   "area_symbols" : {
-                     "flag" : [
-                        {
-                           "name" : "松前町旗",
-                           "wref" : "ファイル:Flag of Masaki Ehime.JPG"
-                        }
-                     ],
                      "flower" : [
                         {
                            "name" : "ひまわり"
@@ -47934,8 +47920,7 @@
                      ],
                      "mark" : [
                         {
-                           "name" : "松前町章",
-                           "wref" : "ファイル:Masaki Ehime chapter.JPG"
+                           "wref" : "Masaki Ehime chapter.JPG"
                         }
                      ],
                      "tree" : [
@@ -48659,12 +48644,6 @@
             "areas" : {
                "上島町" : {
                   "area_symbols" : {
-                     "flag" : [
-                        {
-                           "name" : "上島町旗",
-                           "wref" : "ファイル:Flag of Kamijima Ehime.JPG"
-                        }
-                     ],
                      "flower" : [
                         {
                            "name" : "桜"
@@ -48673,7 +48652,7 @@
                      "mark" : [
                         {
                            "name" : "上島町章",
-                           "wref" : "ファイル:Kamijima Ehime chapter.JPG"
+                           "wref" : "Kamijima Ehime chapter.JPG"
                         }
                      ],
                      "tree" : [
@@ -49160,6 +49139,18 @@
                            "name" : "ウグイス"
                         }
                      ],
+                     "flag" : [
+                        {
+                           "date" : "1957-02-06",
+                           "name" : "村旗・村章は共に",
+                           "wref" : "東栄町旗"
+                        },
+                        {
+                           "date" : "1957-02-06",
+                           "name" : "村旗・村章は共に",
+                           "wref" : "東栄町章"
+                        }
+                     ],
                      "flower" : [
                         {
                            "name" : "ヤマユリ"
@@ -49200,19 +49191,19 @@
                   "area_symbols" : {
                      "flag" : [
                         {
-                           "name" : "設楽町旗",
-                           "wref" : "File:Flag of Shitara Aichi.JPG"
+                           "date" : "2005-11-21",
+                           "name" : "村旗・村章は共に",
+                           "wref" : "設楽町旗"
+                        },
+                        {
+                           "date" : "2005-11-21",
+                           "name" : "村旗・村章は共に",
+                           "wref" : "設楽町章"
                         }
                      ],
                      "flower" : [
                         {
                            "name" : "シャクナゲ"
-                        }
-                     ],
-                     "mark" : [
-                        {
-                           "name" : "設楽町章",
-                           "wref" : "File:Emblem of Shitara, Aichi.svg"
                         }
                      ],
                      "tree" : [
@@ -49240,7 +49231,7 @@
                      ]
                   },
                   "type" : "town",
-                  "url" : "http://www.town.shitara.aichi.jp/",
+                  "url" : "http://www.town.shitara.ｌｇ.jp/",
                   "wikipedia_image" : {
                      "desc" : "田峯城本丸御殿",
                      "wref" : "File:田峰城本丸御殿.JPG"
@@ -49257,12 +49248,12 @@
                      "flag" : [
                         {
                            "date" : "1972-08-16",
-                           "name" : "村旗・村章、共に:",
+                           "name" : "村旗・村章は共に",
                            "wref" : "豊根村旗"
                         },
                         {
                            "date" : "1972-08-16",
-                           "name" : "村旗・村章、共に:",
+                           "name" : "村旗・村章は共に",
                            "wref" : "豊根村章"
                         }
                      ],
@@ -52778,9 +52769,7 @@
                      ],
                      "mark" : [
                         {
-                           "date" : "1965-12",
-                           "name" : "湯沢町章",
-                           "wref" : "湯沢町章"
+                           "wref" : "Symbol of Yuzawa Niigata.svg"
                         }
                      ],
                      "tree" : [
@@ -53355,7 +53344,7 @@
                ]
             },
             "type" : "city",
-            "url" : "http://www.city.shibata.niigata.jp/",
+            "url" : "http://www.city.shibata.lg.jp/",
             "wikipedia_image" : {
                "desc" : "市のシンボル・新発田城(二の丸隅櫓)",
                "wref" : "画像:Shibatajo003.JPG"
@@ -53555,8 +53544,8 @@
             "type" : "city",
             "url" : "http://www.city.tsubame.niigata.jp/",
             "wikipedia_image" : {
-               "desc" : null,
-               "wref" : "File:"
+               "desc" : "水道塔(左)と中央公民館(右)",
+               "wref" : "ファイル:Tsubame city chuo kominkan 2.jpg"
             },
             "wref" : "燕市"
          },
@@ -54181,8 +54170,8 @@
             "type" : "ward",
             "url" : "http://www.city.setagaya.lg.jp/",
             "wikipedia_image" : {
-               "desc" : "駒沢オリンピック公園",
-               "wref" : "File:Komazawa Gymnasium & Control Tower 2009.jpg"
+               "desc" : "等々力渓谷",
+               "wref" : "File:TodorokiKeikoku.JPG"
             },
             "wref" : "世田谷区"
          },
@@ -54617,8 +54606,8 @@
             "type" : "ward",
             "url" : "http://www.city.shinagawa.tokyo.jp/",
             "wikipedia_image" : {
-               "desc" : "東品川の夜景",
-               "wref" : "File:Higashi-Shinagawa at night.JPG"
+               "desc" : "北品川の街並",
+               "wref" : "File:Kita Shinagawa 3Chome.jpg"
             },
             "wref" : "品川区"
          },
@@ -56654,6 +56643,12 @@
                            "name" : "ヤマブキ"
                         }
                      ],
+                     "mark" : [
+                        {
+                           "name" : "檜原村章",
+                           "wref" : "File:Emblem of Hinohara, Tokyo.svg"
+                        }
+                     ],
                      "tree" : [
                         {
                            "name" : "ヒノキ"
@@ -57124,7 +57119,7 @@
       "type" : "pref",
       "url" : "http://www.metro.tokyo.jp/",
       "wikipedia_image" : {
-         "desc" : "\u003Ctable style=\"width:280px; margin:2px auto; border-collapse:collapse\">\n\u003Ctr>\u003Ctd style=\"width:100%\" colspan=\"2\">新宿区から中心部を臨む\u003C/tr>\n\u003Ctr>\u003Ctd style=\"width:50%\">東京スカイツリー\u003Ctd style=\"width:50%\">レインボーブリッジ\u003C/tr>\n\u003Ctr>\u003Ctd style=\"width:50%\">渋谷駅前\u003Ctd style=\"width:50%\">国会議事堂\u003C/tr>\n\u003C/table>",
+         "desc" : "\u003Ctable style=\"width:280px; margin:2px auto; border-collapse:collapse\">\n\u003Ctr>\u003Ctd style=\"width:100%\" colspan=\"2\">文京シビックセンターから西新宿方面を臨む\u003C/tr>\n\u003Ctr>\u003Ctd style=\"width:50%\">東京スカイツリー\u003Ctd style=\"width:50%\">レインボーブリッジ\u003C/tr>\n\u003Ctr>\u003Ctd style=\"width:50%\">渋谷駅前\u003Ctd style=\"width:50%\">国会議事堂\u003C/tr>\n\u003C/table>",
          "wref" : "ファイル:Tokyo Montage 2015.jpg"
       },
       "wikipedia_location_image_wref" : "ファイル:Map of Japan with highlight on 13 Tokyo prefecture.svg",
@@ -57233,12 +57228,6 @@
                            "name" : "ヒバリ"
                         }
                      ],
-                     "flag" : [
-                        {
-                           "name" : "壬生町旗",
-                           "wref" : "ファイル:Flag of Mibu Tochigi.JPG"
-                        }
-                     ],
                      "flower" : [
                         {
                            "name" : "ユウガオ"
@@ -57246,8 +57235,7 @@
                      ],
                      "mark" : [
                         {
-                           "name" : "壬生町章",
-                           "wref" : "ファイル:Mibu Tochigi chapter.JPG"
+                           "wref" : "Mibu Tochigi chapter.JPG"
                         }
                      ],
                      "tree" : [
@@ -57682,7 +57670,7 @@
                ],
                "flower" : [
                   {
-                     "name" : "オモイガワザクラ"
+                     "name" : "オモイガワ"
                   }
                ],
                "mark" : [
@@ -59206,7 +59194,7 @@
                      ]
                   },
                   "type" : "village",
-                  "url" : "https://web.archive.org/web/20111005235824/http://www.iejima.org/ieson/",
+                  "url" : "http://www.iejima.org/",
                   "wikipedia_image" : {
                      "desc" : null,
                      "wref" : "ファイル:Okinawa iejima.jpg"
@@ -59574,12 +59562,6 @@
                      "name" : "タカサゴ(グルクン)"
                   }
                ],
-               "flag" : [
-                  {
-                     "name" : "宮古島市旗",
-                     "wref" : "ファイル:Flag of Miyakojima, Okinawa.svg"
-                  }
-               ],
                "flower" : [
                   {
                      "name" : "ブーゲンビリア・デイゴ"
@@ -59588,7 +59570,7 @@
                "mark" : [
                   {
                      "name" : "宮古島市章",
-                     "wref" : "ファイル:Emblem of Miyakojoima Okinawa chapter.svg"
+                     "wref" : "File:Emblem of Miyakojoima Okinawa chapter.svg"
                   }
                ],
                "misc" : [
@@ -60562,7 +60544,7 @@
                "mark" : [
                   {
                      "name" : "守山市章",
-                     "wref" : "File:Moriayma Shiga chapter vector.svg"
+                     "wref" : "File:Emblem of Moriyama, Shiga.svg"
                   }
                ],
                "tree" : [
@@ -63018,16 +63000,9 @@
             "areas" : {
                "大津町" : {
                   "area_symbols" : {
-                     "flag" : [
-                        {
-                           "name" : "大津町旗",
-                           "wref" : "ファイル:Flag of Ozu Kumamoto.JPG"
-                        }
-                     ],
                      "mark" : [
                         {
-                           "name" : "大津町章",
-                           "wref" : "ファイル:Symbol of Ozu Kumamoto.svg"
+                           "wref" : "Symbol of Ozu Kumamoto.svg"
                         }
                      ]
                   },
@@ -63793,7 +63768,7 @@
                      ]
                   },
                   "type" : "town",
-                  "url" : "http://www.town.uchinada.lg.jp/",
+                  "url" : "http://www.town.uchinada.lg.jp/webapps/www/index.jsp",
                   "wref" : "内灘町"
                },
                "津幡町" : {
@@ -63983,7 +63958,7 @@
                ]
             },
             "type" : "city",
-            "url" : "http://www.city.hakui.ishikawa.jp/sypher/www/index.jsp",
+            "url" : "https://www.city.hakui.lg.jp/",
             "wikipedia_image" : {
                "desc" : "千里浜なぎさドライブウェイ",
                "wref" : "File:Chirihama nagisa driveway.jpg"
@@ -65376,6 +65351,12 @@
                      "flower" : [
                         {
                            "name" : "みつばつつじ"
+                        }
+                     ],
+                     "mark" : [
+                        {
+                           "name" : "清川村章",
+                           "wref" : "ファイル:Symbol of Kiyokawa Kanagawa.svg"
                         }
                      ],
                      "tree" : [
@@ -66851,12 +66832,6 @@
                            "name" : "きつつき\u003Chr>ワカサギ\u003Chr>和む光の"
                         }
                      ],
-                     "flag" : [
-                        {
-                           "name" : "箱根町旗",
-                           "wref" : "ファイル:Flag of Hakone, Kanagawa.svg"
-                        }
-                     ],
                      "flower" : [
                         {
                            "name" : "ハコネバラ"
@@ -66864,8 +66839,7 @@
                      ],
                      "mark" : [
                         {
-                           "name" : "箱根町章",
-                           "wref" : "ファイル:Symbol of Hakone Kanagawa.svg"
+                           "wref" : "Symbol of Hakone Kanagawa.svg"
                         }
                      ],
                      "tree" : [
@@ -68419,29 +68393,10 @@
          },
          "北九州市" : {
             "area_symbols" : {
-               "flower" : [
-                  {
-                     "name" : "ツツジ"
-                  },
-                  {
-                     "name" : "ヒマワリ"
-                  }
-               ],
                "mark" : [
                   {
                      "name" : "北九州市章",
                      "wref" : "ファイル:Symbol of Kitakyushu, Fukuoka.svg"
-                  }
-               ],
-               "song" : [
-                  {
-                     "date" : "1963-04-02",
-                     "name" : "北九州市歌"
-                  }
-               ],
-               "tree" : [
-                  {
-                     "name" : "イチイガシ"
                   }
                ]
             },
@@ -68600,19 +68555,6 @@
             "id" : 1394,
             "kana" : "きたきゅうしゅうし",
             "latin" : "Kitakyushu-shi",
-            "neighbor_region_names" : {
-               "みやこ町" : "みやこ町",
-               "下関市" : "下関市",
-               "中間市" : "中間市",
-               "水巻町" : "水巻町",
-               "直方市" : "直方市",
-               "福智町" : "福智町",
-               "芦屋町" : "芦屋町",
-               "苅田町" : "苅田町",
-               "行橋市" : "行橋市",
-               "鞍手町" : "鞍手町",
-               "香春町" : "香春町"
-            },
             "office" : {
                "address" : "小倉北区城内1-1",
                "position" : [
@@ -68621,7 +68563,6 @@
                ]
             },
             "type" : "city",
-            "url" : "http://www.city.kitakyushu.lg.jp/",
             "wikipedia_image" : {
                "desc" : "リバーウォーク北九州/小倉城 旦過市場/JR門司港駅\n小倉市街の夜景/東田第一高炉跡",
                "wref" : "File:Kitakyushu montage2.jpg"
@@ -69974,15 +69915,15 @@
                            "name" : "カワセミ"
                         }
                      ],
-                     "flag" : [
-                        {
-                           "name" : "那珂川町旗",
-                           "wref" : "ファイル:Flag of Nakagawa Fukuoka.svg"
-                        }
-                     ],
                      "flower" : [
                         {
                            "name" : "筑紫シャクナゲ"
+                        }
+                     ],
+                     "mark" : [
+                        {
+                           "name" : "那珂川町章",
+                           "wref" : "ファイル:Emblem of Nakagawa, Fukuoka.svg"
                         }
                      ],
                      "tree" : [
@@ -73386,12 +73327,6 @@
                            "name" : "ハクチョウ"
                         }
                      ],
-                     "flag" : [
-                        {
-                           "name" : "猪苗代町旗",
-                           "wref" : "ファイル:Flag of Inawashiro, Fukushima.svg"
-                        }
-                     ],
                      "flower" : [
                         {
                            "name" : "サギソウ"
@@ -73399,8 +73334,7 @@
                      ],
                      "mark" : [
                         {
-                           "name" : "猪苗代町章",
-                           "wref" : "ファイル:Symbol of Inawashiro Fukushima.svg"
+                           "wref" : "Symbol of Inawashiro Fukushima.svg"
                         }
                      ],
                      "tree" : [
@@ -73593,12 +73527,6 @@
                },
                "矢吹町" : {
                   "area_symbols" : {
-                     "flag" : [
-                        {
-                           "name" : "矢吹町旗",
-                           "wref" : "ファイル:Flag of Yabuki Fukushima.png"
-                        }
-                     ],
                      "flower" : [
                         {
                            "name" : "春蘭"
@@ -73606,8 +73534,7 @@
                      ],
                      "mark" : [
                         {
-                           "name" : "矢吹町章",
-                           "wref" : "ファイル:Yabuki Fukushima chapter.svg"
+                           "wref" : "Emblem of Yabuki, Fukushima.svg"
                         }
                      ],
                      "tree" : [
@@ -74100,15 +74027,14 @@
             "areas" : {
                "上小阿仁村" : {
                   "area_symbols" : {
-                     "flag" : [
-                        {
-                           "name" : "上小阿仁村旗",
-                           "wref" : "ファイル:Symbol of Kamikoani, Akita.svg"
-                        }
-                     ],
                      "flower" : [
                         {
                            "name" : "コアニチドリ(ラン科の山野草・絶滅危惧II類)"
+                        }
+                     ],
+                     "mark" : [
+                        {
+                           "wref" : "Symbol of Kamikoani, Akita.svg"
                         }
                      ],
                      "tree" : [
@@ -74283,12 +74209,6 @@
                            "name" : "白鳥"
                         }
                      ],
-                     "flag" : [
-                        {
-                           "name" : "大潟村旗",
-                           "wref" : "ファイル:Flag of Ogata, Akita.svg"
-                        }
-                     ],
                      "flower" : [
                         {
                            "name" : "サルビア"
@@ -74296,8 +74216,7 @@
                      ],
                      "mark" : [
                         {
-                           "name" : "大潟村章",
-                           "wref" : "ファイル:Symbol of Ogata, Akita.svg"
+                           "wref" : "Symbol of Ogata, Akita.svg"
                         }
                      ],
                      "tree" : [
@@ -74515,12 +74434,6 @@
                            "name" : "クマゲラ"
                         }
                      ],
-                     "flag" : [
-                        {
-                           "name" : "藤里町旗",
-                           "wref" : "ファイル:Flag of Fujisato Akita.JPG"
-                        }
-                     ],
                      "flower" : [
                         {
                            "name" : "フジ"
@@ -74528,8 +74441,7 @@
                      ],
                      "mark" : [
                         {
-                           "name" : "藤里町章",
-                           "wref" : "ファイル:Symbol of Fujisato, Akita.svg"
+                           "wref" : "Emblem of Fujisato, Akita.svg"
                         }
                      ],
                      "tree" : [
@@ -74647,7 +74559,7 @@
                "mark" : [
                   {
                      "name" : "湯沢市章",
-                     "wref" : "ファイル:Symbol of Yuzawa, Akita.svg"
+                     "wref" : "ファイル:Emblem of Yuzawa, Akita.svg"
                   }
                ],
                "misc" : [
@@ -75084,7 +74996,7 @@
                      "flag" : [
                         {
                            "name" : "小坂町旗",
-                           "wref" : "ファイル:Symbol of Kosaka, Akita.svg"
+                           "wref" : "ファイル:Emblem of Kosaka, Akita.svg"
                         }
                      ],
                      "flower" : [
@@ -75159,53 +75071,16 @@
    },
    "群馬県" : {
       "area_symbols" : {
-         "bird" : [
-            {
-               "name" : "ヤマドリ"
-            }
-         ],
-         "day" : [
-            {
-               "date_value" : "10-28",
-               "label" : "県民の日"
-            }
-         ],
-         "fish" : [
-            {
-               "name" : "アユ"
-            }
-         ],
          "flag" : [
             {
                "name" : "群馬県旗",
                "wref" : "ファイル:Flag of Gunma Prefecture.svg"
             }
          ],
-         "flower" : [
-            {
-               "name" : "レンゲツツジ"
-            }
-         ],
          "mark" : [
             {
                "name" : "群馬県紋章",
                "wref" : "ファイル:Symbol of Gunma prefecture.png"
-            }
-         ],
-         "misc" : [
-            {
-               "label" : "マスコット",
-               "name" : "ぐんまちゃん"
-            }
-         ],
-         "song" : [
-            {
-               "name" : "群馬県の歌"
-            }
-         ],
-         "tree" : [
-            {
-               "name" : "クロマツ"
             }
          ]
       },
@@ -76939,13 +76814,6 @@
       "id" : 33,
       "kana" : "ぐんまけん",
       "latin" : "Gumma-ken",
-      "neighbor_region_names" : {
-         "埼玉県" : "埼玉県",
-         "新潟県" : "新潟県",
-         "栃木県" : "栃木県",
-         "福島県" : "福島県",
-         "長野県" : "長野県"
-      },
       "office" : {
          "address" : "前橋市大手町1-1-1",
          "position" : [
@@ -76954,12 +76822,10 @@
          ]
       },
       "type" : "pref",
-      "url" : "http://www.pref.gunma.jp",
       "wikipedia_image" : {
          "desc" : "草津温泉",
          "wref" : "ファイル:Yumomi.jpg"
       },
-      "wikipedia_location_image_wref" : "ファイル:Map of Japan with highlight on 10 Gunma prefecture.svg",
       "wref" : "群馬県"
    },
    "茨城県" : {
@@ -78278,8 +78144,8 @@
             "type" : "city",
             "url" : "http://www.city.sakuragawa.lg.jp/",
             "wikipedia_image" : {
-               "desc" : "雨引観音",
-               "wref" : "ファイル:Amabikikannon.jpg"
+               "desc" : "高峯より見た岩瀬盆地と筑波山地",
+               "wref" : "File:Iwase Basin from Mt.Takamine 01.jpg"
             },
             "wref" : "桜川市"
          },
@@ -78525,12 +78391,6 @@
                },
                "境町" : {
                   "area_symbols" : {
-                     "flag" : [
-                        {
-                           "name" : "境町旗",
-                           "wref" : "ファイル:Flag of Sakai Ibaraki.JPG"
-                        }
-                     ],
                      "flower" : [
                         {
                            "name" : "カンナ"
@@ -78538,8 +78398,7 @@
                      ],
                      "mark" : [
                         {
-                           "name" : "境町章",
-                           "wref" : "File:Symbol of Sakai Ibaraki.svg"
+                           "wref" : "Symbol of Sakai Ibaraki.svg"
                         }
                      ],
                      "tree" : [
@@ -78809,12 +78668,6 @@
                },
                "美浦村" : {
                   "area_symbols" : {
-                     "flag" : [
-                        {
-                           "name" : "美浦村旗",
-                           "wref" : "File:Flag of Miho Ibaraki.JPG"
-                        }
-                     ],
                      "flower" : [
                         {
                            "name" : "ヤマユリ"
@@ -78822,8 +78675,7 @@
                      ],
                      "mark" : [
                         {
-                           "name" : "美浦村章",
-                           "wref" : "File:Miho Ibaraki chapter.JPG"
+                           "wref" : "Miho Ibaraki chapter.JPG"
                         }
                      ],
                      "tree" : [
@@ -80513,7 +80365,7 @@
                "flag" : [
                   {
                      "name" : "諫早市旗",
-                     "wref" : "ファイル:Flag of Isahaya Nagasaki.JPG"
+                     "wref" : "ファイル:Flag of Isahaya, Nagasaki.svg"
                   }
                ],
                "flower" : [
@@ -80607,7 +80459,7 @@
             "url" : "http://www.city.nagasaki.lg.jp/",
             "wikipedia_image" : {
                "desc" : "平和祈念像",
-               "wref" : "ファイル:平和祈念像.jpg"
+               "wref" : "File:Peace Statue of Nagasaki 20150926.jpeg"
             },
             "wref" : "長崎市"
          },
@@ -82309,12 +82161,6 @@
                            "name" : "アカハラ"
                         }
                      ],
-                     "flag" : [
-                        {
-                           "name" : "軽井沢町旗",
-                           "wref" : "ファイル:Flag of Karuizawa, Nagano.svg"
-                        }
-                     ],
                      "flower" : [
                         {
                            "name" : "サクラソウ"
@@ -82322,8 +82168,7 @@
                      ],
                      "mark" : [
                         {
-                           "name" : "軽井沢町章",
-                           "wref" : "ファイル:Karuizawa Nagano chapter.JPG"
+                           "wref" : "Karuizawa Nagano chapter.JPG"
                         }
                      ],
                      "misc" : [
@@ -86899,25 +86744,10 @@
          },
          "沼津市" : {
             "area_symbols" : {
-               "bird" : [
-                  {
-                     "name" : "カモメ"
-                  }
-               ],
-               "flower" : [
-                  {
-                     "name" : "ハマユウ"
-                  }
-               ],
                "mark" : [
                   {
                      "name" : "沼津市章",
                      "wref" : "ファイル:静岡県沼津市市章.svg"
-                  }
-               ],
-               "tree" : [
-                  {
-                     "name" : "マツ"
                   }
                ]
             },
@@ -86925,15 +86755,6 @@
             "id" : 1530,
             "kana" : "ぬまづし",
             "latin" : "Numazu-shi",
-            "neighbor_region_names" : {
-               "三島市" : "三島市",
-               "伊豆の国市" : "伊豆の国市",
-               "伊豆市" : "伊豆市",
-               "函南町" : "函南町",
-               "富士市" : "富士市",
-               "清水町" : "清水町 (静岡県)",
-               "長泉町" : "長泉町"
-            },
             "office" : {
                "address" : "御幸町16-1",
                "position" : [
@@ -87786,12 +87607,6 @@
                },
                "長泉町" : {
                   "area_symbols" : {
-                     "flag" : [
-                        {
-                           "name" : "長泉町旗",
-                           "wref" : "File:Flag of Nagaizumi Shizuoka.JPG"
-                        }
-                     ],
                      "flower" : [
                         {
                            "name" : "サツキ"
@@ -87799,8 +87614,7 @@
                      ],
                      "mark" : [
                         {
-                           "name" : "長泉町章",
-                           "wref" : "ファイル:静岡県長泉町町章.svg"
+                           "wref" : "静岡県長泉町町章.svg"
                         }
                      ],
                      "tree" : [
@@ -87862,6 +87676,7 @@
          ]
       },
       "type" : "pref",
+      "url" : "https://www.pref.shizuoka.jp/",
       "wikipedia_image" : {
          "desc" : "富士山",
          "wref" : "ファイル:MtFuji FujiCity.jpg"
@@ -88042,16 +87857,9 @@
             "areas" : {
                "まんのう町" : {
                   "area_symbols" : {
-                     "flag" : [
-                        {
-                           "name" : "まんのう町旗",
-                           "wref" : "ファイル:Flag of Manno Kagawa.JPG"
-                        }
-                     ],
                      "mark" : [
                         {
-                           "name" : "まんのう町章",
-                           "wref" : "ファイル:Manno Kagawa chapter.JPG"
+                           "wref" : "Manno Kagawa chapter.JPG"
                         }
                      ]
                   },
@@ -88090,7 +87898,7 @@
                      "flag" : [
                         {
                            "name" : "多度津町旗",
-                           "wref" : "ファイル:Flag of Tadotsu Kagawa.JPG"
+                           "wref" : "ファイル:Flag of Tadotsu, Kagawa.svg"
                         }
                      ],
                      "flower" : [
@@ -88101,7 +87909,7 @@
                      "mark" : [
                         {
                            "name" : "多度津町章",
-                           "wref" : "ファイル:Tadotsu Kagawa chapter.JPG"
+                           "wref" : "ファイル:Emblem of Tadotsu, Kagawa.svg"
                         }
                      ],
                      "tree" : [
@@ -88318,12 +88126,6 @@
                },
                "小豆島町" : {
                   "area_symbols" : {
-                     "flag" : [
-                        {
-                           "name" : "小豆島町旗",
-                           "wref" : "ファイル:Flag_of_Shodoshima_Kagawa.JPG"
-                        }
-                     ],
                      "flower" : [
                         {
                            "name" : "オリーブ"
@@ -88331,8 +88133,7 @@
                      ],
                      "mark" : [
                         {
-                           "name" : "小豆島町章",
-                           "wref" : "ファイル:Shodoshima Kagawa chapter.JPG"
+                           "wref" : "Shodoshima Kagawa chapter.JPG"
                         }
                      ],
                      "tree" : [
@@ -88476,7 +88277,7 @@
                      "flag" : [
                         {
                            "name" : "宇多津町旗",
-                           "wref" : "ファイル:Flag of Utazu Kagawa.JPG"
+                           "wref" : "ファイル:Flag of Utazu, Kagawa.svg"
                         }
                      ],
                      "flower" : [
@@ -88487,7 +88288,7 @@
                      "mark" : [
                         {
                            "name" : "宇多津町章",
-                           "wref" : "ファイル:Utazu Kagawa chapter.JPG"
+                           "wref" : "ファイル:Emblem of Utazu, Kagawa.svg"
                         }
                      ],
                      "tree" : [
@@ -88521,16 +88322,9 @@
                },
                "綾川町" : {
                   "area_symbols" : {
-                     "flag" : [
-                        {
-                           "name" : "綾川町旗",
-                           "wref" : "ファイル:Flag of Auagawa Kagawa.JPG"
-                        }
-                     ],
                      "mark" : [
                         {
-                           "name" : "綾川町章",
-                           "wref" : "ファイル:Ayagawa Kagawa chapter.JPG"
+                           "wref" : "Ayagawa Kagawa chapter.JPG"
                         }
                      ]
                   },
@@ -91983,12 +91777,6 @@
                },
                "知名町" : {
                   "area_symbols" : {
-                     "flag" : [
-                        {
-                           "name" : "知名町旗",
-                           "wref" : "ファイル:Flag of China, Kagoshima.png"
-                        }
-                     ],
                      "flower" : [
                         {
                            "name" : "ハイビスカス"
@@ -91996,8 +91784,7 @@
                      ],
                      "mark" : [
                         {
-                           "name" : "知名町章",
-                           "wref" : "ファイル:China Kagoshima chapter.JPG"
+                           "wref" : "Emblem of China, Kagoshima.svg"
                         }
                      ],
                      "tree" : [
@@ -92086,7 +91873,7 @@
                "mark" : [
                   {
                      "name" : "奄美市章",
-                     "wref" : "ファイル:Amami Kagoshima chapter.svg"
+                     "wref" : "ファイル:Emblem of Amami, Kagoshima.svg"
                   }
                ],
                "misc" : [
@@ -92148,7 +91935,7 @@
                "mark" : [
                   {
                      "name" : "姶良市章",
-                     "wref" : "ファイル:Aira Kagoshima chapter.svg"
+                     "wref" : "ファイル:Emblem of Aira, Kagoshima.svg"
                   }
                ],
                "tree" : [
@@ -92348,7 +92135,7 @@
                "flag" : [
                   {
                      "name" : "日置市旗",
-                     "wref" : "ファイル:Flag of Hioki Kagoshima.JPG"
+                     "wref" : "ファイル:Flag of Hioki, Kagoshima.svg"
                   }
                ],
                "flower" : [
@@ -92359,7 +92146,7 @@
                "mark" : [
                   {
                      "name" : "日置市章",
-                     "wref" : "ファイル:Hioki Kagoshima chapter.JPG"
+                     "wref" : "ファイル:Emblem of Hioki, Kagoshima.svg"
                   }
                ],
                "tree" : [
@@ -92621,12 +92408,6 @@
                            "name" : "ヤクコマドリ"
                         }
                      ],
-                     "flag" : [
-                        {
-                           "name" : "屋久島町旗",
-                           "wref" : "ファイル:Flag of Yakushima, Kagoshima.svg"
-                        }
-                     ],
                      "flower" : [
                         {
                            "name" : "ヤクシマシャクナゲ"
@@ -92634,8 +92415,7 @@
                      ],
                      "mark" : [
                         {
-                           "name" : "屋久島町章",
-                           "wref" : "ファイル:Yakushima Kagoshima chapter.JPG"
+                           "wref" : "Emblem of Yakushima, Kagoshima.svg"
                         }
                      ],
                      "tree" : [
@@ -92720,9 +92500,7 @@
                      ],
                      "mark" : [
                         {
-                           "date" : "1953",
-                           "name" : "東串良町章",
-                           "wref" : "ファイル:Higashikushira Kagoshima chapter.JPG"
+                           "wref" : "Higashikushira Kagoshima chapter.JPG"
                         }
                      ],
                      "tree" : [
@@ -92854,7 +92632,7 @@
                "flag" : [
                   {
                      "name" : "薩摩川内市旗",
-                     "wref" : "ファイル:Flag of Satsumasendai, Kagoshima.png"
+                     "wref" : "ファイル:Flag of Satsumasendai, Kagoshima.svg"
                   }
                ],
                "flower" : [
@@ -92865,7 +92643,7 @@
                "mark" : [
                   {
                      "name" : "薩摩川内市章",
-                     "wref" : "ファイル:Satsumasendai Kagoshima chapter.JPG"
+                     "wref" : "ファイル:Emblem of Satsumasendai, Kagoshima.svg"
                   }
                ],
                "tree" : [
@@ -93232,12 +93010,6 @@
          },
          "鹿屋市" : {
             "area_symbols" : {
-               "flag" : [
-                  {
-                     "name" : "鹿屋市旗",
-                     "wref" : "ファイル:Flag of Kanoya Kagoshima.JPG"
-                  }
-               ],
                "flower" : [
                   {
                      "date" : "2006-05-15",
@@ -93247,7 +93019,7 @@
                "mark" : [
                   {
                      "name" : "鹿屋市章",
-                     "wref" : "ファイル:Kanoya Kagoshima chapter.JPG"
+                     "wref" : "ファイル:Emblem of Kanoya, Kagoshima.svg"
                   }
                ],
                "tree" : [
