@@ -15527,20 +15527,10 @@
       },
       "1307" : {
          "area_symbols" : {
-            "flower" : [
-               {
-                  "name" : "ツツジ"
-               }
-            ],
             "mark" : [
                {
                   "name" : "大阪狭山市章",
                   "wref" : "ファイル:Emblem of Osakasayama, Osaka.svg"
-               }
-            ],
-            "tree" : [
-               {
-                  "name" : "サクラ"
                }
             ]
          },
@@ -15549,11 +15539,6 @@
          "kana" : "おおさかさやまし",
          "latin" : "Osakasayama-shi",
          "name" : "大阪狭山市",
-         "neighbor_region_names" : {
-            "1302" : 1,
-            "1306" : 1,
-            "1309" : 1
-         },
          "office" : {
             "address" : "狭山1-2384-1",
             "position" : [
@@ -15565,7 +15550,6 @@
          "pref_id" : 28,
          "qualified_name" : "大阪府大阪狭山市",
          "type" : "city",
-         "url" : "http://www.city.osakasayama.osaka.jp/",
          "wikipedia_image" : {
             "desc" : "狭山池",
             "wref" : "File:Sayamaike01.JPG"
@@ -15890,7 +15874,7 @@
          "url" : "http://www.city.sakai.lg.jp/sakai/index.html",
          "wikipedia_image" : {
             "desc" : "大仙陵古墳",
-            "wref" : "File:Daisenryo_Kofun_zenkei.JPG"
+            "wref" : "File:Daisenryo_Kofun_zenkei-2.jpg"
          },
          "wikipedia_location_image_wref" : "ファイル:Sakai-city sakai.png",
          "wref" : "堺区"
@@ -17486,10 +17470,6 @@
          "qualified_name" : "大阪府大阪市中央区",
          "type" : "ward",
          "url" : "http://www.city.osaka.lg.jp/chuo/",
-         "wikipedia_image" : {
-            "desc" : "大阪城公園の天守と桜",
-            "wref" : "File:Osaka Castle Keep Tower in 201504 013.JPG"
-         },
          "wref" : "中央区 (大阪市)"
       },
       "135" : {
@@ -20802,6 +20782,7 @@
          "qualified_name" : "北海道日高町",
          "subpref_id" : 2357,
          "type" : "town",
+         "url" : "http://www.town.hidaka.hokkaido.jp/",
          "wikipedia_image" : {
             "desc" : "門別競馬場のブリーダーズゴールドカップ",
             "wref" : "File:The 21st Breeders Gold Cup 20090813.jpg"
@@ -29087,7 +29068,7 @@
                {
                   "date" : "2006-11-02",
                   "name" : "安中市章",
-                  "wref" : "ファイル:Emblem of Annaka, Gunma.svg"
+                  "wref" : "ファңイル:Emblem of Annaka, Gunma.svg"
                }
             ],
             "tree" : [
@@ -32817,7 +32798,7 @@
          "type" : "city",
          "url" : "http://www.city.shiroi.chiba.jp/",
          "wikipedia_image" : {
-            "desc" : "白井駅の近代的な駅舎",
+            "desc" : "上:白井駅の近代的な駅舎 下:薬王寺",
             "wref" : "File:Hokuso-shiroi-station.jpg"
          },
          "wref" : "白井市"
@@ -54948,7 +54929,7 @@
             ],
             "mark" : [
                {
-                  "wref" : "Symbol of Watari Miyagi.svg"
+                  "wref" : "File:Symbol of Watari Miyagi.svg"
                }
             ],
             "tree" : [
@@ -60037,8 +60018,8 @@
          "qualified_name" : "長野県北安曇郡白馬村",
          "type" : "village",
          "wikipedia_image" : {
-            "desc" : "八方尾根から望む市街地",
-            "wref" : "File:Happo-one16s5s4410.jpg"
+            "desc" : "北城から見た白馬連峰",
+            "wref" : "ファイル:HakubaSanZan1.jpg"
          },
          "wref" : "白馬村"
       },
@@ -67633,7 +67614,7 @@
          "type" : "pref",
          "url" : "http://www.pref.osaka.jp/",
          "wikipedia_image" : {
-            "desc" : "大坂城と大阪ビジネスパーク",
+            "desc" : "難波宮跡・大坂城・大阪ビジネスパーク",
             "wref" : "ファイル:Osaka Castle 03bs3200.jpg"
          },
          "wikipedia_location_image_wref" : "ファイル:Map of Japan with highlight on 27 Osaka prefecture.svg",
@@ -68817,7 +68798,7 @@
          "type" : "pref",
          "url" : "http://www.pref.mie.jp/",
          "wikipedia_image" : {
-            "desc" : "伊勢神宮・内宮と伊勢志摩サミット参加の各国首脳",
+            "desc" : "伊勢神宮(内宮)での伊勢志摩サミット各国首脳",
             "wref" : "File:G7 Leaders visit to Ise Jingu.jpg"
          },
          "wikipedia_location_image_wref" : "ファイル:Map of Japan with highlight on 24 Mie prefecture.svg",
@@ -76811,8 +76792,8 @@
          "type" : "village",
          "url" : "http://www.himeshima.jp/",
          "wikipedia_image" : {
-            "desc" : null,
-            "wref" : "ファイル:Hime-shima Island Oita prefecture Aerial photograph.2015.jpg"
+            "desc" : "姫島灯台",
+            "wref" : "File:姫島灯台.jpg"
          },
          "wref" : "姫島村"
       },
@@ -77049,6 +77030,12 @@
             "flower" : [
                {
                   "name" : "リンドウ"
+               }
+            ],
+            "mark" : [
+               {
+                  "name" : "熊本県章",
+                  "wref" : "ファイル:Emblem of Kumamoto Prefecture.svg"
                }
             ],
             "misc" : [
@@ -78646,6 +78633,11 @@
       },
       "468" : {
          "area_symbols" : {
+            "bird" : [
+               {
+                  "name" : "ペンギン"
+               }
+            ],
             "fish" : [
                {
                   "name" : "フク"
@@ -78674,6 +78666,14 @@
                {
                   "label" : "市の虫",
                   "name" : "ホタル"
+               },
+               {
+                  "label" : "市の動物",
+                  "name" : "クジラ"
+               },
+               {
+                  "label" : "市のシンボルマーク",
+                  "name" : "フクフクマーク"
                }
             ],
             "tree" : [
@@ -85588,8 +85588,8 @@
          "type" : "pref",
          "url" : "http://www.pref.yamaguchi.lg.jp/",
          "wikipedia_image" : {
-            "desc" : "秋吉台",
-            "wref" : "ファイル:秋吉台風景.JPG"
+            "desc" : "元乃隅稲成神社",
+            "wref" : "ファイル:元乃隅稲荷神社 (33131861841).jpg"
          },
          "wikipedia_location_image_wref" : "ファイル:Map of Japan with highlight on 35 Yamaguchi prefecture.svg",
          "wref" : "山口県"
@@ -89042,7 +89042,7 @@
          "url" : "http://www.city.takayama.lg.jp/",
          "wikipedia_image" : {
             "desc" : "高山市三町伝統的建造物群保存地区",
-            "wref" : "File:Sanmachi_Takayama02ds3872.jpg"
+            "wref" : "File:Sanmachi Takayama 201706.jpg"
          },
          "wref" : "高山市"
       },
@@ -89221,6 +89221,12 @@
             "flower" : [
                {
                   "name" : "山ざくら"
+               }
+            ],
+            "mark" : [
+               {
+                  "name" : "町章",
+                  "wref" : "File:Ikeda Gifu chapter.JPG"
                }
             ],
             "tree" : [
@@ -90090,7 +90096,7 @@
             "mark" : [
                {
                   "name" : "北方町章",
-                  "wref" : "ファイル:Kitagata Gifu chapter.svg"
+                  "wref" : "ファイル:Emblem of Kitagata, Gifu.svg"
                }
             ],
             "tree" : [
@@ -91279,6 +91285,12 @@
             "flower" : [
                {
                   "name" : "ミツバツツジ"
+               }
+            ],
+            "mark" : [
+               {
+                  "name" : "村章",
+                  "wref" : "File:Higashishirakawa Gifu chapter.JPG"
                }
             ],
             "tree" : [
@@ -92866,8 +92878,8 @@
          "type" : "town",
          "url" : "http://www.town.otsuchi.iwate.jp/",
          "wikipedia_image" : {
-            "desc" : "\u003Ctable style=\u0022width:300px;margin:2px auto; border-collapse: collapse\u0022>\u000A\u003Ctr>\u003Ctd>新山高原\u003Ctd>浪板不動滝\u003C/tr>\u000A\u003Ctr>\u003Ctd colspan=\u00222\u0022>蓬莱島\u003C/tr>\u000A\u003Ctr>\u003Ctd>宮ノ口判官堂\u003Ctd>虎舞\u003C/tr>\u000A\u003C/table>",
-            "wref" : "File:Otsuchi Town montage.jpg"
+            "desc" : "大槌湾にある蓬莱島",
+            "wref" : "File:Hourai Islnd in Otsuchi.jpg"
          },
          "wref" : "大槌町"
       },
@@ -93307,8 +93319,8 @@
          "type" : "village",
          "url" : "http://www.vill.fudai.iwate.jp/",
          "wikipedia_image" : {
-            "desc" : "\u003Ctable style=\u0022width:320px;margin:2px auto; border-collapse: collapse\u0022>\u000A\u003Ctr>\u003Ctd>普代浜\u003Ctd>北緯40度\u000Aシンボル塔\u003C/tr>\u000A\u003Ctr>\u003Ctd>鵜鳥神社\u003Ctd>普代水門\u003C/tr>\u000A\u003C/table>",
-            "wref" : "File:Fudai Village montage.jpg"
+            "desc" : "北緯40度シンボル塔",
+            "wref" : "File:北緯40度シンボル塔.jpg"
          },
          "wref" : "普代村"
       },
@@ -94507,7 +94519,7 @@
          "type" : "town",
          "url" : "http://www.town.kanegasaki.iwate.jp/",
          "wikipedia_image" : {
-            "desc" : "金ケ崎町城内諏訪小路、白糸まちなみ交流館",
+            "desc" : "金ケ崎町城内諏訪小路・白糸まちなみ交流館",
             "wref" : "File:Shiraito machinami kouryukan in Kanegasaki.jpg"
          },
          "wref" : "金ケ崎町"
@@ -97730,7 +97742,7 @@
          "pref_id" : 16,
          "qualified_name" : "栃木県真岡市",
          "type" : "city",
-         "url" : "http://www.city.moka.tochigi.jp/",
+         "url" : "https://www.city.moka.lg.jp/",
          "wikipedia_image" : {
             "desc" : "真岡駅駅舎",
             "wref" : "File:真岡駅 駅舎.jpg"
@@ -103834,7 +103846,7 @@
             "mark" : [
                {
                   "name" : "宮古島市章",
-                  "wref" : "File:Emblem of Miyakojoima Okinawa chapter.svg"
+                  "wref" : "ファイル:Emblem of Miyakojoima Okinawa chapter.svg"
                }
             ],
             "misc" : [
@@ -103871,8 +103883,8 @@
          "type" : "city",
          "url" : "http://www.city.miyakojima.lg.jp/",
          "wikipedia_image" : {
-            "desc" : "パイナガマビーチ",
-            "wref" : "File:Miyako painagama 2004.jpg"
+            "desc" : "与那覇前浜",
+            "wref" : "ファイル:Yonahamaehama Miyakojima Okinawa Japan03bs3s4500.jpg"
          },
          "wref" : "宮古島市"
       },
@@ -104736,36 +104748,11 @@
          "wref" : "南城市"
       },
       "987" : {
-         "area_symbols" : {
-            "flag" : [
-               {
-                  "name" : "沖縄市旗",
-                  "wref" : "ファイル:Flag of Okinawa, Okinawa.svg"
-               }
-            ],
-            "flower" : [
-               {
-                  "name" : "ハイビスカス"
-               }
-            ],
-            "tree" : [
-               {
-                  "name" : "ビロー"
-               }
-            ]
-         },
          "code" : "47211",
          "id" : 987,
          "kana" : "おきなわし",
          "latin" : "Okinawa-shi",
          "name" : "沖縄市",
-         "neighbor_region_names" : {
-            "945" : 1,
-            "951" : 1,
-            "954" : 1,
-            "955" : 1,
-            "965" : 1
-         },
          "office" : {
             "address" : "仲宗根町26-1",
             "position" : [
@@ -104777,7 +104764,6 @@
          "pref_id" : 20,
          "qualified_name" : "沖縄県沖縄市",
          "type" : "city",
-         "url" : "http://www.city.okinawa.okinawa.jp/",
          "wikipedia_image" : {
             "desc" : "東南植物楽園",
             "wref" : "File:東南植物楽園.JPG"
@@ -105115,12 +105101,6 @@
       },
       "993" : {
          "area_symbols" : {
-            "flag" : [
-               {
-                  "name" : "津島市旗",
-                  "wref" : "File:Flag of Tsushima Aichi.JPG"
-               }
-            ],
             "flower" : [
                {
                   "name" : "フジ"
@@ -105128,8 +105108,9 @@
             ],
             "mark" : [
                {
+                  "date" : "1957-03-01",
                   "name" : "津島市章",
-                  "wref" : "File:Tsushima Aichi chapter.JPG"
+                  "wref" : "File:Emblem of Tsushima, Aichi.svg"
                }
             ],
             "tree" : [
