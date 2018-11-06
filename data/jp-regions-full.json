@@ -2245,7 +2245,6 @@
                "desc" : "\u003Ctable style=\"width:280px; margin:2px auto; border-collapse:collapse\">\n\u003Ctr>\u003Ctd style=\"width:33%\">東寺\u003Ctd style=\"width:67%\" colspan=\"2\">祇園祭\u003C/tr>\n\u003Ctr>\u003Ctd style=\"width:33%\">伏見稲荷\u003Ctd style=\"width:33%\">京都御所\u003Ctd style=\"width:34%\">清水寺\u003C/tr>\n\u003Ctr>\u003Ctd style=\"width:33%\">鹿苑寺金閣\u003Ctd style=\"width:33%\">祇園白川と舞妓\u003Ctd style=\"width:34%\">慈照寺銀閣\u003C/tr>\n\u003Ctr>\u003Ctd style=\"width:66%\" colspan=\"2\">東山から京都中心部\u003Ctd style=\"width:34%\">京都タワー\u003C/tr>\n\u003C/table>",
                "wref" : "File:Kyoto montage.jpg"
             },
-            "wikipedia_location_image_wref" : "File:",
             "wref" : "京都市"
          },
          "八幡市" : {
@@ -4718,7 +4717,7 @@
                   {
                      "date" : "2005-04-01",
                      "name" : "宍粟市章",
-                     "wref" : "ファイル:Shiso Hyogo chapter.JPG"
+                     "wref" : "File:Shiso Hyogo chapter.JPG"
                   }
                ],
                "tree" : [
@@ -4752,7 +4751,7 @@
             "type" : "city",
             "wikipedia_image" : {
                "desc" : "伊和神社",
-               "wref" : "ファイル:Iwajinja-b.jpg"
+               "wref" : "File:Iwajinja-b.jpg"
             },
             "wref" : "宍粟市"
          },
@@ -5590,7 +5589,6 @@
                      "desc" : "長田神社",
                      "wref" : "File:Nagata_Jinja_Kobe_Haiden.jpg"
                   },
-                  "wikipedia_location_image_wref" : "File:",
                   "wref" : "長田区"
                },
                "須磨区" : {
@@ -5636,7 +5634,7 @@
             },
             "type" : "city",
             "wikipedia_image" : {
-               "desc" : "\u003Ctable style=\"width:280px; margin:2px auto; border-collapse:collapse\">\n\u003Ctr>\u003Ctd style=\"width:100%\" colspan=\"3\">神戸港\u003C/tr>\n\u003Ctr>\u003Ctd style=\"width:33%\">明石海峡大橋\u003Ctd style=\"width:33%\">風見鶏の館\u003Ctd style=\"width:34%\">神戸南京町\u003C/tr>\n\u003Ctr>\u003Ctd style=\"width:66%\" colspan=\"2\">摩耶山からの夜景\u003Ctd style=\"width:34%\">神戸ポートタワー\u003C/tr>\n\u003C/table>",
+               "desc" : "\u003Ctable style=\"width:280px; margin:2px auto; border-collapse:collapse\">\n\u003Ctr>\u003Ctd style=\"width:100%\" colspan=\"3\">神戸港\u003C/td>\u003C/tr>\n\u003Ctr>\u003Ctd style=\"width:33%\">明石海峡大橋\u003C/td>\u003Ctd style=\"width:33%\">風見鶏の館\u003C/td>\u003Ctd style=\"width:34%\">神戸南京町\u003C/td>\u003C/tr>\n\u003Ctr>\u003Ctd style=\"width:66%\" colspan=\"2\">摩耶山からの夜景\u003C/td>\u003Ctd style=\"width:34%\">神戸ポートタワー\u003C/td>\u003C/tr>\n\u003C/table>",
                "wref" : "File:Kobe montage1.jpg"
             },
             "wref" : "神戸市"
@@ -11771,7 +11769,7 @@
             "url" : "http://www.urahoro.jp/",
             "wikipedia_image" : {
                "desc" : "留真温泉",
-               "wref" : "File:Rushin spa 2011.JPG"
+               "wref" : "ファイル:Rushin spa 2011.JPG"
             },
             "wref" : "浦幌町"
          },
@@ -24229,10 +24227,10 @@
       "latin" : "Oita-ken",
       "neighbor_region_names" : {
          "宮崎県" : "宮崎県",
+         "山口県" : "山口県",
          "愛媛県" : "愛媛県",
          "熊本県" : "熊本県",
-         "福岡県" : "福岡県",
-         "高知県" : "高知県"
+         "福岡県" : "福岡県"
       },
       "office" : {
          "address" : "大分市大手町3-1-1",
@@ -25125,8 +25123,8 @@
                   "type" : "ward",
                   "url" : "http://www.city.osaka.lg.jp/taisho/",
                   "wikipedia_image" : {
-                     "desc" : "千本松渡船場",
-                     "wref" : "ファイル:千本松渡船050716a.jpg"
+                     "desc" : "渡船(落合下渡船)",
+                     "wref" : "File:Osaka city ferry boat01.JPG"
                   },
                   "wikipedia_location_image_wref" : "File:",
                   "wref" : "大正区"
@@ -28073,7 +28071,7 @@
             "type" : "city",
             "url" : "http://www.city.nara.lg.jp/",
             "wikipedia_image" : {
-               "desc" : "\u003Ctable style=\"width:280px;margin:2px auto; border-collapse: collapse\">\n\u003Ctr>\u003Ctd>若草山焼きと\n平城京跡\u003Ctd style=\"vertical-align:middle;\">東大寺の大仏\u003C/tr>\n\u003Ctr>\u003Ctd>薬師寺\u003Ctd>東大寺\u003C/tr>\n\u003Ctr>\u003Ctd>春日大社\u003Ctd>奈良公園の鹿\u003C/tr>\n\u003C/table>",
+               "desc" : "\u003Ctable style=\"width:280px;margin:2px auto; border-collapse: collapse\">\n\u003Ctr>\u003Ctd>若草山焼きと\n平城宮朱雀門\u003Ctd style=\"vertical-align:middle;\">東大寺盧舎那仏像\u003C/tr>\n\u003Ctr>\u003Ctd>薬師寺\u003Ctd>東大寺\u003C/tr>\n\u003Ctr>\u003Ctd>春日大社\u003Ctd>奈良公園の鹿\u003C/tr>\n\u003C/table>",
                "wref" : "File:Nara motange.jpg"
             },
             "wref" : "奈良市"
@@ -28124,10 +28122,6 @@
                ]
             },
             "type" : "city",
-            "wikipedia_image" : {
-               "desc" : "宇陀松山",
-               "wref" : "File:Uda Matsuyama18s3872.jpg"
-            },
             "wref" : "宇陀市"
          },
          "宇陀郡" : {
@@ -28376,10 +28370,6 @@
             },
             "type" : "city",
             "url" : "http://www.city.sakurai.nara.jp/",
-            "wikipedia_image" : {
-               "desc" : "長谷寺",
-               "wref" : "File:Hasedera Sakurai Nara pref58s5s4272.jpg"
-            },
             "wref" : "桜井市"
          },
          "橿原市" : {
@@ -34160,6 +34150,7 @@
       "kana" : "やまぐちけん",
       "latin" : "Yamaguchi-ken",
       "neighbor_region_names" : {
+         "大分県" : "大分県",
          "島根県" : "島根県",
          "広島県" : "広島県",
          "福岡県" : "福岡県"
@@ -37500,10 +37491,6 @@
                   },
                   "type" : "town",
                   "url" : "http://www.town.yaotsu.gifu.jp/",
-                  "wikipedia_image" : {
-                     "desc" : "人道の丘のモニュメント",
-                     "wref" : "File:Jindounooka monument0006.jpg"
-                  },
                   "wref" : "八百津町"
                },
                "坂祝町" : {
@@ -49182,8 +49169,8 @@
                   },
                   "type" : "town",
                   "wikipedia_image" : {
-                     "desc" : "\u003Ctable style=\"width:280px;margin:2px auto; border-collapse: collapse;\">\n\u003Ctr>\u003Ctd>豊浜鯛まつり\u003Ctd>観光農園花ひろば\u003C/tr>\n\u003Ctr>\u003Ctd>三河湾国定公園\u003Ctd>南知多温泉郷\u003C/tr>\n\u003Ctr>\u003Ctd>チッタ・ナポリ\u003Ctd>千鳥ヶ浜海水浴場\u003C/tr>\n\u003C/table>",
-                     "wref" : "File:南知多町.jpg"
+                     "desc" : "日間賀島",
+                     "wref" : "File:Himakajima8.JPG"
                   },
                   "wref" : "南知多町"
                },
@@ -63543,7 +63530,7 @@
             },
             "type" : "city",
             "wikipedia_image" : {
-               "desc" : "早朝の鵠沼海岸。遠くに富士山を望む。",
+               "desc" : "早朝の鵠沼海岸。遠くに富士山を望む。 9300",
                "wref" : "File:Enoshima west beach 02.jpg"
             },
             "wref" : "藤沢市"
@@ -64137,6 +64124,12 @@
             {
                "name" : "福井県章",
                "wref" : "ファイル:Emblem of Fukui Prefecture.svg"
+            }
+         ],
+         "misc" : [
+            {
+               "label" : "マスコット",
+               "name" : "Juratic"
             }
          ],
          "song" : [
@@ -84334,11 +84327,6 @@
                      "flower" : [
                         {
                            "name" : "サツキ"
-                        }
-                     ],
-                     "mark" : [
-                        {
-                           "wref" : "静岡県長泉町町章.svg"
                         }
                      ],
                      "tree" : [
