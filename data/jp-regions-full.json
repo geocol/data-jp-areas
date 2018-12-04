@@ -1008,8 +1008,8 @@
                   "type" : "town",
                   "url" : "http://www.town.taiki.mie.jp/",
                   "wikipedia_image" : {
-                     "desc" : "道の駅奥伊勢木つつ木館",
-                     "wref" : "File:Okuise-kitsutsukikan., a Roadside Station01.jpg"
+                     "desc" : "瀧原宮",
+                     "wref" : "File:Takihara-no-miya 01.JPG"
                   },
                   "wref" : "大紀町"
                },
@@ -1388,8 +1388,8 @@
             "type" : "city",
             "url" : "http://www.info.city.tsu.mie.jp/",
             "wikipedia_image" : {
-               "desc" : "偕楽公園 世界一短い駅名標(JR津駅)",
-               "wref" : "File:Kairaku Park 02.jpg"
+               "desc" : "津観音 世界一短い駅名標(JR津駅)",
+               "wref" : "File:140405_Tsu-Kannon_Tsu_Mie_pref_Japan03s3.jpg"
             },
             "wref" : "津市"
          },
@@ -1685,8 +1685,8 @@
                   "type" : "town",
                   "url" : "http://www.town.ine.kyoto.jp/",
                   "wikipedia_image" : {
-                     "desc" : "伊根湾",
-                     "wref" : "File:Ine landscape.JPG"
+                     "desc" : "伊根湾と伊根の舟屋",
+                     "wref" : "File:Inefunaya.jpg"
                   },
                   "wref" : "伊根町"
                }
@@ -2351,8 +2351,8 @@
             "type" : "city",
             "url" : "http://www.city.nantan.kyoto.jp/",
             "wikipedia_image" : {
-               "desc" : "生身天満宮(日本最古の天満宮)",
-               "wref" : "File:Ikimitenmangū keidai.JPG"
+               "desc" : "るり渓",
+               "wref" : "ファイル:Meibaku, Rurikei02.JPG"
             },
             "wref" : "南丹市"
          },
@@ -2950,8 +2950,8 @@
                   "type" : "town",
                   "url" : "http://www.town.ujitawara.kyoto.jp/",
                   "wikipedia_image" : {
-                     "desc" : "山口城跡",
-                     "wref" : "ファイル:山口城址 - panoramio.jpg"
+                     "desc" : "猿丸神社",
+                     "wref" : "File:Sarumaru_shrine02.jpg"
                   },
                   "wref" : "宇治田原町"
                }
@@ -3145,8 +3145,8 @@
             "type" : "city",
             "url" : "http://www.city.nagaokakyo.lg.jp/",
             "wikipedia_image" : {
-               "desc" : "楊谷寺(柳谷観音)",
-               "wref" : "File:Yokokuji01n3200.jpg"
+               "desc" : "長岡天満宮",
+               "wref" : "ファイル:NagaokaTenmangu.jpg"
             },
             "wref" : "長岡京市"
          }
@@ -4600,8 +4600,8 @@
             },
             "type" : "city",
             "wikipedia_image" : {
-               "desc" : "慶野松原",
-               "wref" : "File:Keino matsubara 01.jpg"
+               "desc" : "諭鶴羽山、沼島 福良港\n道の駅うずしお、大和大国魂神社",
+               "wref" : "File:Minamiawaji montage.JPG"
             },
             "wref" : "南あわじ市"
          },
@@ -5064,8 +5064,8 @@
             "type" : "city",
             "url" : "http://www.city.sumoto.hyogo.jp/",
             "wikipedia_image" : {
-               "desc" : "洲本八景「大浜を大観」",
-               "wref" : "File:Sumoto city view from Sumoto Castle Awaji Island Japan01n.jpg"
+               "desc" : "洲本城、洲本市街地、洲本八幡神社 洲本市立淡路文化史料館、大浜海水浴場\n成ヶ島",
+               "wref" : "File:Sumoto montage.JPG"
             },
             "wref" : "洲本市"
          },
@@ -5114,8 +5114,8 @@
             },
             "type" : "city",
             "wikipedia_image" : {
-               "desc" : "淡路島・明石海峡大橋を臨む",
-               "wref" : "ファイル:Awaji-shima.png"
+               "desc" : "野島断層、明石海峡大橋 淡路夢舞台、淡路ワールドパークONOKORO\n平和観音寺、江崎灯台\n淡路サービスエリア、本福寺",
+               "wref" : "File:Awaji montage.JPG"
             },
             "wref" : "淡路市"
          },
@@ -6636,8 +6636,8 @@
             "type" : "town",
             "url" : "http://www.town.kamifurano.hokkaido.jp",
             "wikipedia_image" : {
-               "desc" : "吹上温泉",
-               "wref" : "File:吹上げ温泉P6230270.JPG"
+               "desc" : "かんのファーム",
+               "wref" : "File:Nishi 12 Sen Kita, Kamifurano, Sorachi District, Hokkaido Prefecture 071-0512, Japan - panoramio.jpg"
             },
             "wref" : "上富良野町"
          },
@@ -8320,8 +8320,8 @@
             "type" : "city",
             "url" : "http://www.city.nayoro.lg.jp",
             "wikipedia_image" : {
-               "desc" : "ピヤシリ山",
-               "wref" : "File:Mt Piyashiri 2011.JPG"
+               "desc" : "名寄ピヤシリスキー場",
+               "wref" : "File:ピヤシリスキー場2.jpg"
             },
             "wref" : "名寄市"
          },
@@ -10434,8 +10434,8 @@
                   "type" : "ward",
                   "url" : "http://www.city.sapporo.jp/chuo/",
                   "wikipedia_image" : {
-                     "desc" : "大通公園",
-                     "wref" : "ファイル:大通公園（Odori_Park）_-_panoramio_(3).jpg"
+                     "desc" : "北海道庁旧本庁舎",
+                     "wref" : "File:Hokkaido_Prefectural_Office02s5s4272.jpg"
                   },
                   "wikipedia_location_image_wref" : "ファイル:Hokkaido_Sapporo_Chuo-ward.png",
                   "wref" : "中央区 (札幌市)"
@@ -10505,8 +10505,8 @@
                   "type" : "ward",
                   "url" : "http://www.city.sapporo.jp/minami/",
                   "wikipedia_image" : {
-                     "desc" : "藻岩山と豊平川",
-                     "wref" : "File:MoiwaYama2004-5-8.jpg"
+                     "desc" : "定山渓温泉",
+                     "wref" : "File:TsukimiBashi2004-12.jpg"
                   },
                   "wikipedia_location_image_wref" : "ファイル:Hokkaido_Sapporo_Minami-ward.png",
                   "wref" : "南区 (札幌市)"
@@ -10686,8 +10686,8 @@
                   "type" : "ward",
                   "url" : "http://www.city.sapporo.jp/nishi/",
                   "wikipedia_image" : {
-                     "desc" : "琴似屯田兵村兵屋跡",
-                     "wref" : "File:琴似屯田兵村兵屋跡.JPG"
+                     "desc" : "農試公園",
+                     "wref" : "File:農試公園 （Noshi Park） - panoramio (9).jpg"
                   },
                   "wikipedia_location_image_wref" : "ファイル:Hokkaido_Sapporo_Nishi-ward.png",
                   "wref" : "西区 (札幌市)"
@@ -11962,8 +11962,8 @@
             "type" : "town",
             "url" : "http://www.town.shimizu.hokkaido.jp/",
             "wikipedia_image" : {
-               "desc" : "美蔓パノラマパーク",
-               "wref" : "ファイル:美漫パノラマパーク - panoramio.jpg"
+               "desc" : "日勝峠",
+               "wref" : "File:日勝峠 - panoramio (1).jpg"
             },
             "wref" : "清水町 (北海道)"
          },
@@ -12715,7 +12715,7 @@
             "url" : "http://www.town.rebun.hokkaido.jp/",
             "wikipedia_image" : {
                "desc" : "スコトン岬",
-               "wref" : "File:Sukoton-misaki_Promontory_(The_ground_of_the_most_northern_limit)_in_Rebunto_Island.jpg"
+               "wref" : "File:Sukoton.JPG"
             },
             "wref" : "礼文町"
          },
@@ -13027,7 +13027,7 @@
             },
             "subpref_name" : "オホーツク総合振興局",
             "type" : "city",
-            "url" : "http://www.city.abashiri.hokkaido.jp",
+            "url" : "https://www.city.abashiri.hokkaido.jp",
             "wikipedia_image" : {
                "desc" : "博物館網走監獄 庁舎",
                "wref" : "File:130713_Abashiri_Prison_Museum_Abashiri_Hokkaido_Japan13s3.jpg"
@@ -14288,8 +14288,8 @@
             "type" : "town",
             "url" : "http://www.maoi-net.jp/",
             "wikipedia_image" : {
-               "desc" : "ながぬま温泉",
-               "wref" : "File:ながぬま温泉.jpg"
+               "desc" : "町内の田園風景",
+               "wref" : "File:Rute337 - panoramio.jpg"
             },
             "wref" : "長沼町"
          },
@@ -20242,7 +20242,7 @@
             "type" : "city",
             "url" : "http://www.city.saitama.jp",
             "wikipedia_image" : {
-               "desc" : "\u003Ctable style=\"width:280px; margin:2px auto; border-collapse:collapse\">\n\u003Ctr>\u003Ctd style=\"width:100%\" colspan=\"2\">埼玉スタジアム2002\u003C/tr>\n\u003Ctr>\u003Ctd style=\"width:50%\">浦和パルコ・中央図書館\u003Ctd style=\"width:50%\">玉蔵院\u003C/tr>\n\u003Ctr>\u003Ctd style=\"width:50%\">氷川神社\u003Ctd style=\"width:50%\">さいたま新都心\u003C/tr>\n\u003Ctr>\u003Ctd style=\"width:50%\">さいたまスーパーアリーナ\u003Ctd style=\"width:50%\">武蔵浦和\u003C/tr>\n\u003C/table>",
+               "desc" : "\u003Ctable style=\"width:280px; margin:2px auto; border-collapse:collapse\">\n\u003Ctr>\u003Ctd style=\"width:100%\" colspan=\"2\">埼玉スタジアム2002\u003C/tr>\n\u003Ctr>\u003Ctd style=\"width:50%\">浦和パルコ・中央図書館\u003Ctd style=\"width:50%\">玉蔵院\u003C/tr>\n\u003Ctr>\u003Ctd style=\"width:50%\">氷川神社\u003Ctd style=\"width:50%\">さいたま新都心\u003C/tr>\n\u003Ctr>\u003Ctd style=\"width:50%\">さいたまスーパーアリーナ\u003Ctd style=\"width:50%\">武蔵浦和\u003C/tr>\n\u003C/table>\n9270",
                "wref" : "File:Saitama city montage.jpg"
             },
             "wref" : "さいたま市"
@@ -23482,8 +23482,8 @@
             "type" : "city",
             "url" : "http://www.city.saiki.oita.jp/",
             "wikipedia_image" : {
-               "desc" : "鶴御崎",
-               "wref" : "File:Tsurumisaki 04.JPG"
+               "desc" : "1段目より元猿海岸、佐伯城、鶴見崎 唄げんか大橋、小半森林公園の水車",
+               "wref" : "File:Saiki Montage.jpg"
             },
             "wref" : "佐伯市"
          },
@@ -24746,8 +24746,8 @@
                   "type" : "ward",
                   "url" : "http://www.city.sakai.lg.jp/kita/",
                   "wikipedia_image" : {
-                     "desc" : "大泉緑地",
-                     "wref" : "File:Oizumi_Ryokuchi_Park.jpg"
+                     "desc" : "百舌鳥八幡宮",
+                     "wref" : "File:Mozu-hachimangu1.jpg"
                   },
                   "wikipedia_location_image_wref" : "ファイル:Sakai-city kita.png",
                   "wref" : "北区 (堺市)"
@@ -24809,8 +24809,8 @@
                   "type" : "ward",
                   "url" : "http://www.city.sakai.lg.jp/higashi/index.html",
                   "wikipedia_image" : {
-                     "desc" : "出雲大社大阪分祠",
-                     "wref" : "File:Izumotaisya01.jpg"
+                     "desc" : "白鷺公園",
+                     "wref" : "File:Shirasagi garden001.jpg"
                   },
                   "wikipedia_location_image_wref" : "ファイル:Osaka_Sakai-city_higashi.png",
                   "wref" : "東区 (堺市)"
@@ -25011,7 +25011,6 @@
                      "desc" : "地上256m、日本で4番目に高い超高層ビル、大阪府咲洲庁舎(旧称:大阪ワールドトレードセンタービルディング)",
                      "wref" : "File:Osaka-WTC-01.jpg"
                   },
-                  "wikipedia_location_image_wref" : "File:",
                   "wref" : "住之江区"
                },
                "住吉区" : {
@@ -25130,7 +25129,6 @@
                      "desc" : "渡船(落合下渡船)",
                      "wref" : "File:Osaka city ferry boat01.JPG"
                   },
-                  "wikipedia_location_image_wref" : "File:",
                   "wref" : "大正区"
                },
                "天王寺区" : {
@@ -25161,7 +25159,6 @@
                      "desc" : "天王寺動物園",
                      "wref" : "ファイル:Tennoji-Zoo1.jpg"
                   },
-                  "wikipedia_location_image_wref" : "File:",
                   "wref" : "天王寺区"
                },
                "平野区" : {
@@ -25189,7 +25186,6 @@
                      "desc" : "杭全神社",
                      "wref" : "File:051223 Kumata-jinja Osaka Japan02bs45.jpg"
                   },
-                  "wikipedia_location_image_wref" : "File:",
                   "wref" : "平野区"
                },
                "旭区" : {
@@ -25250,7 +25246,6 @@
                      "desc" : "ヤンマースタジアム長居",
                      "wref" : "ファイル:Yammar Stadium Nagai.jpg"
                   },
-                  "wikipedia_location_image_wref" : "File:",
                   "wref" : "東住吉区"
                },
                "東成区" : {
@@ -25295,7 +25290,6 @@
                      "desc" : "鶴橋商店街",
                      "wref" : "File:鶴橋商店街 - panoramio.jpg"
                   },
-                  "wikipedia_location_image_wref" : "File:",
                   "wref" : "東成区"
                },
                "東淀川区" : {
@@ -25354,7 +25348,6 @@
                      "desc" : "ユニバーサル・スタジオ・ジャパン",
                      "wref" : "ファイル:USJ 5years.JPG"
                   },
-                  "wikipedia_location_image_wref" : "File:",
                   "wref" : "此花区"
                },
                "浪速区" : {
@@ -25382,7 +25375,6 @@
                      "desc" : "新世界界隈(南側)と通天閣(2007年4月)",
                      "wref" : "File:通天閣03.jpg"
                   },
-                  "wikipedia_location_image_wref" : "File:",
                   "wref" : "浪速区"
                },
                "淀川区" : {
@@ -25418,7 +25410,6 @@
                      "desc" : "新大阪駅",
                      "wref" : "File:SHINOSAKASTATION.JPG"
                   },
-                  "wikipedia_location_image_wref" : "File:",
                   "wref" : "淀川区"
                },
                "港区" : {
@@ -25449,7 +25440,6 @@
                      "desc" : "海遊館に隣接する、天保山岸壁と天保山大観覧車",
                      "wref" : "File:Osaka Seven-Seas-Mariner02n3200.jpg"
                   },
-                  "wikipedia_location_image_wref" : "File:",
                   "wref" : "港区 (大阪市)"
                },
                "生野区" : {
@@ -25483,7 +25473,6 @@
                      "desc" : "生野コリアタウン",
                      "wref" : "File:Ikuno_Korea_Town04.jpg"
                   },
-                  "wikipedia_location_image_wref" : "File:",
                   "wref" : "生野区"
                },
                "福島区" : {
@@ -25511,7 +25500,6 @@
                      "desc" : "大阪市中央卸売市場本場",
                      "wref" : "File:大阪市中央卸売市場.jpg"
                   },
-                  "wikipedia_location_image_wref" : "File:",
                   "wref" : "福島区"
                },
                "西区" : {
@@ -25548,7 +25536,6 @@
                      "desc" : "京セラドーム大阪",
                      "wref" : "File:Kyocera_Dome_Osaka1.jpg"
                   },
-                  "wikipedia_location_image_wref" : "File:",
                   "wref" : "西区 (大阪市)"
                },
                "西成区" : {
@@ -25582,7 +25569,6 @@
                      "desc" : "生根神社",
                      "wref" : "File:IkuneShrine-Tamade.jpg"
                   },
-                  "wikipedia_location_image_wref" : "File:",
                   "wref" : "西成区"
                },
                "西淀川区" : {
@@ -25674,10 +25660,9 @@
                   "type" : "ward",
                   "url" : "http://www.city.osaka.lg.jp/abeno/",
                   "wikipedia_image" : {
-                     "desc" : "安倍晴明神社",
-                     "wref" : "File:安倍晴明神社_鳥居.jpg"
+                     "desc" : "あべのハルカス",
+                     "wref" : "File:Abeno_Harukas_construction_site_20130503-003.jpg"
                   },
-                  "wikipedia_location_image_wref" : "File:",
                   "wref" : "阿倍野区"
                },
                "鶴見区" : {
@@ -25717,8 +25702,8 @@
                   "type" : "ward",
                   "url" : "http://www.city.osaka.lg.jp/tsurumi/",
                   "wikipedia_image" : {
-                     "desc" : "鶴見緑地 咲くやこの花館",
-                     "wref" : "ファイル:Sakuya Konohana Kan.JPG"
+                     "desc" : "花博記念公園鶴見緑地",
+                     "wref" : "File:Tsurumi-ryokuchi1-R.jpg"
                   },
                   "wikipedia_location_image_wref" : "File:",
                   "wref" : "鶴見区 (大阪市)"
@@ -25870,8 +25855,8 @@
             },
             "type" : "city",
             "wikipedia_image" : {
-               "desc" : "瀧谷不動明王寺",
-               "wref" : "File:Takidani-hudoumyououji-hondou.jpg"
+               "desc" : "富田林寺内町 城之門筋",
+               "wref" : "ファイル:Tondabayashi jinaicho 2006 1229 153448.JPG"
             },
             "wref" : "富田林市"
          },
@@ -26181,8 +26166,8 @@
             },
             "type" : "city",
             "wikipedia_image" : {
-               "desc" : "高尾山",
-               "wref" : "File:Takaoyama, Osaka02.JPG"
+               "desc" : "高井田横穴墓群",
+               "wref" : "File:Takaida_Yokoana_Group-2-3,4,5.jpg"
             },
             "wref" : "柏原市"
          },
@@ -27097,7 +27082,7 @@
       "type" : "pref",
       "url" : "http://www.pref.osaka.jp/",
       "wikipedia_image" : {
-         "desc" : "難波宮跡・大坂城・大阪ビジネスパーク",
+         "desc" : "難波宮跡・大坂城・大阪ビジネスパーク 7270",
          "wref" : "ファイル:Osaka Castle 03bs3200.jpg"
       },
       "wikipedia_location_image_wref" : "ファイル:Map of Japan with highlight on 27 Osaka prefecture.svg",
@@ -27331,8 +27316,8 @@
                   "type" : "town",
                   "url" : "http://www.town.kawai.nara.jp/",
                   "wikipedia_image" : {
-                     "desc" : "ナガレ山古墳",
-                     "wref" : "File:Nagare_tomb_kubire.JPG"
+                     "desc" : "廣瀬大社拝殿",
+                     "wref" : "File:Hirose Jinja Haiden.jpg"
                   },
                   "wref" : "河合町"
                },
@@ -32911,8 +32896,8 @@
             "type" : "city",
             "url" : "http://www.city.himi.toyama.jp/",
             "wikipedia_image" : {
-               "desc" : "大境洞窟住居跡",
-               "wref" : "File:Oozakai Cave.jpg"
+               "desc" : "氷見漁港",
+               "wref" : "File:Himi port.jpg"
             },
             "wref" : "氷見市"
          },
@@ -36266,8 +36251,8 @@
                   "type" : "village",
                   "url" : "http://www.vill.tabayama.yamanashi.jp/",
                   "wikipedia_image" : {
-                     "desc" : "丹波山村遠景",
-                     "wref" : "ファイル:View of Tabayama Village, Yamanashi prefectural road route 18.jpg"
+                     "desc" : "三条の湯",
+                     "wref" : "File:Sanjou201001061857.jpg"
                   },
                   "wref" : "丹波山村"
                },
@@ -37481,6 +37466,10 @@
                   },
                   "type" : "town",
                   "url" : "http://www.town.yaotsu.gifu.jp/",
+                  "wikipedia_image" : {
+                     "desc" : "人道の丘公園",
+                     "wref" : "File:Jindo_no_oka_koen2.jpg"
+                  },
                   "wref" : "八百津町"
                },
                "坂祝町" : {
@@ -41722,7 +41711,7 @@
             "type" : "city",
             "url" : "http://www.city.oshu.iwate.jp/",
             "wikipedia_image" : {
-               "desc" : "\u003Ctable style=\"width:280px;margin:2px auto; border-collapse: collapse\">\n\u003Ctr>\u003Ctd>焼石岳\u003Ctd>えさし藤原の郷\u003C/tr>\n\u003Ctr>\u003Ctd>正法寺\u003C/tr>\n\u003Ctr>\u003Ctd colspan=\"2\">:長者ヶ原廃寺跡\u003C/tr>\n\u003Ctr>\u003Ctd>水沢競馬場\u003Ctd>駒形神社\u003C/tr>\n\u003C/table>",
+               "desc" : "\u003Ctable style=\"width:280px;margin:2px auto; border-collapse: collapse\">\n\u003Ctr>\u003Ctd>焼石岳\u003Ctd>えさし藤原の郷\u003C/tr>\n\u003Ctr>\u003Ctd>種山\u003Ctd>正法寺\u003C/tr>\n\u003Ctr>\u003Ctd colspan=\"2\">:長者ヶ原廃寺跡\u003C/tr>\n\u003Ctr>\u003Ctd>水沢競馬場\u003Ctd>駒形神社\u003C/tr>\n\u003C/table>",
                "wref" : "File:Oshu montage.JPG"
             },
             "wref" : "奥州市"
@@ -45118,8 +45107,8 @@
             "type" : "city",
             "url" : "http://www.city.tokushima.tokushima.jp/",
             "wikipedia_image" : {
-               "desc" : "艶っぽさが魅力の女踊り(阿波おどり)",
-               "wref" : "ファイル:Awa-odori 2008 Tokushima.jpg"
+               "desc" : "阿波踊り、徳島駅 眉山、末広大橋\n阿波しらさぎ大橋、大神子海岸",
+               "wref" : "File:Tokushima montage.JPG"
             },
             "wref" : "徳島市"
          },
@@ -45328,8 +45317,8 @@
                   "type" : "town",
                   "url" : "http://www.town.itano.tokushima.jp/",
                   "wikipedia_image" : {
-                     "desc" : "金泉寺",
-                     "wref" : "File:Konsenji_02.JPG"
+                     "desc" : "あすたむらんど、大日寺 金泉寺、地蔵寺\n徳島県立埋蔵文化財総合センター、徳島工業大学",
+                     "wref" : "File:Itano Tokushima montage.JPG"
                   },
                   "wref" : "板野町"
                },
@@ -45771,8 +45760,8 @@
             },
             "type" : "city",
             "wikipedia_image" : {
-               "desc" : "津峯神社",
-               "wref" : "ファイル:Tunomine_jinja.jpg"
+               "desc" : "那賀川、橘湾 太龍寺、伊島\n蒲生田岬、津ノ峰山",
+               "wref" : "File:Anan montage.jpg"
             },
             "wref" : "阿南市"
          },
@@ -45868,8 +45857,8 @@
             },
             "type" : "city",
             "wikipedia_image" : {
-               "desc" : "鳴門の渦潮",
-               "wref" : "ファイル:Naruto Whirlpools taken 4-21-2008.jpg"
+               "desc" : "大鳴門橋、鳴門競艇場 鳴門市立ドイツ館、霊山寺\n大麻比古神社、大塚国際美術館\n極楽寺、オロナミンC球場",
+               "wref" : "File:Naruto montege.JPG"
             },
             "wref" : "鳴門市"
          }
@@ -47075,7 +47064,7 @@
             "url" : "http://www.city.ichinomiya.aichi.jp/",
             "wikipedia_image" : {
                "desc" : "上段:ツインアーチ138 下段:尾張国一宮の真清田神社",
-               "wref" : "ファイル:138 Tower Park (2012-06-03).jpg"
+               "wref" : "File:Twinarch138 from north.jpg"
             },
             "wref" : "一宮市"
          },
@@ -48428,7 +48417,7 @@
                   "type" : "town",
                   "url" : "http://www.town.aichi-togo.lg.jp/",
                   "wikipedia_image" : {
-                     "desc" : "愛知池",
+                     "desc" : "愛知池 10300",
                      "wref" : "File:Aichi-ike.jpg"
                   },
                   "wref" : "東郷町"
@@ -49896,7 +49885,7 @@
       "type" : "pref",
       "url" : "https://www.pref.aichi.jp/",
       "wikipedia_image" : {
-         "desc" : "名古屋市街と名古屋城",
+         "desc" : "名古屋市街と名古屋城 6270",
          "wref" : "File:180324 Nagoya Castle & Skyscrapers in Meieki.jpg"
       },
       "wikipedia_location_image_wref" : "File:Map of Japan with highlight on 23 Aichi prefecture.svg",
@@ -57686,8 +57675,8 @@
             "type" : "city",
             "url" : "https://web.archive.org/web/20070707152059/http://www.city.moriyama.shiga.jp/index.htm",
             "wikipedia_image" : {
-               "desc" : "勝部神社",
-               "wref" : "File:Katsube-jinja03s3872.jpg"
+               "desc" : "守山宿",
+               "wref" : "File:Moriyama-juku01s3200.jpg"
             },
             "wref" : "守山市"
          },
@@ -58369,8 +58358,8 @@
             },
             "type" : "city",
             "wikipedia_image" : {
-               "desc" : "安曇川",
-               "wref" : "ファイル:Adogawa Kosei-line.jpg"
+               "desc" : "海津大崎の桜",
+               "wref" : "File:Kaizu-Osaki1621.JPG"
             },
             "wref" : "高島市"
          }
@@ -58485,7 +58474,7 @@
             "url" : "http://www.city.kamiamakusa.kumamoto.jp//",
             "wikipedia_image" : {
                "desc" : "天草松島",
-               "wref" : "ファイル:View from MatsushimaBridge.jpg"
+               "wref" : "File:天草松島 20150919 - panoramio.jpg"
             },
             "wref" : "上天草市"
          },
@@ -79354,7 +79343,7 @@
                   "url" : "http://www.minamiaiki.jp/",
                   "wikipedia_image" : {
                      "desc" : "南相木ダム",
-                     "wref" : "File:Minamiaiki Dam.jpg"
+                     "wref" : "File:Minamiaiki Dam monument.jpg"
                   },
                   "wref" : "南相木村"
                },
@@ -79986,8 +79975,8 @@
                   "type" : "village",
                   "url" : "http://www.vill.ookuwa.nagano.jp/",
                   "wikipedia_image" : {
-                     "desc" : "木曽谷南部に位置する大桑村",
-                     "wref" : "File:Kiso Valley from Doppyo.jpg"
+                     "desc" : "阿寺渓谷",
+                     "wref" : "File:Atera River.jpg"
                   },
                   "wref" : "大桑村"
                },
@@ -81190,6 +81179,10 @@
                   },
                   "type" : "town",
                   "url" : "http://www.town.gonohe.aomori.jp/",
+                  "wikipedia_image" : {
+                     "desc" : "五戸町消防団第一分団屯所",
+                     "wref" : "File:Gonohe Fire Team.jpg"
+                  },
                   "wref" : "五戸町"
                },
                "南部町" : {
@@ -81318,6 +81311,10 @@
                   },
                   "type" : "town",
                   "url" : "http://www.town.takko.aomori.jp/",
+                  "wikipedia_image" : {
+                     "desc" : "町内の牧場(県道21号線沿い)",
+                     "wref" : "File:Takko, Sannohe District, Aomori Prefecture 039-0201, Japan - panoramio (11).jpg"
+                  },
                   "wref" : "田子町"
                },
                "階上町" : {
@@ -83900,7 +83897,7 @@
                      ]
                   },
                   "type" : "town",
-                  "url" : "http://www.town.kannami.shizuoka.jp",
+                  "url" : "http://www.town.kannami.shizuoka.jp/",
                   "wikipedia_image" : {
                      "desc" : "十国峠ケーブルカー",
                      "wref" : "File:Jukkokutoge_Cable_Car_2010.JPG"
