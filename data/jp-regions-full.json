@@ -30596,8 +30596,8 @@
                   },
                   "type" : "town",
                   "wikipedia_image" : {
-                     "desc" : "蔵王エコーライン入口の大鳥居 10yesyescenter270240line#cc0000238.08 140.61",
-                     "wref" : "ファイル:The King ekoorain iriguchi.JPG"
+                     "desc" : "御釜 10yesyescenter270240line#cc0000238.08 140.61",
+                     "wref" : "ファイル:Zao_L.Okama.JPG"
                   },
                   "wref" : "蔵王町"
                }
@@ -36649,7 +36649,7 @@
                   "type" : "town",
                   "url" : "http://www.town.oe.yamagata.jp/",
                   "wikipedia_image" : {
-                     "desc" : "左沢町場の景観",
+                     "desc" : "左沢町場の景観 10yesnocenter270180line#cc00002pointtown-hall町庁舎位置",
                      "wref" : "File:重要文化的景観・左沢町場6.jpg"
                   },
                   "wref" : "大江町"
@@ -43369,6 +43369,10 @@
                      ]
                   },
                   "type" : "town",
+                  "wikipedia_image" : {
+                     "desc" : "岩手医科大学矢巾キャンパス 10yesyescenter280200line#cc00002",
+                     "wref" : "ファイル:Iwate-Medical-Univ-yahaba-20140426.JPG"
+                  },
                   "wref" : "矢巾町"
                },
                "紫波町" : {
@@ -48448,8 +48452,8 @@
             },
             "type" : "city",
             "wikipedia_image" : {
-               "desc" : "三好池 8",
-               "wref" : "ファイル:三好池.jpg"
+               "desc" : "三好大提灯まつり",
+               "wref" : "ファイル:Miyoshidaityochin festival.jpg"
             },
             "wref" : "みよし市"
          },
@@ -54169,7 +54173,7 @@
             },
             "type" : "city",
             "wikipedia_image" : {
-               "desc" : "サンリオピューロランド 10",
+               "desc" : "サンリオピューロランド 10yesnocenter280200line#cc00002pointtown-hall市庁舎位置",
                "wref" : "File:Sanrio Puroland.jpg"
             },
             "wref" : "多摩市"
@@ -54453,7 +54457,7 @@
                "flag" : [
                   {
                      "name" : "府中市旗",
-                     "wref" : "ファイル:Flag of Fuchu, Tokyo.svg"
+                     "wref" : "File:Flag of Fuchu, Tokyo.svg"
                   }
                ],
                "flower" : [
@@ -54490,7 +54494,7 @@
             "type" : "city",
             "wikipedia_image" : {
                "desc" : "市のメインストリート「けやき並木通り」 10",
-               "wref" : "ファイル:Keyaki.namiki.dori.fuchu.jpg"
+               "wref" : "File:Keyaki.namiki.dori.fuchu.jpg"
             },
             "wref" : "府中市 (東京都)"
          },
@@ -59931,7 +59935,7 @@
             "type" : "city",
             "wikipedia_image" : {
                "desc" : "八日市大凧 10yesnocenter270200line#cc00002pointtown-hall市庁舎位置",
-               "wref" : "File:八日市大凧まつり.jpg"
+               "wref" : "File:八日市大凧ま ㅠつり.jpg"
             },
             "wref" : "東近江市"
          },
@@ -62311,7 +62315,7 @@
                ]
             },
             "type" : "city",
-            "url" : "http://www.city.kikuchi.lg.jp/",
+            "url" : "https://www.city.kikuchi.lg.jp/",
             "wikipedia_image" : {
                "desc" : "菊池渓谷 10yesnocenter270200line#cc00002pointtown-hall市庁舎位置",
                "wref" : "ファイル:Kikuchi-Keikoku Hirogawara.JPG"
@@ -62503,8 +62507,8 @@
                   "type" : "town",
                   "url" : "http://www.ashikita-t.kumamoto-sgn.jp/",
                   "wikipedia_image" : {
-                     "desc" : "佐敷宿交流館桝屋",
-                     "wref" : "File:Sashikiyado Koryukan.JPG"
+                     "desc" : "道の駅たのうら",
+                     "wref" : "File:Michinoeki tanoura.jpg"
                   },
                   "wref" : "芦北町"
                }
@@ -66847,7 +66851,7 @@
             },
             "type" : "city",
             "wikipedia_image" : {
-               "desc" : "東尋坊 10",
+               "desc" : "東尋坊 10yesnocenter270200line#cc0000236.17136.26pointtown-hall市庁舎位置",
                "wref" : "ファイル:Japan Tojinbo02n4592.jpg"
             },
             "wref" : "坂井市"
@@ -69181,10 +69185,10 @@
                      ]
                   },
                   "type" : "ward",
-                  "url" : "http://www.city.fukuoka.lg.jp/higashi/",
+                  "url" : "https://www.city.fukuoka.lg.jp/higashi/index.html",
                   "wikipedia_image" : {
-                     "desc" : "筥崎宮の鳥居とお潮井浜",
-                     "wref" : "File:Torii of Hakozaki Shrine on seaside of Hakata Bay.JPG"
+                     "desc" : "筥崎宮",
+                     "wref" : "ファイル:Hakozaki-miya090806a.jpg"
                   },
                   "wref" : "東区 (福岡市)"
                },
@@ -69201,7 +69205,7 @@
                      ]
                   },
                   "type" : "ward",
-                  "url" : "http://www.city.fukuoka.lg.jp/nishi/",
+                  "url" : "https://www.city.fukuoka.lg.jp/nishi/index.html",
                   "wikipedia_image" : {
                      "desc" : "生の松原と元寇防塁",
                      "wref" : "File:Iki Pine Grove and Imazu Bay.JPG"
@@ -71801,7 +71805,7 @@
                ]
             },
             "type" : "city",
-            "url" : "http://www.city.motomiya.lg.jp/",
+            "url" : "https://www.city.motomiya.lg.jp/",
             "wikipedia_image" : {
                "desc" : "本宮映画劇場",
                "wref" : "File:Motomiya Eiga Gekizyo.jpg"
@@ -74061,7 +74065,7 @@
             },
             "type" : "city",
             "wikipedia_image" : {
-               "desc" : "横手公園のかまくら 9yesyescenter280280line#cc00002",
+               "desc" : "横手公園のかまくら 9yesyescenter280200line#cc0000239.27 140.55",
                "wref" : "ファイル:Kamakura-yuki.jpg"
             },
             "wref" : "横手市"
@@ -74117,7 +74121,7 @@
             },
             "type" : "city",
             "wikipedia_image" : {
-               "desc" : "川原毛地獄 9yesyescenter280280line#cc00002",
+               "desc" : "川原毛地獄 9yesnocenter270230line#cc0000239.08 140.50pointtown-hall市庁舎位置",
                "wref" : "ファイル:KawarageJigoku3.JPG"
             },
             "wref" : "湯沢市"
@@ -74437,7 +74441,7 @@
                   "type" : "town",
                   "url" : "https://www.town.ugo.lg.jp/",
                   "wikipedia_image" : {
-                     "desc" : "西馬音内の盆踊",
+                     "desc" : "西馬音内の盆踊 9yesnocenter270180line#cc00002pointtown-hall町庁舎位置",
                      "wref" : "ファイル:Nishimonai_Bon_Odori.jpg"
                   },
                   "wref" : "羽後町"
@@ -86905,7 +86909,7 @@
                      ]
                   },
                   "type" : "ward",
-                  "url" : "http://www.city.shizuoka.jp/shimizu.html",
+                  "url" : "https://www.city.shizuoka.lg.jp/shimizu.html",
                   "wikipedia_image" : {
                      "desc" : "日本平から望む富士山と清水港 9yesnocenter270200line#cc00002pointtown-hall区役所位置",
                      "wref" : "ファイル:Mount Fuji and Port of Shimizu.JPG"
@@ -86933,7 +86937,7 @@
                      ]
                   },
                   "type" : "ward",
-                  "url" : "http://www.city.shizuoka.jp/aoi.html",
+                  "url" : "https://www.city.shizuoka.lg.jp/aoi.html",
                   "wikipedia_image" : {
                      "desc" : "上段:南アルプスの農鳥岳 下段:駿府城\n8yesnocenter270200line#cc00002pointtown-hall区役所位置",
                      "wref" : "File:Mt.Noutoridake from Mt.Shiomidake 02.jpg"
@@ -91384,7 +91388,7 @@
             },
             "type" : "city",
             "wikipedia_image" : {
-               "desc" : "住用地区のマングローブ原生林 9yesyescenter270200line#cc00002",
+               "desc" : "住用地区の蛭木/漂木(ヒルギ)科原生林群 9yesyescenter270200line#cc00002",
                "wref" : "ファイル:Mangrove_in_amami.JPG"
             },
             "wref" : "奄美市"
