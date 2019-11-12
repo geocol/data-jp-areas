@@ -1076,7 +1076,7 @@
                      ]
                   },
                   "type" : "town",
-                  "url" : "http://www.town.tamaki.mie.jp/index.html",
+                  "url" : "https://kizuna.town.tamaki.mie.jp/",
                   "wikipedia_image" : {
                      "desc" : "田丸城跡",
                      "wref" : "File:Tamaru Castle Site in Spring 2013.jpg"
@@ -3405,10 +3405,39 @@
             "wref" : "佐賀市"
          },
          "唐津市" : {
+            "area_symbols" : {
+               "flower" : [
+                  {
+                     "name" : "藤"
+                  }
+               ],
+               "mark" : [
+                  {
+                     "date" : "2005-09-27",
+                     "name" : "唐津市章 smaller",
+                     "wref" : "ファイル:Emblem of Karatsu, Saga.svg"
+                  }
+               ],
+               "tree" : [
+                  {
+                     "name" : "松"
+                  }
+               ]
+            },
             "code" : "41202",
             "id" : 876,
             "kana" : "からつし",
             "latin" : "Karatsu-shi",
+            "neighbor_region_names" : {
+               "伊万里市" : "伊万里市",
+               "佐賀市" : "佐賀市",
+               "壱岐市" : "壱岐市",
+               "多久市" : "多久市",
+               "松浦市" : "松浦市",
+               "武雄市" : "武雄市",
+               "玄海町" : "玄海町",
+               "糸島市" : "糸島市"
+            },
             "office" : {
                "address" : "西城内1-1",
                "position" : [
@@ -7274,7 +7303,7 @@
             },
             "subpref_name" : "檜山振興局",
             "type" : "town",
-            "url" : "http://www.town.otobe.lg.jp/",
+            "url" : "https://www.town.otobe.lg.jp/",
             "wikipedia_image" : {
                "desc" : "突符岬付近より見た穴澗岬方面",
                "wref" : "File:Cape Toppu Otobe Hokkaido.jpg"
@@ -13980,7 +14009,7 @@
             },
             "subpref_name" : "オホーツク総合振興局",
             "type" : "town",
-            "url" : "http://www.town.okoppe.lg.jp/",
+            "url" : "https://www.town.okoppe.lg.jp/cms/",
             "wikipedia_image" : {
                "desc" : "道の駅おこっぺのルゴーサ・エクスプレス",
                "wref" : "ファイル:OkoppeStation.JPG"
@@ -14423,7 +14452,7 @@
             },
             "subpref_name" : "宗谷総合振興局",
             "type" : "town",
-            "url" : "http://www.town.toyotomi.hokkaido.jp/",
+            "url" : "https://www.town.toyotomi.hokkaido.jp/",
             "wikipedia_image" : {
                "desc" : "豊富温泉",
                "wref" : "File:豊富温泉.jpg"
@@ -14655,7 +14684,7 @@
             },
             "subpref_name" : "十勝総合振興局",
             "type" : "town",
-            "url" : "http://www.town.ashoro.hokkaido.jp/index.html",
+            "url" : "https://www.town.ashoro.hokkaido.jp/index.html",
             "wikipedia_image" : {
                "desc" : "オンネトー及び背後の雌阿寒岳",
                "wref" : "File:Onnneto.jpg"
@@ -24381,7 +24410,7 @@
       "type" : "pref",
       "url" : "https://www.pref.saitama.lg.jp/",
       "wikipedia_image" : {
-         "desc" : "さきたま古墳群の丸墓山古墳と桜 長瀞渓谷の係留地点\n権現堂堤の曼珠沙華\nさいたま新都心西側のビル群\n埼玉スタジアム",
+         "desc" : "\u003Ctable style=\"width:280px;margin:2px auto; border-collapse: collapse\">\n\u003Ctr>\u003Ctd colspan=\"2\">さきたま古墳群の丸墓山古墳と桜\u003C/tr>\n\u003Ctr>\u003Ctd rowspan=\"2\" style=\"vertical-align:middle\">長瀞渓谷の係留点\u003Ctd>権現堂堤の曼珠沙華\u003C/tr>\n\u003Ctr>\u003Ctd>さいたま新都心西側のビル群\u003C/tr>\n\u003Ctr>\u003Ctd colspan=\"2\">埼玉スタジアム2002\u003C/tr>\u003C/table>",
          "wref" : "ファイル:Saitamanogazou.jpg"
       },
       "wikipedia_location_image_wref" : "ファイル:Map of Japan with highlight on 11 Saitama prefecture.svg",
@@ -48785,7 +48814,7 @@
                   },
                   "type" : "town",
                   "wikipedia_image" : {
-                     "desc" : "田峯城の復元本丸御殿 10",
+                     "desc" : "田峯城の復元本丸御殿 (2010年(平成22年)3月)\n10",
                      "wref" : "ファイル:田峰城本丸御殿.JPG"
                   },
                   "wref" : "設楽町"
@@ -51082,8 +51111,8 @@
             },
             "type" : "city",
             "wikipedia_image" : {
-               "desc" : "竹島",
-               "wref" : "File:Takeshima Bridge.jpg"
+               "desc" : "上段:三谷祭 下段:竹島水族館",
+               "wref" : "ファイル:Miyamatsuri.JPG"
             },
             "wref" : "蒲郡市"
          },
@@ -51706,7 +51735,7 @@
             "type" : "city",
             "url" : "https://www.city.sanjo.niigata.jp/",
             "wikipedia_image" : {
-               "desc" : "川通東町の大看板 「くらしの品 ハイテクのまち 三条市」",
+               "desc" : "川通東町の大看板",
                "wref" : "File:Signboard_of_Sanjo_City.JPG"
             },
             "wref" : "三条市"
@@ -52318,20 +52347,10 @@
                            "wref" : "ファイル:Flag of Awashima Niigata.jpg"
                         }
                      ],
-                     "flower" : [
-                        {
-                           "name" : "イワユリ(スカシユリ)"
-                        }
-                     ],
                      "mark" : [
                         {
                            "name" : "粟島浦村章",
                            "wref" : "ファイル:Awashimaura Niigata chapter.JPG"
-                        }
-                     ],
-                     "tree" : [
-                        {
-                           "name" : "タブ"
                         }
                      ]
                   },
@@ -58184,7 +58203,7 @@
                   ],
                   "type" : "town",
                   "wikipedia_image" : {
-                     "desc" : "西桟橋(竹富島)",
+                     "desc" : "西桟橋(竹富島) 8yesnocenter27020024.25123.95line#cc00002pointtown-hall町庁舎は石垣島(石垣市)にある",
                      "wref" : "ファイル:Taketomi island - West jetty.jpg"
                   },
                   "wref" : "竹富町"
@@ -64346,7 +64365,7 @@
                   "type" : "ward",
                   "url" : "http://www.city.kawasaki.jp/nakahara/index.html",
                   "wikipedia_image" : {
-                     "desc" : "等々力陸上競技場",
+                     "desc" : "等々力陸上競技場10yesnocenter270200line#cc00002pointtown-hall区庁舎位置",
                      "wref" : "File:等々力陸上競技場2015-3.jpg"
                   },
                   "wikipedia_location_image_wref" : "ファイル:地図-神奈川県川崎市中原区-2006.png",
@@ -64385,7 +64404,7 @@
                   "type" : "ward",
                   "url" : "http://www.city.kawasaki.jp/tama/index.html",
                   "wikipedia_image" : {
-                     "desc" : "生田緑地",
+                     "desc" : "生田緑地10yesnocenter270200line#cc00002pointtown-hall区庁舎位置",
                      "wref" : "ファイル:Ikutaryokuchi 06b8426q.jpg"
                   },
                   "wikipedia_location_image_wref" : "ファイル:地図-神奈川県川崎市多摩区-2006.png",
@@ -64418,7 +64437,7 @@
                   "type" : "ward",
                   "url" : "http://www.city.kawasaki.jp/miyamae/index.html",
                   "wikipedia_image" : {
-                     "desc" : "東高根森林公園",
+                     "desc" : "東高根森林公園11yesnocenter270200line#cc00002pointtown-hall区庁舎位置",
                      "wref" : "ファイル:東高根森林公園 - panoramio (29).jpg"
                   },
                   "wikipedia_location_image_wref" : "ファイル:地図-神奈川県川崎市宮前区-2006.png",
@@ -64439,7 +64458,7 @@
                   "type" : "ward",
                   "url" : "http://www.city.kawasaki.jp/kawasaki/index.html",
                   "wikipedia_image" : {
-                     "desc" : "川崎大師",
+                     "desc" : "川崎大師10yesnocenter270200line#cc00002pointtown-hall区庁舎位置",
                      "wref" : "File:Kawasakidaishi 川崎大師 - panoramio.jpg"
                   },
                   "wikipedia_location_image_wref" : "ファイル:地図-神奈川県川崎市川崎区-2006.png",
@@ -64460,7 +64479,7 @@
                   "type" : "ward",
                   "url" : "http://www.city.kawasaki.jp/saiwai/index.html",
                   "wikipedia_image" : {
-                     "desc" : "ミューザ川崎シンフォニーホール",
+                     "desc" : "ミューザ川崎シンフォニーホール11yesnocenter270200line#cc00002pointtown-hall区庁舎位置",
                      "wref" : "File:Muza Kawasaki 201507.JPG"
                   },
                   "wikipedia_location_image_wref" : "画像:地図-神奈川県川崎市幸区-2006.png",
@@ -64493,7 +64512,7 @@
                   "type" : "ward",
                   "url" : "http://www.city.kawasaki.jp/takatsu/index.html",
                   "wikipedia_image" : {
-                     "desc" : "溝口周辺を緑ヶ丘霊園から望む",
+                     "desc" : "溝口周辺を緑ヶ丘霊園から望む10yesnocenter270200line#cc00002pointtown-hall区庁舎位置",
                      "wref" : "File:Midorigaoka 05z8014a.jpg"
                   },
                   "wikipedia_location_image_wref" : "ファイル:地図-神奈川県川崎市高津区-2006.png",
@@ -64514,7 +64533,7 @@
                   "type" : "ward",
                   "url" : "http://www.city.kawasaki.jp/asao/index.html",
                   "wikipedia_image" : {
-                     "desc" : "「しんゆり・芸術のまち」の中心施設である 川崎市アートセンター",
+                     "desc" : "「しんゆり・芸術のまち」の中心施設である 川崎市アートセンター10yesnocenter270200line#cc00002pointtown-hall区庁舎位置",
                      "wref" : "ファイル:Kawasaki ART Center.jpg"
                   },
                   "wikipedia_location_image_wref" : "ファイル:地図-神奈川県川崎市麻生区-2006.png",
@@ -64547,7 +64566,7 @@
             "type" : "city",
             "url" : "http://www.city.kawasaki.jp/",
             "wikipedia_image" : {
-               "desc" : "\u003Ctable style=\"width:280px; margin:2px auto; border-collapse:collapse\">\n\u003Ctr>\u003Ctd style=\"width:50%\">川崎大師\u003Ctd style=\"width:50%\">多摩川\u003C/tr>\n\u003Ctr>\u003Ctd style=\"width:50%\">ラゾーナ川崎プラザ\u003Ctd style=\"width:50%\" rowspan=\"2\" style=\"vertical-align:middle\">等々力陸上競技場\u003C/tr>\n\u003Ctr>\u003Ctd style=\"width:50%\">武蔵小杉の高層ビル群\u003C/tr>\n\u003Ctr>\u003Ctd style=\"width:100%\" colspan=\"2\">京浜工業地帯の工場群\u003C/tr>\n\u003C/table>",
+               "desc" : "\u003Ctable style=\"width:280px; margin:2px auto; border-collapse:collapse\">\n\u003Ctr>\u003Ctd style=\"width:50%\">川崎大師\u003Ctd style=\"width:50%\">多摩川\u003C/tr>\n\u003Ctr>\u003Ctd style=\"width:50%\">ラゾーナ川崎プラザ\u003Ctd style=\"width:50%\" rowspan=\"2\" style=\"vertical-align:middle\">等々力陸上競技場\u003C/tr>\n\u003Ctr>\u003Ctd style=\"width:50%\">武蔵小杉の高層ビル群\u003C/tr>\n\u003Ctr>\u003Ctd style=\"width:100%\" colspan=\"2\">京浜工業地帯の工場群\u003C/tr>\n\u003C/table>\n10yesnocenter270200line#cc00002pointtown-hall市庁舎位置",
                "wref" : "File:Kawasaki montage.jpg"
             },
             "wref" : "川崎市"
@@ -64785,7 +64804,7 @@
                   "type" : "ward",
                   "url" : "https://www.city.yokohama.lg.jp/naka/",
                   "wikipedia_image" : {
-                     "desc" : "山下公園と横浜マリンタワー",
+                     "desc" : "山下公園と横浜マリンタワー10yesnocenter270300line#cc00002pointtown-hall35.435139.54区庁舎位置",
                      "wref" : "画像:YamashitakoenJP14Apr05.jpg"
                   },
                   "wikipedia_location_image_wref" : "画像:地図-神奈川県横浜市中区-2006.png",
@@ -64819,7 +64838,7 @@
                   "type" : "ward",
                   "url" : "https://www.city.yokohama.lg.jp/hodogaya/",
                   "wikipedia_image" : {
-                     "desc" : "横浜市児童遊園地",
+                     "desc" : "横浜市児童遊園地10yesnocenter270300line#cc00002pointtown-hall35.435139.54区庁舎位置",
                      "wref" : "ファイル:児童遊園地.JPG"
                   },
                   "wikipedia_location_image_wref" : "ファイル:地図-神奈川県横浜市保土ヶ谷区-2006.png",
@@ -64860,7 +64879,7 @@
                   "type" : "ward",
                   "url" : "https://www.city.yokohama.lg.jp/minami/",
                   "wikipedia_image" : {
-                     "desc" : "弘明寺",
+                     "desc" : "弘明寺10yesnocenter270300line#cc00002pointtown-hall35.435139.54区庁舎位置",
                      "wref" : "File:Gumyouji.JPG"
                   },
                   "wikipedia_location_image_wref" : "画像:地図-神奈川県横浜市南区-2006.png",
@@ -64888,7 +64907,7 @@
                   "type" : "ward",
                   "url" : "https://www.city.yokohama.lg.jp/totsuka/",
                   "wikipedia_image" : {
-                     "desc" : "舞岡公園",
+                     "desc" : "舞岡公園10yesnocenter270300line#cc00002pointtown-hall35.435139.54区庁舎位置",
                      "wref" : "File:Maioka kominka t01.JPG"
                   },
                   "wikipedia_location_image_wref" : "ファイル:地図-神奈川県横浜市戸塚区-2006.png",
@@ -64927,7 +64946,7 @@
                   "type" : "ward",
                   "url" : "http://www.city.yokohama.lg.jp/asahi/",
                   "wikipedia_image" : {
-                     "desc" : "よこはま動物園ズーラシア",
+                     "desc" : "よこはま動物園ズーラシア10yesnocenter270300line#cc00002pointtown-hall35.435139.54区庁舎位置",
                      "wref" : "File:Zoorasia.jpg"
                   },
                   "wikipedia_location_image_wref" : "ファイル:地図-神奈川県横浜市旭区-2006.png",
@@ -64955,7 +64974,7 @@
                   "type" : "ward",
                   "url" : "https://www.city.yokohama.lg.jp/sakae/",
                   "wikipedia_image" : {
-                     "desc" : "城山橋から見たいたち川",
+                     "desc" : "城山橋から見たいたち川10yesnocenter270300line#cc00002pointtown-hall35.435139.54区庁舎位置",
                      "wref" : "ファイル:Itachigawa.jpg"
                   },
                   "wikipedia_location_image_wref" : "ファイル:地図-神奈川県横浜市栄区-2006.png",
@@ -64997,7 +65016,7 @@
                   "type" : "ward",
                   "url" : "https://www.city.yokohama.lg.jp/izumi/",
                   "wikipedia_image" : {
-                     "desc" : "旧深谷通信所跡地",
+                     "desc" : "旧深谷通信所跡地10yesnocenter270300line#cc00002pointtown-hall35.435139.54区庁舎位置",
                      "wref" : "File:深谷通信所跡地.jpg"
                   },
                   "wikipedia_location_image_wref" : "ファイル:地図-神奈川県横浜市泉区-2006.png",
@@ -65030,7 +65049,7 @@
                   "type" : "ward",
                   "url" : "https://www.city.yokohama.lg.jp/kohoku/",
                   "wikipedia_image" : {
-                     "desc" : "大倉山記念館",
+                     "desc" : "大倉山記念館10yesnocenter280300line#cc00002pointtown-hall35.435139.54区庁舎位置",
                      "wref" : "File:Okurayama Memorial Hall.jpg"
                   },
                   "wikipedia_location_image_wref" : "ファイル:地図-神奈川県横浜市港北区-2006.png",
@@ -65074,7 +65093,7 @@
                   "type" : "ward",
                   "url" : "https://www.city.yokohama.lg.jp/konan/",
                   "wikipedia_image" : {
-                     "desc" : "港南台2丁目付近の様子",
+                     "desc" : "港南台2丁目付近の様子10yesnocenter270300line#cc00002pointtown-hall35.435139.54区庁舎位置",
                      "wref" : "File:Kohnandai 03.jpg"
                   },
                   "wikipedia_location_image_wref" : "ファイル:地図-神奈川県横浜市港南区-2006.png",
@@ -65122,7 +65141,7 @@
                   "type" : "ward",
                   "url" : "https://www.city.yokohama.lg.jp/seya/",
                   "wikipedia_image" : {
-                     "desc" : "瀬谷八福神・徳善寺",
+                     "desc" : "瀬谷八福神・徳善寺10yesnocenter270300line#cc00002pointtown-hall35.435139.54区庁舎位置",
                      "wref" : "ファイル:徳善寺本堂.JPG"
                   },
                   "wikipedia_location_image_wref" : "ファイル:地図-神奈川県横浜市瀬谷区-2006.png",
@@ -65155,7 +65174,7 @@
                   "type" : "ward",
                   "url" : "https://www.city.yokohama.lg.jp/isogo/",
                   "wikipedia_image" : {
-                     "desc" : "三殿台遺跡",
+                     "desc" : "三殿台遺跡10yesnocenter270300line#cc00002pointtown-hall35.435139.54区庁舎位置",
                      "wref" : "File:Santonodai-iseki(Yokohama).JPG"
                   },
                   "wikipedia_location_image_wref" : "ファイル:地図-神奈川県横浜市磯子区-2006.png",
@@ -65198,7 +65217,7 @@
                   "type" : "ward",
                   "url" : "https://www.city.yokohama.lg.jp/kanagawa/",
                   "wikipedia_image" : {
-                     "desc" : "ポートサイド地区",
+                     "desc" : "ポートサイド地区10yesnocenter290300line#cc00002pointtown-hall35.435139.54区庁舎位置",
                      "wref" : "File:Kanagawa -08.jpg"
                   },
                   "wikipedia_location_image_wref" : "ファイル:地図-神奈川県横浜市神奈川区-2006.png",
@@ -65245,7 +65264,7 @@
                   "type" : "ward",
                   "url" : "https://www.city.yokohama.lg.jp/midori/",
                   "wikipedia_image" : {
-                     "desc" : "神奈川県立四季の森公園",
+                     "desc" : "神奈川県立四季の森公園10yesnocenter270300line#cc00002pointtown-hall35.435139.54区庁舎位置",
                      "wref" : "ファイル:Shikinomori park north gate.jpg"
                   },
                   "wikipedia_location_image_wref" : "ファイル:地図-神奈川県横浜市緑区-2006.png",
@@ -65278,7 +65297,7 @@
                   "type" : "ward",
                   "url" : "https://www.city.yokohama.lg.jp/nishi/",
                   "wikipedia_image" : {
-                     "desc" : "日本丸メモリアルパーク",
+                     "desc" : "日本丸メモリアルパーク10yesnocenter270300line#cc00002pointtown-hall35.435139.54区庁舎位置",
                      "wref" : "File:Kremlin.ru._Yokohama.jpeg"
                   },
                   "wikipedia_location_image_wref" : "ファイル:地図-神奈川県横浜市西区-2006.png",
@@ -65326,7 +65345,7 @@
                   "type" : "ward",
                   "url" : "https://www.city.yokohama.lg.jp/tsuzuki/",
                   "wikipedia_image" : {
-                     "desc" : "港北ニュータウン",
+                     "desc" : "港北ニュータウン10yesnocenter270300line#cc00002pointtown-hall35.435139.54区庁舎位置",
                      "wref" : "File:Kohoku New Town -02.jpg"
                   },
                   "wikipedia_location_image_wref" : "ファイル:地図-神奈川県横浜市都筑区-2006.png",
@@ -65359,7 +65378,7 @@
                   "type" : "ward",
                   "url" : "https://www.city.yokohama.lg.jp/kanazawa/",
                   "wikipedia_image" : {
-                     "desc" : "横浜・八景島シーパラダイス",
+                     "desc" : "横浜・八景島シーパラダイス10yesnocenter270300line#cc00002pointtown-hall35.435139.54区庁舎位置",
                      "wref" : "File:Yokohama Hakkeijima Sea Paradise.jpg"
                   },
                   "wikipedia_location_image_wref" : "ファイル:地図-神奈川県横浜市金沢区-2006.png",
@@ -65392,7 +65411,7 @@
                   "type" : "ward",
                   "url" : "https://www.city.yokohama.lg.jp/aoba/",
                   "wikipedia_image" : {
-                     "desc" : "こどもの国",
+                     "desc" : "こどもの国10yesnocenter270300line#cc00002pointtown-hall35.435139.54区庁舎位置",
                      "wref" : "ファイル: Kodomonokuni.JPG"
                   },
                   "wikipedia_location_image_wref" : "ファイル:地図-神奈川県横浜市青葉区-2006.png",
@@ -65431,7 +65450,7 @@
                   "type" : "ward",
                   "url" : "https://www.city.yokohama.lg.jp/tsurumi/",
                   "wikipedia_image" : {
-                     "desc" : "神奈川県立三ツ池公園",
+                     "desc" : "神奈川県立三ツ池公園10yesnocenter290300line#cc00002pointtown-hall35.435139.54区庁舎位置",
                      "wref" : "File:Mitsuike Park01.jpg"
                   },
                   "wikipedia_location_image_wref" : "File:地図-神奈川県横浜市鶴見区-2006.png",
@@ -65584,7 +65603,7 @@
                   "type" : "ward",
                   "url" : "http://www.city.sagamihara.kanagawa.jp/chuoku/index.html",
                   "wikipedia_image" : {
-                     "desc" : "JAXA相模原キャンパス",
+                     "desc" : "JAXA相模原キャンパス10yesnocenter270200line#cc00002pointtown-hall区庁舎位置",
                      "wref" : "File:Front_Entrance_to_ISAS.jpeg"
                   },
                   "wref" : "中央区 (相模原市)"
@@ -65604,7 +65623,7 @@
                   "type" : "ward",
                   "url" : "http://www.city.sagamihara.kanagawa.jp/minamiku/index.html",
                   "wikipedia_image" : {
-                     "desc" : "相模原麻溝公園",
+                     "desc" : "相模原麻溝公園10yesnocenter270200line#cc00002pointtown-hall区庁舎位置",
                      "wref" : "ファイル:Stone sign of Sagamihara Asamizo Park in 2011.jpg"
                   },
                   "wref" : "南区 (相模原市)"
@@ -65617,7 +65636,7 @@
                   "type" : "ward",
                   "url" : "http://www.city.sagamihara.kanagawa.jp/midoriku/index.html",
                   "wikipedia_image" : {
-                     "desc" : "相模湖と相模ダム",
+                     "desc" : "相模湖と相模ダム9yesnocenter270200line#cc00002pointtown-hall区庁舎位置",
                      "wref" : "ファイル:Sagami Dam and lake.jpg"
                   },
                   "wref" : "緑区 (相模原市)"
@@ -65637,7 +65656,7 @@
             },
             "type" : "city",
             "wikipedia_image" : {
-               "desc" : "\u003Ctable style=\"width:280px; margin:2px auto; border-collapse:collapse\">\n\u003Ctr>\u003Ctd>丹沢山地\u003Ctd rowspan=\"2\" style=\"vertical-align: middle\">相模湖\u003C/tr>\n\u003Ctr>\u003Ctd>相模総合補給廠\u003C/tr>\n\u003Ctr>\u003Ctd>橋本の高層マンション群\u003Ctd>相模大野駅\u003C/tr>\n\u003Ctr>\u003Ctd>JAXA相模原キャンパス\u003Ctd>相模原市民桜まつり\u003C/tr>\n\u003C/table>",
+               "desc" : "\u003Ctable style=\"width:280px; margin:2px auto; border-collapse:collapse\">\n\u003Ctr>\u003Ctd>丹沢山地\u003Ctd rowspan=\"2\" style=\"vertical-align: middle\">相模湖\u003C/tr>\n\u003Ctr>\u003Ctd>相模総合補給廠\u003C/tr>\n\u003Ctr>\u003Ctd>橋本の高層マンション群\u003Ctd>相模大野駅\u003C/tr>\n\u003Ctr>\u003Ctd>JAXA相模原キャンパス\u003Ctd>相模原市民桜まつり\u003C/tr>\n\u003C/table>\n9yesnocenter270200line#cc00002pointtown-hall市庁舎位置",
                "wref" : "File:Sagamihara montage.jpg"
             },
             "wref" : "相模原市"
@@ -73214,7 +73233,7 @@
                ]
             },
             "type" : "city",
-            "url" : "https://www.city.koriyama.fukushima.jp/",
+            "url" : "https://www.city.koriyama.lg.jp/",
             "wikipedia_image" : {
                "desc" : "郡山ビッグアイと郡山駅 9yesyescenter280220line#cc0000237.430389140.310567",
                "wref" : "File:郡山ビッグアイ201504.JPG"
@@ -80741,8 +80760,8 @@
                   },
                   "type" : "village",
                   "wikipedia_image" : {
-                     "desc" : "茶臼山高原・茶臼湖 10",
-                     "wref" : "File:Chausu lake in Chausuyama Plateau.jpg"
+                     "desc" : "茶臼山高原 (小戸名、2010年(平成22年)10月)10",
+                     "wref" : "File:Chausuyama Plateau, Odona Neba 2010.jpg"
                   },
                   "wref" : "根羽村"
                },
@@ -85050,7 +85069,7 @@
                      ]
                   },
                   "type" : "town",
-                  "url" : "http://www.town.imabetsu.lg.jp/top.php",
+                  "url" : "https://www.town.imabetsu.lg.jp/index.html",
                   "wikipedia_image" : {
                      "desc" : "青函トンネルの本州側出入口 9yesyescenter280262line#cc0000241.0 140.481297",
                      "wref" : "File:Seikan Tunnel entrance - dual-gauge track.jpg"
@@ -89386,7 +89405,7 @@
                      ]
                   },
                   "type" : "town",
-                  "url" : "http://www.town.kochi-tsuno.lg.jp/",
+                  "url" : "https://town.kochi-tsuno.lg.jp/",
                   "wikipedia_image" : {
                      "desc" : "四国カルスト・天狗高原 10yesnocenter270200line#cc00002pointtown-hall町役場位置",
                      "wref" : "File:Tengunomori02.jpg"
@@ -90125,7 +90144,7 @@
                      ]
                   },
                   "type" : "town",
-                  "url" : "http://www.yurihama.jp/",
+                  "url" : "https://www.yurihama.jp/",
                   "wikipedia_image" : {
                      "desc" : "東郷湖",
                      "wref" : "File:Lake Togo02nt3200.jpg"
@@ -92386,7 +92405,7 @@
                      "desc" : "硫黄岳(硫黄島)",
                      "wref" : "File:2015 Satsuma-Iojima Iodake.jpg"
                   },
-                  "wikipedia_location_image_wref" : "ファイル:Kagoshima Satsunan-islands.png",
+                  "wikipedia_location_image_wref" : "ファイル:Satsunan-Islands-Kagoshima-Japan.png",
                   "wref" : "三島村"
                },
                "十島村" : {
@@ -92435,10 +92454,10 @@
                   ],
                   "type" : "village",
                   "wikipedia_image" : {
-                     "desc" : "中之島の御岳とトカラ馬 12",
+                     "desc" : "中之島の御岳とトカラ馬 6yesnocenter270200line#cc00002\u003Ccenter>十島村に属するトカラ列島\u003C/center>",
                      "wref" : "File:tokarauma_otake.jpg"
                   },
-                  "wikipedia_location_image_wref" : "ファイル:Kagoshima Satsunan-islands.png",
+                  "wikipedia_location_image_wref" : "ファイル:Satsunan-Islands-Kagoshima-Japan.png",
                   "wref" : "十島村"
                }
             },
