@@ -8205,7 +8205,7 @@
             "flag" : [
                {
                   "name" : "福島市旗(9つの「フ」と4つの「マ」でふくしまを図案化している)",
-                  "wref" : "boeder|福島市旗"
+                  "wref" : "福島市旗"
                }
             ],
             "flower" : [
@@ -27608,7 +27608,12 @@
                {
                   "date" : "1965-08-01",
                   "name" : "江戸川区章",
-                  "wref" : "ファイル:Emblem of Edogawa, Tokyo.svg"
+                  "wref" : "file:Emblem of Edogawa, Tokyo.svg"
+               }
+            ],
+            "misc" : [
+               {
+                  "name" : "「生きる喜びを実感できる都市 江戸川区」"
                }
             ],
             "tree" : [
@@ -27801,7 +27806,7 @@
          "qualified_name" : "東京都府中市",
          "type" : "city",
          "wikipedia_image" : {
-            "desc" : "市のメインストリート「けやき並木通り」 10",
+            "desc" : "市のメインストリート「けやき並木通り」 11yesnocenter270200line#cc00002pointtown-hall市庁舎位置",
             "wref" : "File:Keyaki.namiki.dori.fuchu.jpg"
          },
          "wref" : "府中市 (東京都)"
@@ -28551,7 +28556,7 @@
          "qualified_name" : "東京都小金井市",
          "type" : "city",
          "wikipedia_image" : {
-            "desc" : "小金井公園",
+            "desc" : "小金井公園 11yesnocenter270200line#cc00002pointtown-hall市庁舎位置",
             "wref" : "ファイル:小金井公園・春の嵐 2013.04.07 10-51 - panoramio.jpg"
          },
          "wref" : "小金井市"
@@ -43448,7 +43453,7 @@
          "type" : "village",
          "url" : "https://www.asukamura.jp/",
          "wikipedia_image" : {
-            "desc" : "\u003Ctable style=\u0022width:280px;margin:2px auto; border-collapse: collapse\u0022>\u000A\u003Ctr>\u003Ctd>石舞台古墳\u003Ctd style=\u0022vertical-align:middle;\u0022>飛鳥寺\u003C/tr>\u000A\u003Ctr>\u003Ctd>マルコ山古墳\u003Ctd>飛鳥水落遺跡\u003C/tr>\u000A\u003Ctr>\u003Ctd>万葉文化館\u003Ctd>飛鳥資料館\u003C/tr>\u000A\u003C/table>",
+            "desc" : "\u003Ctable style=\u0022width:280px;margin:2px auto; border-collapse: collapse\u0022>\u000A\u003Ctr>\u003Ctd>石舞台古墳\u003Ctd style=\u0022vertical-align:middle;\u0022>飛鳥寺\u003C/tr>\u000A\u003Ctr>\u003Ctd>マルコ山古墳\u003Ctd>飛鳥水落遺跡\u003C/tr>\u000A\u003Ctr>\u003Ctd>万葉文化館\u003Ctd>飛鳥資料館\u003C/tr>\u000A\u003C/table>12yesnocenter270210line#cc00002pointtown-hall村役場位置",
             "wref" : "File:Nara-asuka-village.jpg"
          },
          "wref" : "明日香村"
@@ -51343,7 +51348,6 @@
          "latin" : "Nagaoka-shi",
          "name" : "長岡市",
          "neighbor_region_names" : {
-            "1987" : 1,
             "1994" : 1,
             "1995" : 1,
             "2001" : 1,
@@ -51915,7 +51919,7 @@
          "pref_id" : 44,
          "qualified_name" : "熊本県球磨郡山江村",
          "type" : "village",
-         "url" : "http://www.vill.yamae.lg.jp/",
+         "url" : "https://www.vill.yamae.lg.jp/",
          "wikipedia_image" : {
             "desc" : "村内で保存運行されているボンネットバス 「マロン号」",
             "wref" : "ファイル:Yamae village Maron-go.jpg"
@@ -55494,6 +55498,12 @@
                   "name" : "ツツジ"
                }
             ],
+            "mark" : [
+               {
+                  "name" : "大郷町章",
+                  "wref" : "ファイル:Osato Miyagi chapter.JPG"
+               }
+            ],
             "tree" : [
                {
                   "name" : "マツ"
@@ -58254,6 +58264,12 @@
                   "name" : "ミズバショウ"
                }
             ],
+            "mark" : [
+               {
+                  "name" : "新郷村章",
+                  "wref" : "ファイル:Emblem of Shingo, Aomori.svg"
+               }
+            ],
             "tree" : [
                {
                   "name" : "トチ"
@@ -58300,6 +58316,12 @@
             "flower" : [
                {
                   "name" : "フクジュソウ"
+               }
+            ],
+            "mark" : [
+               {
+                  "name" : "三戸町章",
+                  "wref" : "ファイル:Emblem of Sannohe, Aomori.svg"
                }
             ],
             "tree" : [
@@ -58426,6 +58448,12 @@
                   "name" : "ヤマツツジ"
                }
             ],
+            "mark" : [
+               {
+                  "name" : "田子町章",
+                  "wref" : "ファイル:Emblem of Takko, Aomori.svg"
+               }
+            ],
             "tree" : [
                {
                   "name" : "ナナカマド"
@@ -58467,6 +58495,12 @@
             "flower" : [
                {
                   "name" : "キク"
+               }
+            ],
+            "mark" : [
+               {
+                  "name" : "五戸町章",
+                  "wref" : "ファイル:Emblem of Gonohe, Aomori.svg"
                }
             ],
             "tree" : [
@@ -80275,8 +80309,8 @@
          "qualified_name" : "茨城県ひたちなか市",
          "type" : "city",
          "wikipedia_image" : {
-            "desc" : "国営ひたち海浜公園 10yesyescenter280200line#cc00002",
-            "wref" : "ファイル:Ferris wheel of the Hitachi beach park,hitachi-kaihin-koen,hitachinaka-city,japan.JPG"
+            "desc" : "国営ひたち海浜公園・みはらしの丘に咲くネモフィラ 10yesyescenter280200line#cc00002",
+            "wref" : "ファイル:Hitachi Seaside Park 2018.jpg"
          },
          "wref" : "ひたちなか市"
       },
@@ -82845,7 +82879,7 @@
          "type" : "village",
          "url" : "https://www.vill.tokai.ibaraki.jp/",
          "wikipedia_image" : {
-            "desc" : "村松山虚空蔵堂",
+            "desc" : "村松山虚空蔵堂 10yesnocenter270200line#cc00002pointtown-hall村庁舎位置",
             "wref" : "File:Kokuzoudousanjunoto.jpg"
          },
          "wref" : "東海村"
@@ -83858,7 +83892,7 @@
          "pref_id" : 8,
          "qualified_name" : "石川県羽咋郡志賀町",
          "type" : "town",
-         "url" : "http://www.town.shika.lg.jp/",
+         "url" : "https://www.town.shika.lg.jp/index.html",
          "wikipedia_image" : {
             "desc" : "能登金剛",
             "wref" : "File:GANMON.JPG"
@@ -85882,7 +85916,7 @@
          "pref_id" : 9,
          "qualified_name" : "兵庫県神戸市垂水区",
          "type" : "ward",
-         "url" : "http://www.city.kobe.lg.jp/ward/kuyakusho/tarumi/",
+         "url" : "https://www.city.kobe.lg.jp/kuyakusho/tarumiku/",
          "wikipedia_image" : {
             "desc" : "舞子公園・明石海峡大橋と移情閣",
             "wref" : "File:Maikokoen98.JPG"
@@ -85923,7 +85957,7 @@
          "pref_id" : 9,
          "qualified_name" : "兵庫県神戸市北区",
          "type" : "ward",
-         "url" : "http://www.city.kobe.lg.jp/ward/kuyakusho/kita/",
+         "url" : "https://www.city.kobe.lg.jp/kuyakusho/kitaku/",
          "wikipedia_image" : {
             "desc" : "有馬温泉街",
             "wref" : "File:Arima Onsen River 2013.jpg"
@@ -85960,7 +85994,7 @@
          "pref_id" : 9,
          "qualified_name" : "兵庫県神戸市兵庫区",
          "type" : "ward",
-         "url" : "http://www.city.kobe.lg.jp/ward/kuyakusho/hyogo/",
+         "url" : "https://www.city.kobe.lg.jp/kuyakusho/hyogoku/",
          "wikipedia_image" : {
             "desc" : null,
             "wref" : "File:Kobe Wing Stadium 002.JPG"
@@ -85992,7 +86026,7 @@
          "pref_id" : 9,
          "qualified_name" : "兵庫県神戸市中央区",
          "type" : "ward",
-         "url" : "http://www.city.kobe.lg.jp/ward/kuyakusho/chuou/",
+         "url" : "https://www.city.kobe.lg.jp/kuyakusho/chuoku/",
          "wikipedia_image" : {
             "desc" : "神戸ハーバーランドとメリケンパーク",
             "wref" : "File:Kobe Mosaic06s4s3200.jpg"
@@ -86035,7 +86069,7 @@
          "pref_id" : 9,
          "qualified_name" : "兵庫県神戸市灘区",
          "type" : "ward",
-         "url" : "http://www.city.kobe.lg.jp/ward/kuyakusho/nada/",
+         "url" : "https://www.city.kobe.lg.jp/kuyakusho/nadaku/",
          "wikipedia_image" : {
             "desc" : "六甲ガーデンテラス",
             "wref" : "File:Rokko garden terrace02s3872.jpg"
@@ -86067,7 +86101,7 @@
          "pref_id" : 9,
          "qualified_name" : "兵庫県神戸市東灘区",
          "type" : "ward",
-         "url" : "http://www.city.kobe.lg.jp/ward/kuyakusho/higashinada/",
+         "url" : "https://www.city.kobe.lg.jp/kuyakusho/higashinadaku/",
          "wikipedia_image" : {
             "desc" : "弓弦羽神社",
             "wref" : "ファイル:Yudzuruha shrine, sakura by OpenCage.jpg"
@@ -86159,7 +86193,7 @@
          "pref_id" : 9,
          "qualified_name" : "兵庫県神戸市長田区",
          "type" : "ward",
-         "url" : "http://www.city.kobe.lg.jp/ward/kuyakusho/nagata/",
+         "url" : "https://www.city.kobe.lg.jp/kuyakusho/nagataku/",
          "wikipedia_image" : {
             "desc" : "長田神社",
             "wref" : "File:Nagata_Jinja_Kobe_Haiden.jpg"
@@ -86191,7 +86225,7 @@
          "pref_id" : 9,
          "qualified_name" : "兵庫県神戸市西区",
          "type" : "ward",
-         "url" : "http://www.city.kobe.lg.jp/ward/kuyakusho/nishi/",
+         "url" : "https://www.city.kobe.lg.jp/kuyakusho/nishiku/",
          "wikipedia_image" : {
             "desc" : "太山寺",
             "wref" : "File:Taisanji31s3872.jpg"
@@ -86223,7 +86257,7 @@
          "pref_id" : 9,
          "qualified_name" : "兵庫県神戸市須磨区",
          "type" : "ward",
-         "url" : "http://www.city.kobe.lg.jp/ward/kuyakusho/suma/",
+         "url" : "https://www.city.kobe.lg.jp/kuyakusho/sumaku/",
          "wikipedia_image" : {
             "desc" : "須磨海水浴場",
             "wref" : "File:Suma Beach.jpg"
@@ -100804,6 +100838,12 @@
                   "name" : "リンドウ"
                }
             ],
+            "mark" : [
+               {
+                  "name" : "山辺町章",
+                  "wref" : "ファイル:Symbol of Yamanobe Yamagata_web.svg"
+               }
+            ],
             "tree" : [
                {
                   "name" : "キャラ木"
@@ -103123,12 +103163,6 @@
       },
       "935" : {
          "area_symbols" : {
-            "flag" : [
-               {
-                  "name" : "智頭町旗",
-                  "wref" : "ファイル:Flag of Chizu Tottori.svg"
-               }
-            ],
             "flower" : [
                {
                   "name" : "ドウダンツツジ"
@@ -104129,7 +104163,7 @@
          "qualified_name" : "沖縄県中頭郡北中城村",
          "type" : "village",
          "wikipedia_image" : {
-            "desc" : "中村家住宅 11",
+            "desc" : "中村家住宅 11yesnocenter270200line#cc00002pointtown-hall村庁舎位置",
             "wref" : "ファイル:Nakamura_House_Kitanakagusuku01n3104.jpg"
          },
          "wref" : "北中城村"
@@ -106358,8 +106392,8 @@
          "qualified_name" : "愛知県新城市",
          "type" : "city",
          "wikipedia_image" : {
-            "desc" : "長篠合戦のぼりまつり 9yesnocenter270200line#cc00002pointtown-hall市庁舎位置",
-            "wref" : "ファイル:Nagashinofestival.JPG"
+            "desc" : "上段:新城市街地 下段:長篠合戦のぼりまつり\u000A9yesnocenter270200line#cc00002pointtown-hall市庁舎位置",
+            "wref" : "ファイル:新城市街地景色.jpg"
          },
          "wref" : "新城市"
       },
