@@ -6419,6 +6419,50 @@
       "wref" : "兵庫県"
    },
    "北海道" : {
+      "area_symbols" : {
+         "bird" : [
+            {
+               "name" : "タンチョウ"
+            }
+         ],
+         "flag" : [
+            {
+               "name" : "北海道旗",
+               "wref" : "ファイル:Flag of Hokkaido Prefecture.svg"
+            }
+         ],
+         "flower" : [
+            {
+               "name" : "ハマナス"
+            }
+         ],
+         "misc" : [
+            {
+               "label" : "道民のうた",
+               "name" : "行進曲「光あふれて」"
+            },
+            {
+               "label" : "道民のうた",
+               "name" : "ホームソング「むかしのむかし」"
+            },
+            {
+               "label" : "道民のうた",
+               "name" : "音頭「北海ばやし」"
+            },
+            {
+               "label" : "道民のうた",
+               "name" : "道民体操(どさんこ体操)"
+            }
+         ],
+         "tree" : [
+            {
+               "name" : "エゾマツ"
+            },
+            {
+               "name" : "アカエゾマツ"
+            }
+         ]
+      },
       "areas" : {
          "えりも町" : {
             "area_symbols" : {
@@ -7606,7 +7650,7 @@
             "type" : "town",
             "url" : "https://www.town.yoichi.hokkaido.jp/",
             "wikipedia_image" : {
-               "desc" : "ニッカウヰスキー余市蒸溜所",
+               "desc" : "ニッカウヰスキー余市蒸溜所正門(2013年8月)",
                "wref" : "File:130823Nikka Wisky Yoichi Distillery Hokkaido Japan01s3.jpg"
             },
             "wref" : "余市町"
@@ -9706,7 +9750,7 @@
             },
             "subpref_name" : "後志総合振興局",
             "type" : "town",
-            "url" : "http://www.town.iwanai.hokkaido.jp/",
+            "url" : "https://www.town.iwanai.hokkaido.jp/",
             "wikipedia_image" : {
                "desc" : "雷電海岸の刀掛岩",
                "wref" : "ファイル:Katanagake Rock.JPG"
@@ -12726,6 +12770,12 @@
                      "date" : "1948-03-01",
                      "name" : "滝川市章",
                      "wref" : "ファイル:Emblem of Takikawa, Hokkaido.svg"
+                  }
+               ],
+               "misc" : [
+                  {
+                     "label" : "他のシンボル",
+                     "name" : "グライダー"
                   }
                ],
                "tree" : [
@@ -16306,6 +16356,9 @@
       "id" : 2,
       "kana" : "ほっかいどう",
       "latin" : "Hokkai-do",
+      "neighbor_region_names" : {
+         "青森県" : "青森県"
+      },
       "office" : {
          "address" : "札幌市中央区北3条西6-1",
          "position" : [
@@ -16613,6 +16666,7 @@
          }
       },
       "type" : "pref",
+      "url" : "http://www.pref.hokkaido.lg.jp/",
       "wikipedia_image" : {
          "desc" : "十勝平野の大規模農場",
          "wref" : "ファイル:Tokachi plain 01.jpg"
@@ -16865,7 +16919,7 @@
             },
             "type" : "city",
             "wikipedia_image" : {
-               "desc" : "\u003Ctable style=\"width:280px; margin:2px auto; border-collapse:collapse\">\n\u003Ctr>\u003Ctd>勝浦漁港\u003Ctd>勝浦ホテル三日月\u003C/tr>\n\u003Ctr>\u003Ctd>かつうら海中公園\u003Ctd rowspan=\"2\" style=\"vertical-align:middle\">かつうらビッグひな祭り\u003C/tr>\n\u003Ctr>\u003Ctd>明神岬と鵜原湾\u003C/tr>\n\u003Ctr>\u003Ctd>勝浦タンタンメン\u003Ctd>守谷海水浴場\u003C/tr>\n\u003C/table>10yesyescenter280180line#cc0000235.196438140.247378",
+               "desc" : "\u003Ctable style=\"width:280px; margin:2px auto; border-collapse:collapse\">\n\u003Ctr>\u003Ctd>勝浦漁港\u003Ctd>勝浦ホテル三日月\u003C/tr>\n\u003Ctr>\u003Ctd>かつうら海中公園\u003Ctd rowspan=\"2\" style=\"vertical-align:middle\">かつうらビッグひな祭り\u003C/tr>\n\u003Ctr>\u003Ctd>鵜原理想郷と鵜原湾\u003C/tr>\n\u003Ctr>\u003Ctd>勝浦タンタンメン\u003Ctd>守谷海水浴場\u003C/tr>\n\u003C/table>10yesyescenter280180line#cc0000235.196438140.247378",
                "wref" : "File:Katsuura Montage.jpg"
             },
             "wref" : "勝浦市"
@@ -21252,8 +21306,8 @@
                   "type" : "ward",
                   "url" : "https://www.city.saitama.jp/urawa/",
                   "wikipedia_image" : {
-                     "desc" : "埼玉県庁",
-                     "wref" : "File:埼玉県庁標識.JPG"
+                     "desc" : "玉蔵院のしだれ桜",
+                     "wref" : "ファイル:春の浦和玉蔵院1.JPG"
                   },
                   "wref" : "浦和区"
                },
@@ -34104,7 +34158,7 @@
             "type" : "city",
             "wikipedia_image" : {
                "desc" : "海王丸パークにある海王丸 10",
-               "wref" : "ファイル:Kaiomaru 1-1.jpg"
+               "wref" : "ファイル:Kaiwo Maru, Kaiwomaru Park 20080721115059.jpg"
             },
             "wref" : "射水市"
          },
@@ -47178,7 +47232,7 @@
                      ]
                   },
                   "type" : "town",
-                  "url" : "http://www.town.tokushima-tsurugi.lg.jp/index.html",
+                  "url" : "https://www.town.tokushima-tsurugi.lg.jp/index.html",
                   "wikipedia_image" : {
                      "desc" : "一宇峡",
                      "wref" : "File:Ichiukyo.jpg"
@@ -48140,8 +48194,8 @@
             },
             "type" : "city",
             "wikipedia_image" : {
-               "desc" : "白糸の滝 10yesnocenter27020033.81132.84line#cc00002pointtown-hall市庁舎位置",
-               "wref" : "File:東温白糸の滝_-_panoramio.jpg"
+               "desc" : "白猪の滝 10yesnocenter27020033.81132.84line#cc00002pointtown-hall市庁舎位置",
+               "wref" : "File:白猪の滝 - panoramio.jpg"
             },
             "wref" : "東温市"
          },
@@ -74968,7 +75022,7 @@
                      ]
                   },
                   "type" : "town",
-                  "url" : "http://www.town.minakami.gunma.jp/",
+                  "url" : "https://www.town.minakami.gunma.jp/",
                   "wikipedia_image" : {
                      "desc" : "谷川岳",
                      "wref" : "File:Tanigawa01.JPG"
