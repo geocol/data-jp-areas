@@ -8341,7 +8341,7 @@
             "subpref_name" : "石狩振興局",
             "type" : "city",
             "wikipedia_image" : {
-               "desc" : "新千歳空港 10",
+               "desc" : "新千歳空港 10yesnocenter270200line#cc00002pointtown-hall市庁舎位置42.83141.65",
                "wref" : "ファイル:Hokkaido New Chitose Airport13n4272.jpg"
             },
             "wref" : "千歳市"
@@ -38315,7 +38315,7 @@
             },
             "type" : "city",
             "wikipedia_image" : {
-               "desc" : "勝沼地区の葡萄園の甲州葡萄",
+               "desc" : "勝沼のぶどう(甲州葡萄)",
                "wref" : "File:Marufuji Winery 190907f.jpg"
             },
             "wref" : "甲州市"
@@ -38888,7 +38888,7 @@
             "type" : "city",
             "url" : "http://www.city.nakatsugawa.gifu.jp/",
             "wikipedia_image" : {
-               "desc" : "馬籠宿脇本陣史料館 10",
+               "desc" : "馬籠宿脇本陣史料館 10yesnocenter270200line#cc00002pointtown-hall市庁舎位置",
                "wref" : "ファイル:中山道馬籠宿脇本陣史料館.jpg"
             },
             "wref" : "中津川市"
@@ -42360,7 +42360,6 @@
                "desc" : "厳美渓 10",
                "wref" : "ファイル:Genbi-kei.jpg"
             },
-            "wikipedia_location_image_wref" : "ファイル:Ichinoseki in Iwate Prefecture Ja.svg",
             "wref" : "一関市"
          },
          "上閉伊郡" : {
@@ -45474,7 +45473,7 @@
                   "url" : "https://web.archive.org/web/20140123132027/http://www.akiota.jp/index.html",
                   "wikipedia_image" : {
                      "desc" : "三段峡の三段滝",
-                     "wref" : "ファイル:Sandankyo Hiroshima Japan 021026.JPG"
+                     "wref" : "ファイル:Sandan Falls (15231790506).jpg"
                   },
                   "wref" : "安芸太田町"
                }
@@ -50087,12 +50086,6 @@
             "areas" : {
                "東郷町" : {
                   "area_symbols" : {
-                     "flag" : [
-                        {
-                           "name" : "東郷町旗",
-                           "wref" : "File:Flag of Togo, Aichi.svg"
-                        }
-                     ],
                      "flower" : [
                         {
                            "name" : "アヤメ"
@@ -50100,8 +50093,9 @@
                      ],
                      "mark" : [
                         {
+                           "date" : "1970-05-13",
                            "name" : "東郷町章",
-                           "wref" : "File:Emblem of Togo, Aichi.svg"
+                           "wref" : "ファイル:Emblem of Togo, Aichi.svg"
                         }
                      ],
                      "tree" : [
@@ -50129,10 +50123,9 @@
                      ]
                   },
                   "type" : "town",
-                  "url" : "https://www.town.aichi-togo.lg.jp/",
                   "wikipedia_image" : {
                      "desc" : "愛知池 10300",
-                     "wref" : "File:Aichi-ike.jpg"
+                     "wref" : "ファイル:Aichi-ike.jpg"
                   },
                   "wref" : "東郷町"
                }
@@ -50914,7 +50907,7 @@
                   "type" : "town",
                   "wikipedia_image" : {
                      "desc" : "千鳥ヶ浜 10yesnocenter270200line#cc00002pointtown-hall町役場位置",
-                     "wref" : "File:千鳥ケ浜.jpg"
+                     "wref" : "File:Chidorigahama.jpg"
                   },
                   "wref" : "南知多町"
                },
@@ -50966,10 +50959,35 @@
                   "wref" : "東浦町"
                },
                "武豊町" : {
+                  "area_symbols" : {
+                     "flower" : [
+                        {
+                           "name" : "サザンカ"
+                        }
+                     ],
+                     "mark" : [
+                        {
+                           "date" : "1974-10-05",
+                           "name" : "武豊町章",
+                           "wref" : "ファイル:Taketoyo Aichi chapter.JPG"
+                        }
+                     ],
+                     "tree" : [
+                        {
+                           "name" : "クスノキ"
+                        }
+                     ]
+                  },
                   "code" : "23447",
                   "id" : 1028,
                   "kana" : "たけとよちょう",
                   "latin" : "Taketoyo-cho",
+                  "neighbor_region_names" : {
+                     "半田市" : "半田市",
+                     "常滑市" : "常滑市",
+                     "碧南市" : "碧南市",
+                     "美浜町" : "美浜町 (愛知県)"
+                  },
                   "office" : {
                      "address" : "字長尾山2",
                      "position" : [
@@ -50980,7 +50998,7 @@
                   "type" : "town",
                   "wikipedia_image" : {
                      "desc" : "武豊火力発電所",
-                     "wref" : "File:Taketoyo Thermal Power Station.JPG"
+                     "wref" : "ファイル:Taketoyo Thermal Power Station.JPG"
                   },
                   "wref" : "武豊町"
                },
@@ -53719,13 +53737,16 @@
             "latin" : "Setagaya-ku",
             "neighbor_region_names" : {
                "三鷹市" : "三鷹市",
+               "中原区" : "中原区",
+               "多摩区" : "多摩区",
                "大田区" : "大田区",
                "川崎市" : "川崎市",
                "杉並区" : "杉並区",
                "渋谷区" : "渋谷区",
                "狛江市" : "狛江市",
                "目黒区" : "目黒区",
-               "調布市" : "調布市"
+               "調布市" : "調布市",
+               "高津区" : "高津区"
             },
             "office" : {
                "address" : "世田谷4-21-27",
@@ -53826,8 +53847,8 @@
             },
             "type" : "ward",
             "wikipedia_image" : {
-               "desc" : "中野サンプラザ 10yesyescenter280180line#cc00002",
-               "wref" : "File:Nakano Sunplaza 200903.jpg"
+               "desc" : "中野駅周辺 10yesyescenter280180line#cc00002",
+               "wref" : "File:Nakano Oka1.jpg"
             },
             "wref" : "中野区"
          },
@@ -54143,8 +54164,8 @@
             },
             "type" : "ward",
             "wikipedia_image" : {
-               "desc" : "北品川 10",
-               "wref" : "File:Kita Shinagawa 3Chome.jpg"
+               "desc" : "目黒川(大崎) 10",
+               "wref" : "File:Meguro-gawa, Ōsaki 01.jpg"
             },
             "wref" : "品川区"
          },
@@ -54920,8 +54941,8 @@
             },
             "type" : "ward",
             "wikipedia_image" : {
-               "desc" : "善福寺川緑地の桜 10",
-               "wref" : "File:Sakura at Wadabori Koen Park In Suginami, Tokyo Japan.jpg"
+               "desc" : "中杉通りの欅並木 10",
+               "wref" : "File:Asagaya nakasugidori.JPG"
             },
             "wref" : "杉並区"
          },
@@ -55399,7 +55420,7 @@
                "品川区" : "品川区",
                "新宿区" : "新宿区",
                "杉並区" : "杉並区",
-               "港区" : "港区",
+               "港区" : "港区 (東京都)",
                "目黒区" : "目黒区"
             },
             "office" : {
@@ -55603,7 +55624,7 @@
             "type" : "ward",
             "wikipedia_image" : {
                "desc" : "目黒川 11yesnocenter270180line#cc00002pointtown-hall区庁舎位置",
-               "wref" : "File:Meguro Meguro River Cherry Trees 1.JPG"
+               "wref" : "File:Meguro River Spring 2014(2).jpg"
             },
             "wref" : "目黒区"
          },
@@ -55885,8 +55906,8 @@
             },
             "type" : "ward",
             "wikipedia_image" : {
-               "desc" : "あらかわ遊園 11yesnocenter270180line#cc00002pointtown-hall区庁舎位置",
-               "wref" : "File:Arakawa Yuen.jpg"
+               "desc" : "隅田川 11yesnocenter270180line#cc00002pointtown-hall区庁舎位置",
+               "wref" : "File:Tokyo-sumida-river-from-suijin-bridge.jpg"
             },
             "wref" : "荒川区"
          },
@@ -57998,6 +58019,12 @@
                            "name" : "ハイビスカス"
                         }
                      ],
+                     "mark" : [
+                        {
+                           "name" : "中城村章",
+                           "wref" : "ファイル:Nakagusuku_Okinawa_chapter.JPG"
+                        }
+                     ],
                      "tree" : [
                         {
                            "name" : "リュウキュウコクタン"
@@ -58021,10 +58048,9 @@
                      ]
                   },
                   "type" : "village",
-                  "url" : "https://www.vill.nakagusuku.okinawa.jp",
                   "wikipedia_image" : {
                      "desc" : "中城城",
-                     "wref" : "File:Nakagusuku Castle22n3104.jpg"
+                     "wref" : "ファイル:Nakagusuku Castle22n3104.jpg"
                   },
                   "wref" : "中城村"
                },
@@ -58501,6 +58527,12 @@
                            "name" : "ハイビスカス"
                         }
                      ],
+                     "mark" : [
+                        {
+                           "name" : "今帰仁村章",
+                           "wref" : "ファイル:Emblem_of_Nakijin,_Okinawa.svg"
+                        }
+                     ],
                      "misc" : [
                         {
                            "label" : "村の蝶",
@@ -58542,6 +58574,12 @@
                            "name" : "テッポウユリ"
                         }
                      ],
+                     "mark" : [
+                        {
+                           "name" : "伊江村章",
+                           "wref" : "ファイル:Ie_Okinawa_chapter.JPG"
+                        }
+                     ],
                      "tree" : [
                         {
                            "name" : "ガジュマル"
@@ -58563,7 +58601,6 @@
                      ]
                   },
                   "type" : "village",
-                  "url" : "http://www.iejima.org/",
                   "wikipedia_image" : {
                      "desc" : "城山",
                      "wref" : "ファイル:Mt.gusukuyama.jpg"
@@ -58677,6 +58714,12 @@
                            "name" : "ツツジ"
                         }
                      ],
+                     "mark" : [
+                        {
+                           "name" : "宜野座村章",
+                           "wref" : "ファイル:Ginoza_Okinawa_chapter.JPG"
+                        }
+                     ],
                      "tree" : [
                         {
                            "name" : "リュウキュウマツ"
@@ -58700,10 +58743,9 @@
                      ]
                   },
                   "type" : "village",
-                  "url" : "http://www.vill.ginoza.okinawa.jp/",
                   "wikipedia_image" : {
                      "desc" : "漢那ダム",
-                     "wref" : "File:Kanna Main Dam.jpg"
+                     "wref" : "ファイル:Kanna Main Dam.jpg"
                   },
                   "wref" : "宜野座村"
                },
@@ -58855,6 +58897,12 @@
                            "name" : "サクラ"
                         }
                      ],
+                     "mark" : [
+                        {
+                           "name" : "金武町章",
+                           "wref" : "ファイル:Kin_Okinawa_chapter.JPG"
+                        }
+                     ],
                      "tree" : [
                         {
                            "name" : "クバ"
@@ -58878,7 +58926,6 @@
                      ]
                   },
                   "type" : "town",
-                  "url" : "https://www.town.kin.okinawa.jp/",
                   "wikipedia_image" : {
                      "desc" : "日秀洞 11yesnocenter270200line#cc00002pointtown-hall町役場位置",
                      "wref" : "ファイル:Nisshu-do.jpg"
@@ -59107,12 +59154,6 @@
                },
                "久米島町" : {
                   "area_symbols" : {
-                     "flag" : [
-                        {
-                           "name" : "久米島町旗",
-                           "wref" : "File:Flag of Kumejima Okinawa.JPG"
-                        }
-                     ],
                      "flower" : [
                         {
                            "name" : "クメジマツツジ"
@@ -59124,7 +59165,7 @@
                      "mark" : [
                         {
                            "name" : "久米島町章",
-                           "wref" : "File:Kumejima Okinawa chapter.JPG"
+                           "wref" : "ファイル:Kumejima Okinawa chapter.JPG"
                         }
                      ],
                      "misc" : [
@@ -59154,10 +59195,9 @@
                      ]
                   },
                   "type" : "town",
-                  "url" : "http://www.town.kumejima.okinawa.jp/",
                   "wikipedia_image" : {
                      "desc" : "イーフビーチ",
-                     "wref" : "File:Eef beach.JPG"
+                     "wref" : "ファイル:Eef beach.JPG"
                   },
                   "wref" : "久米島町"
                },
@@ -59248,6 +59288,12 @@
                            "name" : "マリーゴールド"
                         }
                      ],
+                     "mark" : [
+                        {
+                           "name" : "八重瀬町章",
+                           "wref" : "ファイル:Yaese_Okinawa_chapter.JPG"
+                        }
+                     ],
                      "misc" : [
                         {
                            "label" : "町の花木",
@@ -59278,10 +59324,9 @@
                      ]
                   },
                   "type" : "town",
-                  "url" : "http://www.town.yaese.lg.jp/",
                   "wikipedia_image" : {
                      "desc" : "富盛のシーサー 10yesnocenter280200line#cc00002pointtown-hall町役場位置",
-                     "wref" : "File:Tomori_stonelion1.jpg"
+                     "wref" : "ファイル:Tomori_stonelion1.jpg"
                   },
                   "wref" : "八重瀬町"
                },
@@ -63591,6 +63636,14 @@
             "wref" : "羽咋郡"
          },
          "能美市" : {
+            "area_symbols" : {
+               "misc" : [
+                  {
+                     "label" : "公式キャラクター",
+                     "name" : "ひぽ能ん・ゆず美ん"
+                  }
+               ]
+            },
             "code" : "17211",
             "id" : 543,
             "kana" : "のみし",
@@ -73867,6 +73920,12 @@
                            "name" : "サクラ"
                         }
                      ],
+                     "mark" : [
+                        {
+                           "name" : "井川町章",
+                           "wref" : "井川町章"
+                        }
+                     ],
                      "tree" : [
                         {
                            "name" : "クロマツ"
@@ -73892,7 +73951,6 @@
                      ]
                   },
                   "type" : "town",
-                  "url" : "http://www.town.ikawa.akita.jp/",
                   "wikipedia_image" : {
                      "desc" : "日本国花苑",
                      "wref" : "File:Scenery of Nihon Kokkaen 20180429j.jpg"
@@ -74087,6 +74145,12 @@
                      "flower" : [
                         {
                            "name" : "サクラ"
+                        }
+                     ],
+                     "mark" : [
+                        {
+                           "name" : "三種町章",
+                           "wref" : "ファイル:Symbol_of_Mitane,_Akita.svg"
                         }
                      ],
                      "tree" : [
@@ -80129,7 +80193,7 @@
                      ]
                   },
                   "type" : "village",
-                  "url" : "http://www.vill.minamiminowa.nagano.jp/",
+                  "url" : "https://www.vill.minamiminowa.lg.jp/",
                   "wikipedia_image" : {
                      "desc" : "信州大学農学部のユリノキ並木",
                      "wref" : "File:Shinshu University agricultural department.jpg"
@@ -81177,7 +81241,7 @@
                      ]
                   },
                   "type" : "town",
-                  "url" : "http://www.town.takamori.nagano.jp/",
+                  "url" : "https://www.town.nagano-takamori.lg.jp/",
                   "wikipedia_image" : {
                      "desc" : "市田柿の干し柿",
                      "wref" : "File:Ichida-Gaki of dried persimmon.JPG"
@@ -82109,7 +82173,7 @@
                      ]
                   },
                   "type" : "town",
-                  "url" : "http://www.koumi-town.jp/index.html",
+                  "url" : "https://www.koumi-town.jp/index.html",
                   "wikipedia_image" : {
                      "desc" : "松原湖",
                      "wref" : "File:Lake Inako.jpg"
