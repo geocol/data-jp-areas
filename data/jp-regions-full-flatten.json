@@ -1190,8 +1190,8 @@
          "qualified_name" : "愛知県高浜市",
          "type" : "city",
          "wikipedia_image" : {
-            "desc" : "衣浦観音 10",
-            "wref" : "ファイル:Kinuurakannon.JPG"
+            "desc" : "高浜市やきものの里かわら美術館 10",
+            "wref" : "File:Kawara Museum of Takahama city, a Hometown Ceramics exterior ac.jpg"
          },
          "wref" : "高浜市"
       },
@@ -12596,7 +12596,7 @@
          "type" : "town",
          "wikipedia_image" : {
             "desc" : "太地町立くじらの博物館 yesnocenter27018010line#cc00002pointtown-hall町庁舎位置",
-            "wref" : "File:Kujira-kan060504.jpg"
+            "wref" : "File:Taiji Whale Museum 201908-2.jpg"
          },
          "wref" : "太地町"
       },
@@ -16677,7 +16677,7 @@
          "area_symbols" : {
             "flower" : [
                {
-                  "name" : "イチゴ"
+                  "name" : "モモ"
                }
             ],
             "mark" : [
@@ -31800,7 +31800,7 @@
                {
                   "date" : "2005-02-28",
                   "name" : "伊勢崎市章",
-                  "wref" : "ファイル:Emblem of Isesaki, Gunma.svg"
+                  "wref" : "伊勢崎市章"
                }
             ],
             "tree" : [
@@ -46514,7 +46514,7 @@
             "mark" : [
                {
                   "date" : "1980",
-                  "name" : "十島村章\u003Cbr /",
+                  "name" : "十島村章",
                   "wref" : "十島村章"
                }
             ],
@@ -48929,7 +48929,7 @@
                {
                   "date" : "1954-10-15",
                   "name" : "草津市章",
-                  "wref" : "ファイル:Emblem of Kusatsu, Shiga.svg"
+                  "wref" : "草津市章"
                }
             ],
             "tree" : [
@@ -49649,6 +49649,9 @@
          "name" : "大津市",
          "neighbor_region_names" : {
             "1255" : 1,
+            "1257" : 1,
+            "1258" : 1,
+            "1266" : 1,
             "1283" : 1,
             "1288" : 1,
             "1963" : 1,
@@ -52186,7 +52189,7 @@
          "pref_id" : 43,
          "qualified_name" : "新潟県新潟市中央区",
          "type" : "ward",
-         "url" : "http://www.city.niigata.lg.jp/chuo/",
+         "url" : "https://www.city.niigata.lg.jp/chuo/",
          "wikipedia_image" : {
             "desc" : "上:信濃川と萬代橋 下:古町",
             "wref" : "File:NIIGATA_CITY.jpg"
@@ -52264,7 +52267,7 @@
          "url" : "http://www.city.niigata.lg.jp/minami/",
          "wikipedia_image" : {
             "desc" : "白根大凧合戦",
-            "wref" : "File:Shirane_Otako_Gassen_001.JPG"
+            "wref" : "File:Shirane_Otako_Gassen_004.JPG"
          },
          "wikipedia_location_image_wref" : "File:Minami-ku in Niigata City.svg",
          "wref" : "南区 (新潟市)"
@@ -55580,7 +55583,7 @@
          "type" : "town",
          "url" : "http://www.town.rifu.miyagi.jp/",
          "wikipedia_image" : {
-            "desc" : "\u003Ctable style=\u0022width:280px;margin:2px auto; border-collapse: collapse\u0022>\u000A\u003Ctr>\u003Ctd colspan=\u00222\u0022>イオンモール利府\u003C/tr>\u000A\u003Ctr>\u003Ctd width=55%>セキスイハイム\u000Aスーパーアリーナ\u003Ctd style=\u0022vertical-align:middle;\u0022>加瀬沼公園\u003C/tr>\u000A\u003Ctr>\u003Ctd>新幹線総合車両センター\u003Ctd>利府駅\u003C/tr>\u000A\u003Ctr>\u003Ctd colspan=\u00222\u0022>ひとめぼれスタジアム宮城\u003C/tr>\u003C/table>",
+            "desc" : "\u003Ctable style=\u0022width:280px;margin:2px auto; border-collapse: collapse\u0022>\u000A\u003Ctr>\u003Ctd colspan=\u00222\u0022>イオンモール利府\u003C/tr>\u000A\u003Ctr>\u003Ctd width=55%>セキスイハイム\u000Aスーパーアリーナ\u003Ctd style=\u0022vertical-align:middle;\u0022>加瀬沼公園\u003C/tr>\u000A\u003Ctr>\u003Ctd>新幹線総合車両センター\u003Ctd>利府駅\u003C/tr>\u000A\u003Ctr>\u003Ctd colspan=\u00222\u0022>キューアンドエースタジアムみやぎ\u003C/tr>\u003C/table>",
             "wref" : "File:Rifu montage.JPG"
          },
          "wref" : "利府町"
@@ -56069,8 +56072,8 @@
          "qualified_name" : "愛知県",
          "type" : "pref",
          "wikipedia_image" : {
-            "desc" : "名古屋市・名駅の高層ビル群と名古屋城",
-            "wref" : "ファイル:180324 Nagoya Castle & Skyscrapers in Meieki.jpg"
+            "desc" : "\u003Ctable style=\u0022width:280px; margin:2px auto; border-collapse:collapse\u0022>\u000A\u003Ctr>\u003Ctd style=\u0022width:100%\u0022 colspan=\u00222\u0022>名古屋城\u003C/tr>\u000A\u003Ctr>\u003Ctd style=\u0022width:50%\u0022>熱田神宮\u003Ctd style=\u0022width:50%\u0022>香嵐渓\u003C/tr>\u000A\u003Ctr>\u003Ctd style=\u0022width:50%\u0022>伊良湖岬\u003Ctd style=\u0022width:50%\u0022>犬山祭\u003C/tr>\u000A\u003C/table>",
+            "wref" : "File:Tenshuhonmaru.jpg"
          },
          "wikipedia_location_image_wref" : "ファイル:Map of Japan with highlight on 23 Aichi prefecture.svg",
          "wref" : "愛知県"
@@ -57088,7 +57091,7 @@
          "type" : "town",
          "wikipedia_image" : {
             "desc" : "志津川のモアイ像",
-            "wref" : "ファイル:Moai,shidugawa.jpg"
+            "wref" : "File:"
          },
          "wref" : "南三陸町"
       },
@@ -88869,7 +88872,7 @@
          "qualified_name" : "埼玉県和光市",
          "type" : "city",
          "wikipedia_image" : {
-            "desc" : "理化学研究所 11yesyescenter280220line#cc00002",
+            "desc" : "理化学研究所 11yesyes\u0022center\u0022280220line#cc00002",
             "wref" : "ファイル:Riken HQ Main Gate.jpg"
          },
          "wref" : "和光市"
@@ -97634,8 +97637,8 @@
          "qualified_name" : "広島県福山市",
          "type" : "city",
          "wikipedia_image" : {
-            "desc" : "上:アイネスフクヤマ 中:鞆の浦\u000A下:福山ばら祭",
-            "wref" : "file:Ines_fukuyama.JPG"
+            "desc" : "\u003Ctable style=\u0022width:280px;margin:2px auto; border-collapse: collapse\u0022>\u000A\u003Ctr>\u003Ctd style=\u0022vertical-align:middle\u0022>アイネスフクヤマ\u003Ctd style=\u0022vertical-align:middle;\u0022 width=50%>鞆の浦\u003C/tr>\u000A\u003Ctr>\u003Ctd>福山城\u003Ctd>福山ばら祭\u003C/tr>\u000A\u003Ctr>\u003Ctd colspan=\u00222\u0022>福山市街地遠景\u003C/tr>\u000A\u003C/table>",
+            "wref" : "File:Fukuyama Montage.jpg"
          },
          "wref" : "福山市"
       },
@@ -104565,8 +104568,8 @@
          "type" : "ward",
          "url" : "https://www.city.saitama.jp/sakura/",
          "wikipedia_image" : {
-            "desc" : "田島ヶ原サクラソウ自生地",
-            "wref" : "File:Saitama_Tajimagahara_Primula_Sieboldii_Primrose_Habitat_3.JPG"
+            "desc" : "埼玉大学",
+            "wref" : "File:Saitama university.JPG"
          },
          "wref" : "桜区"
       },
@@ -105385,7 +105388,7 @@
          "qualified_name" : "鳥取県米子市",
          "type" : "city",
          "wikipedia_image" : {
-            "desc" : "\u003Ctable style=\u0022width:280px;margin:2px auto; border-collapse: collapse\u0022>\u000A\u003Ctr>\u003Ctd>米ッ子合掌像\u003C/td>\u003Ctd>皆生温泉\u003C/td>\u003C/tr>\u000A\u003Ctr>\u003Ctd>米子城跡から望む市街地\u003C/td>\u003Ctd>米子高島屋\u003C/td>\u003C/tr>\u000A\u003Ctr>\u003Ctd>妻木晩田遺跡\u003C/td>\u003Ctd>米子駅\u003C/td>\u003C/tr>\u000A\u003C/table>",
+            "desc" : "\u003Ctable style=\u0022width:280px;margin:2px auto; border-collapse: collapse;\u0022>\u000A\u003Ctr>\u003Ctd>米ッ子合掌像\u003C/td>\u003Ctd>皆生温泉\u003C/td>\u003C/tr>\u000A\u003Ctr>\u003Ctd>米子城跡から望む市街地\u003C/td>\u003Ctd>米子高島屋\u003C/td>\u003C/tr>\u000A\u003Ctr>\u003Ctd>妻木晩田遺跡\u003C/td>\u003Ctd>米子駅\u003C/td>\u003C/tr>\u000A\u003C/table>",
             "wref" : "File:Yonago montage 2017.jpg"
          },
          "wref" : "米子市"
