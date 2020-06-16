@@ -8803,6 +8803,7 @@
          "neighbor_region_names" : {
             "1136" : 1,
             "1138" : 1,
+            "1141" : 1,
             "1144" : 1,
             "1150" : 1,
             "1157" : 1,
@@ -15694,6 +15695,7 @@
             "mark" : [
                {
                   "date" : "1939-03-30",
+                  "name" : "豊中市章",
                   "wref" : "ファイル:Emblem of Toyonaka, Osaka.svg"
                }
             ],
@@ -25103,6 +25105,7 @@
          },
          "qualified_name" : "広島県",
          "type" : "pref",
+         "url" : "https://www.pref.hiroshima.lg.jp/",
          "wikipedia_image" : {
             "desc" : "\u003Ctable style=\u0022width:280px; margin:2px auto; border-collapse:collapse\u0022>\u000A\u003Ctr>\u003Ctd style=\u0022vertical-align:middle;\u0022>厳島神社\u003Ctd>恐羅漢\u000Aスキー場\u003Ctd>広島\u000A東洋カープ\u003C/tr>\u000A\u003Ctr>\u003Ctd>尾道\u003Ctd>西条の酒蔵\u003Ctd>鞆の浦\u003C/tr>\u000A\u003Ctr>\u003Ctd width=35%>サンフレッチェ\u000A広島F.C\u003Ctd style=\u0022vertical-align:middle;\u0022>上蒲刈島の\u000A県民の浜\u003Ctd style=\u0022vertical-align:middle;\u0022>原爆ドーム\u003C/tr>\u000A\u003C/table>",
             "wref" : "File:Montages of Hiroshima prefecture.jpg"
@@ -28977,8 +28980,8 @@
          "qualified_name" : "東京都港区",
          "type" : "ward",
          "wikipedia_image" : {
-            "desc" : "愛宕神社出世の石段",
-            "wref" : "File:愛宕神社、出世の石段.jpg"
+            "desc" : "レインボーブリッジ",
+            "wref" : "File:Tokyo Oka2.JPG"
          },
          "wref" : "港区 (東京都)"
       },
@@ -29034,8 +29037,8 @@
          "qualified_name" : "東京都大田区",
          "type" : "ward",
          "wikipedia_image" : {
-            "desc" : "池上本門寺五重塔",
-            "wref" : "File:池上本門寺五重塔004.JPG"
+            "desc" : "東京国際空港",
+            "wref" : "File:Haneda kokusaisen entrance.png"
          },
          "wref" : "大田区"
       },
@@ -29278,8 +29281,8 @@
          "qualified_name" : "東京都品川区",
          "type" : "ward",
          "wikipedia_image" : {
-            "desc" : "戸越銀座",
-            "wref" : "File:Togoshi-ginza street.JPG"
+            "desc" : "目黒川(大崎)",
+            "wref" : "File:Meguro-gawa, Ōsaki 01.jpg"
          },
          "wref" : "品川区"
       },
@@ -47061,7 +47064,7 @@
          "qualified_name" : "鹿児島県奄美市",
          "type" : "city",
          "wikipedia_image" : {
-            "desc" : "住用地区の蛭木/漂木(ヒルギ)科原生林群 9yesyescenter270200line#cc00002",
+            "desc" : "住用地区のマングローブ原生林 9yesyescenter270200line#cc00002",
             "wref" : "ファイル:Mangrove_in_amami.JPG"
          },
          "wref" : "奄美市"
@@ -62027,10 +62030,6 @@
          "pref_id" : 47,
          "qualified_name" : "長野県松本市",
          "type" : "city",
-         "wikipedia_image" : {
-            "desc" : "松本城 9yesyescenter280240line#cc0000236.188071137.931183",
-            "wref" : "ファイル:130608 Matsumoto Castle Matsumoto Nagano pref Japan02bs4.jpg"
-         },
          "wref" : "松本市"
       },
       "2217" : {
@@ -62299,12 +62298,42 @@
          "wref" : "池田町 (長野県)"
       },
       "2222" : {
+         "area_symbols" : {
+            "flower" : [
+               {
+                  "name" : "カタクリ"
+               }
+            ],
+            "mark" : [
+               {
+                  "date" : "1967-10-21",
+                  "name" : "白馬村章",
+                  "wref" : "白馬村章"
+               }
+            ],
+            "tree" : [
+               {
+                  "name" : "オオヤマザクラ"
+               },
+               {
+                  "name" : "コブシ"
+               }
+            ]
+         },
          "code" : "20485",
          "district_id" : 2219,
          "id" : 2222,
          "kana" : "はくばむら",
          "latin" : "Hakuba-mura",
          "name" : "白馬村",
+         "neighbor_region_names" : {
+            "1788" : 1,
+            "1996" : 1,
+            "2199" : 1,
+            "2220" : 1,
+            "2229" : 1,
+            "2263" : 1
+         },
          "office" : {
             "address" : "大字北城7025",
             "position" : [
@@ -62318,7 +62347,7 @@
          "type" : "village",
          "wikipedia_image" : {
             "desc" : "大字北城から見た白馬連峰",
-            "wref" : "ファイル:HakubaSanZan1.jpg"
+            "wref" : "File:HakubaSanZan1.jpg"
          },
          "wref" : "白馬村"
       },
@@ -70140,7 +70169,7 @@
          "qualified_name" : "大阪府",
          "type" : "pref",
          "wikipedia_image" : {
-            "desc" : "\u003Ctable style=\u0022width:280px;margin:2px auto;border-collapse:collapse\u0022>\u000A\u003Ctr>\u003Ctr>\u003Ctd style=\u0022width:50%\u0022>大坂城と大阪ビジネスパーク\u003Ctd style=\u0022width:50%\u0022>道頓堀\u003C/tr>\u003Ctr>\u003Ctd style=\u0022width:50%\u0022>ひらかたパークの大観覧車\u003Ctd style=\u0022width:50%\u0022>大仙古墳\u003C/tr>\u003C/table>",
+            "desc" : "\u003Ctable style=\u0022width:280px;margin:2px auto;border-collapse:collapse\u0022>\u000A\u003Ctr>\u003Ctr>\u003Ctd style=\u0022width:50%\u0022>難波宮跡、大坂城、大阪ビジネスパーク\u003Ctd style=\u0022width:50%\u0022>道頓堀\u003C/tr>\u003Ctr>\u003Ctd style=\u0022width:50%\u0022>ひらかたパークの大観覧車\u003Ctd style=\u0022width:50%\u0022>大仙古墳\u003C/tr>\u003C/table>",
             "wref" : "File:Osaka Castle 03bs3200.jpg"
          },
          "wikipedia_location_image_wref" : "ファイル:Map of Japan with highlight on 27 Osaka prefecture.svg",
@@ -70193,8 +70222,8 @@
          "type" : "town",
          "url" : "http://www.town.horonobe.hokkaido.jp/",
          "wikipedia_image" : {
-            "desc" : "パンケ沼園地",
-            "wref" : "File:PankeMarsh1.JPG"
+            "desc" : "幌延ビジターセンターと周囲のサロベツ原野(2014年9月7日)",
+            "wref" : "File:Horonobe visitor center 01.jpg"
          },
          "wref" : "幌延町"
       },
@@ -75336,7 +75365,7 @@
                {
                   "date" : "1950-12-22",
                   "name" : "海老名市章",
-                  "wref" : "ファイル:Ebina Kanagawa chapter.svg"
+                  "wref" : "海老名市章"
                }
             ],
             "tree" : [
@@ -75369,10 +75398,9 @@
          "pref_id" : 4,
          "qualified_name" : "神奈川県海老名市",
          "type" : "city",
-         "url" : "https://www.city.ebina.kanagawa.jp/",
          "wikipedia_image" : {
             "desc" : "相模国分寺 10yesnocenter270200line#cc00002pointtown-hall市庁舎位置",
-            "wref" : "ファイル:Sagamikokubunzi-hondou.jpg"
+            "wref" : "File:Sagamikokubunzi-hondou.jpg"
          },
          "wref" : "海老名市"
       },
@@ -75919,8 +75947,8 @@
          "type" : "city",
          "url" : "https://www.city.ayase.kanagawa.jp/",
          "wikipedia_image" : {
-            "desc" : "五社神社 11yesyescenter280200line#cc00002",
-            "wref" : "File:Kanagawa prefectual road route 406 one-way traffic.jpg"
+            "desc" : "綾瀬市の街並み 11yesyescenter280200line#cc00002",
+            "wref" : "File:NAF Atsugi near Ayase.jpg"
          },
          "wref" : "綾瀬市"
       },
@@ -76343,7 +76371,7 @@
             "mark" : [
                {
                   "name" : "清川村章",
-                  "wref" : "ファイル:Symbol of Kiyokawa Kanagawa.svg"
+                  "wref" : "清川村章"
                }
             ],
             "tree" : [
@@ -78674,7 +78702,7 @@
          "type" : "city",
          "wikipedia_image" : {
             "desc" : "座間谷戸山公園 10yesyescenter280200line#cc00002",
-            "wref" : "ファイル:Pond in Yatoyama.jpg"
+            "wref" : "File:Pond in Yatoyama.jpg"
          },
          "wref" : "座間市"
       },
@@ -88884,7 +88912,7 @@
          "qualified_name" : "埼玉県和光市",
          "type" : "city",
          "wikipedia_image" : {
-            "desc" : "理化学研究所 11yesyes\u0022center\u0022280220line#cc00002",
+            "desc" : "理化学研究所",
             "wref" : "ファイル:Riken HQ Main Gate.jpg"
          },
          "wref" : "和光市"
@@ -100727,7 +100755,7 @@
                {
                   "date" : "1914-01-14",
                   "name" : "足利市章",
-                  "wref" : "ファイル:Emblem of Ashikaga, Tochigi.svg"
+                  "wref" : "足利市章"
                }
             ],
             "tree" : [
