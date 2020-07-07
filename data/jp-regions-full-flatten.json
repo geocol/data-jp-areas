@@ -22548,7 +22548,7 @@
          "type" : "town",
          "wikipedia_image" : {
             "desc" : "篠栗四国八十八箇所第一番札所・ 南蔵院の世界最大涅槃像",
-            "wref" : "File:Reclining Buddha statues of Nanzoin.jpg"
+            "wref" : "File:"
          },
          "wref" : "篠栗町"
       },
@@ -27065,8 +27065,8 @@
          "qualified_name" : "東京都武蔵野市",
          "type" : "city",
          "wikipedia_image" : {
-            "desc" : "武蔵野中央公園",
-            "wref" : "ファイル:Mushashino tyuo koen.jpg"
+            "desc" : "武蔵野市の街並み",
+            "wref" : "File:Musashino in the afternoon.jpg"
          },
          "wref" : "武蔵野市"
       },
@@ -27985,7 +27985,7 @@
          "type" : "ward",
          "wikipedia_image" : {
             "desc" : "銀座",
-            "wref" : "File:Ginza01s3872.jpg"
+            "wref" : "File:Ginza-WAKO_at_night.jpg"
          },
          "wref" : "中央区 (東京都)"
       },
@@ -28307,8 +28307,8 @@
          "qualified_name" : "東京都三鷹市",
          "type" : "city",
          "wikipedia_image" : {
-            "desc" : "都立井の頭恩賜公園",
-            "wref" : "ファイル:Mitaka Inokashira Park In Spring 1.JPG"
+            "desc" : "井の頭恩賜公園",
+            "wref" : "File:井之頭恩賜公園 (16016034730).jpg"
          },
          "wref" : "三鷹市"
       },
@@ -28928,8 +28928,8 @@
          "qualified_name" : "東京都調布市",
          "type" : "city",
          "wikipedia_image" : {
-            "desc" : "深大寺",
-            "wref" : "ファイル:Jindaiji-4.jpg"
+            "desc" : "調布市の街並み",
+            "wref" : "File:深大寺レジデンスから見る、世田谷方面にかかる虹 - panoramio.jpg"
          },
          "wref" : "調布市"
       },
@@ -35358,7 +35358,7 @@
             "desc" : "千葉ポートタワー",
             "wref" : "File:千葉ポートタワー - panoramio.jpg"
          },
-         "wikipedia_location_image_wref" : "ファイル:地図-千葉県千葉市中央区-2006.png",
+         "wikipedia_location_image_wref" : "ファイル:地図-千葉県千葉市中央区-2006.PNG",
          "wref" : "中央区 (千葉市)"
       },
       "1697" : {
@@ -35393,7 +35393,7 @@
             "desc" : "加曽利貝塚の復元竪穴式住居",
             "wref" : "File:Kasori Shell Midden Dugouts.jpg"
          },
-         "wikipedia_location_image_wref" : "ファイル:地図-千葉県千葉市若葉区-2006.png",
+         "wikipedia_location_image_wref" : "ファイル:地図-千葉県千葉市若葉区-2006.PNG",
          "wref" : "若葉区"
       },
       "1698" : {
@@ -35647,7 +35647,7 @@
             "desc" : "旧神谷伝兵衛稲毛別荘",
             "wref" : "File:JP-12 Chiba Kamiya Denbei vacation house.jpg"
          },
-         "wikipedia_location_image_wref" : "ファイル:地図-千葉県千葉市稲毛区-2006.png",
+         "wikipedia_location_image_wref" : "ファイル:地図-千葉県千葉市稲毛区-2006.PNG",
          "wref" : "稲毛区"
       },
       "1701" : {
@@ -52544,10 +52544,6 @@
          "pref_id" : 43,
          "qualified_name" : "新潟県長岡市",
          "type" : "city",
-         "wikipedia_image" : {
-            "desc" : "長岡まつり大花火大会 10",
-            "wref" : "ファイル:Nagaoka_Festival_Fireworks_2015_Phoenix_20150802.jpg"
-         },
          "wref" : "長岡市"
       },
       "203" : {
@@ -70832,8 +70828,8 @@
          "type" : "pref",
          "url" : "http://www.pref.fukuoka.lg.jp/",
          "wikipedia_image" : {
-            "desc" : "太宰府天満宮",
-            "wref" : "ファイル:20100719 Dazaifu Tenmangu Shrine 3328.jpg"
+            "desc" : null,
+            "wref" : "File:"
          },
          "wikipedia_location_image_wref" : "ファイル:Map of Japan with highlight on 40 Fukuoka prefecture.svg",
          "wref" : "福岡県"
@@ -76554,8 +76550,8 @@
          "qualified_name" : "神奈川県大和市",
          "type" : "city",
          "wikipedia_image" : {
-            "desc" : "泉の森 10270",
-            "wref" : "ファイル:Izuminomori Park 01.jpg"
+            "desc" : "なでしこの道 10270",
+            "wref" : "ファイル:Nadeshiko-no-Michi 02.jpg"
          },
          "wref" : "大和市"
       },
@@ -78726,8 +78722,8 @@
          "qualified_name" : "神奈川県座間市",
          "type" : "city",
          "wikipedia_image" : {
-            "desc" : "座間谷戸山公園 10yesyescenter280200line#cc00002",
-            "wref" : "File:Pond in Yatoyama.jpg"
+            "desc" : "座間市の住宅地",
+            "wref" : "File:Zama residential neighborhood.JPG"
          },
          "wref" : "座間市"
       },
@@ -79226,6 +79222,19 @@
                   "date" : "2008-03-01",
                   "label" : "県の草花",
                   "name" : "雪割草"
+               },
+               {
+                  "label" : "県の石",
+                  "name" : "ヒスイ輝石岩"
+               },
+               {
+                  "label" : "他のシンボル",
+                  "name" : "自然金"
+               },
+               {
+                  "date" : "2016-05-10",
+                  "label" : "他のシンボル",
+                  "name" : "石炭紀-ペルム紀海生動物化石群"
                }
             ],
             "song" : [
@@ -101414,7 +101423,7 @@
          "qualified_name" : "埼玉県所沢市",
          "type" : "city",
          "wikipedia_image" : {
-            "desc" : "所沢市の街並み 10yesyescenter280200line#cc00002",
+            "desc" : "八国山緑地から望む所沢市の街並み 10yesyescenter280200line#cc00002",
             "wref" : "File:View of Tokorozawa from Hachikokuyama.jpg"
          },
          "wref" : "所沢市"
