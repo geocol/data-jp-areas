@@ -77,7 +77,7 @@
             },
             "type" : "city",
             "wikipedia_image" : {
-               "desc" : "市内のヒマワリ畑と竜ヶ岳・藤原岳 10yesnocenter270200line#cc00002pointtown-hall35.15136.49市庁舎位置",
+               "desc" : "員弁町上笠田のヒマワリ畑と竜ヶ岳・藤原岳 10yesnocenter270200line#cc00002pointtown-hall35.15136.49市庁舎位置",
                "wref" : "File:Mount Ryu and Mount Fujiwara with Sunflower field.jpg"
             },
             "wref" : "いなべ市"
@@ -13277,8 +13277,8 @@
             "subpref_name" : "胆振総合振興局",
             "type" : "town",
             "wikipedia_image" : {
-               "desc" : "倶多楽湖 9",
-               "wref" : "ファイル:Lake_Kuttara_1.JPG"
+               "desc" : "9",
+               "wref" : "File:"
             },
             "wref" : "白老町"
          },
@@ -17191,7 +17191,7 @@
                   "url" : "https://www.city.chiba.jp/midori/",
                   "wikipedia_image" : {
                      "desc" : "おゆみ野・鎌取駅周辺の街並み",
-                     "wref" : "File:Oyumino-mannsyonn.jpg"
+                     "wref" : "File:Oyumino 2020.jpg"
                   },
                   "wikipedia_location_image_wref" : "ファイル:地図-千葉県千葉市緑区-2006.png",
                   "wref" : "緑区 (千葉市)"
@@ -20219,7 +20219,7 @@
                      "mark" : [
                         {
                            "name" : "美浜町章",
-                           "wref" : "ファイル:Mihama_Wakayama_chapter.JPG"
+                           "wref" : "ファイル:Emblem of Mihama, Wakayama.svg"
                         }
                      ],
                      "tree" : [
@@ -28811,7 +28811,7 @@
       },
       "type" : "pref",
       "wikipedia_image" : {
-         "desc" : "\u003Ctable style=\"width:280px;margin:2px auto;border-collapse:collapse\">\n\u003Ctr>\u003Ctr>\u003Ctd style=\"width:50%\">大坂城、大阪ビジネスパーク\u003Ctd style=\"width:50%\">道頓堀\u003C/tr>\u003Ctr>\u003Ctd style=\"width:50%\">ひらかたパークの大観覧車\u003Ctd style=\"width:50%\">大仙古墳\u003C/tr>\u003C/table>",
+         "desc" : "\u003Ctable style=\"width:280px;margin:2px auto;border-collapse:collapse\">\n\u003Ctr>\u003Ctr>\u003Ctd style=\"width:50%\">難波宮跡、大坂城、大阪ビジネスパーク\u003Ctd style=\"width:50%\">道頓堀\u003C/tr>\u003Ctr>\u003Ctd style=\"width:50%\">ひらかたパークの大観覧車\u003Ctd style=\"width:50%\">大仙古墳\u003C/tr>\u003C/table>",
          "wref" : "File:Osaka Castle 03bs3200.jpg"
       },
       "wikipedia_location_image_wref" : "ファイル:Map of Japan with highlight on 27 Osaka prefecture.svg",
@@ -40014,7 +40014,7 @@
             },
             "type" : "city",
             "wikipedia_image" : {
-               "desc" : "奥の細道むすびの地・水門川と住吉灯台 10",
+               "desc" : "奥の細道むすびの地・水門川と住吉灯台 yesnocenter27020010line#cc00002pointtown-hall市庁舎位置",
                "wref" : "ファイル:船町港跡.jpg"
             },
             "wref" : "大垣市"
@@ -40727,6 +40727,7 @@
             "neighbor_region_names" : {
                "北方町" : "北方町",
                "大垣市" : "大垣市",
+               "大野町" : "大野町",
                "安八町" : "安八町",
                "岐阜市" : "岐阜市",
                "本巣市" : "本巣市",
@@ -40836,7 +40837,7 @@
             },
             "type" : "city",
             "wikipedia_image" : {
-               "desc" : "\u003Ctable style=\"width:280px;margin:2px auto; border-collapse: collapse;\">\n\u003Ctr>\u003Ctd colspan=\"2\" style=\"vertical-align:middle;\">美濃町\u003C/tr>\n\u003Ctr>\u003Ctd>小倉山と長良川\u003Ctd>八幡神社\u003C/tr>\n\u003Ctr>\u003Ctd>大矢田神社\u003Ctd>片知渓谷\u003C/tr>\n\u003Ctr>\u003Ctd colspan=\"2\" style=\"vertical-align:middle;\">美濃橋\u003C/tr>\n\u003C/table>\n10",
+               "desc" : "\u003Ctable style=\"width:280px;margin:2px auto; border-collapse: collapse;\">\n\u003Ctr>\u003Ctd colspan=\"2\" style=\"vertical-align:middle;\">美濃町\u003C/tr>\n\u003Ctr>\u003Ctd>小倉山と長良川\u003Ctd>八幡神社\u003C/tr>\n\u003Ctr>\u003Ctd>大矢田神社\u003Ctd>片知渓谷\u003C/tr>\n\u003Ctr>\u003Ctd colspan=\"2\" style=\"vertical-align:middle;\">美濃橋\u003C/tr>\n\u003C/table>\nyesnocenter27019010line#cc0000235.555136.91pointtown-hall市庁舎位置",
                "wref" : "File:Mino montage.JPG"
             },
             "wref" : "美濃市"
@@ -41096,7 +41097,7 @@
             },
             "type" : "city",
             "wikipedia_image" : {
-               "desc" : "岐阜県刃物会館 10",
+               "desc" : "岐阜県刃物会館 yesnocenter27020010line#cc00002pointtown-hall市庁舎位置",
                "wref" : "ファイル:Gifu Knife Hall 1.JPG"
             },
             "wref" : "関市"
@@ -41140,7 +41141,7 @@
             },
             "type" : "city",
             "wikipedia_image" : {
-               "desc" : "飛驒古川の瀬戸川と白壁土蔵街 9yesyescenter280250line#cc00002",
+               "desc" : "飛驒古川の瀬戸川と白壁土蔵街 9yesnocenter280250line#cc00002pointtown-hall市庁舎位置",
                "wref" : "ファイル:Hida Furukawa Seto river ac.jpg"
             },
             "wref" : "飛騨市"
@@ -41188,7 +41189,7 @@
                   "type" : "town",
                   "url" : "http://www.town.yoro.gifu.jp/",
                   "wikipedia_image" : {
-                     "desc" : "養老の滝 10",
+                     "desc" : "養老の滝 yesnocenter27020010line#cc00002pointtown-hall町庁舎位置",
                      "wref" : "ファイル:Yoro-waterfall.JPG"
                   },
                   "wref" : "養老町"
@@ -45280,6 +45281,12 @@
                            "name" : "ボタン"
                         }
                      ],
+                     "mark" : [
+                        {
+                           "name" : "飯南町章",
+                           "wref" : "飯南町章"
+                        }
+                     ],
                      "tree" : [
                         {
                            "name" : "ブナ"
@@ -46476,7 +46483,7 @@
             },
             "type" : "city",
             "wikipedia_image" : {
-               "desc" : "速谷神社 厳島神社\n冠山\n宮浜温泉源泉の碑\n小瀬川ダム",
+               "desc" : "\u003Ctable style=\"width:280px;margin:2px auto; border-collapse: collapse\">\n\u003Ctr>\u003Ctd colspan=\"2\">速谷神社\u003Ctd colspan=\"2\">厳島神社\u003C/tr>\n\u003Ctr>\u003Ctd>冠山\u003Ctd colspan=\"2\">宮浜温泉源泉の碑\u003Ctd>小瀬川ダム\u003C/tr>\n\u003C/table>",
                "wref" : "File:廿日市市.jpg"
             },
             "wref" : "廿日市市"
@@ -55786,7 +55793,7 @@
             },
             "type" : "ward",
             "wikipedia_image" : {
-               "desc" : "板橋",
+               "desc" : "区名の由来とされる板橋",
                "wref" : "File:Itabashi-at-nakajuku.JPG"
             },
             "wref" : "板橋区"
@@ -56098,8 +56105,8 @@
             },
             "type" : "ward",
             "wikipedia_image" : {
-               "desc" : "代々木公園",
-               "wref" : "File:1 Yoyogikamizonochō, Shibuya-ku, Tōkyō-to 151-0052, Japan - panoramio.jpg"
+               "desc" : "渋谷スクランブル交差点",
+               "wref" : "File:2018 Shibuya Crossing.jpg"
             },
             "wref" : "渋谷区"
          },
@@ -56295,14 +56302,6 @@
             "wref" : "目黒区"
          },
          "神津島村" : {
-            "area_symbols" : {
-               "mark" : [
-                  {
-                     "name" : "神津島村章",
-                     "wref" : "ファイル:Emblem_of_Kozushima,_Tokyo.svg"
-                  }
-               ]
-            },
             "code" : "13364",
             "id" : 1550,
             "kana" : "こうづしまむら",
@@ -56316,10 +56315,6 @@
             },
             "subpref_name" : "大島支庁",
             "type" : "village",
-            "wikipedia_image" : {
-               "desc" : "神津島・沢尻湾キャンプ場",
-               "wref" : "ファイル:Sawajiri Beach Campsight-May-03-2013 KouzuShima Island - panoramio (1).jpg"
-            },
             "wref" : "神津島村"
          },
          "福生市" : {
@@ -68311,7 +68306,7 @@
                ],
                "mark" : [
                   {
-                     "date" : "1951",
+                     "date" : "1951-09-01",
                      "name" : "小浜市章",
                      "wref" : "ファイル:Obama Fukui chapter.JPG"
                   }
@@ -69771,7 +69766,7 @@
                   {
                      "date" : "1959-10-15",
                      "name" : "小郡市章",
-                     "wref" : "ファイル:Symbol_of_Ogori_Fukuoka.svg"
+                     "wref" : "file:Symbol_of_Ogori_Fukuoka.svg"
                   }
                ],
                "tree" : [
@@ -71242,8 +71237,8 @@
                   },
                   "type" : "town",
                   "wikipedia_image" : {
-                     "desc" : "篠栗四国八十八箇所第一番札所・ 南蔵院の世界最大涅槃像",
-                     "wref" : "File:"
+                     "desc" : "篠栗四国八十八箇所第一番札所・南蔵院",
+                     "wref" : "File:Gate of Nanzoin Temple in Sasaguri, Kasuya, Fukuoka.JPG"
                   },
                   "wref" : "篠栗町"
                },
@@ -71861,8 +71856,8 @@
       "type" : "pref",
       "url" : "http://www.pref.fukuoka.lg.jp/",
       "wikipedia_image" : {
-         "desc" : null,
-         "wref" : "File:"
+         "desc" : "太宰府天満宮",
+         "wref" : "ファイル:20100719 Dazaifu Tenmangu Shrine 3328.jpg"
       },
       "wikipedia_location_image_wref" : "ファイル:Map of Japan with highlight on 40 Fukuoka prefecture.svg",
       "wref" : "福岡県"
