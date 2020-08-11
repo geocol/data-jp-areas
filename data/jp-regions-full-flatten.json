@@ -7124,8 +7124,7 @@
          "neighbor_region_names" : {
             "1133" : 1,
             "1136" : 1,
-            "1164" : 1,
-            "1177" : 1
+            "1164" : 1
          },
          "office" : {
             "address" : "大字磐梯字中ノ橋1855",
@@ -7182,7 +7181,6 @@
             "1157" : 1,
             "1158" : 1,
             "1166" : 1,
-            "1177" : 1,
             "886" : 1
          },
          "office" : {
@@ -8285,7 +8283,6 @@
             "1141" : 1,
             "1142" : 1,
             "1166" : 1,
-            "1177" : 1,
             "1179" : 1,
             "1184" : 1,
             "1186" : 1
@@ -8621,7 +8618,6 @@
             "1160" : 1,
             "1171" : 1,
             "1176" : 1,
-            "1177" : 1,
             "1186" : 1,
             "822" : 1
          },
@@ -8949,7 +8945,7 @@
          "url" : "http://www.vill.showa.fukushima.jp/",
          "wikipedia_image" : {
             "desc" : "駒止湿原",
-            "wref" : "File:駒止湿原.JPG"
+            "wref" : "File:駒止湿原.jpg"
          },
          "wref" : "昭和村 (福島県)"
       },
@@ -9091,7 +9087,6 @@
          "name" : "会津美里町",
          "neighbor_region_names" : {
             "1163" : 1,
-            "1177" : 1,
             "1181" : 1,
             "1182" : 1
          },
@@ -9351,8 +9346,8 @@
             "mark" : [
                {
                   "date" : "1927-04-26",
-                  "name" : "会津若松市章",
-                  "wref" : "ファイル:Symbol of Aizuwakamatsu Fukushima.svg"
+                  "name" : "若松市章",
+                  "wref" : "ファイル:Symbol of　wakamatsu Fukushima.svg"
                }
             ],
             "tree" : [
@@ -9390,7 +9385,7 @@
          "type" : "city",
          "wikipedia_image" : {
             "desc" : "鶴ヶ城",
-            "wref" : "File:March 2011 The Aizu-Wakamatsu Castle.jpg"
+            "wref" : "File:March 2011 The-Wakamatsu Castle.jpg"
          },
          "wref" : "会津若松市"
       },
@@ -9679,7 +9674,6 @@
             "1134" : 1,
             "1164" : 1,
             "1171" : 1,
-            "1177" : 1,
             "1181" : 1,
             "1183" : 1
          },
@@ -9697,7 +9691,7 @@
          "url" : "https://www.town.aizubange.fukushima.jp/index.html",
          "wikipedia_image" : {
             "desc" : "恵隆寺観音堂",
-            "wref" : "File:恵隆寺観音堂.JPG"
+            "wref" : "File:恵隆寺観音堂 (Eryuji Kannondo).jpg"
          },
          "wref" : "会津坂下町"
       },
@@ -9723,7 +9717,6 @@
          "name" : "湯川村",
          "neighbor_region_names" : {
             "1164" : 1,
-            "1177" : 1,
             "1182" : 1
          },
          "office" : {
@@ -9862,7 +9855,6 @@
             "1163" : 1,
             "1173" : 1,
             "1176" : 1,
-            "1177" : 1,
             "1187" : 1
          },
          "office" : {
@@ -16556,6 +16548,7 @@
             "1302" : 1,
             "1306" : 1,
             "1322" : 1,
+            "1871" : 1,
             "1881" : 1,
             "1905" : 1
          },
@@ -25123,7 +25116,15 @@
          "area_symbols" : {
             "mark" : [
                {
-                  "wref" : "File:"
+                  "date" : "1990-03",
+                  "name" : "手稲区シンボルマーク",
+                  "wref" : "File:Logo Teine-Ku (Sapporo).gif"
+               }
+            ],
+            "misc" : [
+               {
+                  "label" : "区のマスコット",
+                  "name" : "ていぬ"
                }
             ]
          },
@@ -25147,7 +25148,7 @@
          "url" : "https://www.city.sapporo.jp/teine/",
          "wikipedia_image" : {
             "desc" : "前田森林公園",
-            "wref" : "File:前田森林公園 (Ｍaeda forest park) - Panoramio 113155602.jpg"
+            "wref" : "File:前田森林公園（Ｍaeda forest park） - panoramio - t-konno (2).jpg"
          },
          "wikipedia_location_image_wref" : "画像:Hokkaido Sapporo Teine-ward.png",
          "wref" : "手稲区"
@@ -26427,7 +26428,7 @@
          "qualified_name" : "静岡県富士宮市",
          "type" : "city",
          "wikipedia_image" : {
-            "desc" : "富士山本宮浅間大社本宮 9yesnocenter270200line#cc00002pointtown-hall市庁舎位置",
+            "desc" : "富士山本宮浅間大社 9yesnocenter270200line#cc00002pointtown-hall市庁舎位置",
             "wref" : "ファイル:Fujinomiya Hongu Sengen Taisha Honden.jpg"
          },
          "wref" : "富士宮市"
@@ -49952,10 +49953,6 @@
          "pref_id" : 43,
          "qualified_name" : "新潟県妙高市",
          "type" : "city",
-         "wikipedia_image" : {
-            "desc" : "妙高山 10",
-            "wref" : "ファイル:Myokousan_from_hiutiyama_1996_6_29.jpg"
-         },
          "wref" : "妙高市"
       },
       "1984" : {
@@ -50118,10 +50115,6 @@
          "pref_id" : 43,
          "qualified_name" : "新潟県佐渡市",
          "type" : "city",
-         "wikipedia_image" : {
-            "desc" : "佐渡金山・道遊の割戸 9yesyescenter280250line#cc00002",
-            "wref" : "ファイル:Sadokinzan-doyunowareto 01.JPG"
-         },
          "wref" : "佐渡市"
       },
       "1988" : {
@@ -60835,7 +60828,7 @@
          "type" : "town",
          "wikipedia_image" : {
             "desc" : "妻籠宿",
-            "wref" : "File:Tsumago-juku 1.jpg"
+            "wref" : "File:Tsumago-juku 6-Jun-2020.jpg"
          },
          "wref" : "南木曽町"
       },
@@ -70161,7 +70154,7 @@
          "qualified_name" : "大阪府",
          "type" : "pref",
          "wikipedia_image" : {
-            "desc" : "\u003Ctable style=\u0022width:280px;margin:2px auto;border-collapse:collapse\u0022>\u000A\u003Ctr>\u003Ctr>\u003Ctd style=\u0022width:50%\u0022>難波宮跡、大坂城、大阪ビジネスパーク\u003Ctd style=\u0022width:50%\u0022>道頓堀\u003C/tr>\u003Ctr>\u003Ctd style=\u0022width:50%\u0022>ひらかたパークの大観覧車\u003Ctd style=\u0022width:50%\u0022>大仙古墳\u003C/tr>\u003C/table>",
+            "desc" : "\u003Ctable style=\u0022width:280px;margin:2px auto;border-collapse:collapse\u0022>\u000A\u003Ctr>\u003Ctr>\u003Ctd style=\u0022width:50%\u0022>大坂城と大阪ビジネスパーク\u003Ctd style=\u0022width:50%\u0022>道頓堀\u003C/tr>\u003Ctr>\u003Ctd style=\u0022width:50%\u0022>ひらかたパークの大観覧車\u003Ctd style=\u0022width:50%\u0022>大仙古墳\u003C/tr>\u003C/table>",
             "wref" : "File:Osaka Castle 03bs3200.jpg"
          },
          "wikipedia_location_image_wref" : "ファイル:Map of Japan with highlight on 27 Osaka prefecture.svg",
@@ -72230,8 +72223,8 @@
          "qualified_name" : "静岡県",
          "type" : "pref",
          "wikipedia_image" : {
-            "desc" : "富士市からの富士山",
-            "wref" : "ファイル:MtFuji FujiCity.jpg"
+            "desc" : "\u003Ctable style=\u0022width:280px; margin:2px auto; border-collapse:collapse\u0022>\u000A\u003Ctr>\u003Ctd style=\u0022width:100%\u0022 colspan=\u00222\u0022>三保の松原と富士山\u003C/tr>\u000A\u003Ctr>\u003Ctd style=\u0022width:50%\u0022>熱海\u003Ctd style=\u0022width:50%\u0022>城ヶ崎海岸\u003C/tr>\u000A\u003Ctr>\u003Ctd style=\u0022width:50%\u0022>浜名湖\u003Ctd style=\u0022width:50%\u0022>韮山反射炉\u003C/tr>\u000A\u003C/table>",
+            "wref" : "File:三保の松原, Miho no matsubara - panoramio.jpg"
          },
          "wikipedia_location_image_wref" : "ファイル:Map of Japan with highlight on 22 Shizuoka prefecture.svg",
          "wref" : "静岡県"
@@ -79324,8 +79317,8 @@
          "type" : "pref",
          "url" : "https://www.pref.niigata.lg.jp/",
          "wikipedia_image" : {
-            "desc" : "妙高山",
-            "wref" : "File: Myokousan from hiutiyama 1996 6 29.jpg"
+            "desc" : "\u003Ctable style=\u0022width:280px;margin:2px auto; border-collapse: collapse\u0022>\u000A\u003Ctr>\u003Ctd colspan=\u00226\u0022>妙高山\u003C/tr>\u000A\u003Ctr>\u003Ctd colspan=\u00223\u0022>弥彦神社\u003Ctd colspan=\u00223\u0022>長岡まつり大花火大会\u003C/tr>\u000A\u003Ctr>\u003Ctd colspan=\u00222\u0022>佐渡島のトキ\u003Ctd colspan=\u00222\u0022>越後平野の田園\u003Ctd colspan=\u00222\u0022>スキー場\u003C/tr>\u000A\u003C/table>",
+            "wref" : "File:Myokousan_from_hiutiyama_1996_6_29.jpg"
          },
          "wikipedia_location_image_wref" : "File:Map of Japan with highlight on 15 Niigata prefecture.svg",
          "wref" : "新潟県"
@@ -79863,7 +79856,6 @@
          "latin" : "Kumamoto-ken",
          "name" : "熊本県",
          "neighbor_region_names" : {
-            "11" : 1,
             "29" : 1,
             "39" : 1,
             "41" : 1,
@@ -80441,7 +80433,7 @@
          "qualified_name" : "宮城県",
          "type" : "pref",
          "wikipedia_image" : {
-            "desc" : "大高森から望む松島",
+            "desc" : "\u003Ctable style=\u0022width:280px;margin:2px auto;border-collapse:collapse\u0022>\u000A\u003Ctr>\u003Ctr>\u003Ctd style=\u0022width:100%\u0022 colspan=\u00222\u0022>大高森から望む松島\u003C/tr>\u003Ctr>\u003Ctd style=\u0022width:50%\u0022>気仙沼漁港\u003Ctd style=\u0022width:50%\u0022>仙台城跡の伊達政宗騎馬像\u003C/tr>\u003Ctr>\u003Ctd style=\u0022width:50%\u0022>牡鹿半島から望む金華山\u003Ctd style=\u0022width:50%\u0022>仙台市街\u003C/tr>\u003C/table>",
             "wref" : "File:MatsushimaYondaikanOotakamori2.JPG"
          },
          "wikipedia_location_image_wref" : "ファイル:Map of Japan with highlight on 04 Miyagi prefecture.svg",
@@ -87089,7 +87081,7 @@
          "qualified_name" : "兵庫県明石市",
          "type" : "city",
          "wikipedia_image" : {
-            "desc" : "\u003Ctable style=\u0022width:280px;margin:2px auto; border-collapse: collapse\u0022>\u000A\u003Ctr>\u003Ctd colspan=\u00222\u0022>明石城\u003C/tr>\u000A\u003Ctr>\u003Ctd>明石市立天文科学館\u003Ctd>山陽明石駅と明石市街\u003C/tr>\u000A\u003Ctr>\u003Ctd style=\u0022vertical-align:middle;\u0022>魚の棚\u003Ctd>兵庫県自動車\u000A運転免許試験場\u003C/tr>\u000A\u003Ctr>\u003Ctd>明石駅\u003Ctd>林崎漁港\u003C/tr>\u000A\u003C/table>",
+            "desc" : "\u003Ctable style=\u0022width:280px;margin:2px auto; border-collapse: collapse\u0022>\u000A\u003Ctr>\u003Ctd colspan=\u00222\u0022>明石城\u003C/tr>\u000A\u003Ctr>\u003Ctd>明石市立天文科学館\u003Ctd>山陽明石駅と明石市街\u003C/tr>\u000A\u003Ctr>\u003Ctd style=\u0022vertical-align:middle;\u0022>魚の棚商店街\u003Ctd>兵庫県自動車\u000A運転免許試験場\u003C/tr>\u000A\u003Ctr>\u003Ctd>明石駅\u003Ctd>林崎漁港\u003C/tr>\u000A\u003C/table>",
             "wref" : "File:Akashi montage.JPG"
          },
          "wikipedia_location_image_wref" : "ファイル:Akashi in Hyogo Prefecture Ja.svg",
@@ -96597,6 +96589,10 @@
          "pref_id" : 14,
          "qualified_name" : "岩手県紫波郡矢巾町",
          "type" : "town",
+         "wikipedia_image" : {
+            "desc" : "矢幅駅 10yesyescenter280200line#cc00002",
+            "wref" : "File:Yahaba Station east exit.jpg"
+         },
          "wref" : "矢巾町"
       },
       "761" : {
@@ -100817,7 +100813,7 @@
          "qualified_name" : "栃木県足利市",
          "type" : "city",
          "wikipedia_image" : {
-            "desc" : "\u003Ctable style=\u0022width:280px;margin:2px auto; border-collapse: collapse\u0022>\u000A\u003Ctr>\u003Ctd style=\u0022vertical-align:middle;\u0022>足利学校\u003Ctd>あしかがフラワーパーク\u003C/tr>\u000A\u003Ctr>\u003Ctd colspan=\u00222\u0022>渡良瀬川と足利市街地\u003C/tr>\u000A\u003Ctr>\u003Ctd>鑁阿寺\u003Ctd>足利市立美術館\u003C/tr>\u000A\u003Ctr>\u003Ctd>草雲美術館\u003Ctd>栗田美術館\u003C/tr>\u000A\u003C/table>\u000A10yesyescenter280200line#cc00002",
+            "desc" : "\u003Ctable style=\u0022width:280px;margin:2px auto; border-collapse: collapse\u0022>\u000A\u003Ctr>\u003Ctd style=\u0022vertical-align:middle;\u0022>足利学校\u003Ctd>あしかがフラワーパーク\u003C/tr>\u000A\u003Ctr>\u003Ctd colspan=\u00222\u0022>渡良瀬川と足利市街地\u003C/tr>\u000A\u003Ctr>\u003Ctd>鑁阿寺\u003Ctd>足利市立美術館\u003C/tr>\u000A\u003Ctr>\u003Ctd>草雲美術館\u003Ctd>栗田美術館\u003C/tr>\u000A\u003C/table>\u000Ayesnocenter27020010line#cc00002pointtown-hall市庁舎位置",
             "wref" : "File:Ashikaga montage.JPG"
          },
          "wref" : "足利市"
@@ -101890,7 +101886,7 @@
             ],
             "tree" : [
                {
-                  "name" : "ヤブツバキ"
+                  "name" : "ツバキ"
                }
             ]
          },
@@ -103331,7 +103327,7 @@
             ],
             "song" : [
                {
-                  "name" : "兵庫県民歌(1947年制定)\u0022注釈\u0022 ただし"
+                  "name" : "兵庫県民歌(1947年制定)\u0022注釈\u0022ただし"
                },
                {
                   "date" : "2014",
