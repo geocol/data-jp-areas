@@ -833,10 +833,6 @@
          "pref_id" : 21,
          "qualified_name" : "愛知県小牧市",
          "type" : "city",
-         "wikipedia_image" : {
-            "desc" : "上段:市街地から望む小牧山城 下段:弥勒山から見下ろす桃花台ニュータウンと小牧山",
-            "wref" : "ファイル:Komakiyama.JPG"
-         },
          "wref" : "小牧市"
       },
       "101" : {
@@ -1454,7 +1450,7 @@
                {
                   "date" : "2005-10-01",
                   "name" : "田原市章",
-                  "wref" : "ファイル:Emblem of Tahara, Aichi.svg"
+                  "wref" : "田原市章"
                }
             ],
             "tree" : [
@@ -2076,7 +2072,7 @@
                {
                   "date" : "2005-04-01",
                   "name" : "愛西市章",
-                  "wref" : "ファイル:Emblem of Aisai, Aichi.svg"
+                  "wref" : "愛西市章"
                }
             ],
             "tree" : [
@@ -2112,7 +2108,7 @@
          "type" : "city",
          "wikipedia_image" : {
             "desc" : "森川花はす田",
-            "wref" : "ファイル:Morikawa lotus field.jpg"
+            "wref" : "File:Morikawa lotus field.jpg"
          },
          "wref" : "愛西市"
       },
@@ -2860,7 +2856,7 @@
          "qualified_name" : "埼玉県入間郡毛呂山町",
          "type" : "town",
          "wikipedia_image" : {
-            "desc" : "埼玉医科大学 10yesyescenter280200line#cc00002",
+            "desc" : "埼玉医科大学",
             "wref" : "File:Saitama Medical University1.JPG"
          },
          "wref" : "毛呂山町"
@@ -6363,7 +6359,7 @@
          "type" : "city",
          "wikipedia_image" : {
             "desc" : "石見畳ヶ浦",
-            "wref" : "ファイル:Tatamigaura_01.jpg"
+            "wref" : "File:Tatamigaura_01.jpg"
          },
          "wref" : "浜田市"
       },
@@ -6880,7 +6876,7 @@
             "mark" : [
                {
                   "name" : "伊達市章",
-                  "wref" : "ファイル:Symbol of Date Fukushima chapter.svg"
+                  "wref" : "伊達市章"
                }
             ],
             "tree" : [
@@ -6915,7 +6911,6 @@
          "pref_id" : 24,
          "qualified_name" : "福島県伊達市",
          "type" : "city",
-         "url" : "http://www.city.fukushima-date.lg.jp/",
          "wikipedia_image" : {
             "desc" : "秋の名峰霊山(阿武隈高地)",
             "wref" : "File:霊山の紅葉.JPG"
@@ -7856,7 +7851,7 @@
             ],
             "mark" : [
                {
-                  "name" : "町章",
+                  "name" : "神川町章",
                   "wref" : "ファイル:Kamikawa_Saitama_chapter.JPG"
                }
             ],
@@ -8735,7 +8730,7 @@
                {
                   "date" : "2006-01-01",
                   "name" : "南相馬市章",
-                  "wref" : "File:Emblem of Minamisōma, Fukushima.svg"
+                  "wref" : "南相馬市旗"
                }
             ],
             "misc" : [
@@ -8771,7 +8766,6 @@
          "pref_id" : 24,
          "qualified_name" : "福島県南相馬市",
          "type" : "city",
-         "url" : "https://www.city.minamisoma.lg.jp/",
          "wikipedia_image" : {
             "desc" : "相馬野馬追",
             "wref" : "File:The Soma Nomaoi 2005-6.jpg"
@@ -8794,7 +8788,7 @@
                {
                   "date" : "2005-12-01",
                   "name" : "二本松市章",
-                  "wref" : "File:Nihonmatsu Fukushima chapter.svg"
+                  "wref" : "二本松市章"
                }
             ],
             "tree" : [
@@ -8831,10 +8825,9 @@
          "pref_id" : 24,
          "qualified_name" : "福島県二本松市",
          "type" : "city",
-         "url" : "http://www.city.nihonmatsu.lg.jp/",
          "wikipedia_image" : {
             "desc" : "二本松城",
-            "wref" : "ファイル:Nihonmatsu Castle Minowa Gate 20100625-01.jpg"
+            "wref" : "File:Nihonmatsu Castle Minowa Gate 20100625-01.jpg"
          },
          "wref" : "二本松市"
       },
@@ -10823,7 +10816,7 @@
             "mark" : [
                {
                   "name" : "永平寺町章",
-                  "wref" : "ファイル:Symbol_of_Eiheiji_Fukui.svg"
+                  "wref" : "永平寺町章"
                }
             ],
             "tree" : [
@@ -10986,7 +10979,7 @@
             "mark" : [
                {
                   "name" : "南越前町章",
-                  "wref" : "ファイル:Minamiechizen_Fukui_chapter.JPG"
+                  "wref" : "南越前町章"
                }
             ]
          },
@@ -11016,7 +11009,7 @@
          "type" : "town",
          "wikipedia_image" : {
             "desc" : "板取宿 9yesnocenter27020035.85136.2line#cc00002pointtown-hall町庁舎位置",
-            "wref" : "ファイル:Japan secluded inn town Hyakusen Itadori.jpg"
+            "wref" : "File:Japan secluded inn town Hyakusen Itadori.jpg"
          },
          "wref" : "南越前町"
       },
@@ -11122,7 +11115,7 @@
             "mark" : [
                {
                   "name" : "越前町章",
-                  "wref" : "ファイル:Emblem_of_Echizen_Town,_Fukui.svg"
+                  "wref" : "越前町章"
                }
             ],
             "tree" : [
@@ -11251,7 +11244,7 @@
             "mark" : [
                {
                   "name" : "おおい町章",
-                  "wref" : "ファイル:Oi_Fukui_chapter.JPG"
+                  "wref" : "おおい町章"
                }
             ],
             "tree" : [
@@ -11286,7 +11279,7 @@
          "type" : "town",
          "wikipedia_image" : {
             "desc" : "若州一滴文庫 10yesnocenter270180line#cc00002pointtown-hall町庁舎位置",
-            "wref" : "ファイル:150725 Jakushu Itteki-bunko Ooi Fukui pref Japan01s3.jpg"
+            "wref" : "File:150725 Jakushu Itteki-bunko Ooi Fukui pref Japan01s3.jpg"
          },
          "wref" : "おおい町"
       },
@@ -11528,7 +11521,7 @@
                {
                   "date" : "2006-06-13",
                   "name" : "有田川町章",
-                  "wref" : "ファイル:Emblem of Aridagawa, Wakayama.svg"
+                  "wref" : "有田川町章"
                }
             ],
             "tree" : [
@@ -12109,7 +12102,7 @@
                {
                   "date" : "2006-01-01",
                   "name" : "紀美野町章",
-                  "wref" : "ファイル:Emblem of Kimino, Wakayama.svg"
+                  "wref" : "紀美野町章"
                }
             ],
             "song" : [
@@ -12146,7 +12139,6 @@
          "pref_id" : 26,
          "qualified_name" : "和歌山県海草郡紀美野町",
          "type" : "town",
-         "url" : "https://www.town.kimino.wakayama.jp/",
          "wikipedia_image" : {
             "desc" : "みさと天文台",
             "wref" : "File:みさと天文台.jpg"
@@ -12292,7 +12284,7 @@
                {
                   "date" : "2006-03-01",
                   "name" : "白浜町章",
-                  "wref" : "ファイル:Symbol of Shirahama Wakayama.svg"
+                  "wref" : "白浜町章"
                }
             ],
             "tree" : [
@@ -12986,7 +12978,7 @@
                {
                   "date" : "2006-10-12",
                   "name" : "本庄市章",
-                  "wref" : "ファイル:Honjo Saitama chapter.JPG"
+                  "wref" : "本庄市章"
                }
             ]
          },
@@ -14008,7 +14000,7 @@
                {
                   "date" : "2007-03-12",
                   "name" : "木津川市章",
-                  "wref" : "ファイル:Emblem of Kizugawa, Kyoto.svg"
+                  "wref" : "木津川市章"
                }
             ],
             "tree" : [
@@ -14044,7 +14036,7 @@
          "type" : "city",
          "wikipedia_image" : {
             "desc" : "\u003Ctable style=\u0022width:280px;margin:2px auto; border-collapse: collapse\u0022>\u000A\u003Ctr>\u003Ctd rowspan=\u00222\u0022 style=\u0022vertical-align:middle;\u0022>海住山寺\u003Ctd>きっづ光科学館ふぉとん\u003C/tr>\u000A\u003Ctr>\u003Ctd>福寿園CHA研究センター\u003C/tr>\u000A\u003Ctr>\u003Ctd colspan=\u00222\u0022>イオンモール高の原\u003C/tr>\u000A\u003Ctr>\u003Ctd rowspan=\u00222\u0022 style=\u0022vertical-align:middle;\u0022>浄瑠璃寺\u003Ctd>恭仁京跡\u003C/tr>\u000A\u003Ctr>\u003Ctd>木津川\u003C/tr>\u000A\u003C/table>",
-            "wref" : "ファイル:Kizugawa Montage.JPG"
+            "wref" : "File:Kizugawa Montage.JPG"
          },
          "wref" : "木津川市"
       },
@@ -14126,6 +14118,8 @@
          "name" : "向日市",
          "neighbor_region_names" : {
             "1255" : 1,
+            "1256" : 1,
+            "1257" : 1,
             "1271" : 1
          },
          "office" : {
@@ -14205,7 +14199,7 @@
          "type" : "town",
          "wikipedia_image" : {
             "desc" : "旧加悦SL広場の国鉄C58形蒸気機関車",
-            "wref" : "ファイル:JNR-C58390.JPG"
+            "wref" : "File:JNR-C58390.JPG"
          },
          "wref" : "与謝野町"
       },
@@ -15209,7 +15203,7 @@
             "mark" : [
                {
                   "name" : "南丹市章",
-                  "wref" : "ファイル:Nantan_Kyoto_chapter.JPG"
+                  "wref" : "南丹市章"
                }
             ],
             "tree" : [
@@ -15246,7 +15240,7 @@
          "type" : "city",
          "wikipedia_image" : {
             "desc" : "るり渓",
-            "wref" : "ファイル:Meibaku, Rurikei02.JPG"
+            "wref" : "File:Meibaku, Rurikei02.JPG"
          },
          "wref" : "南丹市"
       },
@@ -15307,7 +15301,7 @@
             "mark" : [
                {
                   "name" : "泉南市章",
-                  "wref" : "ファイル:Emblem of Sennan, Osaka.svg"
+                  "wref" : "泉南市章"
                }
             ],
             "misc" : [
@@ -17129,7 +17123,7 @@
                {
                   "date" : "1973-01-12",
                   "name" : "阪南市章",
-                  "wref" : "ファイル:Emblem of Hannan, Osaka.svg"
+                  "wref" : "阪南市章"
                }
             ],
             "tree" : [
@@ -19291,7 +19285,7 @@
             "mark" : [
                {
                   "name" : "飯塚市章",
-                  "wref" : "ファイル:Iitzuka_fukuoka_chapter.JPG"
+                  "wref" : "飯塚市章"
                }
             ],
             "tree" : [
@@ -19431,7 +19425,7 @@
             "mark" : [
                {
                   "name" : "福智町章",
-                  "wref" : "ファイル:Fukuchi_Fukuoka_chapter.JPG"
+                  "wref" : "福智町旗"
                }
             ],
             "tree" : [
@@ -20010,7 +20004,7 @@
             "mark" : [
                {
                   "name" : "北九州市章",
-                  "wref" : "ファイル:Symbol of Kitakyushu, Fukuoka.svg"
+                  "wref" : "北九州市章"
                }
             ]
          },
@@ -20941,7 +20935,7 @@
             "mark" : [
                {
                   "name" : "みやま市章",
-                  "wref" : "ファイル:Miyama_Fukuoka_chapter.JPG"
+                  "wref" : "みやま市章"
                }
             ],
             "tree" : [
@@ -21257,7 +21251,7 @@
                {
                   "date" : "2006-03-27",
                   "name" : "嘉麻市章",
-                  "wref" : "File: Kama_Fukuoka_chapter.JPG"
+                  "wref" : "嘉麻市章"
                }
             ],
             "tree" : [
@@ -21473,7 +21467,7 @@
             "mark" : [
                {
                   "name" : "宮若市章",
-                  "wref" : "ファイル:Miyawaka_Fukuoka_chapter.JPG"
+                  "wref" : "宮若市章"
                }
             ],
             "tree" : [
@@ -22582,7 +22576,7 @@
                {
                   "date" : "2010-01-01",
                   "name" : "糸島市章",
-                  "wref" : "ファイル:Itoshima Fukuoka chapter.JPG"
+                  "wref" : "糸島市章"
                }
             ],
             "misc" : [
@@ -22620,7 +22614,7 @@
          "type" : "city",
          "wikipedia_image" : {
             "desc" : "二見ヶ浦の夫婦岩",
-            "wref" : "ファイル:Meotoiwa Rocks and white torii of Futamigaura Beach 13.JPG"
+            "wref" : "File:Meotoiwa Rocks and white torii of Futamigaura Beach 13.JPG"
          },
          "wref" : "糸島市"
       },
@@ -22706,7 +22700,7 @@
             "mark" : [
                {
                   "name" : "築上町章",
-                  "wref" : "ファイル:Chikujo_Fukuoka_chapter.JPG"
+                  "wref" : "築上町章"
                }
             ],
             "misc" : [
@@ -24096,7 +24090,7 @@
                {
                   "date" : "1948-03-01",
                   "name" : "滝川市章",
-                  "wref" : "ファイル:Emblem of Takikawa, Hokkaido.svg"
+                  "wref" : "滝川市章"
                }
             ],
             "misc" : [
@@ -27930,7 +27924,7 @@
                {
                   "date" : "1996-11-01",
                   "name" : "あきる野市章",
-                  "wref" : "ファイル:Emblem of Akiruno, Tokyo.svg"
+                  "wref" : "あきる野市章"
                }
             ],
             "tree" : [
@@ -28071,7 +28065,7 @@
             "mark" : [
                {
                   "name" : "西東京市章",
-                  "wref" : "ファイル:Emblem_of_Nishitokyo,_Tokyo.svg"
+                  "wref" : "西東京市章"
                }
             ],
             "misc" : [
@@ -28429,12 +28423,12 @@
          "area_symbols" : {
             "bird" : [
                {
-                  "name" : "烏鳩 (黒鳩)"
+                  "name" : "烏鳩(黒鳩)"
                }
             ],
             "flower" : [
                {
-                  "name" : "佐久百合 (為朝百合)"
+                  "name" : "佐久百合(為朝百合)"
                }
             ],
             "mark" : [
@@ -28801,7 +28795,7 @@
                {
                   "date" : "1967-09-25",
                   "name" : "国立市章",
-                  "wref" : "ファイル:Emblem of Kunitachi, Tokyo.svg"
+                  "wref" : "国立市章"
                }
             ],
             "tree" : [
@@ -30653,7 +30647,7 @@
                {
                   "date" : "2006-11-02",
                   "name" : "安中市章",
-                  "wref" : "ファイル:Emblem of Annaka, Gunma.svg"
+                  "wref" : "安中市章"
                }
             ],
             "tree" : [
@@ -31109,7 +31103,7 @@
             "mark" : [
                {
                   "name" : "高崎市章",
-                  "wref" : "ファイル:群馬県高崎市市章.svg"
+                  "wref" : "高崎市章"
                }
             ],
             "tree" : [
@@ -31659,7 +31653,7 @@
                {
                   "date" : "2003-07-11",
                   "name" : "神流町章",
-                  "wref" : "ファイル:Emblem of Kanna, Gunma.svg"
+                  "wref" : "神流町章"
                }
             ],
             "tree" : [
@@ -31694,7 +31688,7 @@
          "type" : "town",
          "wikipedia_image" : {
             "desc" : "かんな鯉のぼり祭り",
-            "wref" : "ファイル:Kanna Koinobori Festival 2014 1.jpg"
+            "wref" : "File:Kanna Koinobori Festival 2014 1.jpg"
          },
          "wref" : "神流町"
       },
@@ -33096,7 +33090,7 @@
                {
                   "date" : "1955-03-10",
                   "name" : "四街道市章",
-                  "wref" : "ファイル:千葉県四街道市市章.svg"
+                  "wref" : "四街道市章"
                }
             ],
             "tree" : [
@@ -33147,7 +33141,7 @@
                {
                   "date" : "2005-06-17",
                   "name" : "鴨川市章",
-                  "wref" : "File:Kamogawa Chiba chapter.jpg"
+                  "wref" : "鴨川市章"
                }
             ],
             "tree" : [
@@ -33306,7 +33300,7 @@
                {
                   "date" : "1972-05-01",
                   "name" : "茂原市章",
-                  "wref" : "ファイル:Emblem of Mobara, Chiba.svg"
+                  "wref" : "茂原市章"
                }
             ],
             "tree" : [
@@ -33343,7 +33337,7 @@
          "type" : "city",
          "wikipedia_image" : {
             "desc" : "茂原公園の桜(日本さくら名所100選)",
-            "wref" : "ファイル:茂原公園桜風景.JPG"
+            "wref" : "File:茂原公園桜風景.JPG"
          },
          "wref" : "茂原市"
       },
@@ -33357,7 +33351,7 @@
             "mark" : [
                {
                   "name" : "旭市章 旭市章",
-                  "wref" : "ファイル:Emblem of Asahi, Chiba.svg"
+                  "wref" : "旭市章"
                }
             ],
             "tree" : [
@@ -33400,7 +33394,7 @@
                {
                   "date" : "2006-03-20",
                   "name" : "南房総市章",
-                  "wref" : "ファイル:Emblem of Minamiboso, Chiba.svg"
+                  "wref" : "南房総市章"
                }
             ]
          },
@@ -33744,7 +33738,7 @@
             "mark" : [
                {
                   "name" : "横芝光町章 横芝光町章",
-                  "wref" : "File:Yokoshibahikari Chiba chapter.JPG"
+                  "wref" : "ファイル:Yokoshibahikari Chiba chapter.JPG"
                }
             ],
             "tree" : [
@@ -33776,7 +33770,6 @@
          "pref_id" : 34,
          "qualified_name" : "千葉県山武郡横芝光町",
          "type" : "town",
-         "url" : "http://www.town.yokoshibahikari.chiba.jp",
          "wikipedia_image" : {
             "desc" : "芝山古墳群の殿塚(国の史跡) 10yesyescenter280200line#cc00002",
             "wref" : "File:Tonozuka.JPG"
@@ -33794,7 +33787,7 @@
                {
                   "date" : "1971-10-01",
                   "name" : "富津市章",
-                  "wref" : "ファイル:Emblem of Futtsu, Chiba.svg"
+                  "wref" : "富津市章"
                }
             ],
             "tree" : [
@@ -34094,7 +34087,7 @@
                {
                   "date" : "1973-11-28",
                   "name" : "一宮町章",
-                  "wref" : "File:Ichinomiya Chiba chapter.JPG"
+                  "wref" : "一宮町章"
                }
             ],
             "misc" : [
@@ -34133,7 +34126,7 @@
          "type" : "town",
          "wikipedia_image" : {
             "desc" : "玉前神社 10yesyescenter280200line#cc00002",
-            "wref" : "ファイル:Tamasaki-jinja.jpg"
+            "wref" : "File:Tamasaki-jinja.jpg"
          },
          "wref" : "一宮町"
       },
@@ -34948,7 +34941,7 @@
                {
                   "date" : "2006-05-14",
                   "name" : "匝瑳市章",
-                  "wref" : "ファイル:Emblem of Sosa, Chiba.svg"
+                  "wref" : "匝瑳市章"
                }
             ],
             "tree" : [
@@ -35313,7 +35306,6 @@
          "pref_id" : 34,
          "qualified_name" : "千葉県千葉市",
          "type" : "city",
-         "url" : "https://www.city.chiba.jp/",
          "wikipedia_image" : {
             "desc" : "style=\u0022width:280px; margin:2px auto; border-collapse:collapse\u0022\u000Astyle=\u0022width:100%\u0022 colspan=\u00226\u0022幕張新都心業務研究地区\u000A\u000Astyle=\u0022width:50%\u0022 colspan=\u00223\u0022 style=\u0022vertical-align:middle\u0022幕張メッセ北ホールstyle=\u0022width:50%\u0022 colspan=\u00223\u0022 style=\u0022vertical-align:middle\u0022千葉中央駅周辺\u000A\u000Astyle=\u0022width:33%\u0022 colspan=\u00222\u0022 style=\u0022vertical-align:middle\u0022千葉都市モノレールstyle=\u0022width:34%\u0022 colspan=\u00222\u0022千葉市立\u000A郷土博物館style=\u0022width:33%\u0022 colspan=\u00222\u0022 style=\u0022vertical-align:middle\u0022千葉\u000Aポートタワー\u000A\u000Astyle=\u0022width:50%\u0022 colspan=\u00223\u0022 style=\u0022vertical-align:middle\u0022JFEスチール\u000A東日本製鉄所style=\u0022width:50%\u0022 colspan=\u00223\u0022 style=\u0022vertical-align:middle\u0022千葉マリンスタジアム",
             "wref" : "File:Chiba City montage.jpg"
@@ -35840,7 +35832,7 @@
                {
                   "date" : "1971-11-03",
                   "name" : "袖ケ浦市章",
-                  "wref" : "ファイル:Sodegaura Chiba chapter.JPG"
+                  "wref" : "袖ケ浦市章"
                }
             ],
             "tree" : [
@@ -35871,7 +35863,7 @@
          "type" : "city",
          "wikipedia_image" : {
             "desc" : "袖ケ浦公園 10yesyescenter280200line#cc00002",
-            "wref" : "ファイル:Sodegaura park-Chiba 袖ヶ浦公園-DSCF7066.JPG"
+            "wref" : "File:Sodegaura park-Chiba 袖ヶ浦公園-DSCF7066.JPG"
          },
          "wref" : "袖ケ浦市"
       },
@@ -35928,7 +35920,7 @@
             "mark" : [
                {
                   "name" : "市原市章 市原市章",
-                  "wref" : "ファイル:Emblem of Ichihara, Chiba.svg"
+                  "wref" : "市原市章"
                }
             ],
             "tree" : [
@@ -36033,7 +36025,7 @@
                {
                   "date" : "2006-10-01",
                   "name" : "山武市章",
-                  "wref" : "ファイル:Emblem of Sanmu, Chiba.svg"
+                  "wref" : "山武市章"
                }
             ],
             "tree" : [
@@ -36345,7 +36337,7 @@
                {
                   "date" : "2003-09-19",
                   "name" : "南アルプス市章",
-                  "wref" : "ファイル:Minamialaps Yamanashi chapter.JPG"
+                  "wref" : "南アルプス市章"
                }
             ]
          },
@@ -36379,7 +36371,7 @@
          "type" : "city",
          "wikipedia_image" : {
             "desc" : "北岳",
-            "wref" : "ファイル:Mountain hut Kita and Mount Kita 2001-10-03.jpg"
+            "wref" : "File:Mountain hut Kita and Mount Kita 2001-10-03.jpg"
          },
          "wref" : "南アルプス市"
       },
@@ -36491,7 +36483,7 @@
          "qualified_name" : "山梨県南都留郡鳴沢村",
          "type" : "village",
          "wikipedia_image" : {
-            "desc" : "道の駅なるさわより富士山を望む 10yesyescenter280180line#cc0000235.435138.706",
+            "desc" : "道の駅なるさわより富士山を望む",
             "wref" : "ファイル:道の駅なるさわより富士山を望む - panoramio (1).jpg"
          },
          "wref" : "鳴沢村"
@@ -36962,7 +36954,7 @@
             "mark" : [
                {
                   "name" : "富士川町章",
-                  "wref" : "ファイル:Fujikawa_Yamanashi_chapter.JPG"
+                  "wref" : "富士川町章"
                }
             ],
             "misc" : [
@@ -37001,7 +36993,7 @@
          "type" : "town",
          "wikipedia_image" : {
             "desc" : "大法師公園の桜(日本さくら名所100選)",
-            "wref" : "ファイル:Oboshi-park cherry blossoms.JPG"
+            "wref" : "File:Oboshi-park cherry blossoms.JPG"
          },
          "wref" : "富士川町"
       },
@@ -37045,10 +37037,9 @@
          "pref_id" : 35,
          "qualified_name" : "山梨県南巨摩郡南部町",
          "type" : "town",
-         "url" : "https://www.town.nanbu.yamanashi.jp/",
          "wikipedia_image" : {
             "desc" : "南部茶の茶畑",
-            "wref" : "ファイル:茶畑（本村） - panoramio (1).jpg"
+            "wref" : "File:茶畑（本村） - panoramio (1).jpg"
          },
          "wref" : "南部町 (山梨県)"
       },
@@ -37068,7 +37059,7 @@
                {
                   "date" : "2006-11-30",
                   "name" : "中央市章",
-                  "wref" : "ファイル:Symbol of Chuo Yamanashi.svg"
+                  "wref" : "中央市章"
                }
             ],
             "tree" : [
@@ -37101,7 +37092,7 @@
          "type" : "city",
          "wikipedia_image" : {
             "desc" : "豊富シルクの里公園にある浅利与一像 10",
-            "wref" : "ファイル:Yoichi.jpg"
+            "wref" : "File:Yoichi.jpg"
          },
          "wref" : "中央市"
       },
@@ -38050,7 +38041,7 @@
             "mark" : [
                {
                   "name" : "秋田市章",
-                  "wref" : "ファイル:Symbol of Akita, Akita.svg"
+                  "wref" : "秋田市章"
                }
             ]
          },
@@ -38197,6 +38188,7 @@
             ],
             "mark" : [
                {
+                  "date" : "2005-10-03",
                   "name" : "北秋田市章",
                   "wref" : "北秋田市章"
                }
@@ -38945,7 +38937,7 @@
          "type" : "city",
          "wikipedia_image" : {
             "desc" : "夕景の象潟",
-            "wref" : "ファイル:Sunset scean of Kisakata.jpg"
+            "wref" : "File:Sunset scean of Kisakata.jpg"
          },
          "wref" : "にかほ市"
       },
@@ -39317,6 +39309,7 @@
          "area_symbols" : {
             "mark" : [
                {
+                  "date" : "2006-03-21",
                   "name" : "能代市章",
                   "wref" : "能代市章"
                }
@@ -40078,7 +40071,7 @@
                {
                   "date" : "2006-03-31",
                   "name" : "黒部市章",
-                  "wref" : "ファイル:Emblem of Kurobe, Toyama.svg"
+                  "wref" : "黒部市章"
                }
             ],
             "tree" : [
@@ -41674,6 +41667,13 @@
                   "name" : "ツツジ"
                }
             ],
+            "mark" : [
+               {
+                  "date" : "1863-07-25",
+                  "name" : "新十津川町章",
+                  "wref" : "ファイル:Symbol_of_Shintotsukawa,_Hokkaido.svg"
+               }
+            ],
             "tree" : [
                {
                   "name" : "オンコ"
@@ -42169,7 +42169,7 @@
          "type" : "town",
          "wikipedia_image" : {
             "desc" : "和気神社に建つ和気清麻呂像",
-            "wref" : "ファイル:Wake no Kiyomaro statue.JPG"
+            "wref" : "File:Wake no Kiyomaro statue.JPG"
          },
          "wref" : "和気町"
       },
@@ -42623,7 +42623,7 @@
                {
                   "date" : "2009-11-02",
                   "name" : "日南市章",
-                  "wref" : "ファイル:Emblem of Nichinan, Miyazaki.svg"
+                  "wref" : "日南市章"
                }
             ],
             "tree" : [
@@ -42656,7 +42656,7 @@
          "type" : "city",
          "wikipedia_image" : {
             "desc" : "日南海岸沿いを走る国道220号9yesnocenter270200line#cc00002pointtown-hall市庁舎位置",
-            "wref" : "ファイル:Route220 Nichinan Coast 01.JPG"
+            "wref" : "File:Route220 Nichinan Coast 01.JPG"
          },
          "wref" : "日南市"
       },
@@ -46484,7 +46484,7 @@
          "type" : "city",
          "wikipedia_image" : {
             "desc" : "曽木の滝 10",
-            "wref" : "ファイル:RIMG0228.JPG"
+            "wref" : "File:RIMG0228.JPG"
          },
          "wref" : "伊佐市"
       },
@@ -46498,7 +46498,7 @@
             "mark" : [
                {
                   "name" : "出水市章",
-                  "wref" : "ファイル:Emblem of Izumi, Kagoshima.svg"
+                  "wref" : "出水市章"
                }
             ],
             "tree" : [
@@ -46687,7 +46687,7 @@
          "type" : "city",
          "wikipedia_image" : {
             "desc" : "串木野港 10",
-            "wref" : "ファイル:Kushikino_Port.jpg"
+            "wref" : "File:Kushikino_Port.jpg"
          },
          "wikipedia_location_image_wref" : "ファイル:Map Ichikikushikino en.png",
          "wref" : "いちき串木野市"
@@ -47076,7 +47076,7 @@
                {
                   "date" : "2006-03-20",
                   "name" : "奄美市章",
-                  "wref" : "ファイル:Emblem of Amami, Kagoshima.svg"
+                  "wref" : "奄美市章"
                }
             ],
             "misc" : [
@@ -47118,7 +47118,7 @@
          "type" : "city",
          "wikipedia_image" : {
             "desc" : "住用地区のマングローブ原生林 9yesyescenter270200line#cc00002",
-            "wref" : "ファイル:Mangrove_in_amami.JPG"
+            "wref" : "File:Mangrove_in_amami.JPG"
          },
          "wref" : "奄美市"
       },
@@ -47865,7 +47865,7 @@
                {
                   "date" : "2007-12-01",
                   "name" : "南九州市章",
-                  "wref" : "ファイル:Minamikyushu Kagoshima chapter.JPG"
+                  "wref" : "南九州市章"
                }
             ],
             "tree" : [
@@ -48836,7 +48836,7 @@
                {
                   "date" : "2006-08-01",
                   "name" : "指宿市章",
-                  "wref" : "ファイル:Emblem of Ibusuki, Kagoshima.svg"
+                  "wref" : "指宿市章"
                }
             ],
             "misc" : [
@@ -49749,7 +49749,7 @@
                {
                   "date" : "1954-07-15",
                   "name" : "近江八幡市章",
-                  "wref" : "ファイル:Emblem of Ōmihachiman, Shiga.svg"
+                  "wref" : "近江八幡市章"
                }
             ],
             "tree" : [
@@ -49929,7 +49929,7 @@
             "mark" : [
                {
                   "name" : "愛荘町章",
-                  "wref" : "ファイル:Emblem_of_Aishō,_Shiga.svg"
+                  "wref" : "愛荘町章"
                }
             ],
             "misc" : [
@@ -51346,7 +51346,7 @@
             "mark" : [
                {
                   "name" : "村上市章",
-                  "wref" : "ファイル:Symbol of Murakami Niigata.svg"
+                  "wref" : "村上市章"
                }
             ],
             "misc" : [
@@ -52518,10 +52518,6 @@
          "pref_id" : 43,
          "qualified_name" : "新潟県中魚沼郡津南町",
          "type" : "town",
-         "wikipedia_image" : {
-            "desc" : "竜ヶ窪 10",
-            "wref" : "ファイル:名水竜ヶ窪.jpg"
-         },
          "wref" : "津南町"
       },
       "2029" : {
@@ -52881,7 +52877,7 @@
          "type" : "town",
          "wikipedia_image" : {
             "desc" : "岡留熊野座神社",
-            "wref" : "ファイル:Okadome-kumanoza-shrine 1.jpg"
+            "wref" : "File:Okadome-kumanoza-shrine 1.jpg"
          },
          "wref" : "あさぎり町"
       },
@@ -54327,7 +54323,7 @@
                {
                   "date" : "2006-03-27",
                   "name" : "天草市章",
-                  "wref" : "ファイル:Emblem of Amakusa, Kumamoto.svg"
+                  "wref" : "天草市章"
                }
             ],
             "tree" : [
@@ -54358,7 +54354,6 @@
          "pref_id" : 44,
          "qualified_name" : "熊本県天草市",
          "type" : "city",
-         "url" : "https://www.city.amakusa.kumamoto.jp",
          "wikipedia_image" : {
             "desc" : "崎津天主堂",
             "wref" : "File:Sakitsu Church 20120916-01.jpg"
@@ -54377,7 +54372,7 @@
                {
                   "date" : "2006-02-27",
                   "name" : "合志市章",
-                  "wref" : "ファイル:Symbol of Koshi Kumamoto.svg"
+                  "wref" : "合志市章"
                }
             ],
             "tree" : [
@@ -54411,7 +54406,7 @@
          "type" : "city",
          "wikipedia_image" : {
             "desc" : "竹迫城跡",
-            "wref" : "ファイル:Takaba-jyou1.jpg"
+            "wref" : "File:Takaba-jyou1.jpg"
          },
          "wref" : "合志市"
       },
@@ -55304,7 +55299,7 @@
             "mark" : [
                {
                   "name" : "和水町章",
-                  "wref" : "ファイル:Symbol_of_Nagomi_Kumamoto.svg"
+                  "wref" : "和水町章"
                }
             ]
          },
@@ -55335,7 +55330,7 @@
          "type" : "town",
          "wikipedia_image" : {
             "desc" : "江田船山古墳",
-            "wref" : "ファイル:Etafunayama2008010201.jpg"
+            "wref" : "File:Etafunayama2008010201.jpg"
          },
          "wref" : "和水町"
       },
@@ -55474,7 +55469,7 @@
                {
                   "date" : "2006-03-27",
                   "name" : "むかわ町章",
-                  "wref" : "ファイル:Symbol of Mukawa, Hokkaido.svg"
+                  "wref" : "むかわ町章"
                }
             ],
             "tree" : [
@@ -55818,7 +55813,7 @@
          "type" : "city",
          "wikipedia_image" : {
             "desc" : "\u003Ctable style=\u0022width:280px;margin:2px auto; border-collapse: collapse\u0022>\u000A\u003Ctr>\u003Ctd>古川まつり\u003Ctd>鹿島台メインストリート\u003C/tr>\u000A\u003Ctr>\u003Ctd>化女沼レジャーランド\u003Ctd>古川駅\u003C/tr>\u000A\u003Ctr>\u003Ctd>鳴子ダム\u003Ctd>加護坊桜まつり\u003C/tr>\u000A\u003C/table>",
-            "wref" : "ファイル:Osaki city mon.png"
+            "wref" : "File:Osaki city mon.png"
          },
          "wref" : "大崎市"
       },
@@ -56229,7 +56224,7 @@
             "mark" : [
                {
                   "name" : "加美町章",
-                  "wref" : "ファイル:Kami_Miyagi_chapter.JPG"
+                  "wref" : "加美町章"
                }
             ],
             "tree" : [
@@ -56263,7 +56258,7 @@
          "type" : "town",
          "wikipedia_image" : {
             "desc" : "冬の薬莱山 10",
-            "wref" : "ファイル:Yakurai san winter07.JPG"
+            "wref" : "File:Yakurai san winter07.JPG"
          },
          "wref" : "加美町"
       },
@@ -57393,7 +57388,7 @@
             "mark" : [
                {
                   "name" : "石巻市章",
-                  "wref" : "ファイル:Emblem of Ishinomaki, Miyagi.svg"
+                  "wref" : "石巻市章"
                }
             ]
          },
@@ -57627,7 +57622,7 @@
          "type" : "town",
          "wikipedia_image" : {
             "desc" : "国道235号沿いにあるサラブレッドの大壁画 10",
-            "wref" : "File:Niikappu rock wall paint.jpg"
+            "wref" : "File:"
          },
          "wref" : "新冠町"
       },
@@ -58246,7 +58241,7 @@
                {
                   "date" : "2005-02-11",
                   "name" : "つがる市章",
-                  "wref" : "ファイル:Emblem of Tsugaru, Aomori.svg"
+                  "wref" : "つがる市章"
                }
             ],
             "tree" : [
@@ -58482,7 +58477,7 @@
                {
                   "date" : "2005-03-14",
                   "name" : "十和田市章",
-                  "wref" : "ファイル:Symbol of Towada Aomori.svg"
+                  "wref" : "十和田市章"
                }
             ],
             "tree" : [
@@ -58518,7 +58513,6 @@
          "pref_id" : 46,
          "qualified_name" : "青森県十和田市",
          "type" : "city",
-         "url" : "http://www.city.towada.lg.jp/",
          "wikipedia_image" : {
             "desc" : "十和田湖 9yesyescenter280220line#cc00002",
             "wref" : "File:Lake Towada from Ohanabe 2008.jpg"
@@ -59865,7 +59859,7 @@
          "type" : "town",
          "wikipedia_image" : {
             "desc" : "法光寺",
-            "wref" : "ファイル:Hokoji hondo, Aomori.jpg"
+            "wref" : "File:Hokoji hondo, Aomori.jpg"
          },
          "wref" : "南部町 (青森県)"
       },
@@ -60199,7 +60193,7 @@
             "mark" : [
                {
                   "name" : "おいらせ町章",
-                  "wref" : "ファイル:Emblem_of_Oirase,_Aomori.svg"
+                  "wref" : "おいらせ町章"
                }
             ],
             "misc" : [
@@ -60239,7 +60233,7 @@
          "type" : "town",
          "wikipedia_image" : {
             "desc" : "いちょう公園にある自由の女神像 10yesnocenter270180line#cc0000240.6141.34pointtown-hall町庁舎位置",
-            "wref" : "ファイル:The statue of liberty in Icho Park Oirase.jpg"
+            "wref" : "File:The statue of liberty in Icho Park Oirase.jpg"
          },
          "wref" : "おいらせ町"
       },
@@ -60412,7 +60406,7 @@
             "mark" : [
                {
                   "name" : "平川市章",
-                  "wref" : "File:Emblem of Hirakawa, Aomori.svg"
+                  "wref" : "平川市章"
                }
             ],
             "tree" : [
@@ -60447,7 +60441,6 @@
          "pref_id" : 46,
          "qualified_name" : "青森県平川市",
          "type" : "city",
-         "url" : "https://www.city.hirakawa.lg.jp/",
          "wikipedia_image" : {
             "desc" : "盛美園 9yesyescenter280240line#cc00002",
             "wref" : "File:Seibien Hirakawa Aomori pref Japan02s3.jpg"
@@ -65309,7 +65302,7 @@
                {
                   "date" : "1925-02-13",
                   "name" : "根室市章",
-                  "wref" : "ファイル:Emblem of Nemuro, Hokkaido.svg"
+                  "wref" : "根室市章"
                }
             ],
             "misc" : [
@@ -68870,12 +68863,6 @@
       },
       "260" : {
          "area_symbols" : {
-            "flag" : [
-               {
-                  "name" : "湧別町旗",
-                  "wref" : "ファイル:Flag of Yubetsu, Hokkaido.svg"
-               }
-            ],
             "flower" : [
                {
                   "name" : "チューリップ"
@@ -68883,8 +68870,9 @@
             ],
             "mark" : [
                {
+                  "date" : "2009-10-05",
                   "name" : "湧別町章",
-                  "wref" : "ファイル:Symbol of Yubetsu, Hokkaido.svg"
+                  "wref" : "湧別町章"
                }
             ],
             "tree" : [
@@ -70553,7 +70541,7 @@
                {
                   "date" : "2006-03-27",
                   "name" : "洞爺湖町章",
-                  "wref" : "ファイル:Symbol of Toyako, Hokkaido.svg"
+                  "wref" : "洞爺湖町章"
                }
             ],
             "tree" : [
@@ -70591,7 +70579,7 @@
          "type" : "town",
          "wikipedia_image" : {
             "desc" : "洞爺湖 10yesyescenter300260line#cc0000242.575682140.839888",
-            "wref" : "ファイル:130922 Toyako Onsen Toyako Hokkaido Japan01s3.jpg"
+            "wref" : "File:130922 Toyako Onsen Toyako Hokkaido Japan01s3.jpg"
          },
          "wref" : "洞爺湖町"
       },
@@ -71630,7 +71618,7 @@
          "type" : "pref",
          "url" : "https://www.pref.ehime.jp/",
          "wikipedia_image" : {
-            "desc" : "道後温泉",
+            "desc" : "道後温泉本館",
             "wref" : "File:Dōgo Onsen.jpg"
          },
          "wikipedia_location_image_wref" : "ファイル:Map of Japan with highlight on 38 Ehime prefecture.svg",
@@ -72499,7 +72487,7 @@
                {
                   "date" : "2006-02-01",
                   "name" : "北斗市章",
-                  "wref" : "File:Symbol of Hokuto Hokkaido.svg"
+                  "wref" : "北斗市章"
                }
             ],
             "tree" : [
@@ -72534,7 +72522,6 @@
          "qualified_name" : "北海道北斗市",
          "subpref_id" : 2359,
          "type" : "city",
-         "url" : "https://www.city.hokuto.hokkaido.jp/",
          "wikipedia_image" : {
             "desc" : "トラピスト修道院",
             "wref" : "File:Cherry blossoms and the Gate of Entrance of Tobetsu Trappist Monastery.JPG"
@@ -72582,7 +72569,7 @@
          "type" : "town",
          "wikipedia_image" : {
             "desc" : "北見神威岬 10",
-            "wref" : "ファイル:北見神威岬_神威岬公園_よりP6260503.jpg"
+            "wref" : "File:北見神威岬_神威岬公園_よりP6260503.jpg"
          },
          "wref" : "枝幸町"
       },
@@ -73768,7 +73755,7 @@
          "type" : "town",
          "wikipedia_image" : {
             "desc" : "道の駅紀宝町ウミガメ公園のウミガメプール10yesnocenter270200line#cc00002pointtown-hall町役場位置",
-            "wref" : "ファイル:Kiho-cho_Umigame-Koen.JPG"
+            "wref" : "File:Kiho-cho_Umigame-Koen.JPG"
          },
          "wref" : "紀宝町"
       },
@@ -80638,7 +80625,7 @@
                {
                   "date" : "2005-10-01",
                   "name" : "柳井市章",
-                  "wref" : "ファイル:Yanai Yamaguchi chapter.JPG"
+                  "wref" : "ファイル:Emblem of Yanai, Yamaguchi.svg"
                }
             ],
             "tree" : [
@@ -80692,7 +80679,7 @@
                {
                   "date" : "2009-04-04",
                   "name" : "美祢市章",
-                  "wref" : "ファイル:Symbol of Mine Yamaguchi.svg"
+                  "wref" : "美祢市章"
                }
             ],
             "tree" : [
@@ -80745,7 +80732,7 @@
                {
                   "date" : "2005-09-30",
                   "name" : "長門市章",
-                  "wref" : "ファイル:Symbol of Nagato Yamaguchi.svg"
+                  "wref" : "長門市章"
                }
             ],
             "misc" : [
@@ -81900,7 +81887,7 @@
                {
                   "date" : "1970-03-24",
                   "name" : "神栖市章",
-                  "wref" : "ファイル:Emblem of Kamisu, Ibaraki.svg"
+                  "wref" : "神栖市章"
                }
             ],
             "tree" : [
@@ -81954,7 +81941,7 @@
             "mark" : [
                {
                   "name" : "ひたちなか市章",
-                  "wref" : "ファイル:Hitachinaka_Ibaraki_chapter.JPG"
+                  "wref" : "ひたちなか市章"
                }
             ],
             "tree" : [
@@ -82293,7 +82280,7 @@
                {
                   "date" : "2006-03-27",
                   "name" : "つくばみらい市章",
-                  "wref" : "ファイル:Symbol of Tsukubamirai Ibaraki.svg"
+                  "wref" : "つくばみらい市章"
                }
             ],
             "tree" : [
@@ -82411,7 +82398,7 @@
                {
                   "date" : "1989-04-11",
                   "name" : "つくば市章",
-                  "wref" : "ファイル:Symbol of Tsukuba Ibaraki.svg"
+                  "wref" : "つくば市章"
                }
             ],
             "tree" : [
@@ -82447,10 +82434,9 @@
          "pref_id" : 7,
          "qualified_name" : "茨城県つくば市",
          "type" : "city",
-         "url" : "https://www.city.tsukuba.lg.jp/",
          "wikipedia_image" : {
             "desc" : "つくばセンターと筑波山 10yesyescenter280330line#cc0000236.06140.087110",
-            "wref" : "ファイル:Tsukuba Center & Mt.Tsukuba01.jpg"
+            "wref" : "File:Tsukuba Center & Mt.Tsukuba01.jpg"
          },
          "wref" : "つくば市"
       },
@@ -82579,8 +82565,9 @@
             ],
             "mark" : [
                {
+                  "date" : "2006-03-27",
                   "name" : "小美玉市章",
-                  "wref" : "File:Symbol of Omitama Ibaraki.svg"
+                  "wref" : "小美玉市章"
                }
             ],
             "tree" : [
@@ -82612,7 +82599,6 @@
          "pref_id" : 7,
          "qualified_name" : "茨城県小美玉市",
          "type" : "city",
-         "url" : "https://www.city.omitama.lg.jp",
          "wikipedia_image" : {
             "desc" : "茨城空港 10yesyescenter280260line#cc0000236.209629 140.363574",
             "wref" : "File:Ibaraki Airport 01.JPG"
@@ -82653,7 +82639,7 @@
             "mark" : [
                {
                   "name" : "河内町章",
-                  "wref" : "ファイル:Kawachi Ibaraki chapter.JPG"
+                  "wref" : "ファイル:Emblem of Kawachi, Ibaraki.svg"
                }
             ],
             "tree" : [
@@ -83603,7 +83589,7 @@
                {
                   "date" : "2006-03-19",
                   "name" : "笠間市章",
-                  "wref" : "ファイル:Kasama Ibaraki chapter.JPG"
+                  "wref" : "笠間市章"
                }
             ],
             "tree" : [
@@ -85143,7 +85129,7 @@
          "type" : "city",
          "wikipedia_image" : {
             "desc" : "朝市通り 10",
-            "wref" : "ファイル:Wajima Asaichi.jpg"
+            "wref" : "File:Wajima Asaichi.jpg"
          },
          "wref" : "輪島市"
       },
@@ -85658,7 +85644,7 @@
             "mark" : [
                {
                   "name" : "能美市章",
-                  "wref" : "ファイル:Nomi_Ishikawa_chapter.JPG"
+                  "wref" : "能美市章"
                }
             ],
             "misc" : [
@@ -85691,7 +85677,7 @@
          "type" : "city",
          "wikipedia_image" : {
             "desc" : "いしかわ動物園のキリン 10",
-            "wref" : "ファイル:Ishikawazoo_(1).jpg"
+            "wref" : "File:Ishikawazoo_(1).jpg"
          },
          "wref" : "能美市"
       },
@@ -85823,7 +85809,7 @@
                {
                   "date" : "2006-02-11",
                   "name" : "洲本市章",
-                  "wref" : "ファイル:Symbol of Sumoto Hyogo.svg"
+                  "wref" : "洲本市章"
                }
             ],
             "misc" : [
@@ -86285,7 +86271,7 @@
                {
                   "date" : "1901-12-17",
                   "name" : "姫路市章",
-                  "wref" : "ファイル:Symbol of Himeji, Hyogo.svg"
+                  "wref" : "姫路市章"
                }
             ],
             "tree" : [
@@ -86326,7 +86312,7 @@
          "type" : "city",
          "wikipedia_image" : {
             "desc" : "\u003Ctable style=\u0022width:280px;margin:2px auto; border-collapse: collapse\u0022>\u000A\u003Ctr>\u003Ctd colspan=\u00222\u0022>姫路城\u003C/tr>\u000A\u003Ctr>\u003Ctd>灘のけんか祭り\u003Ctd>圓教寺\u003C/tr>\u000A\u003Ctr>\u003Ctd rowspan=\u00222\u0022 style=\u0022vertical-align:middle;width:50%;\u0022>姫路城から望む\u000A姫路市街\u003Ctd>家島諸島\u003C/tr>\u000A\u003Ctr>\u003Ctd>雪彦山\u003C/tr>\u000A\u003C/table>",
-            "wref" : "ファイル:Himeji montage2.jpg"
+            "wref" : "File:Himeji montage2.jpg"
          },
          "wref" : "姫路市"
       },
@@ -89628,6 +89614,10 @@
          "pref_id" : 10,
          "qualified_name" : "高知県幡多郡三原村",
          "type" : "village",
+         "wikipedia_image" : {
+            "desc" : "星ヶ丘公園",
+            "wref" : "File:高知県三原村 星ヶ丘公園.jpg"
+         },
          "wref" : "三原村"
       },
       "624" : {
@@ -90568,7 +90558,7 @@
          "qualified_name" : "高知県高知市",
          "type" : "city",
          "wikipedia_image" : {
-            "desc" : "\u003Ctable style=\u0022width:280px;margin:2px auto; border-collapse: collapse\u0022>\u000A\u003Ctr>\u003Ctd>桂浜\u003Ctd>桂浜の坂本龍馬像\u003C/tr>\u000A\u003Ctr>\u003Ctd>五台山から望む\u000A高知市街\u003Ctd style=\u0022vertical-align:middle;\u0022>よさこい祭り\u003C/tr>\u000A\u003Ctr>\u003Ctd>播磨屋橋\u003Ctd rowspan=\u00222\u0022 style=\u0022vertical-align:middle;\u0022>高知城\u003C/tr>\u000A\u003Ctr>\u003Ctd>とさでん交通\u003C/tr>\u000A\u003C/table>",
+            "desc" : "\u003Ctable style=\u0022width:280px;margin:2px auto;border-collapse:collapse\u0022>\u000A\u003Ctr>\u003Ctd style=\u0022width:50%\u0022>桂浜\u003Ctd style=\u0022width:50%\u0022>桂浜の坂本龍馬像\u003C/tr>\u003Ctr>\u003Ctd style=\u0022width:50%\u0022>五台山から望む\u000A高知市街\u003Ctd style=\u0022width:50%\u0022>よさこい祭り\u003C/tr>\u000A\u003Ctr>\u003Ctd style=\u0022width:50%\u0022>播磨屋橋\u003Ctd style=\u0022width:50%\u0022>高知城\u003C/tr>\u000A\u003Ctr>\u003Ctd style=\u0022width:50%\u0022>とさでん交通\u003C/tr>\u000A\u003C/table>",
             "wref" : "File:Kochi montage.jpg"
          },
          "wref" : "高知市"
@@ -90634,7 +90624,7 @@
                {
                   "date" : "2006-11-10",
                   "name" : "香南市章",
-                  "wref" : "ファイル:Konan_Kochi_chapter.JPG"
+                  "wref" : "香南市章"
                }
             ]
          },
@@ -90662,7 +90652,7 @@
          "type" : "city",
          "wikipedia_image" : {
             "desc" : "絵金蔵 10yesnocenter27018033.564133.77line#cc00002pointtown-hall市庁舎位置",
-            "wref" : "ファイル:Kochi Konan Ekingura 1.JPG"
+            "wref" : "File:Kochi Konan Ekingura 1.JPG"
          },
          "wref" : "香南市"
       },
@@ -90905,7 +90895,7 @@
             "mark" : [
                {
                   "name" : "ときがわ町章",
-                  "wref" : "ファイル:Tokigawa_Saitama_chapter.JPG"
+                  "wref" : "ときがわ町章"
                }
             ],
             "tree" : [
@@ -90943,7 +90933,7 @@
          "type" : "town",
          "wikipedia_image" : {
             "desc" : "慈光寺の開山塔 10",
-            "wref" : "ファイル:Tokigawa Jikoji Kaizando 1.JPG"
+            "wref" : "File:Tokigawa Jikoji Kaizando 1.JPG"
          },
          "wref" : "ときがわ町"
       },
@@ -92718,7 +92708,7 @@
             "mark" : [
                {
                   "name" : "各務原市章",
-                  "wref" : "ファイル:Emblem of Kakamigahara, Gifu.svg"
+                  "wref" : "各務原市章"
                }
             ],
             "misc" : [
@@ -93396,7 +93386,7 @@
          "type" : "city",
          "wikipedia_image" : {
             "desc" : "伊自良湖 10",
-            "wref" : "ファイル:Ijira lake01,Gifu.jpeg"
+            "wref" : "File:Ijira lake01,Gifu.jpeg"
          },
          "wref" : "山県市"
       },
@@ -94566,7 +94556,7 @@
          "type" : "city",
          "wikipedia_image" : {
             "desc" : "郡上おどり 10",
-            "wref" : "ファイル:Gujo Odori1.jpg"
+            "wref" : "ファイル:Gujo Odori.jpg"
          },
          "wref" : "郡上市"
       },
@@ -94930,7 +94920,7 @@
          "type" : "city",
          "wikipedia_image" : {
             "desc" : "津嶋神社 10yesnocenter270200line#cc0000234.179133.715pointtown-hall市庁舎位置",
-            "wref" : "ファイル:Tsushima-jinja,_Mitoyo04.jpg"
+            "wref" : "File:Tsushima-jinja,_Mitoyo04.jpg"
          },
          "wref" : "三豊市"
       },
@@ -95384,7 +95374,7 @@
                {
                   "date" : "1894-04-27",
                   "name" : "高松市章",
-                  "wref" : "ファイル:Emblem of Takamatsu, Kagawa.svg"
+                  "wref" : "高松市章"
                }
             ],
             "tree" : [
@@ -95478,7 +95468,7 @@
          "type" : "city",
          "wikipedia_image" : {
             "desc" : "津田の松原 10yesnocenter270200line#cc00002pointtown-hall市庁舎位置",
-            "wref" : "ファイル:Tsudanomatsubara.jpg"
+            "wref" : "File:Tsudanomatsubara.jpg"
          },
          "wref" : "さぬき市"
       },
@@ -96003,7 +95993,7 @@
                {
                   "date" : "1991-07-11",
                   "name" : "北上市章",
-                  "wref" : "ファイル:Emblem of Kitakami, Iwate.svg"
+                  "wref" : "北上市章"
                }
             ],
             "tree" : [
@@ -96034,7 +96024,6 @@
          "pref_id" : 14,
          "qualified_name" : "岩手県北上市",
          "type" : "city",
-         "url" : "https://www.city.kitakami.iwate.jp/",
          "wikipedia_image" : {
             "desc" : "展勝地の桜並木",
             "wref" : "File:Tenshochi Park.jpg"
@@ -96057,7 +96046,7 @@
                {
                   "date" : "2010-11-21",
                   "name" : "加須市章",
-                  "wref" : "ファイル:Emblem of Kazo, Saitama.svg"
+                  "wref" : "加須市章"
                }
             ],
             "tree" : [
@@ -96093,7 +96082,7 @@
          "type" : "city",
          "wikipedia_image" : {
             "desc" : "ジャンボこいのぼり 10yesyescenter280200line#cc00002",
-            "wref" : "ファイル:Jumbokoinobori.jpg"
+            "wref" : "File:Jumbokoinobori.jpg"
          },
          "wref" : "加須市"
       },
@@ -96436,7 +96425,7 @@
                {
                   "date" : "2006-01-01",
                   "name" : "二戸市章",
-                  "wref" : "ファイル:Emblem of Ninohe, Iwate.svg"
+                  "wref" : "二戸市章"
                }
             ],
             "tree" : [
@@ -97172,7 +97161,7 @@
                {
                   "date" : "2006-03-06",
                   "name" : "久慈市章",
-                  "wref" : "ファイル:Emblem of Kuji, Iwate.svg"
+                  "wref" : "久慈市章"
                }
             ],
             "tree" : [
@@ -97207,7 +97196,7 @@
          "type" : "city",
          "wikipedia_image" : {
             "desc" : "つりがね洞",
-            "wref" : "ファイル:Tsuriganedo.jpg"
+            "wref" : "File:Tsuriganedo.jpg"
          },
          "wref" : "久慈市"
       },
@@ -97603,7 +97592,7 @@
                {
                   "date" : "2006-02-20",
                   "name" : "奥州市章",
-                  "wref" : "ファイル:Oshu Iwate chapter.JPG"
+                  "wref" : "奥州市章"
                }
             ],
             "tree" : [
@@ -97809,7 +97798,7 @@
                {
                   "date" : "2004-03-01",
                   "name" : "安芸高田市章",
-                  "wref" : "ファイル:Symbol of Akitakata Hiroshima.svg"
+                  "wref" : "ファイル:Emblem of Akitakata, Hiroshima.svg"
                }
             ],
             "tree" : [
@@ -98576,7 +98565,7 @@
             "flag" : [
                {
                   "name" : "東広島市旗",
-                  "wref" : "ファイル:Flag of Higashihiroshima, Hiroshima.svg"
+                  "wref" : "東広島市旗"
                }
             ],
             "flower" : [
@@ -98619,7 +98608,7 @@
          "type" : "city",
          "wikipedia_image" : {
             "desc" : "西条酒蔵通り",
-            "wref" : "ファイル:酒蔵通り.JPG"
+            "wref" : "File:酒蔵通り.JPG"
          },
          "wref" : "東広島市"
       },
@@ -98913,7 +98902,7 @@
             "mark" : [
                {
                   "name" : "秩父市章",
-                  "wref" : "ファイル:Emblem_of_Chichibu,_Saitama.svg"
+                  "wref" : "秩父市章"
                }
             ],
             "tree" : [
@@ -98956,7 +98945,7 @@
          "type" : "city",
          "wikipedia_image" : {
             "desc" : "秩父夜祭 10",
-            "wref" : "ファイル:Chichibu Yomatsuri.jpg"
+            "wref" : "File:Chichibu Yomatsuri.jpg"
          },
          "wref" : "秩父市"
       },
@@ -99377,7 +99366,7 @@
             "mark" : [
                {
                   "name" : "狭山市章",
-                  "wref" : "ファイル:埼玉県狭山市市章.svg"
+                  "wref" : "狭山市章"
                }
             ],
             "tree" : [
@@ -99411,7 +99400,7 @@
          "type" : "city",
          "wikipedia_image" : {
             "desc" : "狭山稲荷山公園 10yesyescenter280200line#cc00002",
-            "wref" : "ファイル:Sayama-Inariyama-Park-200807.JPG"
+            "wref" : "File:Sayama-Inariyama-Park-200807.JPG"
          },
          "wref" : "狭山市"
       },
@@ -99531,7 +99520,7 @@
                {
                   "date" : "2005-01-01",
                   "name" : "那須塩原市章",
-                  "wref" : "ファイル:那須塩原市章.svg"
+                  "wref" : "那須塩原市章"
                }
             ],
             "tree" : [
@@ -99568,7 +99557,7 @@
          "type" : "city",
          "wikipedia_image" : {
             "desc" : "塩原温泉湯っ歩の里 10",
-            "wref" : "ファイル:Yuppo no Sato.JPG"
+            "wref" : "File:Yuppo no Sato.JPG"
          },
          "wref" : "那須塩原市"
       },
@@ -99796,15 +99785,15 @@
       },
       "828" : {
          "area_symbols" : {
-            "flag" : [
-               {
-                  "name" : "下野市旗 下野市章",
-                  "wref" : "ファイル:Flag of Shimotuke Tochigi.JPG"
-               }
-            ],
             "flower" : [
                {
                   "name" : "ユウガオ"
+               }
+            ],
+            "mark" : [
+               {
+                  "name" : "下野市章",
+                  "wref" : "下野市章"
                }
             ],
             "misc" : [
@@ -101705,7 +101694,7 @@
          "type" : "city",
          "wikipedia_image" : {
             "desc" : "嬉野温泉 10",
-            "wref" : "ファイル:Ureshino Onsen 01.jpg"
+            "wref" : "File:Ureshino Onsen 01.jpg"
          },
          "wref" : "嬉野市"
       },
@@ -101866,7 +101855,7 @@
             "mark" : [
                {
                   "name" : "久喜市章",
-                  "wref" : "ファイル:Kuki_Saitama_chapter.JPG"
+                  "wref" : "久喜市章"
                }
             ],
             "tree" : [
@@ -101905,7 +101894,7 @@
          "type" : "city",
          "wikipedia_image" : {
             "desc" : "久喜総合文化会館 10",
-            "wref" : "ファイル:Kuki-shi Cultural Center.jpg"
+            "wref" : "File:Kuki-shi Cultural Center.jpg"
          },
          "wref" : "久喜市"
       },
@@ -104217,7 +104206,7 @@
                {
                   "date" : "1969-08-12",
                   "name" : "大江町章",
-                  "wref" : "ファイル:Oe_Yamagata_chapter.JPG"
+                  "wref" : "大江町章"
                }
             ],
             "tree" : [
@@ -104249,7 +104238,6 @@
          "pref_id" : 18,
          "qualified_name" : "山形県西村山郡大江町",
          "type" : "town",
-         "url" : "http://www.town.oe.yamagata.jp/",
          "wikipedia_image" : {
             "desc" : "左沢町場の景観 10yesnocenter270180line#cc00002pointtown-hall町庁舎位置",
             "wref" : "File:重要文化的景観・左沢町場6.jpg"
@@ -106646,7 +106634,7 @@
          "type" : "village",
          "wikipedia_image" : {
             "desc" : "城山",
-            "wref" : "ファイル:Mt.gusukuyama.jpg"
+            "wref" : "ファイル:Mount Gusuku.jpg"
          },
          "wref" : "伊江村"
       },
@@ -107392,7 +107380,7 @@
          "type" : "town",
          "wikipedia_image" : {
             "desc" : "イーフビーチ",
-            "wref" : "ファイル:Eef beach.JPG"
+            "wref" : "File:Eef beach.JPG"
          },
          "wref" : "久米島町"
       },
@@ -107980,12 +107968,6 @@
                   "name" : "ミーバイ(ハタ)"
                }
             ],
-            "flag" : [
-               {
-                  "name" : "南城市旗南城市章",
-                  "wref" : "ファイル:Flag of Nanjo, Okinawa.svg"
-               }
-            ],
             "flower" : [
                {
                   "name" : "ハイビスカス"
@@ -108018,7 +108000,6 @@
          "pref_id" : 20,
          "qualified_name" : "沖縄県南城市",
          "type" : "city",
-         "url" : "http://www.city.nanjo.okinawa.jp/",
          "wikipedia_image" : {
             "desc" : "\u003Ctable style=\u0022width:280px;margin:2px auto;border-collapse:collapse\u0022>\u000A\u003Ctr>\u003Ctd rowspan=\u00222\u0022 style=\u0022vertical-align:middle;\u0022>斎場御嶽\u003Ctd>久高島\u003C/tr>\u000A\u003Ctr>\u003Ctd>玉城城跡\u003C/tr>\u000A\u003Ctr>\u003Ctd>玉泉洞\u003Ctd>ニライ・カナイ橋\u003C/tr>\u000A\u003C/table>\u000A10yesnocenter270200line#cc00002pointtown-hall市庁舎位置",
             "wref" : "File:Nanjo Montage.JPG"
@@ -108333,10 +108314,6 @@
          "pref_id" : 21,
          "qualified_name" : "愛知県刈谷市",
          "type" : "city",
-         "wikipedia_image" : {
-            "desc" : "上段:万燈祭り 下段:刈谷ハイウェイオアシス",
-            "wref" : "File:Kariyamandomatsuri.jpg"
-         },
          "wref" : "刈谷市"
       },
       "992" : {
@@ -108446,7 +108423,7 @@
                {
                   "date" : "2010-09-23",
                   "name" : "あま市章",
-                  "wref" : "ファイル:Emblem of Ama, Aichi.svg"
+                  "wref" : "あま市章"
                }
             ],
             "misc" : [
@@ -108718,7 +108695,7 @@
                {
                   "date" : "1966-03-31",
                   "name" : "弥富市章",
-                  "wref" : "ファイル:Emblem of Yatomi, Aichi.svg"
+                  "wref" : "弥冨市章"
                }
             ],
             "misc" : [
