@@ -1273,6 +1273,7 @@
             ],
             "mark" : [
                {
+                  "date" : "1967-04-01",
                   "name" : "扶桑町章",
                   "wref" : "ファイル:Emblem of Fuso, Aichi.svg"
                }
@@ -1306,10 +1307,6 @@
          "pref_id" : 21,
          "qualified_name" : "愛知県丹羽郡扶桑町",
          "type" : "town",
-         "wikipedia_image" : {
-            "desc" : "扶桑文化会館",
-            "wref" : "File:Fuso_Bunka_Kaikan_ac.jpg"
-         },
          "wref" : "扶桑町"
       },
       "102" : {
@@ -5346,10 +5343,6 @@
          },
          "qualified_name" : "長崎県",
          "type" : "pref",
-         "wikipedia_image" : {
-            "desc" : "グラバー園",
-            "wref" : "File:Nagasaki-Glover-Garden-5415.jpg"
-         },
          "wikipedia_location_image_wref" : "ファイル:Map of Japan with highlight on 42 Nagasaki prefecture.svg",
          "wref" : "長崎県"
       },
@@ -21961,7 +21954,7 @@
          "qualified_name" : "福岡県福岡市",
          "type" : "city",
          "wikipedia_image" : {
-            "desc" : "\u003Ctable style=\u0022width:280px; margin:2px auto; border-collapse:collapse\u0022>\u000A\u003Ctr>\u003Ctd colspan=\u00222\u0022>シーサイドももち\u003C/tr>\u000A\u003Ctr>\u003Ctd style=\u0022width:50%\u0022>天神\u003Ctd>博多祇園山笠\u003C/tr>\u000A\u003Ctr>\u003Ctd>中洲の屋台街\u003Ctd>筥崎宮\u003C/tr>\u000A\u003Ctr>\u003Ctd>JR博多シティ\u003Ctd>福岡城址\u003C/tr>\u000A\u003C/table>",
+            "desc" : "\u003Ctable style=\u0022width:280px; margin:2px auto; border-collapse:collapse\u0022>\u000A\u003Ctr>\u003Ctd colspan=\u00222\u0022>シーサイドももち\u003C/td>\u003C/tr>\u000A\u003Ctr>\u003Ctd style=\u0022width:50%\u0022>天神\u003C/td>\u003Ctd>博多祇園山笠\u003C/td>\u003C/tr>\u000A\u003Ctr>\u003Ctd>中洲の屋台街\u003C/td>\u003Ctd>筥崎宮\u003C/td>\u003C/tr>\u000A\u003Ctr>\u003Ctd>JR博多シティ\u003C/td>\u003Ctd>福岡城址\u003C/td>\u003C/tr>\u000A\u003C/table>",
             "wref" : "ファイル:Fukuoka City - Montage - 01.JPG"
          },
          "wref" : "福岡市"
@@ -24665,6 +24658,10 @@
          "pref_id" : 31,
          "qualified_name" : "静岡県焼津市",
          "type" : "city",
+         "wikipedia_image" : {
+            "desc" : "焼津漁港と市街地",
+            "wref" : "File:Port of Yaizu (2016-02-16).jpg"
+         },
          "wref" : "焼津市"
       },
       "1491" : {
@@ -40819,10 +40816,6 @@
          },
          "qualified_name" : "山形県",
          "type" : "pref",
-         "wikipedia_image" : {
-            "desc" : "月山",
-            "wref" : "ファイル:Precincts of Gassan jinja.JPG"
-         },
          "wikipedia_location_image_wref" : "ファイル:Map of Japan with highlight on 06 Yamagata prefecture.svg",
          "wref" : "山形県"
       },
@@ -70805,7 +70798,7 @@
             ],
             "flag" : [
                {
-                  "name" : "福岡県旗(慣例)",
+                  "name" : "福岡県旗",
                   "wref" : "ファイル:Flag of Fukuoka Prefecture.svg"
                }
             ],
@@ -70950,10 +70943,6 @@
          "qualified_name" : "福岡県",
          "type" : "pref",
          "url" : "http://www.pref.fukuoka.lg.jp/",
-         "wikipedia_image" : {
-            "desc" : "太宰府天満宮",
-            "wref" : "ファイル:20100719 Dazaifu Tenmangu Shrine 3328.jpg"
-         },
          "wikipedia_location_image_wref" : "ファイル:Map of Japan with highlight on 40 Fukuoka prefecture.svg",
          "wref" : "福岡県"
       },
@@ -74810,7 +74799,7 @@
          "qualified_name" : "三重県桑名市",
          "type" : "city",
          "wikipedia_image" : {
-            "desc" : "上:六華苑 下:桑名の焼き蛤\u000A10yesnocenter270200line#cc00002pointtown-hall市庁舎位置",
+            "desc" : "上:六華苑 下:桑名の焼き蛤",
             "wref" : "File:Rokkaen_view.jpg"
          },
          "wref" : "桑名市"
@@ -75335,10 +75324,6 @@
          },
          "qualified_name" : "秋田県",
          "type" : "pref",
-         "wikipedia_image" : {
-            "desc" : "秋田竿燈まつり",
-            "wref" : "File:Hiru kanto 1.jpg"
-         },
          "wikipedia_location_image_wref" : "ファイル:Map of Japan with highlight on 05 Akita prefecture.svg",
          "wref" : "秋田県"
       },
@@ -75494,7 +75479,7 @@
          "qualified_name" : "神奈川県伊勢原市",
          "type" : "city",
          "wikipedia_image" : {
-            "desc" : "大山阿夫利神社 10",
+            "desc" : "大山阿夫利神社",
             "wref" : "File:Ooyama afurijinjya.jpg"
          },
          "wref" : "伊勢原市"
@@ -75549,7 +75534,7 @@
          "qualified_name" : "神奈川県海老名市",
          "type" : "city",
          "wikipedia_image" : {
-            "desc" : "相模国分寺 10yesnocenter270200line#cc00002pointtown-hall市庁舎位置",
+            "desc" : "相模国分寺",
             "wref" : "File:Sagamikokubunzi-hondou.jpg"
          },
          "wref" : "海老名市"
@@ -75940,7 +75925,7 @@
          "qualified_name" : "神奈川県高座郡寒川町",
          "type" : "town",
          "wikipedia_image" : {
-            "desc" : "寒川神社 11270",
+            "desc" : "寒川神社",
             "wref" : "ファイル:The Samukawa Shrine 02.jpg"
          },
          "wref" : "寒川町"
@@ -76096,7 +76081,7 @@
          "qualified_name" : "神奈川県綾瀬市",
          "type" : "city",
          "wikipedia_image" : {
-            "desc" : "城山公園バラ園 11yesyescenter280200line#cc00002",
+            "desc" : "城山公園バラ園",
             "wref" : "File:綾瀬市 城山公園 薔薇園 - panoramio.jpg"
          },
          "wref" : "綾瀬市"
@@ -76429,7 +76414,7 @@
          "qualified_name" : "神奈川県南足柄市",
          "type" : "city",
          "wikipedia_image" : {
-            "desc" : "大雄山最乗寺の石段と杉林 yesnocenter27010line2pointtown-hall市庁舎の位置",
+            "desc" : "大雄山最乗寺の石段と杉林",
             "wref" : "File:Daiyuzan Saijoji Temple 12.jpg"
          },
          "wref" : "南足柄市"
@@ -76616,7 +76601,7 @@
          "qualified_name" : "神奈川県秦野市",
          "type" : "city",
          "wikipedia_image" : {
-            "desc" : "秦野盆地と丹沢山地 10yesyescenter280200line#cc00002",
+            "desc" : "秦野盆地と丹沢山地",
             "wref" : "File:Hadano Basin from Shibusawa Hill Range 08.jpg"
          },
          "wref" : "秦野市"
@@ -76677,7 +76662,7 @@
          "qualified_name" : "神奈川県大和市",
          "type" : "city",
          "wikipedia_image" : {
-            "desc" : "なでしこの道(大和駅西口) 10270",
+            "desc" : "なでしこの道(大和駅西口)",
             "wref" : "ファイル:Nadeshiko-no-Michi 01.jpg"
          },
          "wref" : "大和市"
@@ -76727,7 +76712,7 @@
          "qualified_name" : "神奈川県三浦市",
          "type" : "city",
          "wikipedia_image" : {
-            "desc" : "市のランドマーク・城ヶ島大橋10yesnocenter270200line#cc00002pointtown-hall市庁舎位置",
+            "desc" : "市のランドマーク・城ヶ島大橋",
             "wref" : "File:Jogashima ohashi bridge.jpg"
          },
          "wref" : "三浦市"
@@ -86231,7 +86216,7 @@
             "mark" : [
                {
                   "name" : "太子町章",
-                  "wref" : "ファイル:Taishi Hyogo chapter.JPG"
+                  "wref" : "太子町章"
                }
             ]
          },
@@ -86318,7 +86303,7 @@
                {
                   "date" : "1943-01-04",
                   "name" : "伊丹市章",
-                  "wref" : "ファイル:Itami Hyogo chapter.JPG"
+                  "wref" : "伊丹市章"
                }
             ]
          },
@@ -86726,7 +86711,7 @@
                {
                   "date" : "1954-12-14",
                   "name" : "高砂市章",
-                  "wref" : "File:Symbol of Takasago Hyogo.svg"
+                  "wref" : "高砂市章"
                }
             ],
             "tree" : [
@@ -86772,7 +86757,7 @@
                {
                   "date" : "1956-12-07",
                   "name" : "三田市章",
-                  "wref" : "ファイル:Symbol of Sanda, Hyogo.svg"
+                  "wref" : "三田市章"
                }
             ],
             "misc" : [
@@ -86909,7 +86894,7 @@
                {
                   "date" : "1957-07-10",
                   "name" : "福崎町章",
-                  "wref" : "ファイル:Fukusaki Hyogo chapter.jpg"
+                  "wref" : "福崎町章"
                }
             ],
             "tree" : [
@@ -86957,7 +86942,7 @@
                {
                   "date" : "1964-07-02",
                   "name" : "市川町章",
-                  "wref" : "ファイル:Emblem of Ichikawa, Hyogo.svg"
+                  "wref" : "市川町章"
                }
             ],
             "tree" : [
@@ -86992,7 +86977,7 @@
          "type" : "town",
          "wikipedia_image" : {
             "desc" : "蓮泉寺",
-            "wref" : "ファイル:蓮泉寺鐘楼.jpg"
+            "wref" : "File:蓮泉寺鐘楼.jpg"
          },
          "wref" : "市川町"
       },
@@ -87533,7 +87518,7 @@
                {
                   "date" : "1962-04-01",
                   "name" : "播磨町章",
-                  "wref" : "ファイル:Symbol of Harima Hyogo.svg"
+                  "wref" : "播磨町章"
                }
             ],
             "tree" : [
@@ -88160,7 +88145,7 @@
          "type" : "city",
          "wikipedia_image" : {
             "desc" : "相生ペーロン祭",
-            "wref" : "ファイル:Aioi Peron Matsuri July09 328.jpg"
+            "wref" : "File:Aioi Peron Matsuri July09 328.jpg"
          },
          "wref" : "相生市"
       },
@@ -88175,7 +88160,7 @@
                {
                   "date" : "1954-12-01",
                   "name" : "小野市章",
-                  "wref" : "ファイル:Emblem of Ono, Hyogo.svg"
+                  "wref" : "小野市章"
                }
             ],
             "tree" : [
@@ -88440,7 +88425,7 @@
             "mark" : [
                {
                   "name" : "川西市章",
-                  "wref" : "ファイル:Symbol of Kawanishi, Hyogo.svg"
+                  "wref" : "川西市章"
                }
             ]
          },
@@ -88462,7 +88447,7 @@
          "type" : "city",
          "wikipedia_image" : {
             "desc" : "源満仲のブロンズ像(JR川西池田駅前)",
-            "wref" : "ファイル:Mitunaka Minamoto.jpg"
+            "wref" : "File:Mitunaka Minamoto.jpg"
          },
          "wref" : "川西市"
       },
@@ -89001,7 +88986,7 @@
          "qualified_name" : "高知県安芸郡東洋町",
          "type" : "town",
          "wikipedia_image" : {
-            "desc" : "甲浦港と甲浦の街並み 10yesnocenter260200line#cc00002pointtown-hall町役場位置",
+            "desc" : "甲浦港と甲浦の街並み",
             "wref" : "File:甲浦 - panoramio (1).jpg"
          },
          "wref" : "東洋町"
@@ -97676,6 +97661,12 @@
                   "name" : "キジ"
                }
             ],
+            "flag" : [
+               {
+                  "name" : "奥州市旗",
+                  "wref" : "ファイル:Flag of Oshu Iwate.svg"
+               }
+            ],
             "flower" : [
                {
                   "name" : "サクラ"
@@ -97683,9 +97674,8 @@
             ],
             "mark" : [
                {
-                  "date" : "2006-02-20",
                   "name" : "奥州市章",
-                  "wref" : "奥州市章"
+                  "wref" : "ファイル:Oshu Iwate chapter.JPG"
                }
             ],
             "tree" : [
@@ -97721,8 +97711,9 @@
          "pref_id" : 14,
          "qualified_name" : "岩手県奥州市",
          "type" : "city",
+         "url" : "http://www.city.oshu.iwate.jp/",
          "wikipedia_image" : {
-            "desc" : "\u003Ctable style=\u0022width:280px;margin:2px auto; border-collapse: collapse\u0022>\u000A\u003Ctr>\u003Ctd>焼石岳\u003Ctd>えさし藤原の郷\u003C/tr>\u000A\u003Ctr>\u003Ctd>種山\u003Ctd>正法寺\u003C/tr>\u000A\u003Ctr>\u003Ctd colspan=\u00222\u0022>:長者ヶ原廃寺跡\u003C/tr>\u000A\u003Ctr>\u003Ctd>水沢競馬場\u003Ctd>駒形神社\u003C/tr>\u000A\u003C/table> \u000A9yesyescenter280240line#cc0000239.155667 141.093658",
+            "desc" : "\u003Ctable style=\u0022width:280px;margin:2px auto; border-collapse: collapse\u0022>\u000A\u003Ctr>\u003Ctd>焼石岳\u003Ctd>えさし藤原の郷\u003C/tr>\u000A\u003Ctr>\u003Ctd>正法寺\u003C/tr>\u000A\u003Ctr>\u003Ctd colspan=\u00222\u0022>:長者ヶ原廃寺跡\u003C/tr>\u000A\u003Ctr>\u003Ctd>水沢競馬場\u003Ctd>駒形神社\u003C/tr>\u000A\u003C/table>",
             "wref" : "File:Oshu montage.JPG"
          },
          "wref" : "奥州市"
@@ -108093,7 +108084,7 @@
          "qualified_name" : "沖縄県南城市",
          "type" : "city",
          "wikipedia_image" : {
-            "desc" : "\u003Ctable style=\u0022width:280px;margin:2px auto;border-collapse:collapse\u0022>\u000A\u003Ctr>\u003Ctd rowspan=\u00222\u0022 style=\u0022vertical-align:middle;\u0022>斎場御嶽\u003Ctd>久高島\u003C/tr>\u000A\u003Ctr>\u003Ctd>玉城城跡\u003C/tr>\u000A\u003Ctr>\u003Ctd>玉泉洞\u003Ctd>ニライ・カナイ橋\u003C/tr>\u000A\u003C/table>\u000A10yesnocenter270200line#cc00002pointtown-hall市庁舎位置",
+            "desc" : "\u003Ctable style=\u0022width:280px;margin:2px auto;border-collapse:collapse\u0022>\u000A\u003Ctr>\u003Ctd rowspan=\u00222\u0022 style=\u0022vertical-align:middle;\u0022>斎場御嶽\u003Ctd>久高島\u003C/tr>\u000A\u003Ctr>\u003Ctd>玉城城跡\u003C/tr>\u000A\u003Ctr>\u003Ctd>玉泉洞\u003Ctd>ニライ・カナイ橋\u003C/tr>\u000A\u003C/table>\u000A10yesnocenter270200line#cc00002pointtown-hall26.18127.73市庁舎位置",
             "wref" : "File:Nanjo Montage.JPG"
          },
          "wref" : "南城市"
