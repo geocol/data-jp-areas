@@ -3587,7 +3587,7 @@
             "type" : "city",
             "wikipedia_image" : {
                "desc" : "嬉野温泉 10",
-               "wref" : "File:Ureshino Onsen 01.jpg"
+               "wref" : "File:Ureshino_onsen.jpg"
             },
             "wref" : "嬉野市"
          },
@@ -37843,7 +37843,7 @@
          ],
          "flower" : [
             {
-               "name" : "フジザクラ"
+               "name" : "サクラ"
             }
          ],
          "mark" : [
@@ -42949,7 +42949,7 @@
             },
             "type" : "city",
             "wikipedia_image" : {
-               "desc" : "厳美渓 10",
+               "desc" : "厳美渓",
                "wref" : "File:Genbi-kei.jpg"
             },
             "wref" : "一関市"
@@ -71328,8 +71328,9 @@
                      ],
                      "mark" : [
                         {
+                           "date" : "1973-03-01",
                            "name" : "須恵町章",
-                           "wref" : "ファイル:Suetown_Fukuoka_chapter.JPG"
+                           "wref" : "須恵町章"
                         }
                      ],
                      "tree" : [
@@ -94018,7 +94019,7 @@
             "latin" : "Shibushi-shi",
             "neighbor_region_names" : {
                "串間市" : "串間市",
-               "大崎町" : "大崎町",
+               "大崎町" : "大崎町 (代表的なトピック)",
                "曽於市" : "曽於市",
                "都城市" : "都城市"
             },
@@ -94139,8 +94140,8 @@
             },
             "type" : "city",
             "wikipedia_image" : {
-               "desc" : "一宇治城址から望む日置市街",
-               "wref" : "File:Ijuin CityView From Joyama Park.JPG"
+               "desc" : "上:妙円寺詣り 下:一宇治城址から望む日置市街",
+               "wref" : "File:Tokushige_shrine_Myoenji_mairi.JPG"
             },
             "wref" : "日置市"
          },
@@ -94488,7 +94489,7 @@
                   "kana" : "ひがしくしらちょう",
                   "latin" : "Higashikushira-cho",
                   "neighbor_region_names" : {
-                     "大崎町" : "大崎町",
+                     "大崎町" : "大崎町 (代表的なトピック)",
                      "肝付町" : "肝付町",
                      "鹿屋市" : "鹿屋市"
                   },
@@ -94896,7 +94897,7 @@
             },
             "type" : "city",
             "wikipedia_image" : {
-               "desc" : "城山から望む鹿児島市街と桜島",
+               "desc" : "武から望む鹿児島市街と桜島",
                "wref" : "File:Sakurajima_n700.jpg"
             },
             "wref" : "鹿児島市"
