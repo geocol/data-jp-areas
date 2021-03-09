@@ -553,7 +553,7 @@
             ],
             "mark" : [
                {
-                  "date" : "1971-04",
+                  "date" : "1971-04-01",
                   "name" : "長久手市章",
                   "wref" : "長久手市章"
                }
@@ -17874,7 +17874,7 @@
          "type" : "ward",
          "url" : "https://www.city.osaka.lg.jp/chuo/",
          "wikipedia_image" : {
-            "desc" : "難波宮跡、大坂城西の丸の桜と本丸の天守",
+            "desc" : "大坂城西の丸の桜と本丸の天守",
             "wref" : "ファイル:Osaka Castle Keep Tower in 201504 013.JPG"
          },
          "wref" : "中央区 (大阪市)"
@@ -23534,6 +23534,7 @@
          "area_symbols" : {
             "mark" : [
                {
+                  "date" : "2005-01-11",
                   "name" : "大洲市章",
                   "wref" : "大洲市章"
                }
@@ -23544,6 +23545,13 @@
          "kana" : "おおずし",
          "latin" : "Ozu-shi",
          "name" : "大洲市",
+         "neighbor_region_names" : {
+            "1472" : 1,
+            "1475" : 1,
+            "1481" : 1,
+            "1489" : 1,
+            "466" : 1
+         },
          "office" : {
             "address" : "大洲690-1",
             "position" : [
@@ -23989,8 +23997,8 @@
          "qualified_name" : "愛媛県伊予市",
          "type" : "city",
          "wikipedia_image" : {
-            "desc" : "上:下灘駅と伊予灘 下:五色浜公園",
-            "wref" : "File:Shimonada station 01.jpg"
+            "desc" : "五色浜公園",
+            "wref" : "File:Goshikihama_Park_Lighthouse.jpg"
          },
          "wref" : "伊予市"
       },
@@ -31965,8 +31973,8 @@
          "qualified_name" : "群馬県藤岡市",
          "type" : "city",
          "wikipedia_image" : {
-            "desc" : "ららん藤岡",
-            "wref" : "ファイル:Michinoeki fujioka.jpg"
+            "desc" : "桜山",
+            "wref" : "ファイル:Sakurayama_winter.jpg"
          },
          "wref" : "藤岡市"
       },
@@ -47080,7 +47088,7 @@
          "qualified_name" : "鹿児島県薩摩川内市",
          "type" : "city",
          "wikipedia_image" : {
-            "desc" : "\u003Ctable style=\u0022width:280px; margin:2px auto; border-collapse:collapse\u0022>\u000A\u003Ctr>\u003Ctd style=\u0022width:50%\u0022>新田神社\u003Ctd style=\u0022width:50%\u0022>上甑島・長目の浜\u003C/tr>\u000A\u003Ctr>\u003Ctd style=\u0022width:50%\u0022>入来麓\u003Ctd style=\u0022width:50%\u0022>藺牟田池\u003C/tr>\u000A\u003Ctr>\u003Ctd style=\u0022width:100%\u0022 colspan=\u00222\u0022>川内川と薩摩川内市街地\u003C/tr>\u000A\u003C/table>\u000A\u003C/br>09yesnocenter270200line#cc00002pointtown-hall31.8130.07市庁舎位置",
+            "desc" : "\u003Ctable style=\u0022width:280px; margin:2px auto; border-collapse:collapse\u0022>\u000A\u003Ctr>\u003Ctd style=\u0022width:50%\u0022>新田神社\u003Ctd style=\u0022width:50%\u0022>上甑島・長目の浜\u003C/tr>\u000A\u003Ctr>\u003Ctd style=\u0022width:50%\u0022>入来麓\u003Ctd style=\u0022width:50%\u0022>藺牟田池\u003C/tr>\u000A\u003Ctr>\u003Ctd style=\u0022width:100%\u0022 colspan=\u00222\u0022>川内川と薩摩川内市街地\u003C/tr>\u000A\u003C/table>\u000A\u000A09yesnocenter270200line#cc00002pointtown-hall31.8130.07市庁舎位置",
             "wref" : "File:Satsumasendai Montage.jpg"
          },
          "wref" : "薩摩川内市"
@@ -77778,8 +77786,8 @@
          "qualified_name" : "神奈川県横浜市",
          "type" : "city",
          "wikipedia_image" : {
-            "desc" : "\u003Ctable style=\u0022width:280px; margin:2px auto; border-collapse:collapse\u0022>\u000A\u003Ctr>\u003Ctd style=\u0022width:100%\u0022 colspan=\u00222\u0022>横浜みなとみらい21\u003C/tr>\u000A\u003Ctr>\u003Ctd style=\u0022width:50%\u0022>横浜中華街\u003Ctd style=\u0022width:50%\u0022>日本丸\u003C/tr>\u000A\u003Ctr>\u003Ctd style=\u0022width:50%\u0022>横浜駅西口前\u003Ctd style=\u0022width:50%\u0022>横浜マリンタワー\u003C/tr>\u000A\u003C/table>",
-            "wref" : "File:Japan Yokohama.png"
+            "desc" : "\u003Ctable style=\u0022width:280px;margin:2px auto; border-collapse: collapse\u0022>\u000A\u003Ctr>\u003Ctd colspan=\u00222\u0022>横浜みなとみらい21\u003C/tr>\u000A\u003Ctr>\u003Ctd rowspan=\u00222\u0022 style=\u0022vertical-align:middle\u0022>日本丸\u003Ctd>外交官の家\u003C/tr>\u000A\u003Ctr>\u003Ctd>横浜中華街\u003C/tr>\u000A\u003Ctr>\u003Ctd>日産スタジアム\u003Ctd>山下公園と\u000A横浜マリンタワー\u003C/tr>\u000A\u003Ctr>\u003Ctd>元町\u003Ctd>日本大通り\u003C/tr>\u000A\u003C/table>",
+            "wref" : "File:Yokohama Montage.jpg"
          },
          "wref" : "横浜市"
       },
@@ -86321,7 +86329,7 @@
             ],
             "misc" : [
                {
-                  "label" : "酔っ払い",
+                  "label" : "市の草花",
                   "name" : "ベゴニア"
                }
             ],
@@ -92204,7 +92212,7 @@
                {
                   "date" : "1954-04-01",
                   "name" : "瑞浪市章",
-                  "wref" : "ファイル:Mizunami_Gifu_chapter.JPG"
+                  "wref" : "瑞浪市章"
                }
             ],
             "tree" : [
@@ -92238,7 +92246,7 @@
          "type" : "city",
          "wikipedia_image" : {
             "desc" : "瑞浪市化石博物館 10",
-            "wref" : "ファイル:瑞浪市化石博物館.jpg"
+            "wref" : "File:瑞浪市化石博物館.jpg"
          },
          "wref" : "瑞浪市"
       },
@@ -92407,7 +92415,7 @@
          "type" : "town",
          "wikipedia_image" : {
             "desc" : "霞間ヶ渓",
-            "wref" : "画像:kamagatani01.jpg"
+            "wref" : "File:kamagatani01.jpg"
          },
          "wref" : "池田町 (岐阜県)"
       },
@@ -92463,7 +92471,6 @@
          "pref_id" : 12,
          "qualified_name" : "岐阜県可児郡御嵩町",
          "type" : "town",
-         "url" : "http://www.town.mitake.gifu.jp/",
          "wikipedia_image" : {
             "desc" : "中山道御嶽宿本陣",
             "wref" : "File:Nakasendo Mitake-juku honjin site ac.jpg"
@@ -92616,7 +92623,7 @@
                {
                   "date" : "1955-04-01",
                   "name" : "養老町章",
-                  "wref" : "ファイル:Symbol_of_Yoro_Gifu.svg"
+                  "wref" : "養老町章"
                }
             ],
             "tree" : [
@@ -92649,10 +92656,9 @@
          "pref_id" : 12,
          "qualified_name" : "岐阜県養老郡養老町",
          "type" : "town",
-         "url" : "http://www.town.yoro.gifu.jp/",
          "wikipedia_image" : {
             "desc" : "養老の滝 yesnocenter27020010line#cc00002pointtown-hall町庁舎位置",
-            "wref" : "ファイル:Yoro-waterfall.JPG"
+            "wref" : "File:Yoro-waterfall.JPG"
          },
          "wref" : "養老町"
       },
@@ -92946,7 +92952,7 @@
             "mark" : [
                {
                   "name" : "白川村章",
-                  "wref" : "ファイル:Shirakwa_village_Gifu_chapter.JPG"
+                  "wref" : "白川村章"
                }
             ],
             "tree" : [
@@ -92980,7 +92986,7 @@
          "type" : "village",
          "wikipedia_image" : {
             "desc" : "白川郷",
-            "wref" : "ファイル:Ogi Shirakawa-gō, Gifu, Japan.jpg"
+            "wref" : "File:Ogi Shirakawa-gō, Gifu, Japan.jpg"
          },
          "wref" : "白川村"
       },
@@ -93051,7 +93057,7 @@
          "type" : "town",
          "wikipedia_image" : {
             "desc" : "旧宮川家住宅 11280",
-            "wref" : "ファイル:Miyagawakejuutaku.JPG"
+            "wref" : "File:Miyagawakejuutaku.JPG"
          },
          "wref" : "岐南町"
       },
@@ -93147,7 +93153,7 @@
          "type" : "town",
          "wikipedia_image" : {
             "desc" : "笠松競馬場 11280",
-            "wref" : "ファイル:Kasamatsu racecourse paddock.jpg"
+            "wref" : "File:Kasamatsu racecourse paddock.jpg"
          },
          "wref" : "笠松町"
       },
@@ -93269,7 +93275,7 @@
          "type" : "town",
          "wikipedia_image" : {
             "desc" : "円鏡寺楼門(重要文化財)",
-            "wref" : "ファイル:Enkyo-ji in Kitagata town ac (1).jpg"
+            "wref" : "File:Enkyo-ji in Kitagata town ac (1).jpg"
          },
          "wref" : "北方町"
       },
@@ -93349,7 +93355,7 @@
             "mark" : [
                {
                   "name" : "安八町章",
-                  "wref" : "ファイル:Emblem_of_Anpachi,_Gifu.svg"
+                  "wref" : "安八町章"
                }
             ],
             "tree" : [
@@ -93383,7 +93389,7 @@
          "type" : "town",
          "wikipedia_image" : {
             "desc" : "東海道新幹線から見たソーラーアーク 11280",
-            "wref" : "ファイル:Solar Ark 4.jpg"
+            "wref" : "File:Solar Ark 4.jpg"
          },
          "wref" : "安八町"
       },
@@ -93403,7 +93409,7 @@
                {
                   "date" : "1955-10-05",
                   "name" : "輪之内町章",
-                  "wref" : "ファイル:Wanouchi_Gifu_chapter.JPG"
+                  "wref" : "輪之内町章"
                }
             ],
             "tree" : [
@@ -93452,7 +93458,7 @@
             "mark" : [
                {
                   "name" : "神戸町章",
-                  "wref" : "ファイル:Godo_Gifu_chapter.JPG"
+                  "wref" : "神戸町章"
                }
             ],
             "tree" : [
@@ -93485,7 +93491,7 @@
          "type" : "town",
          "wikipedia_image" : {
             "desc" : "日吉神社",
-            "wref" : "ファイル:Hiyoshi-jinjya Godo03.JPG"
+            "wref" : "File:Hiyoshi-jinjya Godo03.JPG"
          },
          "wref" : "神戸町"
       },
@@ -93889,7 +93895,7 @@
          "type" : "city",
          "wikipedia_image" : {
             "desc" : "岐阜県刃物会館",
-            "wref" : "ファイル:Gifu Knife Hall 1.JPG"
+            "wref" : "File:Gifu Knife Hall 1.JPG"
          },
          "wref" : "関市"
       },
@@ -93942,7 +93948,7 @@
          "qualified_name" : "岐阜県可児市",
          "type" : "city",
          "wikipedia_image" : {
-            "desc" : "花フェスタ記念公園 10",
+            "desc" : "世界的バラ園の花フェスタ記念公園 10",
             "wref" : "File:Flower Festival Commemorative Park02.jpg"
          },
          "wref" : "可児市"
@@ -94014,7 +94020,7 @@
          "type" : "town",
          "wikipedia_image" : {
             "desc" : "関ヶ原古戦場 10",
-            "wref" : "ファイル:Sekigahara Battlefield.jpg"
+            "wref" : "File:Sekigahara Battlefield.jpg"
          },
          "wref" : "関ケ原町"
       },
@@ -94029,7 +94035,7 @@
                {
                   "date" : "1962-07-31",
                   "name" : "垂井町章",
-                  "wref" : "ファイル:Symbol of Tarui Gifu.svg"
+                  "wref" : "垂井町章"
                }
             ],
             "tree" : [
@@ -94061,7 +94067,6 @@
          "pref_id" : 12,
          "qualified_name" : "岐阜県不破郡垂井町",
          "type" : "town",
-         "url" : "http://www.town.tarui.lg.jp/",
          "wikipedia_image" : {
             "desc" : "「垂井」の地名の由来となった垂井の泉",
             "wref" : "File:Tarui-no-Izumi01.JPG"
@@ -94101,7 +94106,7 @@
             "mark" : [
                {
                   "name" : "八百津町章",
-                  "wref" : "ファイル:Yaotsu_Gifu_chapter.JPG"
+                  "wref" : "八百津町章"
                }
             ],
             "tree" : [
@@ -94139,7 +94144,7 @@
          "type" : "town",
          "wikipedia_image" : {
             "desc" : "人道の丘公園 10",
-            "wref" : "ファイル:Jindo_no_oka_koen2.jpg"
+            "wref" : "File:Jindo_no_oka_koen2.jpg"
          },
          "wref" : "八百津町"
       },
@@ -94189,7 +94194,7 @@
          "type" : "town",
          "wikipedia_image" : {
             "desc" : "広野地区の白川茶の茶畑と水田",
-            "wref" : "ファイル:Shirakawa hirono tea farm.jpg"
+            "wref" : "File:Shirakawa hirono tea farm.jpg"
          },
          "wref" : "白川町"
       },
@@ -94282,7 +94287,6 @@
          "pref_id" : 12,
          "qualified_name" : "岐阜県加茂郡川辺町",
          "type" : "town",
-         "url" : "http://www.kawabe-gifu.jp/",
          "wikipedia_image" : {
             "desc" : "岐阜県川辺漕艇場",
             "wref" : "File:Kawabe boat.JPG"
@@ -94326,7 +94330,7 @@
          "type" : "town",
          "wikipedia_image" : {
             "desc" : "松井屋酒造場",
-            "wref" : "ファイル:Tomika matuiya.jpg"
+            "wref" : "File:Tomika matuiya.jpg"
          },
          "wref" : "富加町"
       },
@@ -94340,7 +94344,7 @@
             "mark" : [
                {
                   "name" : "坂祝町章",
-                  "wref" : "ファイル:Symbol of Sakahogi Gifu.svg"
+                  "wref" : "坂祝町章"
                }
             ],
             "misc" : [
@@ -94381,7 +94385,7 @@
          "type" : "town",
          "wikipedia_image" : {
             "desc" : "坂祝神社 10",
-            "wref" : "ファイル:Sakahogi_Jinja2008-2.jpg"
+            "wref" : "File:Sakahogi_Jinja2008-2.jpg"
          },
          "wref" : "坂祝町"
       },
@@ -94395,7 +94399,7 @@
             "mark" : [
                {
                   "name" : "七宗町章",
-                  "wref" : "ファイル:Symbol_of_Hichiso_Gifu.svg"
+                  "wref" : "七宗町章"
                }
             ],
             "misc" : [
@@ -94437,7 +94441,7 @@
          "type" : "town",
          "wikipedia_image" : {
             "desc" : "道の駅ロック・ガーデンひちそう下の飛水峡",
-            "wref" : "ファイル:Hisuikyo hihiso.jpg"
+            "wref" : "File:Hisuikyo hihiso.jpg"
          },
          "wref" : "七宗町"
       },
@@ -94483,7 +94487,7 @@
          "type" : "village",
          "wikipedia_image" : {
             "desc" : "五加地区を流れる白川",
-            "wref" : "ファイル:Goka chiku002.jpg"
+            "wref" : "File:Goka chiku002.jpg"
          },
          "wref" : "東白川村"
       },
@@ -95416,7 +95420,7 @@
                {
                   "date" : "1950-04",
                   "name" : "多度津町章",
-                  "wref" : "ファイル:Emblem of Tadotsu, Kagawa.svg"
+                  "wref" : "多度津町章"
                }
             ],
             "tree" : [
