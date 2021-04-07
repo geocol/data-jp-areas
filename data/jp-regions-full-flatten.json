@@ -2581,7 +2581,7 @@
          "qualified_name" : "愛知県名古屋市",
          "type" : "city",
          "wikipedia_image" : {
-            "desc" : "\u003Ctable style=\u0022width:280px;margin:2px auto; border-collapse: collapse\u0022>\u000A\u003Ctr>\u003Ctd colspan=\u00222\u0022>久屋大通公園と名古屋テレビ塔の夜景\u003C/tr>\u000A\u003Ctr>\u003Ctd>名古屋城\u003Ctd rowspan=\u00222\u0022 style=\u0022vertical-align:middle\u0022>東山スカイタワー\u003C/tr>\u000A\u003Ctr>\u003Ctd>有松重要伝統的\u000A建造物群保存地区\u003C/tr>\u000A\u003Ctr>\u003Ctd>熱田神宮\u003Ctd>大須\u003C/tr>\u000A\u003Ctr>\u003Ctd>鶴舞公園\u003Ctd>名古屋まつり\u003C/tr>\u000A\u003C/table>",
+            "desc" : "\u003Ctable style=\u0022width:280px;margin:2px auto; border-collapse: collapse\u0022>\u000A\u003Ctr>\u003Ctd colspan=\u00222\u0022>久屋大通公園と名古屋テレビ塔の夜景\u003C/tr>\u000A\u003Ctr>\u003Ctd>名古屋城\u003Ctd rowspan=\u00222\u0022 style=\u0022vertical-align:middle\u0022>東山スカイタワー\u003C/tr>\u000A\u003Ctr>\u003Ctd>有松重要伝統的\u000A建造物群保存地区\u003C/tr>\u000A\u003Ctr>\u003Ctd>熱田神宮\u003Ctd>大須\u003C/tr>\u000A\u003Ctr>\u003Ctd>鶴舞公園\u003Ctd>名古屋まつり\u003C/tr>\u000A\u003Ctr>\u003Ctd colspan=\u00222\u0022>名古屋都心部の夜景\u003C/tr>\u000A\u003C/table>",
             "wref" : "File:Nagoya Montage.jpg"
          },
          "wref" : "名古屋市"
@@ -6509,7 +6509,7 @@
          "qualified_name" : "島根県出雲市",
          "type" : "city",
          "wikipedia_image" : {
-            "desc" : "出雲大社",
+            "desc" : "上:出雲大社 下:西谷墳墓群",
             "wref" : "File:Haiden of Izumo-taisha-1.JPG"
          },
          "wref" : "出雲市"
@@ -10797,7 +10797,7 @@
                {
                   "date" : "1951-09-01",
                   "name" : "小浜市章",
-                  "wref" : "ファイル:Obama Fukui chapter.JPG"
+                  "wref" : "小浜市章"
                }
             ],
             "tree" : [
@@ -10829,7 +10829,7 @@
          "type" : "city",
          "wikipedia_image" : {
             "desc" : "蘇洞門",
-            "wref" : "ファイル:Obama_Sotomo14st3200.jpg"
+            "wref" : "File:Obama_Sotomo14st3200.jpg"
          },
          "wref" : "小浜市"
       },
@@ -17336,7 +17336,7 @@
          "url" : "https://www.city.osaka.lg.jp/kita/",
          "wikipedia_image" : {
             "desc" : "大阪ステーションシティ",
-            "wref" : "File:Osaka Station City2.JPG"
+            "wref" : "File:JR Osaka Station 20151226.JPG"
          },
          "wref" : "北区 (大阪市)"
       },
@@ -17413,7 +17413,7 @@
          "url" : "https://www.city.osaka.lg.jp/yodogawa/",
          "wikipedia_image" : {
             "desc" : "新大阪駅",
-            "wref" : "File:SHINOSAKASTATION.JPG"
+            "wref" : "File:Shin-Ōsaka Station.jpg"
          },
          "wref" : "淀川区"
       },
@@ -17799,8 +17799,8 @@
          "type" : "ward",
          "url" : "https://www.city.osaka.lg.jp/tennoji/",
          "wikipedia_image" : {
-            "desc" : "天王寺動物園",
-            "wref" : "ファイル:Tennoji-Zoo1.jpg"
+            "desc" : "四天王寺",
+            "wref" : "ファイル:Shitennoji06s3200.jpg"
          },
          "wref" : "天王寺区"
       },
@@ -18025,8 +18025,8 @@
          "type" : "ward",
          "url" : "https://www.city.osaka.lg.jp/taisho/",
          "wikipedia_image" : {
-            "desc" : "落合下渡船",
-            "wref" : "File:Osaka city ferry boat01.JPG"
+            "desc" : "千歳橋と千歳渡船",
+            "wref" : "File:Ocf-IMG 0954.jpg"
          },
          "wref" : "大正区"
       },
@@ -20514,8 +20514,8 @@
          "qualified_name" : "福岡県久留米市",
          "type" : "city",
          "wikipedia_image" : {
-            "desc" : "\u003Ctable style=\u0022width:280px;margin:2px auto; border-collapse: collapse\u0022>\u000A\u003Ctr>\u003Ctd colspan=\u00223\u0022>西鉄久留米駅\u003C/tr>\u000A\u003Ctr>\u003Ctd rowspan=\u00222\u0022 style=\u0022vertical-align:middle;\u0022>久留米市役所\u003Ctd>水天宮\u003Ctd rowspan=\u00222\u0022 style=\u0022vertical-align:middle;\u0022>久留米成田山\u000Aの観音像\u003C/tr>\u000A\u003Ctr>\u003Ctd>高良大社\u003C/tr>\u000A\u003Ctr>\u003Ctd colspan=\u00223\u0022>石橋文化センター\u003C/tr>\u000A\u003Ctr>\u003Ctd colspan=\u00223\u0022>久留米駅\u003C/tr>\u000A\u003C/table>",
-            "wref" : "File:Kurume montage.png"
+            "desc" : "\u003Ctable style=\u0022width:280px;margin:2px auto; border-collapse: collapse\u0022>\u000A\u003Ctr>\u003Ctd colspan=\u00222\u0022>市内を流れる筑後川と二千年橋\u003C/tr>\u000A\u003Ctr>\u003Ctd>水天宮\u003Ctd>成田山久留米分院\u003C/tr>\u000A\u003Ctr>\u003Ctd>高良大社\u003Ctd>久留米ラーメン\u003C/tr>\u000A\u003Ctr>\u003Ctd colspan=\u00222\u0022>石橋文化センター\u003C/tr>\u003C/table>",
+            "wref" : "File:Kurume Montage.jpg"
          },
          "wref" : "久留米市"
       },
@@ -23567,7 +23567,7 @@
                {
                   "date" : "2004-04-01",
                   "name" : "四国中央市章",
-                  "wref" : "四国中央市章"
+                  "wref" : "File:Symbol of Shikokuchuo Ehime.svg"
                }
             ]
          },
@@ -25270,8 +25270,8 @@
          "type" : "ward",
          "url" : "https://www.city.hamamatsu.shizuoka.jp/c-shinko/ward/nakaku/index.html",
          "wikipedia_image" : {
-            "desc" : "浜松駅とアクトシティ浜松",
-            "wref" : "File:Hamamatsu Station 3.jpg"
+            "desc" : "アクトタワーから見た浜松と都心部の夜景",
+            "wref" : "File:浜松市都心部夜景.png"
          },
          "wref" : "中区 (浜松市)"
       },
@@ -29258,8 +29258,8 @@
          "qualified_name" : "東京都多摩市",
          "type" : "city",
          "wikipedia_image" : {
-            "desc" : "多摩センター駅",
-            "wref" : "File:OER Tama-Center station.jpg"
+            "desc" : "サンリオピューロランド",
+            "wref" : "File:Sanrio Puroland.jpg"
          },
          "wref" : "多摩市"
       },
@@ -29534,7 +29534,7 @@
          "qualified_name" : "東京都世田谷区",
          "type" : "ward",
          "wikipedia_image" : {
-            "desc" : "等々力渓谷",
+            "desc" : "等々力渓谷(谷沢川)",
             "wref" : "File:TodorokiKeikoku.JPG"
          },
          "wref" : "世田谷区"
@@ -45437,8 +45437,8 @@
          "qualified_name" : "奈良県宇陀郡曽爾村",
          "type" : "village",
          "wikipedia_image" : {
-            "desc" : "曽爾高原",
-            "wref" : "File:Sonikogen from Mount Kuroso.jpg"
+            "desc" : "曽爾高原のススキ",
+            "wref" : "File:曽爾高原 - panoramio (2).jpg"
          },
          "wref" : "曽爾村"
       },
@@ -47009,8 +47009,8 @@
          "qualified_name" : "鹿児島県薩摩郡さつま町",
          "type" : "town",
          "wikipedia_image" : {
-            "desc" : "紫尾温泉 9yesnocenter270200line#cc00002pointtown-hall町庁舎位置",
-            "wref" : "ファイル:Kaminoyu_shibi_onsen.jpg"
+            "desc" : "北薩広域公園 9yesnocenter270200line#cc00002pointtown-hall町庁舎位置",
+            "wref" : "ファイル:Hokusatsu_Regional_Park_play_ground.JPG"
          },
          "wref" : "さつま町"
       },
@@ -75466,7 +75466,7 @@
          "url" : "http://www.city.sagamihara.kanagawa.jp/chuoku/index.html",
          "wikipedia_image" : {
             "desc" : "JAXA相模原キャンパス10yesnocenter270200line#cc00002pointtown-hall区庁舎位置",
-            "wref" : "File:Front_Entrance_to_ISAS.jpeg"
+            "wref" : "File:Institute of Space and Astronautical Science P4037801.jpg"
          },
          "wref" : "中央区 (相模原市)"
       },
@@ -79254,8 +79254,8 @@
          "qualified_name" : "大分県豊後高田市",
          "type" : "city",
          "wikipedia_image" : {
-            "desc" : "熊野磨崖仏 10",
-            "wref" : "File:Kumano-magaibutsu.jpg"
+            "desc" : "富貴寺 10",
+            "wref" : "ファイル:富貴寺_大堂.JPG"
          },
          "wref" : "豊後高田市"
       },
@@ -79455,8 +79455,7 @@
             "24" : 1,
             "33" : 1,
             "37" : 1,
-            "47" : 1,
-            "8" : 1
+            "47" : 1
          },
          "office" : {
             "address" : "新潟市中央区新光町4-1",
@@ -98485,8 +98484,7 @@
          "neighbor_region_names" : {
             "12" : 1,
             "25" : 1,
-            "37" : 1,
-            "43" : 1
+            "37" : 1
          },
          "office" : {
             "address" : "金沢市鞍月1-1",
@@ -98498,10 +98496,6 @@
          "qualified_name" : "石川県",
          "type" : "pref",
          "url" : "https://www.pref.ishikawa.lg.jp/",
-         "wikipedia_image" : {
-            "desc" : "\u003Ctable style=\u0022width:280px; margin:2px auto; border-collapse:collapse\u0022>\u000A\u003Ctr>\u003Ctd style=\u0022width:50%\u0022>兼六園\u003Ctd style=\u0022width:50%\u0022>金沢駅・鼓門\u003C/tr>\u000A\u003Ctr>\u003Ctd style=\u0022width:50%\u0022>見附島\u003Ctd style=\u0022width:50%\u0022>白山\u003C/tr>\u000A\u003C/table>",
-            "wref" : "ファイル:Montages of Ishikawa prefecture.jpg"
-         },
          "wikipedia_location_image_wref" : "ファイル:Map of Japan with highlight on 17 Ishikawa prefecture.svg",
          "wref" : "石川県"
       },
@@ -101570,8 +101564,8 @@
          "qualified_name" : "埼玉県所沢市",
          "type" : "city",
          "wikipedia_image" : {
-            "desc" : "所沢航空記念公園",
-            "wref" : "ファイル:Tokorozawa_Aviation_Commemorative_Park.jpg"
+            "desc" : "\u003Ctable style=\u0022width:280px;margin:2px auto; border-collapse: collapse\u0022>\u000A\u003Ctr>\u003Ctd rowspan=\u00222\u0022 style=\u0022vertical-align:middle\u0022>西武ドーム\u003Ctd>西武園ゆうえんち\u003C/tr>\u000A\u003Ctr>\u003Ctd rowspan=\u00222\u0022 style=\u0022vertical-align:middle\u0022>山口貯水池\u003C/tr>\u000A\u003Ctr>\u003Ctd>所沢航空記念公園\u003C/tr>\u000A\u003Ctr>\u003Ctd rowspan=\u00222\u0022 style=\u0022vertical-align:middle\u0022>\u003Ctd>ところざわサクラタウン\u000A(角川武蔵野ミュージアム)\u003C/tr>\u003C/table>",
+            "wref" : "File:Tokorozawa Montage.jpg"
          },
          "wref" : "所沢市"
       },
