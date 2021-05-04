@@ -11474,10 +11474,6 @@
             "subpref_name" : "石狩振興局",
             "type" : "city",
             "url" : "https://www.city.sapporo.jp/",
-            "wikipedia_image" : {
-               "desc" : "\u003Ctable style=\"width:300px;margin:2px auto;border-collapse:collapse\">\n\u003Ctr>\u003Ctd colspan=\"2\">藻岩山から望む札幌市の夜景\u003C/tr>\n\u003Ctr>\u003Ctd style=\"width:50%\">札幌市時計台\u003Ctd>サッポロビール博物館\u003C/tr>\n\u003Ctr>\u003Ctd>JRタワー\u003Ctd>北海道大学\u003C/tr>\n\u003Ctr>\u003Ctd>札幌ドーム\u003Ctd>さっぽろテレビ塔\u003C/tr>\n\u003C/table>",
-               "wref" : "File:Sapporo montage.jpg"
-            },
             "wref" : "札幌市"
          },
          "東川町" : {
@@ -17041,7 +17037,7 @@
             "type" : "city",
             "wikipedia_image" : {
                "desc" : "落花生の野積み風景",
-               "wref" : "ファイル:Dry-up-peanuts,botti,yachimata-city,japan.JPG"
+               "wref" : "File:Dry-up-peanuts,botti,yachimata-city,japan.JPG"
             },
             "wref" : "八街市"
          },
@@ -22931,7 +22927,7 @@
                "mark" : [
                   {
                      "name" : "幸手市章",
-                     "wref" : "ファイル:Satte_Saitama_chapter.JPG"
+                     "wref" : "ファイル:Satte_Saitama_chapter.svg"
                   }
                ],
                "tree" : [
@@ -23117,7 +23113,7 @@
             },
             "type" : "city",
             "wikipedia_image" : {
-               "desc" : "\u003Ctable style=\"width:280px;margin:2px auto; border-collapse: collapse\">\n\u003Ctr>\u003Ctd rowspan=\"2\" style=\"vertical-align:middle\">西武ドーム\u003Ctd>西武園ゆうえんち\u003C/tr>\n\u003Ctr>\u003Ctd rowspan=\"2\" style=\"vertical-align:middle\">山口貯水池\u003C/tr>\n\u003Ctr>\u003Ctd>所沢航空記念公園\u003C/tr>\n\u003Ctr>\u003Ctd rowspan=\"2\" style=\"vertical-align:middle\">\u003Ctd>ところざわサクラタウン\n(角川武蔵野ミュージアム)\u003C/tr>\u003C/table>",
+               "desc" : "\u003Ctable style=\"width:280px;margin:2px auto; border-collapse: collapse\">\n\u003Ctr>\u003Ctd rowspan=\"2\" style=\"width:50%\">西武ドーム\u003Ctd>西武園ゆうえんち\u003C/tr>\n\u003Ctr>\u003Ctd rowspan=\"2\" style=\"width:50%\">山口貯水池\u003C/tr>\n\u003Ctr>\u003Ctd style=\"width:50%\">所沢航空記念公園\u003C/tr>\n\u003Ctr>\u003Ctd style=\"width:50%\">\u003Ctd>ところざわサクラタウン\n(角川武蔵野ミュージアム)\u003C/tr>\u003C/table>",
                "wref" : "File:Tokorozawa Montage.jpg"
             },
             "wref" : "所沢市"
@@ -53782,10 +53778,6 @@
                ]
             },
             "type" : "city",
-            "wikipedia_image" : {
-               "desc" : "福浦八景の海岸線",
-               "wref" : "File:遊歩道より - panoramio.jpg"
-            },
             "wref" : "柏崎市"
          },
          "燕市" : {
@@ -54828,7 +54820,7 @@
                   {
                      "date" : "1956-10-01",
                      "name" : "品川区章",
-                     "wref" : "ファイル:東京都品川区区章.svg"
+                     "wref" : "File:東京都品川区区章.svg"
                   }
                ],
                "tree" : [
@@ -54861,7 +54853,7 @@
             "type" : "ward",
             "wikipedia_image" : {
                "desc" : "品川神社",
-               "wref" : "ファイル:ShinagawaJinja_Honden.jpg"
+               "wref" : "File:ShinagawaJinja Honden.jpg"
             },
             "wref" : "品川区"
          },
@@ -59185,7 +59177,7 @@
             "type" : "city",
             "wikipedia_image" : {
                "desc" : "斎場御嶽 10yesnocenter270200line#cc00002pointtown-hall26.18127.73市庁舎位置",
-               "wref" : "ファイル:Sangui_(Triangle_Rock)_of_Sefa-Utaki.jpg"
+               "wref" : "File:Sangui_(Triangle_Rock)_of_Sefa-Utaki.jpg"
             },
             "wref" : "南城市"
          },
@@ -59765,7 +59757,7 @@
             "type" : "city",
             "wikipedia_image" : {
                "desc" : "\u003Ctable style=\"width:280px;margin:2px auto; border-collapse: collapse\">\n\u003Ctr>\u003Ctd>沖縄コンベンションセンター\u003Ctd>トロピカルビーチ\u003C/tr>\n\u003Ctr>\u003Ctd>大山タイモ畑\u003Ctd>普天満宮奥宮\u003C/tr>\n\u003Ctr>\u003Ctd colspan=\"2\">普天間飛行場\u003C/tr>\n\u003C/table>\n11yesnocenter270200line#cc00002pointtown-hall市庁舎位置",
-               "wref" : "ファイル:Ginowan Montage.jpg"
+               "wref" : "File:Ginowan Montage.jpg"
             },
             "wref" : "宜野湾市"
          },
@@ -64302,7 +64294,7 @@
                   "type" : "town",
                   "wikipedia_image" : {
                      "desc" : "サンセットブリッジ内灘",
-                     "wref" : "ファイル:Uchinada Bridge.jpg"
+                     "wref" : "File:Uchinada Bridge.jpg"
                   },
                   "wref" : "内灘町"
                },
@@ -64352,7 +64344,7 @@
                   "type" : "town",
                   "wikipedia_image" : {
                      "desc" : "石川県森林公園",
-                     "wref" : "ファイル:IFP_kamoike.jpg"
+                     "wref" : "File:IFP_kamoike.jpg"
                   },
                   "wref" : "津幡町"
                }
@@ -64406,7 +64398,7 @@
             "type" : "city",
             "wikipedia_image" : {
                "desc" : "見附島 10",
-               "wref" : "ファイル:Mitsukejima (Ishikawa) 4.jpg"
+               "wref" : "File:Mitsukejima (Ishikawa) 4.jpg"
             },
             "wref" : "珠洲市"
          },
@@ -64603,7 +64595,7 @@
                   },
                   "type" : "town",
                   "wikipedia_image" : {
-                     "desc" : "上:能登金剛\u003C/br>下:志賀原子力発電所",
+                     "desc" : "上:能登金剛 下:志賀原子力発電所",
                      "wref" : "File:GANMON.JPG"
                   },
                   "wref" : "志賀町"
@@ -64698,7 +64690,7 @@
                   "type" : "town",
                   "wikipedia_image" : {
                      "desc" : "川北まつりの北國大花火川北大会",
-                     "wref" : "ファイル:川北まつり北國大花火川北大会 - Panoramio 58574003.jpg"
+                     "wref" : "File:川北まつり北國大花火川北大会 - Panoramio 58574003.jpg"
                   },
                   "wref" : "川北町"
                }
@@ -64790,7 +64782,7 @@
             "type" : "city",
             "wikipedia_image" : {
                "desc" : "御経塚遺跡 10",
-               "wref" : "ファイル:Okyouzuka Ruins - 27.jpg"
+               "wref" : "File:Okyouzuka Ruins - 27.jpg"
             },
             "wref" : "野々市市"
          },
@@ -64870,7 +64862,7 @@
                         {
                            "date" : "1959-01-10",
                            "name" : "穴水町章",
-                           "wref" : "ファイル:Anamizu Ishikawa chapter 1.svg"
+                           "wref" : "穴水町章"
                         }
                      ],
                      "tree" : [
@@ -64899,7 +64891,7 @@
                   "type" : "town",
                   "wikipedia_image" : {
                      "desc" : "ボラ待ちやぐら",
-                     "wref" : "ファイル:ボラ待ち櫓.jpg"
+                     "wref" : "File:ボラ待ち櫓.jpg"
                   },
                   "wref" : "穴水町"
                },
@@ -69734,7 +69726,7 @@
             },
             "type" : "city",
             "wikipedia_image" : {
-               "desc" : "上:宗像大社辺津宮の本殿\u003C/br>下:赤間宿",
+               "desc" : "上:宗像大社辺津宮の本殿 下:赤間宿",
                "wref" : "File:Honden of Munakata Grand Shrine (Hetsu Shrine) 2.jpg"
             },
             "wref" : "宗像市"
@@ -71894,7 +71886,7 @@
          ]
       },
       "type" : "pref",
-      "url" : "http://www.pref.fukuoka.lg.jp/",
+      "url" : "https://www.pref.fukuoka.lg.jp/",
       "wikipedia_location_image_wref" : "ファイル:Map of Japan with highlight on 40 Fukuoka prefecture.svg",
       "wref" : "福岡県"
    },
@@ -75461,7 +75453,7 @@
                   "type" : "town",
                   "wikipedia_image" : {
                      "desc" : "日本国花苑",
-                     "wref" : "File:Scenery of Nihon Kokkaen 20180429j.jpg"
+                     "wref" : "File:Scenery of Nihon Kokkaen 20210425.jpg"
                   },
                   "wref" : "井川町"
                },
@@ -89551,10 +89543,6 @@
          ]
       },
       "type" : "pref",
-      "wikipedia_image" : {
-         "desc" : "\u003Ctable style=\"width:280px;margin:2px auto; border-collapse: collapse\">\n\u003Ctr>\u003Ctd colspan=\"2\">三保の松原と富士山\u003C/tr>\n\u003Ctr>\u003Ctd rowspan=\"2\" style=\"vertical-align:middle;width:50%;\">アクトタワー\u003Ctd>熱海\n\u003Ctr>\u003Ctd>青葉シンボルロード\u003C/tr>\n\u003Ctr>\u003Ctd>源兵衛川\u003Ctd>駿府城\u003C/tr>\u003C/table>",
-         "wref" : "File:静岡県モンタージュ画像.png"
-      },
       "wikipedia_location_image_wref" : "ファイル:Map of Japan with highlight on 22 Shizuoka prefecture.svg",
       "wref" : "静岡県"
    },
